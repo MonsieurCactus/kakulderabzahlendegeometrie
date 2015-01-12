@@ -1,0 +1,2719 @@
+Dritter Abschnitt. 
+Die Coincidenzformelri. 
+
+
+
+§ 13. 
+
+Die Coincideuzforinehi des Punktepaares und die 
+
+Bezout'scheii Sätze. 
+
+Wälireiid wir im vorangehenden Abschnitt die Incidensen der 
+Hauptelemente behandelt haben, beschäftigen wir uns jetzt mit den 
+Coincidenzen der Hauptelemente, das heisst mit den Gebilden, welche 
+aus zwei Punkten, aus zwei Ebenen oder zwei Strahlen bestehen, 
+die einander unendlich nahe liegen. Die Coincidenzen sind specielle 
+Fälle der Hauptelementen -Paarß, das heisst derjenigen Gebilde, 
+Avelche aus zwei in allgemeiner Lage befindlichen Punkten, Ebenen 
+und Strahlen zusammengesetzt sind. Wir nennen daher Coincidenz- 
+hedingung jede Bedinginig, welche bei einem solchen Paare verlangt, 
+dass die beiden Hauptelemente, aus denen es besteht, unendlich 
+nahe liegen, und auch jede Bedingung, welche aus einer solchen 
+Bedingung und einer anderen Bedingung zusammengesetzt ist. 
+Unsere Hauptaufgabe lässt sich nun aussprechen wie folgt: 
+
+„Die Formeln m finden, ivelche die (■oincidenzbedingungm, durch 
+Grundbedingungen ausdrücken." 
+
+Diese Formeln, welche wir Coincidenzformeln nennen wollen, 
+reichen in Verbindung mit den Incidenzformeln aus, um nach und 
+nach alle auf algebraische Gebilde bezüglichen Anzahlen zu bestimmen. 
+Wie die Quelle der Incidenzformeln ein algebraisches Princip war, 
+nämlich das Princip von der Erhaltung der Anzahl, so entspringen 
+auch die Coincidenzformeln einem algebraischen Principe, nämlich 
+dem sogenannten Chasles' sehen (Comptes rendus 1864) Correspotidenz- 
+lyrincip, welches nichts anderes ist, als eine nahe liegende geome- 
+trische Form des Gauss'schen Fundamcntalsatzes der Algebra. 
+
+Es mögen nämlich auf einer festen Geraden g durch irgend 
+einen algebraischen Zusammenhang oo ^ mal zwei Punkte A und B 
+
+
+
+Dritter Abschnitt. Die Coincidenzformeln. 43 
+
+einander entsprechen, und zwar so, dass, wenn man einen be- 
+liebigen Punkt der Geraden als Punkt A auffasst, ihm ß Punkte 
+B zugehören, und dass umgekehrt einem als Punkt B aufgefassten 
+Punkte a Punkte Ä zuzuordnen sind. Nimmt man dami auf der 
+Geraden emen festen Punkt an und bezeichnet jede Strecke OÄ 
+mit «, jede zugehörige Strecke OB mit h, so besteht zwischen a 
+und b eine algebraische Gleichung, welche die Eigenschaft hat, 
+dass die Einsetzung eines bestimmten Werthes für a ß zugehörige 
+Werthe von &amp;, und die Einsetzung eines bestimmten Werthes für 
+h a zugehörige Werthe von a hervorruft. Identificirt man also a 
+und &amp;, so erhält mau im Allgemeinen cc-i-ß Werthe a==b^ weil 
+man bei möglichst allgemeiner Auffassung annehmen muss, dass 
+das Glied a"b^ in jener Gleichung vorhanden ist. Sollte in spe- 
+ciellen Fällen der Coefficient von a"b!^ null sein, so gehören zu 
+den a-}- ß Werthen rt = 6 auch unendlich grosse Werthe.* Es giebt 
+also auf der Geraden a-\- ß Punkte, in welchen ztvei msammengehörige 
+Punkte A umi B vereinigt liegen. 
+
+Durch duale Uebertragung gewinnt man hieraus das Corre- 
+spondenzprincip im Strahlbüschel und im Ebenenbüschel. 
+
+Jetzt kömien wir ohne weitere algebraische Betrachtungen, nur 
+mit Hilfe unseres in den beiden ersten Abschnitten entwickelten 
+Kalküls, zu allen möglichen Coincidenzformeln gelangen. Zuerst 
+haben wir die Formel abzuleiten, welche beim Punktepaare die ein- 
+fache Coincidenzbedingung durch Grundbedingungen ausdrückt. Wir 
+bezeichnen mit p und q die beiden Punkte des Punktepaares, mit 
+g ihren Verbindungsstrahl und mit e die einfache Bedingung, dass 
+die beiden Punkte p und q unendlich nahe liegen, jedoch einen ganz 
+bestimmten Verbindungsstrahl haben. Ist nun ein beliebiges ein- 
+stufiges System von solchen Punktepaaren gegeben, so nehmen wir 
+einen beliebigen Ebenenbüschel an, dessen Träger der Strahl l sei, 
+und legen durch l alle möglichen Paare von Ebenen, so dass immer 
+die eine Ebene durch einen Punkt ^), die andere durch den zu- 
+gehörigen Punkt q geht. Dann giebt es in dem Ebenenbüschel 
+nach dem Correspondenzprincip 
+
+i^ + g 
+
+* Studien über die Unterscheidung der endlichen Werthe a = ö von den 
+unendlich grossen Werthen « = &amp; enthalten einige Abhandlungen von Saltel 
+in den Berichten der Brüsseler Akademie. Bei dem allgemeinen Charakter 
+unserer Untersuchungen brauchen wir auf diese Unterscheidung keine Rück- 
+sicht zu nehmen. 
+
+
+
+44 Dritter Abschnitt. 
+
+Ebenen, auf welchen zwei zusammengehörige Punkte jj und ([ liegen. 
+Zu diesen Ebenen gehören erstens diejenigen £ Ebenen, welche l 
+mit einem Punkte verbinden, in dem die beiden Punkte eines 
+Punktepaares coincidiren, zweitens aber auch diejenigen Ebenen 
+durch /, in welchen ein Verbindungsstrahl g liegt. Die Zahl solcher 
+Ebenen ist aber ^, weil die Gerade l von g Verbindungsstrahlen 
+geschnitten wird. Es ist also immer: 
+
+1) s=2}-^q-g. 
+
+Obgleich diese für alle einstufigen Systeme von Punktepaaren 
+giltige Formel sich ohne Weiteres aus der Chasles'schen Corre- 
+spondenzformel im Ebenenbüschel ergiebt, so ist sie doch viel all- 
+gemeiner, als die Chasles'sche und umfasst alle möglichen sonstigen 
+Correspondenzformeln als specielle Fälle. 
+
+Aus dieser Coincidenzformel erster Dimension gewimit man 
+nämlich alle voji höherer Dimension durch blosse symbolische Mul- 
+tiplication. Dabei wenden wir zugleich die Incidenzformeln I, II, 
+III (§ 7) an, um die Formeln auf eine für die Anwendungen mög- 
+lichst brauchbare Gestalt zu bringen. Man erhält durch Multipli- 
+cation von 1) mit g: 
+
+= {9e+p') + {9e + q')-{9p + 9e)\ 
+oder: 
+
+2) ^9-P^-^Q^+9e-9p- 
+Ferner: 
+
+^9p=P9p + i9p~9s, 
+oder, nach Anwendung der Incidenzformel III: 
+
+3) ^9p-P^ + 9.^ + 9'&lt;-'&gt; 
+
+4) age--pge + qge-9»; 
+
+5) ^9s=P^9e + q^9e-\-G-', 
+
+6) sG=pG-{-qG. 
+
+Die Formel 6 spricht das ursprüngliche Chasles'sche Corre- 
+spondenzprincip aus, bei welchem der Verbindungsstrahl als fest 
+vorausgesetzt wird. 
+
+Da bei einer Coincidenz 2' ^^^^d q zusammenfallen, so ist j9£ 
+und q£ ganz dasselbe; es ist daher ganz gleichgiltig, ob wir bei 
+£ die auf jj oder q bezüglichen Symbole gebrauchen. Wir wählen 
+die auf p bezüglichen Symbole. Dami kami der Umstand, dass 
+immer die symbolische Multiplication mit q ganz dasselbe giebt, 
+wie die mit p, als Controle der Rechnung benutzt werden. Man 
+bekommt; 
+
+
+
+Die Coincidenzformeln. 45 
+
+£P=ir^pq-gp= p^ + pq -p^-9e 
+
+oder 
+
+7) sp-pq-9e; 
+
+8) sp^ =p^q - pge = pq^ - q(Je\ 
+
+9) sp^ = p^q -p^(je = pq^ - ?V« = P^q^ - Pqü"', 
+
+10) £P9e = pqge-G; 
+
+11) Bp^ge^p^qge-~pG=pq^Oe-qG- 
+
+Beispielsweise sprechen wir die Formeln 3 und 7 in Worten aus: 
+
+„Addirt man hei einem dreistufigen Systeme von Funhtepaarcn die 
+Zahl derjenigen, für tvelcJie der eine Funkt gegeben ist, die Zahl der- 
+jenigen, für ivelche der andere Punkt gegeben ist, und den Grad des 
+von den Verbindungsstrahlen gebildeten Complexes, so ist die Stimme 
+dieser drei Addenden gleich der Zahl derjenigen Coincidensen , welche 
+ihren Verbindimgsstrahl durch einen beliebig gegebenen Punkt schielen. 
+
+Vermindert man bei einem zweistufigen Systeme von Pimhte- 
+paaren die Zahl derjenigen, tcelche ihre beiden Punkte auf zwei ge- 
+gebenen Ebenen haben, um die Zahl derjenigen, welche ihren Ver- 
+bindungsstrahl in einer gegebenen Ebene haben, so erhält man den 
+Grad der von den Coincidenzstellen gebildeten Baumcurve." 
+
+Von denjenigen Formeln, welche mehr als eine Coincidenz- 
+bedingung enthalten, sind beachtenswerth diejenigen, welche mög- 
+lichst wenige auf den Verbindungsstrahl g bezügliche Bedingungen 
+enthalten. Man addire 2 und 7; dami kommt: 
+
+12) £g-\-£b=20^-\-pq + q^^ gp. 
+Aus Formel 8 folgt: 
+
+2 . sp^ =p^q +pq^ ~pge - qge- 
+Dazu addire man die Summe von 3 und 4; dann erhält man: 
+
+13) £gj, + f^jTe + 2 . «/ = p^ -\-p^q-\- pq^ + q^. 
+
+Aus 12 erhält man das von Zeuthen zuerst allgemein aus- 
+gesprochene (Comptes rendus, Juni 1874) Correspoiulenzprincip in 
+der Ebene, aus 13 das von Zeuthen zum Theil, von mir vollständig 
+erledigte Correspondenzprincip im Punktraume (Lit. 16). Für die 
+Anwendungen ist es jedoch zweckmässiger, die Formeln 1 bis 11 zu 
+benutzen, tveil diese nur eine einzige Coincidenzhedingung enthalten. 
+
+Wir hatten bei der Definition der einfachen Coincidenzhedin- 
+gung a vorausgesetzt, dass der Verbindungsstrahl der beiden in 
+dem Coincidenzpunkte unendlich nahen Punkte völlig bestimmt ist, 
+wie es z. B. bei zwei consecutiven Punkten einer Curve der Fall 
+ist. Wir erhalten jedoch eine zweifache Coincidenzhedingung, wenn 
+
+
+
+46 Dritter Abschnitt. 
+
+wir festsetzen, dass als Verbiiidungs strahl der coincidirenden Punkte 
+jeder StraJil eines Strahlhüschels oder allgemeiner eines Kegels gelten 
+kann, der die Coincidenzstelle znm vScheitel hat. Endlich erhalten 
+wir eine dreifache Coincidenzbedingung oder, wie wir sagen wollen, 
+eine volle Coinddenz , wenn als Verbindungsstrahl der coincidirenden 
+Punkte jeder durch die Coincidenzstelle gezogene Strahl aufgefasst 
+werden darf. Jede volle Coincidenz erfüllt daher von selbst die 
+Bedingung £f/p, weil immer der Punkt dier Bedingmig gp, verbunden 
+mit der Coincidenzstelle, einen Strahl liefert, der als Träger der 
+beiden coincidirenden Punkte gelten kaim. 
+
+Es kommt häufig vor, dass drei- und mehrstufige Systeme 
+von Punktepaaren nur volle Coincidenzen enthalten. Bei solchen 
+»Systemen kann man also alle Coincidenzsymbole gleich null setzen, 
+ausser denen^ welche die Bedingung g^ als Faktor enthalten. Be- 
+zeichnet man die dreifache Bedingung der vollen Coincidenz mit t], so 
+erhält man aus den obigen Coincidenzformeln die folgenden Gleichungen : 
+
+14) n-f + (f^9s, 
+
+0==pge + qge-gs, 
+
+Yigp=pG-\-qG, 
+0=p^q- pge^pcf ~ qge, 
+— pqge(T; 
+
+15) 7)=^p^-\-p^q+pq^-^q^-^ 
+
+16) Tjp^-p^q-j-iJ^q^-j-pq^; 
+
+17) tjp^ =p^q^-\- p^ q^. 
+
+Man beachte, dass diese (lleichungen nur auf Systeme an- 
+gewandt werden dürfen, in welchen keine anderen, als volle Co- 
+incidenzen vorkommen (cf. Schluss von § 5). Beispielsweise be- 
+kommt man ein System von Punktepaaren mit nur vollen Coincidenzen, 
+-wenn man hei zwei gegebenen Systemen von Punkten jeden Punkt des 
+einen Systems mit jedem Punkt des anderen Systems als Punkte- 
+paar zusammenfasst. Sind die beiden gegebenen Systeme zwei Flächen 
+m'*" und n'^"' Grades, also zwei zweistufige Punktsysteme, so reducirt 
+sich in Formel 16 die rechte Seite auf j/^^, wofür man m.n zu 
+setzen hat, weil die Gerade der Bedingung j)^ die Fläche w*'"" Grades 
+in m Punkten, die Gerade der Bedingung q^ die Fläche m*®° Grades 
+in n Punkten schneidet und jede Zusammenfassung' eines der 
+m Punkte mit einem der ti Punkte ein Punktepaar des vierstufigen 
+Systems von Punktepaaren ergiebt. Es steckt also in Formel 16 
+der wichtio-e Bezoufsche Fundamoitulsatz: 
+
+
+
+Die Coincidenzformeln . 47 
+
+„Zwei Flächen schneiden sich in einer Curve, deren Grad r/leieh 
+dem Prodidäe de)' Gradsalüen der Flächen ist'^ 
+
+Analog erhält man aus Formel 15 oder 14 den Satz: 
+
+„Eine Fläche m^''" Grades schneidet eine liaimicurve n'''" Grades 
+in m .n Punkten." 
+
+Ans beiden Sätzen folgt drittens: 
+
+„Ih-ei Flächen m'^", n*^", l*^" Grades schneiden sich in m.n.l 
+Punkten." 
+
+Hier ist also die geometrisclie Form des Bezont'schen Fun- 
+damentalsatzes, dass die Zahl der gemeinsamen Wurzelgruppen a'ou 
+r (xleichungen mit r Unbekannten gleich dem Produkte der r Grad- 
+zahlen dieser Gleichungen ist, aus der Avichtigen C'oincidenzformel 
+
+« = Z' + g &lt;/ 
+durch blosse symbolische Multiplication, also durch Specialisirtmg 
+hervorgegangen. In der That sind in den letzten Jahren häufig 
+Beweise der geometrischen Form des Bezout'schen Satzes geliefert, 
+in welchen nur das Correspondenzprincip angewandt ist (Lit. 17). 
+Die obige, durch unsern Kalkül von allem nnnöthigen Ballast be- 
+freite Ableitung dürfte den Zusammenhang beider Sätze ins hellste 
+Licht stellen. Da die angewandte Coincidenzformel erster Dimen- 
+sion aus dem Chasles'schen Correspondenzprincip folgt, dieses aber 
+nur eine für die Geometrie zurechtgelegte Form des Gauss'schen 
+Fundamentalsatzes der Algebra ist, so erscheint es möglich, der 
+Geometrie eine algebraische Herleitung des Bezout'schen Satzes aus 
+dem Gauss'schen Satze abzugewimien. Dieses gelang Herrn Fouret 
+im Bull, de la Soc. matli. de France, Bd. 2 pag. 127, wo auch 
+versucht ist, die Reduction anzugeben, welche das Produkt der 
+Gradzahlen erleidet, wemi man nur nach der Zahl der gemeinsamen 
+endlichen Wurzeln fragt. 
+
+Die oben entwickelten Punktepaarformeln ermöglichen es, die 
+in der analytischen Geometrie üblichen Bestimmungen von Singu- 
+lar iUitenzahlen viel kürzer und naturgemässer zu leisten, als es 
+die herkömmlichen, mehr algebraischen Mittel leisten kömien. Dies 
+kommt daher, weil tvir in unserm Kalkül nicht mit Gleichungen, 
+sondei'n nur mit den für die Anrnhlhestimmung allein ivesentlichen , 
+auf die Gleichungen hezüglichcm Gradzahleii rechnen. In der That 
+hat der Verfasser nach seiner Methode nicht blos viele auf Flächen, 
+Congruenzen und Complexe bezügliche, bekamite Anzahlen auf 
+viel kürzere Weise bestimmt, als dies die Algebra thun komite, 
+
+
+
+48 Dritter Abschnitt. 
+
+sondern er hat auch viele Singularitäten bestimmt, für deren Ab- 
+zahlung die Algebraiker vergebliche Mühe aufwandten. Derartige 
+Anwendungen der Punktepaarformeln sind in den folgenden Para- 
+graphen in reichlicher Auswahl enthalten (cf §§ 33, 36, 44). Des- 
+halb wird es genügen, wemi wir hier für die Anwendung der 
+Punktepaarformeln nur ein einziges Beispiel hinzufügen. Dasselbe 
+ist der Salmon'schen „Analytischen Geometrie des Raumes" ent- 
+lehnt. (In der Fiedler'schen Uebersetzung Bd. II Art. 438 S. 552.) 
+Man soll die Ordnung x der Fläche bestimmen, welche durch 
+die Haupttangenten einer Fläche F w*®"* Grades in den Punkten 
+ihrer Durchschnittscurve mit einer Fläche F' m"^"* Grades erzeugt 
+wird. Wir fassen auf jeder der cc^ Haupttangenten von F den Be- 
+rührungspunkt p mit jedem der n' Punkte q zusammen, welche die 
+Haupttangente mit F' gemein hat. Auf das so entstehende, zwei- 
+stufige System von Punktepaaren wenden wir die Punktepaarformel 2 
+an. Dann haben wir für das Symbol p^ die Zahl 2 . w . w' zu setzen, weil 
+die Gerade der Bedingung p^ die Fläche F in n Punkten p schneidet, 
+in jedem dieser n Punkte zwei Haupttangenten berühren, und jede 
+dieser beiden Haupttangenten die Fläche F in n' Punkten schneidet, 
+von denen jeder den n Punkten p als Punkt q zuzuordnen ist. 
+Für das Symbol q^ haben wir w'.jr zu setzen, wenn n angiebt, 
+wieviel Haupttangenten an F von irgend einem Punkte des Raumes 
+gezogen werden können. Die Gerade von (f schneidet nämlich F' 
+in w' Punkten q^ und von jedem dieser q Punkte gehen an F tc 
+Haupttangenten , welche in zugeordneten Punkten p berühren. Das 
+Symbol f/^ ergiebt sich ähnlich gleich rj.n', wenn tj angiebt, wie- 
+viel Haupttangenten von F in irgend einem ebenen Schnitte liegen. 
+Ebenso erhält man, dass für,^',, die Zahl 7i .n' einzusetzen ist, weil von 
+dem Punkte der Bedingung gp n Haupttangenten an F gehen und 
+auf jeder Haupttangente der Berührungspunkt mit jedem der n' 
+Schnittpunkte auf 7*^' als Punktepaar zusammenzufassen ist. Also ist: 
+
+x = 2 .n.n' -\-7c.n' -]-r] .n' — 7t . n', 
+oder 
+
+x=-n' .(2 .n-\- rj). 
+
+Ist F punkt- allgemein, d. h. frei von Doppelcurven etc., so ist 
+tj von n abhängig, nämlich bekanntlich: 
+
+eine Formel, die sich auch aus den Coincidenzformeln sehr leicht 
+ableiten lässt (cf. § 33, Formel 3). Also kommt, wenn F punkt- 
+allgemein ist: :,- = r. . )/. (3» -4). 
+
+
+
+■ Die Coincidenzformeln. 49 
+
+Durch duale Umformung der in diesem Paragraphen abgelei- 
+teten Coincidenzformeln für das Punktepaar erhält man die Coin- 
+cidenzformeln für das Ehenenpaar. Bezeichnet man mit e und f 
+die beiden Ebenen, mit h die Schnittgerade der beiden Ebenen, 
+mit E die Bedingung, dass sie unendlich nahe liegen, so erhält 
+man z. B. 
+
+aus 1: a = e-\-f'—h^ 
+
+aus 2: sh = e^ -\-f^ -\-hp — he^ 
+
+aus 3: £he = e^ -^ f^ -{-h^, 
+
+aus 5 : s h, = e^hp -f fVip + H^ 
+
+aus 7: se = ef—hpj 
+
+aus 12: £h-\- se = e^ -\-ef-\'r' -K, 
+
+aus 13: she^ shp-^2 . se^ -= e^ -{- e^f-{- ef^ -j- P. 
+
+Aus diesen Formeln folgen, entsprechend den oben abgeleiteten 
+Bezout'schen Sätzen für Punktörter, die Bezout'schen Sätze für 
+Ebenenörter, welche sich so aussprechen lassen: 
+
+„Ein ziveistufUjes System von Ebenen, von welchem m Ebenen 
+dnrch jede beliebige Gerade gehen, hat mit einem andern zweistufigen 
+System von Ebenen, von welchem n Ebenen durch jede beliebige Ge- 
+rade gehen, ein einstufiges System von Ebenen gemein, von welcher» 
+m . n Ebenen durch jeden beliebigen PunJct gehen." 
+
+„Ein zweistufiger Ebenenort m"^' Grades hat mit einem einstufigen 
+Ebenenort n*^" Grades m.n Ebenen gemein." 
+
+„Drei zweistufige Ebenenörter m*"" , n'"" und P"' Grades haben 
+m .n.l gemeinsame Ebenen." 
+
+Die oben für das Punktepaar und für das Ebenenpaar aufgestellten 
+( 'oincidenzformeln erledigen natürlich auch die Fälle, wo die Punkte- 
+paare in fester Ebene liegen, d. h. sämmtlich die Bedingung gg er- 
+füllen, resp. wo die Ebenenpaare durch einen festen Punkt gehen, 
+d. h. sämmtlich die Bedingung hp erfüllen. Es seien z. B. in fester 
+Ebene, die wir als Ebene der Bedingung g,. betrachten, zwei ein- 
+stufige Punktsysteme, d. h. Plancurvcn gegeben. Dann ordne man 
+jeden Punkt des einen Systems jedem Punkte des anderen Systems 
+zu und wende Formel 5 an. Dann ist sg, die Zahl der . gemein- 
+samen Punkte, 2^^9e und q^gg gleich null, aber G gleich der Zahl 
+der Punktepaare , welche auf einer Geraden der Ebene liegen. Also 
+ergiebt sich: 
+
+„Zwei Flancurven m'^" und n'''" Grades schneiden sicJi in m.n 
+Punkten." 
+
+Schubert, Kalkül der abzähleudeu tteometrie. 4 
+
+
+
+50 Dritter Abschnitt. 
+
+Legt man durch die sämnitlicheu Tangenten der beiden Plan- 
+curven alle möglichen Ebenen, so erhält man zweistufige Ebenen- 
+örter. Wendet man auf diese den Bezout'schen Satz an, so erhält 
+man einen Satz, welcher auch aus dem vorigen durch duale Um- 
+formimg gewonnen werden konnte, nämlich: 
+
+„Zwei in fester Ebene befindliche einstufige Strdhlenörter wi'*" und 
+n*^ Grades haben m . n Strahlen gemein." 
+
+Den beiden eben ausgesprochenen Sätzen entsprechen dual zwei 
+Sätze, welche sich auf Kegel mit gemeinsamem Scheitel beziehen. 
+
+
+
+§ 14. 
+Aiiweiiduiig: der Comcidenz -Formeln des § 13 zur Be- 
+stimmung von Anzahlen, die sich auf die Berührung 
+von Plancurven und Flächen beziehen. 
+
+1. Die schon in § 4 abgeleitete Zahl derjenigen Plancurven 
+eines einstufigen Systems, welche eine gegebene Plancurve berühren, 
+kami auch sehr leicht dadurch erhalten werden, dass man vermittelst 
+der Formeln des vorigen Paragraphen abzählt, wie oft auf einer der 
+c/j^ Tangenten der gegebenen Plancurve der zugehörige Berührungs- 
+punkt coincidirt mit dem Berührungspunkte einer diese Tangente 
+berührenden und dem Systeme angehörigen Plancurve. Wir fassen 
+auf jeder Tangente g den Berührungspunkt p der gegebenen Plan- 
+curve mit jedem Punkte q zusammen, in welchem g von einer Curve 
+des Systems berührt wird. So erhalten wir ein einstufiges System 
+von Punktepaaren, auf welches wir die Punktepaar -Formel erster 
+Dimension (§ 13 Formel 1): 
+
+anwenden wollen. Dann haben wir für/; die Zahl m.v einzusetzen, wenn 
+m der Grad der Plancurve ist, und v angiebt, wieviel Plancurven des 
+Systems eine gegebene Gerade berühren. Denn die Ebene von p 
+schneidet die Plancurve in m Punkten, und jede von den m diesen 
+Punkten angehörigen Tangenten wird von v Curven des Systems 
+berührt. Um q zu bestimmen, beachten wir, dass die Ebene von 
+q jede der co^ Plancurven des Systems schneidet und dass die co' 
+Tangenten, welche in diesen oo^ Schnittpunkten berühren, einen 
+einstufigen Strahlenort bilden, dessen (Jrad ohne Weiteres aus der 
+Incidenzformel I des § 7 (cf. § 8) folgt, nämlich gleich 
+
+11 + V, 
+
+
+
+Die Coincidenzformeln. 51 
+
+WO ^ angiebt, wieviel Plancurven des Systems durch einen ge- 
+gebeneu Punkt gellen. Andererseits bilden die Tangenten der ge- 
+gebenen Plancurve einen Strahlenort vom Grade m, wenn n der 
+Rang der Plancurve ist. Also haben beide Strahlenörter nach den 
+Bezout'schen Sätzen (§ 13 am Schluss) (^ + v) . n Strahlen gemein. 
+Wir haben demnach für q die Zahl (ji -j-v) .n einzusetzen. Um g zu be- 
+stimmen, haben wir von dem Punkte, in welchem die Gerade der 
+Bedingung g die Ebene der Plancurve schneidet, an letztere die n 
+Tangenten zu ziehen und auf jeder Tangente den Berührungspunkt 
+mit jedem Punkte zusammenzufassen, wo die Tangente von einer 
+Curve des Systems berührt wird. Also ist g hier gleich w . v ; 
+folglich ist: 
+
+e = m .V -\-n .{}i-{-v) — n .V 
+oder 
+
+e = m . V -\- n . ^. 
+
+Das betrachtete einstufige System von Punktepaaren besitzt 
+also m.v-\-n.^ Coincidenzen; dies heisst: es giebt auf der Plan- 
+curve m.v-\-n.^ Tangenten, welche von Plancurven des Systems 
+in ihrem Beriihrnngs'punMe berührt werden. Damit ist also die ge- 
+suchte Zahl bestimmt (cf. § 39, Anwendung I). 
+
+Aehnlich findet man, dass in einem einstufigen System von 
+Raumcurven 
+
+V .r -\- Q .n 
+
+.Raumcurven existiren, welche eine gegebene Fläche w*" Ordnung, 
+r*®" Ranges berühren, wo v angiebt, wieviel Raumcurven des Systems 
+eine gegebene Gerade schneiden, q angiebt, wieviel eine gegebene 
+Ebene berühren (cf. § 39, Anwendung II). 
+
+2. Gerade so kann man auch durch Anwendung der Coincidenz- 
+formeln mveiter Dimension den Grad der Curve bestimmen, die bei 
+Sivei gegebenen Systemen von Plancurven durch die Berührungspmikte 
+aller möglichen sich berührenden Curven gebildet wird, und natür- 
+lich auch die dieser Zahl dual entsprechende Zahl. Die beiden 
+Systeme seien 27^ und U^. Für U^^ bezeichne ft^, wieviel Curven 
+durch einen gegebenen Punkt gehen, v^, wieviel Curven eine ge- 
+gebene Gerade berühren. Für U^ seien die entsprechenden Zahlen 
+^2 und Vg- -^uf jeder der oo^ gemeinsamen Tangenten bildet jeder 
+dem Uj^ angehörige Berührungspunkt p mit jedem dem Z^ ange- 
+hörigen Berührungspunkte q ein Punktepaar. Die so bestimmten 
+Punktepaare bilden ein zweistufiges System, auf welches die Co- 
+incidenzformeln 7 und 2 des § 13 angewandt werden sollen, nämlich 
+
+4* 
+
+
+
+52 Dritter Abschnitt. 
+
+Vq-ge-ep 
+und 
+
+p^ + (f+g''-gp = ^9' 
+
+Um pq zu bestimmen, beachten wir, dass der Grad des Strahlen- 
+ortes der Tangenten, deren Berührungspunkte auf der Ebene der 
+Bedingung p liegen', nach der Incidenzformel I gleich ftj -f v^ für 
+2.\ und gleich /Xg + v^ für Z^ ist und dass die beiden Strahlenörter 
+nach den Bezout'schen Sätzen {ji.^^ + v^) . (ji^ + V2) gemeinsame Strahlen 
+liaben. Also ist pq gleich (^^ + vj . ((u-g + Vg) zu setzen, ge ist 
+natürlich gleich v^.v^, weil die Ebene der Bedingung ge die feste 
+Ebene der Systeme in einer Geraden schneidet, welche von v^ Curven 
+aus 2J^ und von v, Curven aus 2^2 berührt wird, also v^.v^ Paare 
+von Berührungspunkten enthält, p^ ergiebt sich gleich ju-i.Vg? "^^i^ 
+die Gerade der Bedingung p^ die feste Ebene in einem Punkte 
+schneidet, durch welchen ^i^ Qurven des Systems Z^i gehen und 
+weil jede der ^i in diesem Punkte berührenden Tangenten von v^ 
+Curven aus 2^2 berührt wird. Analog ergiebt sich q^ gleich ^2 • ^i- 
+Endlich ist gp gleich null zu setzen, weil die feste Ebene keine 
+Gerade enthält, die durch den Punkt der Bedingiuig gp geht. Es 
+ergeben sich also die Resultate: 
+
+^^ . Vg + ^1 • f*2 + ^1 • .^2 — = ^9^ 
+
+welche in Worten so ausgesprochen werden können: 
+
+„Die Berührungspunkte je ziveier sich berührender PJmicurven 
+zweier durch die Zahlen ,Uj, v^ und ^1, v.^ charoMerisirten Systeme 
+h/lden eine Curve vom Grade: 
+
+,Ui . V2 + 1^1 . ilAg + ."i ■ .^2 , 
+
+und ihre Tangente^i eine Curve vmn Bange: 
+
+^1 . V2 + Vi . ft2 + ^1 • ^2-" 
+Die Thatsache, dass die beiden erhaltenen Zahlen sich dual 
+entsprechen, liefert eine Bestätigung. 
+
+3. Um die entsprechenden Zahlen für die Berührung zweier 
+Flächen abzuleiten, müssen wir beachten, dass zwei Flächen sich* 
+dann berühren, wenn die beiden Tangentialebenen eines ihrer Schnitt- 
+punkte coincidiren, und zwar so coincidiren, dass als Schnitt der 
+coincidirenden Ebenen jede in ihnen liegende und durch den Be- 
+rührungspunkt gehende Gerade aufgefasst werden darf. Es möge 
+eine Fläche F m*" Ordnung, r*^" Banges, ¥^^ Klasse gegeben sein, 
+und ausserdem ein System Z" von Flächen, aus welchem immer fi 
+
+
+
+Die Coincidenzformeln. 53 
+
+durch eiiieu gegebeneu Punkt gehen, v eine gegebene Gerade be- 
+rühren, Q eine gegebene Ebene berühren. Dann fassen wir in jedem 
+Schnittpunkt von F und einer Fläche des Systems U die F auge- 
+hörige Tangentialebene e und die U angehörige Tangentialebene /' 
+als Ebenenpaar zusammen. So erhalten wir ein zweistufiges System 
+von Ebenenpaareu , auf welches wir die Formel 
+
+aus § 14 anwenden wollen. Durch die (lerade der Bedingung e^ 
+legen wir an F die Je Tangentialebenen und durch jeden der er- 
+haltenen A' Berührungspunkte B die fi U augehörigen Flächen, dann 
+bestimmen wir zu jeder dieser fi Flächen die in ^ berührende Tan- 
+gentialebene. Dami sehen wir, duss die Bedingung e^ von k . [i 
+Ebenenpaaren erfüllt wird. Um ef zu bestimmen, legen wir durch 
+den Punkt der Bedingung c die co' Tangentialebenen. Ihre Be- 
+rührungspunkte bilden auf F eine Curve, welche nach den Incidenz- 
+formeln den Grad r hat. Ferner legen wir durch den Punkt der 
+Bedingung /' au die oo^ Flächen von 27 die go^ Tangentialebenen; 
+deren Berührungspunkte bilden nach den Incidenzformeln eine Fläche 
+vom Grade ja + v. Diese Fläche schneidet nach den Bezout'schen 
+Sätzen die oben construirte Curve &gt;*®° Grades in (^-\-v). r Punkten-, 
+also ist ef gleich {fi-j-v).r zu setzen. Um /'^ zu bestimmen, 
+legen wir durch die Gerade der Bedingung f^ die oo^ Tangential- 
+ebenen au die cx&gt;^ Flächen von Z'. Ihre Berührungspunkte bilden 
+uach den Incidenzformeln eine Curve vom Grade v -f p. Diese 
+Curve schneidet nach den Bezout'schen Formeln die Fläche F w*^" 
+Grades in (y-\-Q).m Punkten; also giebt es (v-\-Q).m Ebenen- 
+paare, welche die Bedingung /"^ erfüllen. Um he zu bestimmen, 
+beachten wir, dass die Ebene der Bedingung h,. die Fläche F in 
+einer Curve und Z! in einem Curvensystem schneidet, und dass 
+diese Curve, wie oben gezeigt ist, 
+
+^ .r-\-v .m 
+Tangenten besitzt, welche in ihrem Berührungspunkte von Curven 
+des Systems berührt werden. Legt man durch jede dieser Tan- 
+genten sowohl die Tangentialebene zu F, wie zu der Fläche des 
+Systems, so erhält man immer ein die Bedingung h,, erfüllendes 
+Ebenenpaar. Endlich wissen wir, dass die Coincidenzbedingung se 
+gleich null zu setzen ist, weil nicht oo^ Berührungen stattfinden 
+können. Das Symbol eh aber ist die Zahl x derjenigen Flächen 
+des Systems, welche F berühren. Der Faktor h in sh rechtfertigt 
+sich dadurch, dass als Schnittstrahl der beiden coincidirenden Ebenen 
+
+
+
+54 , Dritter Abschnitt. 
+
+jeder in ihnen liegende, durch den Berührungspunkt gehende Strahl 
+aufgefasst werden darf. Von diesen oo^ Strahlen kann also der- 
+jenige gewählt werden, welcher nach dem Punkte geht, wo die Ge- 
+rade der Bedingung h die Coincidenzehene schneidet. Substituiren 
+wir die erhaltenen Werthe in die angewandte Formel, so kommt 
+
+]c.(i-\-r.{fi-\-v)-^m.(v-}-Q) — (r.(i-i-m.v) = x, 
+oder 
+
+ein Resultat, welches in Worten folgendermassen lautet: 
+
+„In jedem einstufigen Flächensystem mit den charakteristischen 
+Zahlen ^, v, q giebt es 
+
+h.yi + r .V -[-m.Q 
+
+Flächen^ welclie eine gegebene Fläche m*^"^ Grades, r'*" Banges, h^"'' Klasse 
+berühren." (Lit. 18.) [cf. § 40, Beispiele.] 
+
+4. Sind zwei einstufige Systeme E^ und H,^ gegeben, so findet 
+00^ mal Berührung zwischen einer Fläche aus S^ und einer Fläche 
+aus 2^2 statt. Man kann also dann fragen nach dem Grade der 
+von den Berührungspunkten gebildeten Curve und nach dem Grade 
+des einstufigen Ortes der in den Berührungspunkten gezogenen 
+Tangentialebenen. Um den Grad des Ortes der Berührungspunkte 
+zu bestimmen, fassen wir in jedem Schnittpunkte zweier Flächen der 
+beiden Systeme die diesen Flächen zugehörigen Tangentialebenen 
+e und f als Ebenenpaar zusammen und wenden auf das erhaltene 
+dreistufige System von Ebenenpaaren die Incidenzformel 
+
+sK==e^^'r^h, 
+an. Bezeichnen dann fti, Vj, q^ für E^ und ju-g, v,^, Q,^ für E^ dasselbe, was 
+im vorigen Beispiele ft, v, q für Z" bezeichnete, so ist e^ gleich Q^.^.^ 
+zu setzen, weil die Ebene der Bedingung e^ von q^ Flächen aus 2/^ berührt 
+wird und durch jeden der erhaltenen q^ Berührungspunkte ^^ Flächen 
+aus 2^2 gehen, denen ^i^ Tangentialebenen zugehören. Analog er- 
+giebt sich für f^ Q2-!^v Endlich ist h, nichts anderes, als der 
+Grad des Ortes der Tangenten in den Berühr ungspimkten je zweier 
+sich berührender Curven derjenigen beiden Plancurvensysteme, welche 
+die Ebene von Ä, aus Z'^ und 2^ ausschneidet. Dieser Grad ist 
+aber oben bestimmt. Danach ist h, gleich 
+
+^] . 7/2 + Vi . (1*2 + ^1 • '»^2 
+
+zu setzen. Endlich giebt shg an, wie oft das dreistufige System 
+von Ebenenpaaren ein Ebenenpaar enthält, dessen Ebenen coinci- 
+diren und dabei ihre Schnittgerade in eine gegebene Ebene werfen. 
+
+
+
+Die Coincidenzfonneln. 55 
+
+Dieses ist aber die Zahl x der in einer gegebenen Ebene liegenden 
+Berührungspunkte. Also ist 
+
+X = ^^.Q^-]-Ql. il.y + ^i . 1^2 + Vy . ^0 + V^ . V2. 
+
+Dies heisst in Worten: 
+
+„Die Beriihrimgsptmlde aller möglichen sich berührenden Fläclien 
+aiis zivei einstufigen Flächensystemen mit den charakteristischen Zahlen 
+^n ^1? Qi ^**^^ ^i&gt; '^•21 Q-2y bilden eine Ourve vom Grade (Lit. 19): 
+f^i 9-2 + Pi ^2 + 1^1 ^2 + ^1 ^2 + ^1 ^2-" (cf. § 40, Beispiele.) 
+
+Hieraus gewinnt man durch duale Umformung den Grad des 
+Ortes der den Berührungspunkten angehörigen Tangentialebenen. 
+
+5. Ist endlich ein einstufiges Flächensystem 2^^ und ein zwei- 
+stufiges 2^2 gegeben, so findet go^ mal Berührung zweier Flächen 
+beider Systeme statt. Also kaiui man fragen nach der Ordnung x 
+der von den Berührungspunkten gebildeten Fläche und nach der 
+Klasse der von ihren Tangentialebenen gebildeten Fläche. Für 2.\ 
+habe ,u, v^ q wieder dieselbe Bedeutung, wie im Beispiel 3 und 4. 
+Für 2^2 bezeichne 0-, wieviel Flächen eine gegebene Gerade in einem 
+gegebenen Punlie berühren, q), wieviel eine gegebene Gerade in einer 
+gegebenen Tangentialebene berühren. Die beiden Flächensysteme haben 
+00 '^ gemeinsamen Tangenten mit zugehörigen zusammenfallenden 
+Tangentialebenen. Aiif jeder solchen Tangente g fassen wir die 
+beiden Berührungspunkte ji9 und q als Punktepaar zusammen. Da- 
+durch entsteht ein vierstufiges System von Punktepaaren, auf welches 
+wir die Coincidenzformel für ep^g anwenden wollen. Diese erhält 
+man, indem man die Coincidenzformel erster Dimension mit p^g 
+multiplicirt und das Resultat durch die Incidenzformeln verein- 
+facht. Also : 
+
+sii^g^fg -f p^-qg -fg^' 
+
+=fg +^52^2 _^^^2g^ -fge - fgp 
+=^p^q^-G. 
+
+Die Gerade der Bedingung p^ schneidet die Flächen von E^ 
+in oo^ Punkten mid die diesen Punkten zugehörigen oo^ Tangential- 
+ebenen bilden nach den Incidenzformeln einen Ort vom Grade 
+
+ii-\-v. 
+
+Andererseits schneidet die Gerade der Bedingung q^ die Flächen 
+von E.2 in oo^ Punkten, deren oo^ Tangentialebenen nach den In- 
+cidenzformeln einen Ort vom Grade 
+
+bilden. Beide Oerter haben also 
+
+
+
+56 Dritter Abschnitt. 
+
+Tangentialebenen gemeinsam; also ist 2&gt;^g.^ gleich {fi -\- v) {&amp;■ -\-(p) 
+zu setzen. Die Gerade der Bedingung G wird von v Flächen aus 
+Z'^ berührt. Zu jeder dieser v Flächen construire man die Tan- 
+% gentialebene des Berührungspunktes. Diese wird dann von q) Flächen 
+aus Z'2 so berührt, dass der Berührungspunkt auf jener Geraden liegt. 
+Daher ergiebt sich für G die Zähl v . cp. Endlich zählt das Coincidenz- 
+symbol ep^g, wie oft auf einer Geraden ein Punkt liegt, welcher 
+zwei Punkte p und q so vereinigt, dass ihre Verbindungsgerade 
+eine gegebene Gerade schneiden kann. Dies erfüllt aber jeder Be- 
+rührungspunkt, weil ein solcher zwei Schnittpunkte so vereinigt, 
+dass jeder durch ihn gehende und in der Berührungsebene liegende 
+Strahl als Verbindungsstrahl der coincidirenden Punkte aufgefasst 
+werden darf; also giebt sp^g den Grad der von den Berührungs- 
+punkten gebildeten Fläche an. Folglich ist: 
+
+x = {fi + v) .{d'-]- cp) — V .q) 
+= ^d--\- }i(p-{-vd- (Lit. 20). 
+Hieraus erhält man durch duale Umformung den Grad des Ortes 
+der den Berührungspunkten zugehörigen Tangentialebenen, nämlich: 
+
+()(p-\-Qd'-\-V(p. 
+
+Die oben geleisteten fünf Abzahlungen zeigen, in welcher Weise 
+die Coincidenzformeln des § 13 anzuwenden sind. In welcher Weise 
+die gefundenen Resultate verallgemeinert werden können, lehrt die 
+folgende Nummer, deren Resultat wir in § 18 anwenden wollen. 
+
+6. Bei den obigen Abzahlungen haben wir nämlich jedem 
+Punkte einer Curve immer nur seine Tangente oder jedem Punkte 
+einer Fläche eine gewisse von seinen Tangenten zugeordnet. Bei 
+der Allgemeinheit unseres Kalküls hindert jedoch nichts, den Punkten 
+statt der Tangenten gewisse andere Geraden zuzuordnen; z. B. setzen 
+wir an die Stelle des in Nr. 1 gelösten Problems das folgende all- 
+gemeinere Problem: 
+
+„Gegeben ist in fester Ebene erstens ein ganz beliebiges zwei- 
+stufiges System Z! von Gebilden, deren jedes aus einem Strahl h und 
+einem darauf befindlichen Punkte r besteht, und zweitens eine Plan- 
+curve C m*^ Ordnung, n'^" Ranges, die also auf jeder Geraden m Punkte 
+besitzt und durch jeden Punkt n Tangenten schickt. Gesucht wird die 
+Zahl X derjenigen Punkte auf der Curve C, deren jeder dem Systeme 
+U als Punkt r so angehört, dass die in diesem Punkte berührende 
+Curventangenfe die r mgeordnete Gerade h ist." 
+
+Um diese Zahl x zu bestimmen, fassen wir auf jeder Tangente 
+g der Curve den Berührungspunkt q mit jedem Punkte p zusammen, 
+
+
+
+Die Coincidenzformeln. 57 
+
+welcher in dem Systeme U der als Strahl h aiifgefassten Tangente 
+als Punkt r zugehört. So erhalten wir ein einstufiges System von 
+Punktepaaren p, q, auf welches wir die Coincideuzformel 1 des § 13 
+anzuwenden haben. Für die Bedingung q dieser Formel ist m . v 
+einzusetzen, wo v bedeutet, wieviel Punkte r einer in der Ebene 
+gegebenen Geraden h angehören. Die Ebene der Bedingung q schnei- 
+det nämlich die Curve C in m Punkten, jede der m diesen Punkten 
+zugehörigen Tangenten besitzt aber v Punkte p. Um das Symbol p 
+zu bestimmen, beachten wir, dass nach der Ineidenzformel I alle 
+Strahlen, welche den Punkten r einer Geraden im Systeme H als 
+Strahlen h zugehören, einen Strahlenort bilden, dessen Grad gleich 
+
+ist, wo ft bedeutet, wieviel Strahlen h einem in der Ebene ge- 
+gebenen Punkte r zugehören. Dieser Strahlenort besitzt also nach 
+den Bezout'schen Sätzen 
+
+{y-\-^). n 
+
+Strahlen, welche Tangenten der Curve C sind. Diese Zahl ist also 
+für das Symbol p der Coincideuzformel einzusetzen. Um g zu be- 
+stimmen, denkt man sich die n Curventangenten, welche durch den 
+Punkt gehen, wo die Gerade der Bedingung y die feste Ebene 
+schneidet, und auf jeder Curventangente die v Punkte, welche ihr 
+im Systeme 2J angehören, wenn man sie als Strahl h auffasst. Also 
+ergiebt sich für das Symbol g die Zahl ii .v. Endlich wird die Co- 
+incidenzbedingung s der angewandten Formel von x Punktepaaren 
+erfüllt, wo X die oben erklärte, gesuchte Zahl ist; also ist: 
+
+x-=m .v-\-n.{v -\- ^) — n . v 
+oder 
+
+X = m .V -\-n .^. 
+
+In Worten kann man diese Verallgemeinerung der in 1. bestimmten 
+Anzahl aussprechen wie folgt: 
+
+„Sind in einer festen Ebene jedem gegebenen Strahle v darauf 
+liegende Punkte in gewisser Weise zugeordnet, während umgekehrt jedem 
+gegebeiien Punkte (i hindurchgehende Strahlen zugehören, so kommt es 
+auf einer in derselben Ebene liegenden Curve m*^'' Ordnung n'"" Ranges 
+
+m.v-\-n.^ 
+Male vor, dass einem ihrer Punkte vermöge derselben Zuordnung dte 
+in diesem Punkte berührende Tangente entspricht.'^ 
+
+Mit Hilfe dieses Satzes ist in § 18 die Cayley-BrilVsche Er- 
+weiterung des Gorrespondenzprincips aus unseren Coincidenzformeln 
+(§ 13, Formel 3, 4, 8) dritter Dimension abgeleitet, 
+
+
+
+58 Dritter Abschnitt. 
+
+§ 15. 
+Das Strahleupaar und seine Coincidenzbedinguugen. 
+
+Das Strahlenpaar bestehe aus den beiden in allgemeiner Lage 
+befindlichen Strahlen g und h. Wir bezeichnen ferner mit ß die 
+einfache Bedingung, dass eine der cx&gt;'^ g und h zugleich schneiden- 
+den Geraden einem gegebenen Strahlbüschel angehöre, mit e die 
+einfache Coii^cidenzbedingung, dass g und h unendlich naJie liegen, 
+ohne sich m schneiden, endlich mit 6 die einfache Bedingung, dass 
+g und h sich schneiden, ohne unendlich nahe zu liegen, und zwar 
+heisse dann der Schnittpunkt jj und die Schnittebene e. Hiemach 
+ist natürlich zunächst: 
+
+1) sh=^sg 
+und 
+
+2) 6ß=^ap-{-ae. 
+
+Zwischen den drei räumlichen Bedingungen g, h, ß und den 
+beiden invarianten Bedingungen a und s bestehen zwei Gleichungen, 
+welche man leicht aus dem Chasles'schen Correspondenzprincip oder 
+den Punktepaarformeln des vorigen Paragraphen erhält. Fasst man 
+nämlich bei einem einstufigen Systeme von Strahlenpaaren je zwei 
+auf zusammengehörigen Strahlen liegende Punkte als Punktepaar 
+zusammen und wendet auf das entstandene dreistufige System von 
+Punktepaaren die Formeln 3 und 4 des § 13 an, so hat man 
+p^ und c/' gleich null, für g., das Symbol ß mid für pge + Q9e 
+g -f h einzusetzen. Ferner wird das Symbol egp des § 13 erstens 
+einmal durch jede Coincidenz und zweitens einmal durch jedes 
+Strahlenpaar ei-füllt, dessen Strahlen sich schneiden. Das Symbol 
+tge des vorigen Paragraphen wird dagegen nur von jeder Coincidenz 
+einmal erfüllt. Man gewinnt also die Gleichungen: 
+
+
+
+3) 
+
+
+6 + 8== 
+
+
+4) 
+
+
+^=g + h 
+
+
+woraus noch folgen: 
+
+
+
+
+5) 
+
+
+(?-|-2.£ = 
+
+
+6) 
+
+
+6^2. ß- 
+
+
+
+g-h. 
+
+Durch symbolische Multiplication dieser Formeln mit 6, e, g, 
+h, ß ergeben sich nicht sämmtliche Gleichungen, welche zwischen 
+den zweifachen Bedingimgen bestehen, sondern es muss mindestens 
+eine Gleichung zweiter Dimension direct durch das Princip von der 
+Erhaltmig der Anzahl abgeleitet werden. Ehe wir dies thun, defi- 
+niren wir noch die zweifache Bedingung B, welche aussprechen 
+
+
+
+Die Coincidenzformeln. 59 
+
+soll, dass das Stralilenpaar seine beiden Strahlen eine gegebene 
+Gerade schneiden lässt, und wenden auf die lineare Congruenz, welche 
+von den g und li schneidenden Strahlen gebildet wird, die Formel 
+13 des § 12 an. Daim kommt, da dami h und V beide gleich 1 
+zu setzen sind, 
+
+7) B-ßg-9' 
+
+und 
+
+8) B = ßh-h\ 
+
+Nun legen wir die Ebene des Strahlbüschels einer Bedingung ß mit 
+der Ebene des Strahlbüschels einer Bedingung ß zusammen. Dann 
+wird die Bedingung ß^ erstens durch jedes Strahlenpaar erfüllt, 
+dessen beide Strahlen die Verbindungsgerade der Scheitel der beiden 
+Strahlbüschel schneiden, zweitens durch jedes Strahlenpaar, welches 
+seinen Strahl g oder seinen Strahl Ji in der gemeinsamen Ebene der 
+beiden Strahlbüschel hat, drittens durch jedes Strahlenpaar, dessen 
+Strahlen sich schneiden und dabei ihren Schnittpunkt auf jener ge- 
+meinsamen Ebene besitzen. Also ist ' nach dem Princip von der 
+Erhaltung der Anzahl: 
+
+9) ^^ = jB-f^, + //, + (7i). 
+Dieser Gleichung entspricht dual: 
+
+10) ß' = B-{-gj&gt;-^h,, + ae. 
+
+Addirt man 9 und 10 und wendet dann 7, 8 und 2 an, so be- 
+kommt man die mit ß multiplicirte Gleichung 6, also eine Controle. 
+
+Um weitere Formeln für das Strahlenpaar zu gewiiuien, hat 
+man die bisher aufgestellten Gleichungen auf alle mögliche Weise 
+mit den eingeführten Bedingungen symbolisch zu multipliciren. 
+Dabei hat man darauf zu achten, dass nur die symbolische Multi- 
+plication zweier von einander unabhängiger invarianter Bedingungen 
+Sinn hat, dass man also wohl 6 mit a, nicht aber 6 mit 6 oder £ 
+mit a multipliciren darf. Die aufgestellten Gleichungen gestatten 
+es, jedes &lt;?, s oder e6 enthaltende Symbol durch die aus /3, g, h 
+zusammengesetzten Bedingungen auszudrücken. Wir thun dies 
+jedoch nur für die zweifachen auf a und s bezüglichen Bedingungen, 
+weil wir sonst gar zuviel Gleichungen erhalten würden. 
+
+Formel 9 und 10 geben nach Benutzung von 7 und 8: 
+
+
+
+11) 
+
+
+öp^ß' 
+
+
+-ß9 + 9p 
+
+
+'he-^ß' 
+
+
+-ßh + K- 
+
+
+-9e, 
+
+
+1.2) 
+)raus 
+
+
+6e^ß^ 
+noch folgt: 
+
+
+-ß9+9e- 
+
+
+-\==ß' 
+
+
+-ßh + he- 
+
+
+-9in 
+
+
+13) 
+
+
+
+
+0p — 6e = - 
+
+
+fjp-hh- 
+
+
+ge-he. 
+
+
+
+
+Aus 6 folgt: 
+
+
+
+
+
+
+
+
+
+
+
+60 Dritter Abschnitt. 
+
+14) ay = 2.ß(j-(f--gh, 
+
+15) 6h=-2.ßh^h^-gh. 
+Mulfciplicirt mau 4 mit g oder It, so kommt: 
+
+16) £g==g' + gh~- ßg^h'-^gh^ßh, 
+oder, nach Bemitzuug von 7 oder 8: 
+
+17) sg^gh-B, 
+
+welche Formel man durch das Princip von der Erhaltung der An- 
+zahl leicht bestätigen kann, wenn man die beiden gegebenen Ge- 
+raden der Bedingung gh unendlich nahe legt, 
+Multiplicirt man 4 mit /5, so kommt: 
+
+18) eß^ßgJ^ ßh - ^2 _ 2 . J5 - /32 + (/2 + h\ 
+Multiplicirt man 4 und 6 mit einander, so erhält man: 
+
+19) 66 = 3 . ßg -^^ . ßh - 2 . ß' - g^ -h^ -2 .gh, 
+oder, nach Benutzung von 7 und 8: 
+
+20) £(? = 6 . J5 - 2 . /i^ + 2 ./ + 2 . /^^ - 2 .gh. 
+Einfachere Gestalt hab^n die Gleichungen, welche £(? durch 
+
+die ö enthaltenden Symbole oder durch die e entlialteuden Sym- 
+bole ausdrücken und welche sich ergeben, wem] 4 mit 6 und (5 mit 
+e bei Anwendung von l und 2 multiplicirt wird. Nämlich: 
+
+21) EG = 6g-{-6h-^6p — 6e., 
+
+22) s6 = 2.Eß-2.Eg. 
+
+Bei vielen Anwendungen der Strahleupaarformeln wird man 
+die Symbole, Avelche ß, aber nicht 6 oder e enthalten, am wenigsten 
+leicht zu bestimmen vermögen. Wir stellen daher noch eine Reihe 
+voii Formeln auf, welche solche Symbole nicht, dafür aber mehr 
+als ein einziges auf 6 oder t bezügliches Symbol enthalten. 
+Addirt man 11, 16 und 18, so kommt: 
+
+6])^ag + aß = ß^~ßg + gp-K 
+-\-h^-\-gh-ßh 
+-\-ßg-^ßh-ß\ 
+oder: 
+
+23) 6p-\-eg + £ß= g^ -}- gh + hj,, 
+und hieraus durch duale Umformung: 
+
+24) ö e + sg + £ß-=ge-\-gh-^ h. 
+
+Multiplicirt man 23 mit gp, so bekommt man: 
+(^P&lt;/p + £9s +£ßgj&gt;=G-\- g,h + g^hj,, 
+und hieraus, da nach der Incidenzformel II des § 7: 
+
+Gpgp = 6g,-]-6p^ 
+ist, 
+
+
+
+Die Coincidenzformeln. 61 
+
+25) 6p^ + &lt;39. + £9s + Bßcjp ^G + gji + Oplip. 
+Vertauscht man jetzt g mit h und formt die entstehende Gleichung 
+
+dual um, so kommt: 
+
+26) 6e' + (?//.; + eg, + sßge=- H^gh + ge /'.. 
+Multiplicirt man andererseits ö mit g, und h,, so erhält man: 
+
+27) . (?^, + 2 . £^s = ^^ + r/&lt; ^' 7 
+und 
+
+28) 6h+2.ag., = H^gh. 
+
+8ul)trahirt man nun 27 von 25 und 2&gt;i von 26, so bekommt 
+man : 
+
+29) ap^ + aßgp — eg, = g^hp 
+und 
+
+BD) ^ e^ + £ ^ .r/, - ff/, = ge h. 
+
+Addirt uian aber 25 und 26, so kommt: 
+."j 1 ) 6ir' -\-6e^-\-6gs-\-6hs-^2 .s .&lt;/, -\-eß g~ 
+
+= C/ + g, h + gphp + //« he + // ^s + if. 
+Diese Formel vereinfacht sich, wemi man die Bedingung sapc 
+einführt. Multi])licirt man nämlich 21 mit jj&gt;e, so erhält man: 
+
+£&lt;5pe = öpeg + epeJi — ap^e — öpe", 
+und hieraus nach Benutzung der Formel Nr. 5 c in § 11: 
+
+32) £ ape = 6p^ -\-6e^-^ 6 g, + &lt;?//,. 
+Addirt man nun 31 und 32, so bekommt man: 
+
+£ ape + 2 . £(/, + f /3 r/^ = G-\- .&lt;/, /i + ^j,/*;, + f/. /t, + r/A. + H, 
+wofür man wegen 7 auch schreiben kann: 
+
+33) £6pe + sBg + 4 .£(/,= (r + &lt;/, Ä + &lt;/ju/i^ + g« h + 5^/*« + H- 
+
+Die eben gefundene Formel vierter Dimension liefert auf die 
+liequemste Weise einen Ausdruck für die Zahl der vollen Coinci- 
+denzen in einem vierstufigen Systeme von Strahlenpaaren. Unter 
+einer voUe^t Coincidenz eines Strahlenpaares verstehen wir, analog 
+wie beim Punktepaare, eine solche Lage der coincidirenden Strahlen, 
+dass sie, unendlich nahe liegend, sich so schneiden, das s Je^/er Punkt 
+des Coincidenzstrahles als ihr Schnittpunkt und jede Ebene durch 
+den Coincidenzstrahl als ihre Schnittebene aufgefasst werden kann. 
+Die Bedingung der vollen Coincidenz ist beim Strahlenpaare vier- 
+fach. Wir bezeichnen sie mit Tq. Eine volle Coincidenz genügt der 
+Bedingung söpe, jedoch nicht den Bedingungen sBg und fr/,. Setzt 
+man daher Systeme von Strahleupaaren voraus, welche nm' volle 
+Coincidenzen enthalten, so erhält man aus Formel 33: 
+
+34) y]^a-\- g, h + g^h^, + g^ he + gK + H, 
+
+
+
+ß2 Dritter Abschnitt. 
+
+und hieraus durch symbolische Multiplication die Formehi fünfter 
+und siebenter Dimension: 
+
+3ö) Yig =Gh-{-(js hp + (fs K + fjp K + ch h + // H, 
+
+37) rig,= Ghe + gJh^geH, 
+
+38) r]g,= Gh,-h9.S- 
+
+Aus diesen Formeln kann man unmittelbar die Bezout'scheu 
+Sätze der Liniengeometrie ablesen, d. h, die Formeln für die getnein- 
+samen Elemente zweier Systeme von StraJilen. Fasst man z. B. jeden 
+Strahl einer gegebenen Linienfläche w*^° Grades mit jedem Strahl 
+eines gegebenen Complexes wi**"" Grades als Strahlenpaar zusammen 
+und wendet auf das entstandene vierstufige System von Strahlen- 
+paaren die Formel 34 an, so werden alle Glieder rechts null, mit 
+Ausnahme von gh,, wofür man n.m zu setzen hat. Eine Linien- 
+fUicJie n^""- Grades schneidet also einen Complex w'*" Grades in n . m 
+Strahlen. Gerade so liefern die Glieder 
+
+gpK + 9e'^^e 
+der Formel 34 den von Halphen zuerst bewiesenen Satz (Lit. 21), 
+dass die Zahl der ziveien Congriienzen getneinsamen StraJilen gleich 
+
+l.V + a.a; 
+ist, wo für die eine und für die andere Congruenz die leiden Zahlen 
+h und V angehen, ivieviel Strahlen durch einen gegebenen Punkt gelten^ 
+a und a' angehen, wieviel Strahlen in einer gegebenen Ebene liegen. 
+Ebenso liefern die Glieder 
+
+gph,-hgeh 
+der Formel 35 den Grad der Linien fläcJie, welche einer' Congruenz 
+und einem Complexe gemeinsam ist. Aus Formel 3G und 37 erhält 
+man endlich, dass von den gemeitisamen Strahlen zweier Complexr 
+«'''" und w'*" Grades n . m durch jeden gegebenen Punht gelten und auch 
+n . m in jeder gegebenen Ebene liegen. 
+
+Da man häufig mit Systemen von Strahlenpaareu zu thuu hat, 
+welche sämmtlich die Bedingung 6 erfüllen, so fügen wir noch die 
+Formeln hinzu, welche die sG enthaltenden Symbole durch die (J 
+enthaltenden Syml)ole ausdrücken. Aus 21 folgt nach und nach: 
+oder : ^^^^^ "^^^ + ''^^ ^' -df- öp e, 
+
+39) f 6 p = ag, + &lt;?/*«+ (?j9^ — 6pe, 
+
+40) eöe = (jgj, -\- ahp +(5e^ — ape, 
+
+41) f 6p^= (ypg,, -f aphe — ape, 
+
+42) £ öe^ = öegp-{- ae hp — ape. 
+
+
+
+Die Coincidenzformeln. . 63 
+
+43) £6pe= ags + ah -{-op^-^a e" (Formel 32), 
+
+44) f 6^^ = ^l^^fje + &lt;3V^K — ap^e, 
+
+45) BG&amp;'=6e^gp-\- Ge^ hp — 6pe^^ 
+
+46) £öp^e=^öG-\-aH+6p^e^, 
+
+47) £&lt;5p^e = (?i9(T + ö^ir+(?_p^e^, 
+
+48) £6pe^==6eG-\-6eH-\-6p^e^, 
+
+49) £6g-=0gh — 6p^ — ae^, 
+
+50) £ (?(/^ = (?^^,/t — öj&gt;^ — öe/y^ = (j f//ip — 6p^ — (?e/Ay,, 
+
+51) Söge == (&gt; &lt;7e Ä - ö e"'^ — (J^9//^ = (&gt;///i^ — öe'-^ — Gph^ , 
+
+52) £apge=6ge he — öp e^, 
+
+53) £öegp = ögphp — 6p^e, 
+
+54) f (? f/s = (5 (/y, Ih — G p^ Jh — &lt;? e^.%; = ö.f/e Ap — de} hp — Qp^g^ 
+
+= 6g]i — (?i) V« — ^ ^^ih — ^Cr^Gg hs — apVte - o e^hp — 6H, 
+
+55) £ (&gt; (t = (?(/,. /i« — öpge hg — 6eG = (Sg., hp — a egphp - öp G , 
+
+56) £6pG=^6Ghe — öpeG, 
+
+57) £6eG = GGhp-6peG. 
+
+Die für jeden speciellen Fall der Anwendungen am meisten 
+geeignete Formel kann man durch symbolische Multiplication immer 
+leicht ableiten, wenn man nur etwa folgende Formeln sich merkt: 
+
+4) s^g + h~ ß, 
+
+5) (j-^2.£ = g-\-h, 
+
+9) ß' = B-\-ge-\-h-^6p, 
+
+17) £g = gh^B, 
+
+32) £6pe = 6gs-\- ah, + (^p^ + &lt;? e^, 
+
+33) £ (?i9e + f £,(r + 4 . £g, = 6^ + .&lt;/. /* + gphp -\-(j,h, + gh, + ^. 
+
+Aus der Formel 5 kann leicht eine Controle für die Incidenz- 
+formel IX des § 10 gefunden werden. Multiplcirt man nämlich 5 
+mit 
+
+G — g, h + gphe + g« hp — gh + H^ 
+so kommt: 
+
+(?((?- .(f/., h + r/^,^, + .7e hp - gh, + H) 
++ 2 . £ ((? - //, .&lt;/ + //p^« + ge gp - Ulis + G) 
+= {ß- (h J&gt; + f/ph + ^« /i^. -gK-\-H) [g + /i). 
+Der zweite Addende links giebt null und die rechte Seite der 
+Gleichung giebt nach Ausführung der Multiplication auch null. 
+Daraus folgt aber die Richtigkeit der Incidenzformel für zwei sich 
+schneidende Strahlen. 
+
+Um einige Beispiele für die Anwendung der in diesem Para- 
+graphen abgeleiteten Coincidenzformeln zu geben, fügen wir noch 
+
+
+
+f)4 Dritter Abschnitt. 
+
+die Abzahlung gewisser liniengeometrisclier Singularitäten hinzu 
+Wir fassen nämlich bei einer gegebenen Congruenz je zwei von den 
+Go^ Strahlen als Strahlenpaar zusammen und wenden auf das ent- 
+standene vierstufige System von Strahlenpaaren die Formeln 50 
+und 51 an. Bezeichnet a den Feldrang der Congruenz, d. h. die 
+Zahl der in jeder Ebene liegenden Strahlen, h den Bündelrang, 
+d. h. die Zahl der durch jeden Punkt gehenden Strahlen, so ist 
+zu setzen: 
+
+6gph = h.{a+h), 6f = h.{h-\), 6egp = h.{a-l\ 
+6ge h = a . {a + h), öe' = a . {a — 1), apge = «.(&amp;—!). 
+Wir erhalten also: 
+
+£(7(/^ = &amp; . (« + &amp;) - &amp; . (&amp; - 1) - &amp; . (a - 1) = 2 . &amp;, 
+£ (j^^ = a (a + &amp;) — a . (a — 1) — a . '(&amp; — 1) = 2 . a. 
+Beide Resultate geben den bekannten Satz: 
+
+,,Auf jedem Strahle eüier Congruenz giebt es zivei BremipnnMc , 
+d. h. Pmiktc, wo ein unendlich naher Strahl schneidet." 
+
+Wendet man auf dasselbe System die Formeln 41, 42 und 43 
+an, so hat man für öpe die Zahl c einzusetzen, welche angeben 
+soll, wie oft sich auf jeder gegebenen Geraden zwei Strahlen der 
+Congruenz so schneiden, dass die SchnitteBene beider Strahlen die 
+gegebene Gerade enthält. Man bekommt also: 
+
+aöp^ = a .{h - 1) -\- a .(h - 1) - c=2 ah - 2 a - c, 
+sae^ = h . {a ^ 1) -^h .{a - 1) ==2 ah -2h - c, 
+£ope=-h .{h— l)-^a .{a—l) = a^ -\-h^ — a--h, 
+welche Resultate leicht in Worte zu fassen sind. Subtrahirt man 
+die Formel für eoe^ von der Formel für s6p^, so erhält man: 
+
+ea^y^ -£6e^ = 2.{h-a). 
+Diese Formel spricht den von Herrn Felix Klein (Lit. 22) zuerst 
+angegebenen Satz aus: 
+
+„Bei jeder Congruenz ist die Differenz ztvischen Ordnung und 
+Klasse der Brennfläche doppelt so gross, als die Differenz zivisclien 
+Bündelrang und Feldrang der Congruen^z." 
+
+§ 10. 
+Aiiweiiduiig der ('oiucidenzformelu des Strahleupaars auf 
+die beiden in einer Fläche zweiten Grades liegenden Regel- 
+seliaaren (Lit. 23). 
+
+Bekaimtlich liegen auf jeder Fläche zweiten Grades K^ zwei 
+einstufige Systeme von Strahlen derartig, dass jede Gerade des 
+
+
+
+Die Coincidenzformeln. 65 
+
+eiiien Systems jede Gerade des andern Systems schneidet. Fasst 
+mau daher jede Gerade g der einen Schaar mit jeder Geraden Ji 
+der andern Schaar als Strahlenpaar zusammen, so erhält man auf 
+der F.2 ein zweistufiges System von Strahlenpaaren, die sämmtlich 
+die im vorigen Paragraphen mit 6 bezeichnete Bedingung erfüllen. 
+Jedes i- stufige System von Flächen zweiten Grades enthält also 
+ein (*-f- 2) -stufiges System solcher Strahlenpaare. Auf die so er- 
+zeugten Systeme wollen wir die Coincidenzformeln 39 — 57 des 
+vorigen Paragraphen anwenden, indem wir die dem Strahlenpaare 
+auferlegten Bedingungen auf die Fläche selbst ühertragm. Dabei 
+wird gemäss den Betrachtungen des *§ 3 jede dem Strahlenpaar 
+zugeschriebene a- fache Bedingung für die Fläche selbst (a — 2) -fach. 
+Wir haben daher zunächst zu erörtern, welche Flächenhedingimgen 
+sich aus den Grundbedingungen des Strahlenpaars ergeben. Ver- 
+möge der Incidenzformeln lassen sich diese Flächenbedingungen 
+sämmtlich auf die folgenden zehn Bedingungen reduciren: 
+
+1) fi, dass die F.^ durch einen gegebenen Punkt gehe, 
+
+2) V, dass die F.2 eine gegebene Gerade berühre, 
+
+3) Q, dass die i^g ^i^^ gegebene Ebene berühre, 
+
+4) y, dass die F.^ eine gegebene Gerade in einer gegebenen Tan- 
+
+gentialebene berühre, 
+
+5) /, dass die F.^ eine gegebene Gerade in einem gegebenen 
+
+Punkte berühre, 
+
+6) ö, dass die F.^ eine in einem gegebenen Strahlbüschel liegende 
+
+Gerade enthalte, 
+
+7) X, dass die F.^ eine gegebene Gerade enthalte, 
+
+8) IV, dass die F.^ eine gegebene Ebene in einem gegebenen 
+
+Punkte berühre, 
+
+9) ij, dass die F^ eine gegebene Gerade enthalte und dabei 
+
+eine gegebene durch die Gerade gehende Ebene in einem 
+gegebenen, auf der Geraden liegenden Punkte berühre, 
+
+10) z, dass die F.^ zwei gegebene sich schneidende Gerade ent- 
+
+halte. 
+Um die erwähnte Reduction zu zeigen, übertragen wir auf die 
+Fläche zunächst nur die folgenden drei- bis siebenfachen Grund- 
+bedingungen des Strahlenpaars: 
+
+9s, egp, pge, gph, gji, p^, e^, pe; 
+P9s, egs, gsh, gjt,,, geh, gph, pe^ p^r; 
+pG, eG, GJi, gjip, gJh, p^e^', 
+peG, Ghp, Gh] Gh- 
+
+Schubert, Kalkül der abzülilendeu Geometrie. 5 
+
+
+
+66 - Dritter Abschnitt. 
+
+Beispielsweise liefert gehe der Fläclie F.^ die zweifache Bedingung, 
+dass sie zwei sich schneidencjf Gerade enthalten soll, von denen 
+jede in einer gegebenen Ebene liegt; ferner liefert pG der Fläche 
+die dreifache Bedingimg, dass, sie eine gegebene Gerade enthalte 
+und dabei eme zweite Gerade enthalte, welche die gegebene Gerade 
+in einem gegebenen Punkte schneide. 
+
+Die so aus den Grundbedingimgen des Strahlenpaars hervor- 
+gehenden Flächenbedingungen drücken wir jetzt durch die oben zu- 
+sammengestellten zehn Flächenbedingungen a;US. Dabei lassen wir 
+die Bedingung 6, was auch schon oben geschehen ist und im Fol- 
+genden immer geschehen soll, ganz fort, indem wir in diesem Para- 
+graphen nie ein allgemeines Strahlenpaar voraussetzen, sondern immer 
+nur ein solches Paar, welches die Bedingung et- füllt, dass seine beiden 
+Strahlen sich schneiden. Ferner lesen wir in den folgenden Gleichungen 
+die Symbole auf den linken Seiten immer so, als ivenn sie der Fläche 
+angehörten. Zur Verdeutlichung ist bei einigen Gleichungen die Be- 
+gründung hinzugefügt. 
+
+1) ^r, = 0; denn in einem einstufigen Systeme von Flächen F,&gt; kann 
+
+es keine Fläche geben, welche einen ihrer oo^ Strahlen 
+in einem Strahlbüschel besässe, da es in dem Systeme 
+wohl oo^ Strahlenpaare, aber nur oo^ Strahlen giebt; 
+
+2) egp = 2.^', demi durch den Punkt der Bedingung gp gehen 
+
+ft Flächen des einstufigen Systems, auf jeder gehen durch 
+diesen Punkt 0ivei Gerade und jede dieser beiden Ge- 
+raden liefert, mit dem Punkte der Bedingung e ver- 
+bunden, ein die Bedingung egp erfüllendes Strahlenpaar; 
+^') P9'^='2 •Q^ 4) gph = 4.^', demi durch den Punkt der Be- 
+dingmig gp gehen ^ Flächen, auf jeder Fläche gehen 
+durch diesen Punkt ztvei Gerade, jede Fläche Avird ferner 
+von der Geraden der Bedingung h in mvei Punkten ge- 
+schnitten und durch jeden der beiden Schnittpunkte geht 
+eine einzige Gerade,' welche, auf der Fläche liegend, eine 
+bestimmte der beiden erstgenamiten Geraden schneidet; 
+'o)gJi = 4:.Q- G)p'=2.^', l)e' = 2.Q- 8)J2=2.i/; 
+9)G = 0; 10) pg, = d', n)eg, = d', 12)g..h=2.d- 
+
+13) gphp = 2 . fi^. 14^ ^j^^ = 2 . 9^5 15) g^ji^ = 2 . /ti p; 
+
+m)pe' = 2.y', ll)p'e^2.y'- 
+
+18) j)G = x; demi der Strahl der Bedingung G liegt auf a; Flächen 
+des dreistufigen Systems, und auf jeder bestimmt die 
+
+
+
+Die Coincidenzformeln. 67 
+
+Ebene der Bedingung p den Punkt, in welchem der 
+zweite Strahl des gesuchten Strahlenpaars schneidet; 
+19) eO = X', 20) Gh = 2.x', 21) (jsK^^Ö; 22) &lt;JsK = q8- 
+
+23) ^^€^ = 2.10] denn die Ebene der Bedingung e^ wird von iv 
+
+Flächen des Systems in demjenigen Punkte berührt, wo 
+die Gerade der Bedingung p^ schneidet, und durch diesen 
+Punkt gehen auf jeder Fläche zwei Strahlen, von denen 
+jeder als Strahl ^r resp. als Strahl h aufgefasst werden kann; 
+
+24) pea=y', 25) Glip^^ix; 26) Ghe=Qx; 27) Gh, = 2. 
+^ Natürlich darf in jeder der 27 Gleichungen g und h vertauscht 
+
+werden, ohne dass die rechte Seite der 'Gleichung sich ändert. 
+
+Wie alle übrigen aus Grundbedingungen des Strahlenpaars 
+stammenden Flächenbedingungen sich vermöge der Incidenzformeln 
+^^^^ch ^^ ^^ ^^ j,^ ^r^ ^^ ^^ ^^^ ^^ ^ 
+
+ausdrücken lassen, mag an folgenden Beispielen verdeutlicht Averden: 
+
+28) pgh = Oe h +pVi = geh+phe+p^ -A..Q + 2 .q-\-2 . (i.; 
+
+29) p^eg = fe^ ^p^g,, =p^e +pe^ -^pg, = 2/ + 2j/ + 8; 
+
+30) peghe-=pgh -\-pge^ = 9e K+P^h -{-p^e^ + ffe (? 
+
+= g,h,^pB:^p^e^-\-eG = Q8-\-x^2w-^X', 
+
+31) (j^ \ = g^^JiJ^ GK (§ 10 Formel XI) = ^x+ qx; 
+
+32) pgVi^ = 2g,H==2.z. 
+
+Könnte man nun auch noch die Coincidenzbedingungen des 
+Strahlenpaars durch die gewählten zehn Flächenbedingungen aus- 
+drücken, so würde man aus jeder der Coincidenzformeln 39 — 57 
+des vorigen Paragraphen eine Gleichung zwischen den zehn Flächen- 
+bedingungen gewinnen müssen. Man kann nun in der Tliat die 
+meisten Coincidenzbedingungen durch 
+
+^, V, Q 
+
+allein ausdrücken und dadurch schliesslich jede der Bedingungen 
+
+r, y', ^, X, w, y, z 
+
+als Function von ^, v, q erhalten. Wir streben deshalb jetzt da- 
+nach, Coincidenzbedingungen durch ^, v, q auszudrücken; und zwar 
+eignen sich dazu am besten die Bedingungen: 
+
+£1)'', se^, epe, eg^, sge, sp\ fe^ spe, 
+£egp, epge, sg.,, £/e^ £p9s, ^egs, bG, 
+ep^e^, spG, seG, speG, 
+bei denen der selbstverständliche Faktor 6 wieder, wie oben, unter- 
+drückt ist. Nun aber bilden die oo^ auf einer jPg liegenden Strahlen- 
+paare überhaupt keine Coincidenzen, wenn diese F.^ allgemein bleibt. 
+
+5* 
+
+
+
+58 Dritter Abschnitt. 
+
+Wolil aber befindet sich ein ztveistufiges System von Coincidengen auf 
+jeder Fläcbe zweiten Grades, welcbe einfach ausartet, d. h. eine von 
+den folgenden drei invarianten Bedingungen erster Dimension erfüllt: 
+
+1. die Bedingung 9, dass die Funkte der Fläche swei zusammen- 
+fallende PunJitf eider bilden; 
+
+2. die Bedingung %, dass die Tangentialebenen der Fläche zwei 
+zusammenfallende Ebenenbündel bilden; 
+
+3. die Bedingung ip, dass die Tangenten zwei zusammenfallende 
+Strahlenaxen (specielle lineare Complexe, cf. die Terminologie der 
+Grundgebilde in § 2) bilden. 
+
+Jede Fläche zweiten Grades, welche eine dieser drei Beding- 
+ungen erfüllt, nennt man ausgeartet oder Ausartung. Wir bezeich- 
+nen eine ausgeartete Fläche selbst mit 9p, % oder 4&gt;, je nachdem sie 
+die Bedingung cp, % oder ip erfüllt. 
+
+Die geometrischen Eigenschaften der Ausartungen erkennt man 
+am besten durch eine gewisse homograpl tische Abbildung (Lit. 24) des 
+allgemeinen Gebildes. Gegeben sei ein Punkt S als Centrum der 
+Homographie, eine Ebene r als Ebene der Homographie und ein 
+Zahlenwerth A als Doppelverhältniss der Homographie. Dann be- 
+stimme man zu jedem Punkte Ä des Raumes sein homograiMsches 
+Bild Ä' in folgender Weise. Man ziehe den Strahl SA, welcher 
+die Ebene r in Ba schneide, und bestimme auf diesem Strahle den 
+Punkt A' so, dass das Doppelverhältniss 
+SA SA' ^ 
+
+BaA'RaÄ~ 
+
+werde. Daraus folgt, dass man den Ort «' der Bilder aller Punkte 
+eines Strahles a, oder kurz das Bild des Strahles a erhält, indem 
+man durch S und a eine Ebene legt, welche r in »a schneidet, 
+dann den Schnittpunkt üa von a und r„ mit S verbindet und zu 
+diesem Strahle, zu a und zu r„ denjenigen vierten Strahl construirt, 
+welcher den drei Strahlen durch das Doppelverhältniss A ebenso 
+zugehört, wie oben Ä zu S, A, Ra gehörte. So erhält man weiter 
+als Bild einer Ebene wieder eine Ebene, und als Bild einer Fläche 
+zweiten Grades wieder eine Fläche zweiten Grades, deren Tangenten 
+mid Tangentialebenen die Bilder der Tangenten und Tangential- 
+ebenen der ursprünglichen Fläche sind. Bildet man nun in dieser 
+Weise eine nicht durch S gehende Fläche zweiten Grades F^ homo- 
+graphisch ab, indem man A den Werth nidl ertheilt, so erhält man 
+als Bild der F^ die oben mit (p bezeichnete Ausartung. Ihre Punkte 
+
+
+
+Die Coincidenzformeln. 69 
+
+sind nämlicli die doppelt gezälilteu Punkte der Ebene r. Jedem 
+Punkte gehört im allgemeinen nur die Ebene r als Tangential- 
+ebene an. Legt man jedocb durcli S die oo^ Tangentialebenen an 
+die F2, so sckneiden diese die Ebene r in 00^ Strahlen, welche 
+einen Kegelschnitt umhüllen und gemäss dem Werthe A = die 
+besondere Eigenschaft haben, dass jede durch sie gelegte Ebene 
+als Tangentialebene ihres Kegelschnittpunktes zu betrachten ist. 
+Diese Kegelschnitttangenteu ergeben sich zugleich als die Bilder 
+der oc^ auf der F.^ liegenden Geraden. Daher zerfallen die oc^ 
+Strahlenpaare, welche jeder F.^ in dem von uns festgestellten Sinne 
+angehören, bei der Ausartung &lt;p in zwei Gruppen von je 00^: 
+
+1. solche, deren ScJmittebene e die Ebene von cp, deren Schiitt- 
+piinJct p ein beliebiger Punkt auf ihr ist und deren Strahlen g und h 
+die beiden von diesem Pwikte an den Kegelschnitt gelegten Tangenten sind\ 
+
+2. solche, deren Schnittebene e eine beliebige, den Kegelschnitt be- 
+rührende Ebene, deren SchnittpunU p ihr Berührungspunkt ist, deren 
+beide Strahlen g und h aber in der diesem Berührungspunkte zugehörigen 
+Kegelschnitttangente vereinigt liegen. 
+
+Jedes der eben unter 2 genannten 00^ Strahlenpaare bildet also 
+eine Coincidens, deren Strahl g Tangente des Kegelschnitts und deren 
+Schnittpunkt p ihr Berührungspunkt ist, deren Schnittebme e aber 
+irgend eine der co^ durch g gehenden Ebenen sein kann. 
+
+Transformirt man die eben beschriebene Erzeugung der Aus- 
+artung cp nach dem Princip der Dualität, so erhält man die Be- 
+schreibung der (p dual entsprechenden Ausartung %, bei welcher die 
+Punkte einen Kegel zweiten Grades, bilden. 
+
+Die dritte Ausartung 1/;, welche sich selbst dual entspricht, 
+kann man eben so erzeugen, wie cp, nur dass man das Centrum S 
+der Homographie auf die F^ selbst zu legen hat. Dann wird jeder 
+Punkt auf der Ebene r der Homographie einmal Bild eines Punktes 
+der F^. Als Bild von S muss man aber jeden Punkt auf der Tan- 
+gentialebene in S ansehen; also bilden die Punkte von ^ zwei 
+verschiedene Ebenen, die wir Hauptebenen nennen wollen. Ihren 
+Schnitt wollen wir Hauptgerade der Ausartung i^ nennen. Die 
+beiden auf der*^2 liegenden und sich in S schneidenden Strahlen 
+schneiden die Hauptgerade in zwei ausgezeichneten Punkten, die 
+wir Hauptpunkte nennen wollen und die die besondere Eigenschaft 
+haben, dass jede durch sie gelegte Ebene als Tangentialebene an- 
+gesehen werden muss. Ueberhaupt ergiebt die homographische Ab- 
+bildung folgende Beschreibung der Ausartung 1/;: 
+
+
+
+70 Dritter Abschnitt. 
+
+Die Ausartung t^ ist eine Fläche zweiten Grades, deren Tan- 
+genten zwei in einer einzigen Geraden — Hauptgeradm — ver- 
+einigte Strahlenaxen bilden. Jeder dieser Tangenten geliört im 
+Allgemeinen als Berührungspunkt ihr Schnittpunkt mit der Haupt- 
+geraden und als Tangentialebene ihre Schnittebene mit der 
+Hauptgeraden an. Es gehen jedoch durch die Hauptgerade co^ 
+ausgezeichnete Tangenten, welche zwei Strahlenfelder — Haupt- 
+ebenen — bilden und so beschaffen sind, dass jeder von ihnen jeder 
+auf ihr liegende I'imM als Berührungspunkt angehört; ausserdem 
+gehen durch die Hauptgerade noch andere oo^ ausgezeichnete Tan- 
+genten, welche zwei Strahlenhündel — Hauptpunkte — bilden und 
+die Eigenschaft haben, dass als Tangentialebene zu jeder von ihnen 
+jede durch sie gehende Ebene zu betrachten ist. Demgemäss ist 
+jeder auf einer der beiden Hauptebenen liegende Pimkt als ein 
+PunMf ijnd jede durch einen der beiden Hauptpunkte gehende Ebene 
+als eine Tangentialebene der Fläche z^ zu betrachten. Die go^ atif 
+einer F^ liegenden Strahlen iverden bei t^ zu den oo^ Strahlen der 
+vier Strahlbüschel, ivelche in den beiden Hauptebenen liegen und die 
+beiden Hauptpunkte zu Scheiteln haben. Die oo^ Strahlenpaare end- 
+lich, welche einer F^ in dem von uns festgestellten- Simie an- 
+gehören, zerfallen bei einer Fläche ■^ in drei Gruppen von je oo^: 
+
+I. solche, deren Schnittebene e eine Hauptebene, deren Schnitt- 
+punkt p ein beliebiger Punkt auf ihr ist und deren Strahlen g und h 
+die beiden von diesen Punkten nach den Hauptpunkten gehenden Ge- 
+raden sind; 
+
+IL solche, deren Schnittpunkt p ein -Hauptpunkt, deren Schnitt- 
+ebene e eine beliebige Ebene durch ihn, und deren Strahlen g und h 
+die Schnitte dieser Ebene mit den beiden Hauptebenen sind; 
+
+III. solche, deren Strahlen g und h in der Hauptgeraden ver- 
+einigt liegen, deren Schnittpunkt p ein beliebiger auf ihr liegender 
+Punkt, und deren Schnittebene e eine beliebige durch sie gehende Ebene ist 
+
+Jedes der eben unter 3 genannten oo^ StraMenpaare bildet eine in 
+einem Systeme von Strahlenpaaren ziveifach zu rechnende Coincidenz, 
+tcelche die Hauptgerade zum Strahle g, irgend einen Punkt auf ihr zum 
+Schnittpunkt p und irgend eine Ebene durch sie zur Schnittebene e hat. 
+
+Es handelt sich jetzt zunächst darum, die drei Ausartungs- 
+bedingungen (p, 1, ip durch (i, V, Q auszudrücken. Da jede F^, welche 
+(p, %, il) erfüllt, die Constantenzahl 8 hat, also eine um 1 kleinere 
+Constantenzahl hat, als die allgemeine F^, so enthält ein einstufiges 
+
+
+
+Die Coincidenzfonneln. 71 
+
+System von Flächen zweiten Grades im allgemeinen eine endliche 
+Anzahl von Ansartnngen (p, %, f, d. h. die Bedingungen (f, %} ^ 
+sind erster Dimension. Wemi man nun für ein einstufiges System 
+vermittelst des ursprünglichen Chasles'schen Correspondenzprincips 
+(§ 13) bestimmt: 
+
+1. wieviel Punkte auf einer Geraden liegen, in denen zwei 
+einer und derselben Fläche des Systems angehörige Punkte 
+sich vereinigen, 
+
+2. wieviel Ebenen in einem Ebenenbüschel liegen, in denen 
+zwei einer und derselben Fläche des Systems angehörige 
+Tangentialebenen sich vereinigen, 
+
+3. wieviel Strahlen in einem Strahlenbüschel liegen, in denen 
+zwei einer und 'derselben Fläche des Systems angehörige 
+Tangenten sich vereinigen, 
+
+so erhält man die Formeln: 
+
+I) 2 .^—v = (p, 
+
+II) 2.Q-v = x, 
+
+III) 2.v-(i-Q = i; (Lit. 25). [cf. § 22.] 
+
+Wir schreiben nun den drei Ausartungen nicht blos alle Bedingungen 
+zu, welche ihnen als Flächen zweiten Grades zukommen, also z. B. 
+,u, Vj Q, sondern auch die Bedingungen, welche sie dadurch erfüllen, 
+dass die sie definirenden Gebilde Gnmdbedingungen erfüllen, wo unter 
+definirenden Gebilden zu verstehen ist: 
+bei fp der Kegelschnitt, 
+bei % der Kegel, 
+
+bei ip das aus der Hauptgeraden, den beiden Hauptpunkten und 
+den beiden Hauptebenen bestehende Gebilde. 
+Hat eine solche Grimdbedingung das Symbol 2, so soll (p2, %z, 
+ipsi die Bedingung bedeuten, dass die F^ bezüglich fp, X, i^ erfülle, 
+dabei aber auch das qp, %, ijj definirende Gebilde die Bedingung z 
+erfüllen lasse. Man bemerke, dass dann die Bedingung s nicht un- 
+abhängig von &lt;p, %, ^ ist, dass wir also gemäss den Regeln des 
+§ 2 solche Bedingungen &lt;p0, xz, ipz nicht als msmmnengesetst be- 
+handeln dürfen. Wir bezeichnen nun: 
+I) für den Kegelschnitt von (p: 
+
+mit m die Bedingung, dass er seine Ebene durch einen ge- 
+gebenen Punkt schicke, 
+mit n die Bedingung, dass er eine gegebene Gerade schneide, 
+mit r die Bedingung, dass er eine Ebene berühre; 
+
+
+
+72 Dritter Abschnitt. 
+
+II) für den Kegel von i\ 
+
+mit m die Bedingung, dass er durch einen gegebenen Punkt 
+gehe, 
+
+mit n die Bedingung, dass er eine gegebene Gerade be- 
+rühre, 
+
+mit r die Bedingung, dass er seinen Scheitel auf einer ge- 
+gebenen Ebene besitze; ^ 
+
+III) für das ^ defmirende Gebilde: 
+
+mit m die Bedingung, dass es eine seiner beiden Haupt- 
+ebenen durch einen gegebenen Punkt schicke, 
+
+mit n die Bedingung, dass es seine Gerade eine gegebene 
+Gerade schneiden lasse, 
+
+mit r die Bedingung, dass es einen seiner beiden Punkte 
+in einer gegebenen Ebene habe. 
+
+Durch diese Bezeichnung ist, wegen der vorangehenden Vor- 
+schrift, festgestellt, was für zweifache Flächenbedingungen durch 
+die Symbole: 
+
+(p7n, cpn, cpr, 
+%m, %n, ir, 
+il^m, i^n, ipr, 
+
+dargestellt werden; z. B. bedeutet cpr^ dass die F2 zu einer Aus- 
+artung q) wird, deren Kegelschnitt eine gegebene Ebene berührt. 
+Vergleicht man nun die eben definirten Symbole m, n, r mit den 
+Flächenljedingungen ^, v, g, so findet man bei hinreichender Be- 
+achtung der oben gelieferten Beschreibung der Ausartungen 9p, Xj t, 
+die Beziehungen: 
+
+^cp = 2 .m(pj v(p = rf(pj Q(p = r(pj 
+^X = mx, vx=-n%, Qx = 2.rx, 
+^t = mt, vx = 2.nx, QX = '^^, 
+
+wo die Coefficienten 2 sich daraus erklären, dass jeder Punkt der 
+Ebene von cp mvei Punkte, jede Ebene durch den Scheitel von x 
+sivei Tangentialebenen, jede Gerade durch die Hauptgerade von ^ 
+zivci Tangenten einer Fläche zweiten Grades in sich vereinigt. 
+
+Die linken Seiten der obigen neun Gleichungen sind zusammen- 
+gesetzte Bedingungen, deren einer Faktor 9, x ^^^^ ^ i^^- ^^i 
+diesen darf man daher für cp, X) t die oben abgeleiteten, ^, v, q 
+enthaltenden Ausdrücke einsetzen. Dami erhält man die neun 
+Gleichungen: 
+
+
+
+Die Coincidenzformeln. 73 
+
+mx = ^i2Q — v), nx=-v(2Q — v), rx = ^Q(2Q — v)-^ 
+
+mif = (i(2v — ^-'Q), mp^^v(2v — ^ — q), rj^ = p (2v — ft — p). 
+Gerade so findet mau z. B. 
+
+m^q) = ^^^{2^ — v), mnr(p = \^vQ {2^ — v), 
+
+mr^l = \^Q^i2Q — v), mr^nx = i^vg'^ (2() — v), 
+mnt = ^fiv {2v — (i — q), n^ril^ = jV^*? (^^ — ft — ?)• 
+Diese Formeln stellen also die auf qp, %&gt; ^ bezügliclien Be- 
+dingungen durch II, V, Q dar. 
+
+Es handelt sich deshalb nur noch darum, die oben vor der 
+Beschreibung der Ausartungen genannten 19 Coincidenzbedingungen 
+durch die auf (p, x, 4' bezüglichen Bedingungen auszudrücken. Um 
+dieses leisten zu können, schicken wir die folgenden sieben Kegel- 
+schnittbeziehungen voraus, welche theils aus den Incidenzformeln, 
+theils direct aus dem Princip von der Erhaltung der Anzahl folgen. 
+Dabei benutzen wir die Symbole m, n, r. 
+
+1. Die Bedingung, dass eni Kegelschnitt eine Ebene so schneidet, 
+dass eine der beiden in den Schnittpunkten berührenden Tangenten 
+eine Gerade schneidet, ist nach der lucidenzformel I des § 7 
+(cf. § 8) gleich: 
+
+11 -f r. 
+' 2. Die Bedingung, dass ein Kegelschnitt durch einen gegebenen 
+Punkt geht, ist nach der lucidenzformel VII des § 10 (cf. § 12, 
+Nr. 9) gleich: 
+
+mn — 2. m^. 
+
+3. Die Bedingung, dass ein Kegelschnitt einen in einem ge- 
+gebenen Strahlbüschel liegenden Strahl berührt, ist nach der In- 
+cidenzformel V gleich: 
+
+mr. 
+
+4. Die Bedingung, dass ein Kegelschnitt eine gegebene Gerade 
+berührt, ist nach der Incidenzformel VI (cf. § 12, Nr. 8) gleich: 
+
+m^r — 2 . m^. 
+
+5. Man betrachte die zusammengesetzte Bedingung w und 
+wende das Princip von der Erhaltimg der Anzahl au, indem man 
+den Strahl der Bedingung n in die Ebene der Bedingung r legt. 
+Dann kami nr auf keine andere Weise erfüllt werden, als indem 
+der Kegelschnitt die Ebene in einem Punkte der Geraden berührt. 
+Ein solcher Kegelschnitt erfüllt aber dabei die Bedingung nr zwei- 
+mal, weil er mit der Geraden von n zwei Punkte statt eines ge- 
+mein hat. Also ist die Bedingung, dass ein Kegelschnitt eine 
+
+
+
+74 Dritter Abschnitt. 
+
+Ebene in einem Punkte einer auf der Ebene gegebeneu Geraden 
+berührt, gleich: 
+
+6. Ebenso ergiebt sich für die Bedingung, dass ein Kegelschnitt 
+eine gegebene Ebene in einem gegebenen Punkte berührt, die Hälfte 
+von der Bedingung, dass ein Kegelschnitt durch einen gegebenen 
+Punkt geht und zugleich eine gegebene Ebene berührt, also 
+
+-^ {mn — 2 . m^) r. 
+
+7. Wemi man die dreifache Bedingung, dass em Kegelschnitt 
+eine gegebene Gerade berührt, mit der einfachen Bedingung w, dass 
+er eine gegebene Gerade schneidet, multiplicirt imd dann die beiden 
+gegebenen Geraden sich schneiden lässt, so wird die entstandene 
+vierfache Bedingung erstens zweimal von jedem Kegelschnitt er- 
+füllt, welcher die erste Gerade in dem Schnittpunkte berührt, zwei- 
+tens zweimal von jedem Kegelschnitt, welcher in der Ebene der 
+beiden Geraden liegt und dabei die erste Gerade berührt, d. h. 
+welcher die Bedingung m^r erfüllt. Also ist die Bedingung, dass 
+ein Kegelschnitt eine gegebene Gerade in einem gegebenen Punkte 
+berührt, gleich 
+
+^m^nr — m^n — m^r. 
+
+Diesen sieben Gleichungen entsprechen dual sieben Gleichungen 
+für den Kegel. 
+
+Mit Hilfe der so gewonnenen 14 Gleichungen können wir die 
+in Frage stehenden Coincidenzbedmgungen zunächst durch die auf 
+(p, X, 4', m, n, r bezüglichen Bedingvmgen, also schliesslich auch 
+durch II, V, Q ausdrücken. Dies ist in der folgenden Tabelle ge- 
+schehen. Für die Beweise beachte man namentlich, dass gemäss 
+der Beschreibung der Ausartungen cp, %, ifj jedes Symbol ss nur 
+dami von cp, % oder t^ erfüllt werden kann: 
+
+I. wenn bei cp in der Bedingung z der Faktor e steckt, weil 
+eine auf (p liegende Coincidenz noch unendlich viele Schnittebenen 
+haben kaim, wenn auch &lt;p, der Schnittpunkt p und der Coincidenz- 
+strahl g vollkommen bestimmt sind; 
+
+II. wemi bei x in c^er Bedingung z der Faktor p steckt; 
+
+in. wenn bei ip in der Bedingung s die Faktoren 2^ i^^iid e 
+stecken. 
+
+Tabelle der Formeln, welche die Coincidenzbedingungen durch die 
+auf qp, X, '*P bezüglichen Bedingungen ausdrücken. 
+
+I) 1) Bp^ = 2.x', 2) 86^ = 2. q&gt;, 3) spe==2 .(p + 2 .x^-2 .r, 
+4) £5';. = 0; 5) £(/« = 0. 
+
+
+
+:•• Die Coincidenzformeln. 75 
+
+II) 6) Bp^ = m%'^ 7) Ee^ = r(p-^ 8) £pe = n(p-[-n%-\-2 .ntp'^ 
+9) Eeg^,^2.m(p; 10) spge=-^.rx; H) £^. = 0. 
+
+III) 12) ep^e^=-ex&gt;^e-\- £pe^' = {mn — 2 .m^ -\-^ .nr)q) 
+
++ (rn — 2 . r^ + ^mn) %-{-2 . n^f ; 
+1 3) £ jj^s = m rx'^ 14) f er/, = mrcf^ 15) £(? = (.». 
+
+IV) 16) «^^e^ = (^mnr — m^r) cp + {^mnr — mr^) %-\-2 . (^n-^) i^'; 
+17) f|)(? = (r2w-2r=');K; 18) «eö = (mV- 2. w^)(p. 
+
+V) 19) £Gp)e==(^m^nr — m^n—m^r)cp-\-{^r^nm — r^n — r'-^tu)x 
+
+Die vorgesetzten römischen Nummern geben die Stufen der 
+vorausgesetzten Flächensysteme an. Ersetzen wir nun noch die 
+Symbole der rechten Seiten dieser 19 Gleichungen durch fi, v, q, 
+wie dies oben gezeigt ist, so haben wir die Coincidenzbedingungen 
+durch fi, V, Q ausgedrückt. Jede Coincidenzformel des Geraden- 
+paares also, welche nur diese Coincidenzbedingungen und ausser- 
+dem die früher durch die 10 Flächenbedingungen 
+
+■ {^, ^, Q, y, ?', ö\ X, w, y, z 
+ausgedrückten Grundbedingungen des Strahlenpaares enthält, muss 
+jetzt eine Gleichung zwischen den 10 Flächenbedingungen geben. 
+So erhalten wir 19 Gleichungen. Diese stellen wir jetzt zusammen 
+und zwar mit Angabe der Coincidenzformel, aus welcher jede dieser 
+Gleichungen hervorgeht. In den Coincidenzformeln ist der gemein- 
+same Faktor 6 wieder fortgelassen. In den resultirenden Gleich- 
+ungen ist der Deutlichkeit wegen jeder aus cp, % oder t^ entstandene 
+Ausdruck 
+
+.2^ — v, 2q — v, 2v — (i — q 
+
+in eine Klammer eingeschlossen. « 
+
+Tabelle der Gleichungen zwischen den 10 Flächenbedingungen. 
+
+1 . Aus p(/c + P K — i&gt; e = sp^ 
+folgt 
+
+4q~-2v = 2.(2q-v). 
+
+2. Aus e(jp-\-Ghp—pe= ee^ 
+folgt 
+
+4li-2v = 2.{2ii-v). 
+
+3: Aus (js-\-lh-\- p^ -\- e^ = £pc 
+folgt 
+
+2/i -f 2 () = 2 . (2f^ - v) -f 2 . (2^ ~ v) + 2 . (2v - ^ - p). 
+
+
+
+76 Dritter Abschnitt. ~ 
+
+4. Aus gph — ecjp -jf- = erjp 
+folgt 
+
+4ft-2i[i-2ft = 0. 
+
+5. Aus (Je^h — vge — e^ = ege 
+
+folgt 
+
+Aq-2q-2q = 0. 
+
+6. Aus prjs + Phs — G — H — p^ e = elf 
+folgt 
+
+7. Aus egs -\- ehs — G — H — pe^ = e e^ 
+folgt 
+
+8. Aus G-\- H+jfe-\-pc^= epe 
+folgt 
+
+27 + 2/ = (2tt — v) V + (2() - t^) 1/ + (2i; - ft — ?) V. 
+
+9. Aus gphp — p^e=£egjj 
+folgt 
+
+2^2-2y' = (2.a-v),a. 
+
+10. Aus r/,; /«-e —pG^= epge 
+
+folgt 
+
+2^2_2j/==(2p-i/)^. 
+
+11. Aus G-\-gJi—pg, — cg, = £g, 
+folgt 
+
+2d-(J^Ö = 0. 
+
+12. Aus pG-\-pH-\-eG-\-cH-}-2.2j''e'^sp'e'' 
+folgt 
+
+4:k + 4:tv = (2^ — v) (^fii' — Ifi^ + ^v()) 
+
++ (2() - v) (^^^ - i?" + iv.«) 
++ (2i/-,a-()).2.ivl 
+
+13. Aus gJie — eG — e^p^ = epg,, 
+folgt 
+
+p d — a; — 2i(; = (2 9 — v) . ^^ii q. 
+
+■ 1 4. Aus gs lip — pG — e^p^ = f c^/, 
+folgt 
+
+^ttd — a; — 2^(; = (2/i — ?/) . ^^up. 
+
+15. Aus Gli—pG — eG = sG 
+folgt 
+
+2a; — ic — a; = 0. 
+
+
+
+Die Coincidenzformeln. 77 
+
+16. Aus peG-{-peH= sp^e^ 
+
+17. Aus Ghe—2^eG=spG 
+
+18. Aus Gh„ — veG = eeG 
+
+
+
+19. Aus Gh = BGpe 
+
+fol^t /O \ / 1 2 1 S t 'S N 
+
+^ = (2 /it - v) (i iit^i. () - -^ ^^ V - J- ^ V) 
++ (2 (&gt; - v) (ii^ V ?' - iv ^^ - ^^ p^) 
+
++ (2v-([t-()).2.^3V^'- 
+
+Von diesen 19 Glöichungen sind 7 identische; die übrigen 12 
+ergeben die 7 Bedingungen , 
+
+7, y\ 8, a-, IV, y, z 
+mit mehreren Bestätigmngen als Functionen von /i^ v, q. Man er- 
+hält zunächst mehrere Male: 
+IV) y^i^vQ- 
+V) y'^^v^- 
+
+VI) Ö^(IQ- 
+
+VII) ä; =|(2i;^-3vV-3v'9 + 3z^,aH2i^ittp + 3i/()2-2jit3-2()^) 
+
+[Lit. 26]; 
+VIII) iv = ^{-2v'-j-3v^ii-\-3v^Q-3v(i''-3vQ'-i-2(i^-\-2Q^), 
+Für die vierfache Bedingung y findet man aus den Gleichungen 
+16, 17, 18 drei verschiedene Functionen von ft, v, q, nämlich: 
+IX a) y = Jg^ (2v*— v^^ — v^q — 4v V Q + Gv^^Q -f Qv^q^— 4^^q — 4ft q^) ; 
+IXb) ^ = i(2v='()--3z/^ap-3i/V'+3i^iit29+3i;iit()2+2a/p2-2ff&gt; 
+
+-2^q')- 
+IX c) ^ = |(2i/V-3i/VP-3^^V'+3vi[ipH3i/i^V + 2i^^''-2iit()=» 
+
+^2^V). 
+Für die fünffache Bedingung z erhält man endlicli: 
+
+X) ^ = tV(2i^'-^V-^^(&gt; + 2vV-2vVV-2vV('' + 2i^'?' 
+
+— 4v ^'^ -{- ßv ^^ Q -{- 6v ^q'^ — 4:V Q^ — 4fl^Q ~ 4}IQ'^). 
+
+Durch (i, V, Q und die eben als Functionen von ^, v, q 
+dargestellten 7 Flächenbedingungen lassen sich, wie im Anfang 
+dieses Paragraphen gezeigt ist, vermöge der Incidenzformeln alle 
+diejenigen Bedingungen ausdrücken, welche einer Fläche dadurch 
+
+
+
+78 Dritter Abschnitt. 
+
+erwachsen, dass man den auf ihnen liegenden Strahlenpaaren be- 
+liebige Grundbedmgungen zuschreibt. Wir können daher jetzt alle 
+solche Flächenbedingungen durch die drei einfachen Bedingungen 
+^, V, Q ausdrücken; z. B. erhält man für die aus j/e// resultirende 
+Flächenbedingung 
+
+wegen IV, V und VI: 
+
+d. h. in Worten: 
+
+j,7w jedem heliebigen zweistufigen Flächensysteme gieht es oo^ Flü- 
+chen, von denen jede eine gegebene Gerade so schneidet, dass die einem 
+SchnittjmnMe angehörige Tangentialebene durch einen gegebenen Punkt 
+geht. In jeder dieser Flächen liegen zwei Gerade, welche auf der eben 
+genannten Tangentialebene sich in jenem Schnittpunhte schneiden. Die 
+so entstehenden oo^ Geraden bilden eine Linienfläche, deren Grad immer 
+gleich der Summe der drei Zahlen ist, tvelche angeben, tvieviel Flächen 
+des zweistufigen Systems erstens durch einen gegebenen Punht gehen 
+und eine gegebene Gerade berühren, ziveitens eine gegebene Ebene und 
+eine gegebene Gerade berühren, drittens durch einen gegebenen Punlä 
+gehen und eine gegebene Ebene berühren.'^ 
+
+Ferner erhält man für die aus r/., 7«s stammende Flächenbedingung, 
+da gsh, = gpH-\-Ghe ist, 
+
+^x-\- QX. 
+Hieraus ergiebt sich nach Benutzung von VII: 
+
+In jedem vierstufigen Systeme von Flächen ztveiten Grades giebt 
+es Qo^ Flächen, tvelche einen Strahl eines gegebenen Strahlbüschels ent- 
+halten. Auf jeder dieser Flächen ivähle man diejenige Begelschaar 
+aus, tvelche jenen Strahl des Strahlbüschels schneidet. Die oo^ Strahlen 
+der so entstehenden co^ Eegelschaaren bilden einen Complex, dessen Grad 
+sich durch die aus ^i, v, q zusammengesetzten vierfachen Bedingungen 
+ausdrüclien lässt, ivie folgt: 
+
+Die in diesem Paragraphen erörterten Fragen hat der Ver- 
+fasser noch etwas eingehender behandelt in seiner Abhandlung 
+„Moduln bei Flächen zweiter Ordnung" (Math. Ann. Bd. 10 pag. 318); 
+dort ist auch gezeigt, wie man die gefundenen Resultate durch Be- 
+nutzung des Princips von der Erhaltung der Anzahl bestätigen kann. 
+Ferner sind dort im Anschluss an die Thatsache, dass sich für y 
+drei verschiedene Functionen, TXa, IX b, IX c, ergeben, Betrachtungen 
+
+
+
+Die Coincidenzformeln. 79 
+
+angestellt, welche für die CharakteristiJcentJieorie (hier Absclui. VI § 38) 
+der Flächen zweiten Grades von grosser Bedeutung sind. Dabei 
+ergab sieh, dass bei einer Fläche zweiten Grades immer zwischen 
+den aus fi, v, Q zusammengesetzten 
+
+1) weniger als vierfachen Bedingungen Ixine, 
+
+2) 15 vierfachen Bedingungen zwei, 
+
+3) 21 fünffachen Bedingungen acht, 
+
+4) 28 sechsfachen Bedingungen achtzehn, 
+
+5) 3G siebenfachen Bedingungen dreissig, 
+
+6) 45 achtfachen Bedingungen zweiundvierzig 
+
+von einander unabhängige, allgemeingiltige Gleichungen bestehen. 
+)Solche zwei von einander unabhängige Gleichungen zwischen den 
+15 vierfachen, aus ^, v, q zusammengesetzten Bedingungen können 
+wir z. B. erhalten, wenn wir die drei Functionen für y einander 
+gleichsetzen. Um jedoch zwei Relationen zu gewinnen, welche 
+durch duale üebertragung in sich selbst übergehen, setzen wir 
+erstens die Functionen in IXb und IX c einander gleich, zweitens 
+aber die Function in IX a gleich der halben Summe der Functionen 
+in IXb und IX c. Dann kommt: 
+
+XI) 2v''fi-2v^Q-Sv^fi^ + 3v^Q^-\-2vii^-2vQ^ = 0, 
+
+XII) 2v^ - 5i/V -öv^Q-h ßi/V" + 8 vV? + 6i/2^^_ 4vfi3 
+
+In der citirten Abhandlung des Verfassers sind die gewonnenen 
+Resultate auch auf Kegelschnitte übertragen. Da die gefundenen 
+Formeln nämlich für jede Fläche zweiten Grades gelten, so müssen 
+sie auch für die Ausartung cp gelten oder, was dasselbe ist, die 
+Formeln dürfen mit der Bedingung &lt;p multiplicirt werden. Dann 
+aber kann man, wie oben erörtert ist, für die Symbole ^g&gt;^, (pv, 
+(pQ die Bedingungen m, n, r einführen, welche bezüglich aussprechen, 
+dass der auf cp liegende Kegelschnitt seine Ebene durch einen ge- 
+gebenen Punkt schickt, eine gegebene Gerade schneidet, eine ge- 
+gebene Ebene berührt. Man bekommt also auf diese Weise aus 
+jeder Gleichung zwischen Bedingungen der Fläche zweiter Ordnung 
+eine Gleichung zwischen Kegelschnittbedingungen. Z. B. ergiebt 
+Formel VII für den Kegelschnitt die Gleichimg: 
+
+XIII) X = ^n^ — |w^r + ^nr^ — ^r^ — ^n^m + nrvi -\- 3mw^ — 4m^, 
+wo die Flächenbedingung x, eine Gerade zu enthalten, noch durch 
+eine Kegelschnittbedingung zu ersetzen ist. Nun wird aber x von 
+einer Fläche (p zive'micd dadurch erfüllt, dass der Kegelschnitt auf 
+
+
+
+80 Dritter Abschnitt. 
+
+9? die Gerade der Bedingung x berührt, d. li. eine Bedingung er- 
+füllt, welche nach den Incidenzformeln (§12 Nr. 8) gleich 
+
+ist. Setzt man demgemäss das ^doppelte dieser Function für x ein, 
+so erhält jnan: 
+
+XIV) 2n^- ?)n^r + Snr^ - 2r^ - 6mn^ -f 4mnr 
+
++ 12m^n — Sm^r = 0. 
+Dies ist aber eine Grleichmig zwischen den dreifachen, aus m, n, r 
+zusammengesetzten Bedingningen des Kegelschnitts. Specialisirt man 
+diese Gleichung dadurch, dass man die Kegelschnittebene als ge- 
+geben voraussetzt, d. h. die Gleichung mit m^ multiplicirt, so erhält 
+man eine Formel, welche von Cremona und Halphen bei Gelegen- 
+heit ihrer Untersuchungen über Kegelschnitt-Charakteristiken aufge- 
+funden ist und auch in dem Lindemann'schen Werke über Clebsch's 
+Vorlesungen (pag. 406 Formel 11) abgeleitet ist (Lit. 27). Der Ver- 
+fasser hat ferner bewiesen (Math. Ann. Bd. 10 pag. 360), dass bei 
+einem Kegelschnitt immer zwischen den aus m, n, r zusammen- 
+gesetzten 
+
+1) weniger als dreifachen Bedingungen Iceine, 
+
+2) 10 dreifachen Bedingungen eine dnsvje 
+
+Gleichimg besteht, dass aber zwischen den aus m, n, r zusammen- 
+gesetzten 
+
+3) 14 vierfachen Bedingungen vier, 
+
+4) 18 fünffachen Bedingungen neun, 
+
+5) 22 sechsfachen Bedingungen sechszehn, 
+
+6) 26 siebenfachen Bedingungen dreiundzivansig 
+
+
+
+§ 17. 
+
+Die Paare verschiedenartiger Hauptelemente und ilire 
+
+Coincidenztoedingungen. 
+
+Wir betrachten zuerst das aus einem Punkte ]} und einer Ebene e 
+bestellende Paar. Dasselbe hat die Constantenzahl 6 und erfüllt 
+eine einfache CoincidenzbedingTing s dadiirch, dass der Punkt p in 
+die Ebene e fällt oder, um in der Terminologie des IL Abschnitts 
+zu reden, wenn p und e einander incident werden. Um eine all- 
+gemeine Beziehung zwischen ^j, e und s zu finden, setzen wir ein 
+einstufiges System von solchen Paaren voraus und fassen bei jedem 
+Paare den Punkt p mit jedem der cc^ Punkte auf der zugehörigen 
+
+
+
+Die Coincidenzformeln. gl 
+
+Ebene e als Punktepaar p, q zusammen. Dann enthält das voraus- 
+gesetzte einstufige System ein dreistufiges System von so definirten 
+Punktepaaren. Auf dieses dreistufige System wenden wir die For- 
+mel 3 des § 13 an. Dann ist das Symbol p^ gleich null zu setzen. 
+Für q^ hat man e einzusetzen, weil durch den Punkt der Bedingung 
+c^ e Ebenen gehen, deren jede einen "zugehörigen Punkt p besitzt. 
+Um gs zu bestimmen, beachten wir, dass die Ebene der Bedingung 
+(js p Punkte enthält und dass die Verbindungslinie jedes dieser 
+2^ Punkte mit dem Punkte der Bedingung (/, die zugeordnete Ebene 
+in einem Punkte q schneidet, welcher mit p zusammen ein Punkte- 
+paar bestimmt. Also ergiebt sich, dass p statt gs zu setzen ist. 
+Endlich wird die Bedingung sgp in der angewandten Formel von 
+jedem Paare erfüllt, bei welchem j^ a-uf e liegt, weil dann jeder 
+durch 2J gehende Strahl als der Verbindungsstrahl der coincidirenden 
+Punkte gelten darf. Die gesuchte Beziehung ist also: 
+
+1) p-\-e = £. 
+
+Hieraus folgen durch symbolische Multiplication mit den auf j) 
+und e bezüglichen Grundbedingungen: 
+
+2) ^)2-f jje=j)£, 
+
+3) pe-i-e^ = ee, 
+
+
+
+4) 
+
+
+p' + p^e = p'£, 
+
+
+5) 
+
+
+p^e+pe^^pes, 
+
+
+6) 
+
+
+pe^-\-^ = e^s, 
+
+
+7) 
+
+
+ph=p'£, 
+
+
+8) 
+
+
+p^e-\-p^e^ = p^es, 
+
+
+9) 
+
+
+p^e~-i-pe^=peh, 
+
+
+10) 
+
+
+pe^ = e^£. 
+
+
+Man bemerke. 
+
+
+dass die Summe der linken Seiten von 7 und 9 
+
+
+identisch ist mit der Summe der linken Seiten von 8 und 10, dass 
+
+
+also auch 
+
+
+
+
+
+
+2)^£ + pe^£ = j^^ee -f e^£ 
+
+
+
+ist. Dies ist aber nichts anderes, als die Incidenzformel VII des 
+§ 10. Benutzt man das dort bei Formel XIII und XIV eingeführte 
+Symbol pe, so erhält man: 
+
+11) p^e^===pe£. 
+
+Endlich erhält man die Formel fünfter Dimension: 
+
+12) ph^==ph£, 
+
+13) p^e^==pe''£. 
+
+Schubert, Kalkül der abzalilenden Geometrie. 6 
+
+
+
+82 Dritter Abschnitt. 
+
+Beispielsweise wenden wir diese Formeln auf die Fläche n^^"" 
+Ordnung an, indem wir jeden Punkt derselben mit seiner Tangential- 
+ebene als ein Paar zusammenfassen, das die Coincidenzbedingung 
+£ erfüllt. Es ist dann p^e gleich der Ordnung n, pes gleich dem 
+Range n(n—l) und e^s gleich der Klasse n{n—iy der Fläche zu 
+setzen. Folglich ergeben sich p^, p^e, pe^, &amp;" aus den Gleichungen 
+4, 5, 6, sobald man eine dieser vier Zahlen kennt. Fassen wir da- 
+her die aus den Punkten und den Tangentialebenen einer Fläche 
+^ten (Grades bestehenden Paare als Coincidenzen gewisser Paare auf, 
+bei denen einem gegebenen Punkte eine einzige Ebene zugeordnet 
+ist, so folgt aus 
+
+durch die Formeln 4, 5, 6 mit Nothwendigkeit: 
+
+p^e = w — 1 , p^ = n{n — \) — {n — 1) = (w — 1)^, 
+e^=-n (w — 1)^ — (w — 1)^ = {n — !)•''. 
+
+Die einem Punkte auf diese Weise hinsichtlich einer Fläche 
+zugeordnete Ebene nennt man bekanntlich seine Polarehene. Für 
+ein einskififjes System von Flächen liefern daher die Formeln 7, 
+10 und 11 unmittelbar die bekannten Sätze der Folarentheorie: 
+
+„Der Grad des einstufigßn Ortes der Polarebenen eines Punktes 
+in Beziig auf alle Flächen eines einstufigen Fläcliensystems ist eben 
+so gross, wie die Zalä der durch einen gegebenen Punkt gehenden 
+Flächen dieses Systems. 
+
+Der Grad der Curve aller Punkte, tvelche in Bezug auf alle 
+Flächen eines einstufigen Flächensystems ein 'änd dieselbe Polarebene 
+haben ^ ist eben so gross, wie die Zahl der eine gegebene Ebene be- 
+rührenden Flächen des Systems. 
+
+Bestimmt man zu den sämmtlichen Punkten einer Geraden die 
+Polarebenen in Bezug auf alle Flächen eines einstufigen Systems, so 
+bilden diese Polarebenen einen ziceistufigen Ort, dessen Grad gleich 
+der Zahl der eine gegebene Gerade berührenden Flächen des Systems ist." 
+
+Wir gehen jetzt dazu über, in analoger Weise das aus einem 
+Punkte p, einem Strahle g und ihrer Verbindungsebene e bestehende 
+Paar zu behandeln. Dasselbe hat die Constantenzahl 7. Als ein- 
+fache Coincidenzbedingung hat man die Bedingung s zu betrachten, 
+welche verlangt, dass p und g einander incident sind und zwar bei 
+völlig bestimmter Verbindungsebene e. Verlangt man jedoch, dass 
+p so auf g fällt, dass als ihre Verbindungsebene jede Ebene durch 
+
+
+
+Die Coincidenzformeln. 83 
+
+g gelten kaim, so legt man dem aus p und g bestehenden Paare 
+eine mveifacJie Bedingung auf, die wir volle Coincidenz (analog in 
+§ 13) nemien. Jedes Paar mit voller Coincidenz erfüllt also die 
+zusammengesetzte Bedingung es. Um eine Beziehung zwischen p, 
+g, e, s aufzufinden, fassen wir bei einem einstufigen Systeme jeden 
+Punkt 2^ mit jedem Punkte q des zugeordneten Strahles g als Pmikte- 
+paar zusammen und wenden auf das erhaltene zweistufige System 
+von Punktepaaren die Formel 2 des § 13 an. Dann ist jf gleich 
+null zu setzen. Für q^ ergiebt sich g, weil die Gerade der Be- 
+dingung q^ von g Strahlen g geschnitten wird, deren jede mit ihrem 
+zugeordneten Punkte ^j ein Punktepaar bestimmt. Für gg ist ^j ein- 
+zusetzen, weil die Ebene der Bedingung gg p Punkte enthält, welche 
+2J zugeordnete Strahlen g besitzen, imd weil jeder dieser Strahlen 
+die Ebene von gg in einem Punkte q schneidet. Ferner hat man 
+für f/p e einzusetzen, weil durch den Punkt von gp e Ebenen gehen, 
+deren jede einen Punkt p und einen zugeordneten Strahl g besitzt, 
+und weil dann die Verbindungslinie eines solchen Punktes jj mit 
+dem Punkte von gp den zugeordneten Strahl in einem Punkte q 
+schneidet. Endlich hat man für das sg der angewandten Formel 
+die Bedingung s zu setzen, dass p auf g fällt und dabei die Ver- 
+bindungsebene e bestimmt bleibt. Als Verbindungsstrahl von p und 
+q hat man nämlich die Gerade aufzufassen, welche von p nach dem 
+Schnitt der Ebene e mit der Geraden der Bedingung sg gezogen 
+werden kami. Es lautet also die gesuchte Beziehung 
+
+
+
+14) 
+
+
+p-hg-e^s. 
+
+
+Hieraus folgt weiter: 
+
+
+
+
+16) 
+
+
+P^ + pg-pe=ps, 
+
+
+oder 
+
+
+]P9 + ff-eg = gs, 
+
+
+16) 
+
+
+pg-^üe-e'^gs, 
+
+
+oder 
+
+
+2^e-\-eg-e^ = es, 
+
+
+17) 
+
+
+pe-\-g,, = es, 
+
+
+oder 
+
+
+f-]rp^g-p^e=p's, 
+
+
+18) 
+
+
+p^g-^e = pH, 
+
+
+oder 
+
+
+P9e+gs-egg^ges, 
+
+
+19) 
+
+
+pge-e^^ges, 
+
+
+
+6* 
+
+
+
+34 Dritter Abschnitt. 
+
+20) P[Jp + 9s-egp = gpS, 
+
+
+
+oder 
+
+21) iie^-\-e(jp=^e^£, 
+
+p^c-\-peg —2ie^=pe£, 
+oder 
+
+22) P^c-^2Jgp=peE, 
+
+
+
+23) 
+
+
+
+Pf/s+G-cg, = (hs, 
+
+
+
+oder 
+
+24) P(fs-e^cj = fj,e, 
+
+25) P^9e-pe^-=P(h£, 
+2G) 2'e' + e'&lt;/ = e^f, 
+
+27) x)^e+peg —pe^=pc,£, 
+
+28) 2^//, + 13 e^ = e &lt;/« £ , 
+
+und so fort. 
+
+Aus diesen Formeln ergeben sich durch duale Uehertragung die 
+analogen Formeln für das aus einem Strahle g, einer Ebene e und 
+ihrem Schnittpunkt p bestehende Gebilde. 
+
+Als Beispiele für die obigen Formeln wählen wir die Zahl- 
+beziehungen (Lit. 28), welche sich mif Correspondenzen zwisclien den 
+Punkten eines Punltorts und den StraJden eines gleichstufigen Strahl'cn- 
+orts beziehen. Dabei haben wir zu beachten, dass, wenn ein Punkt 
+eines gegebenen Punktorts mit einem Strahle eines gegebenen 
+Strahlenorts coincidirt, dass dann das aus beiden Hauptelementen 
+bestehende Paar die Bedingung es und nicht bloss e erfüllt, weil 
+als Verbindungsebene des Punktes und des ihm incidenten Strahlet 
+jede durch den Strahl gehende Ebene aufgefasst werden darf. Ist 
+daher eine Raumcurve m*'"'" Ordnung und eine Linienfiäche a*®° Grades 
+derartig auf einander bezogen, dass jedem Punkte der Raumcurve 
+y Strahlen der Linienfläche entsprechen und jedem Strahle der 
+letzteren n Punkte der Raumcurve entsprechen, so hat man For- 
+mel 14 anzuwenden, e gleich null zu setzen und m.y für ^ und 
+a.TC für g zu substituiren; e aber bezeichnet dann den Grad des 
+einstufigen Orts derjenigen Ebenen, welche immer einen Punkt der 
+Raumcurve mit dem entsprechenden Strahl der Linienfläche ver- 
+binden. Also gilt der Satz (cf. Brill, Math. Ann. Bd. VII p. 621): 
+
+„ Sind eine Bamnciirve m'*" Grades und eine Linienfläche a'^" Gra- 
+des derartig auf einander belogen, dass jedem Pmtkte der Baumcurve 
+
+
+
+Die Coincidenzformeln. 85 
+
+y Strahlen der Linien fläche, und umgekehrt jedem Strahle der Linien- 
+fläehe n Funkte der Batimcurve entsprechen, so (jehen von den oo^ Ver- 
+hindungsebenen entsprechender Elemente immer 
+
+m.y-\-a.7t 
+durch jeden Punkt des Baumes/^ 
+
+Ebenso erliält man aus den Formeln 15, 16, 17 Resultate, 
+welche sich auf Correspondenzen zwischen den Punkten einer Fläche 
+und den Strahlen einer Congruenz beziehen. In diesem Falle hat 
+man ps und gs gleich null zu setzen und es giebt an, wie oft es 
+vorkommt, dass ein Punkt auf dem ihm entsprechenden Strahle 
+liegt. Eliminirt man das Symbol pe aus den drei Gleichungen, so 
+erhält man zwei Zahlbeziehungen, welche sich aussprechen lassen 
+wie folgt: 
+
+„Es mögen die Punkte einer Fläche m*"" Grades den Strahlen 
+einer Congruenz vom Feldrange a und vom Bündelrange h derartig 
+entsprechen, dass jedem Punkte der Fläche y Strahlen der Congruenz 
+und umgekehrt jedem Strahle der Congruenz n Punkte der Fläche zu- 
+geordnet sind, dass ferner den oo^ Punkten einer aus der Fläche aus- 
+geschnittenen ebenen Curve die Strahlen einer Linienfläche d'«" Grades 
+entsprechen. Bann ist der Grad des Orts der oo^ Verbindungsebenen 
+entsprechender Elemente oder, was dasselbe ist, die Klasse der von ihnen 
+eingehüllten Fläche gleich 
+
+a . TT + ö, 
+und die Zcüü derjenigen Strahlen, deren entsprechende Punkte auf ihnen 
+selbst liegen, gleich 
+
+m.y-\-d-\-b.7i. 
+
+Um eine analoge Formel bei der Correspondenz der oo^ Punkte 
+des Raumes mit den oo^ Strahlen eines Complexes zu erhalten, 
+eliminiren wir aus den fünf Formeln 18 bis 22 die Bedingungen: 
+
+pe,^ e^, egp. 
+Daiui erhalten wir für den Fall, dass p^s, geS^ gpS gleich null ist, 
+die Formeln: 
+
+pee=p^-{-p^g-\-pgp 
+und 
+
+ges = e^e ==p^g +pge -i-pgp+gs- 
+Aus ihnen geht dann folgender Satz hervor: 
+
+„Es mögen die Punkte des Baumes auf die Strahlen eines Linien- 
+complexes a'*"* Grades derartig bezogen sein, dass jedem Punkte y Strah- 
+len des Complexes und umgekehrt jedem Complexstrahl % Punkte zu- 
+geordnet sind, dass ferner den go^ Punkten einer gegebenen Geraden 
+
+
+
+86 Dritter Abschnitt. 
+
+die 00^ Strahlen einer im Coniplexe liegenden LinientUicIie d'^" Grades 
+entsprechen, und dass endlich den oo^ Punhten einer gegebenen Ebene 
+die 00 2 Strahlen einer im Complexe liegemlen Congruenz zugelwren, die 
+den Bündelrang ß imd den Feldrang (p hat. Dann bilden diejenigen 
+FunUe des Baumes, die auf entsprechenden Strahlen liegen, eine Curvc 
+vom Grade 
+
+und diese ihnen entsprechenden Strahlen selbst eine Linienflüche vom 
+Grade 
+
+d-\-ß-\-(p-\-a.7i. 
+
+Analog den eben aufgestellten Formeln für die Correspondenz 
+zwischen den Elementen der Pnnktörter und den Elementen der 
+ihnen gleich stufigen Strahlenörter kaim man aus den Coincidenz- 
+formeln auch Formeln gewinnen für die Correspondenz zwischen 
+den Elementen von irgendwelcJien zwei anderen Oertern, z. B. 
+zweier Complexe. 
+
+§ 18. 
+
+Ableitung der Cayley-Briirschen Correspondenzformel aus 
+
+deu allgemeiuen Coincidenzformeln für Puuktepaare. 
+
+Mehrere Mathematiker (Lit. 29) haben Werth darauf gelegt, 
+das Chasles'sche Correspoudenzprincip von der geraden Punktreihe 
+auf Plancurven auszudehnen, und sind dabei zu folgendem Resultate 
+gelangt: 
+
+^^Gegeben sei eine feste Plancurve b vom Geschlechte p und der_ 
+Ordnung m, und ein derartiger algebraischer Zusammenhang mvischen den 
+PunJcten ihrer Ebene, dass jedem Punkte x der Ebene sämmtliche Punlcte 
+einer Curve s'*'" Ordnung entsprechen, und umgelcehrt jedem Punlcte y 
+der Ebeiie sämmtliche Punlcte einer Curve r*«'" Ordnung. Dann ent- 
+sprechen einem Punkte x der Curve b m.s Punkte y, welche gleich- 
+falls auf der Curve b liegen. Umgekehrt entsprechen auf b einem 
+Punkte y m.r Punkte x. Bei möglichst allgemeiner Auffassung muss 
+man nun annehmen, dass in jedem Punkte der Curve b ymal eine 
+Coincidenz zweier einander zugeordneter Punkte x und y stuttfindet, 
+nur dass der Verbindungsstrahl dieser coincidirenden Punkte im all- 
+gemeinen nieht mit der Tangente zusammen zu fallen braucht. Es ent- 
+sprechen also dadurch auf b jedem Punkte x nur m .s — y = a von x 
+verschiedene Punkte y, und umgekehrt jedem Punkte y nur m.r — y=-ß 
+von y verschiedene Punkte x. Dann soll es auf der Curve b 
+r = cc-\-ß-^2p.y 
+
+
+
+Die Coincidenzformeln. f^7 
+
+3Iale vorkommen, dass 2'Wci so zusammengehörige Punkte x und y 
+unendlich nahe liegen." 
+
+Das durch diese Formel gelöste Problem gewinnt bei der durch 
+luisereu Kalkül ermöglichten allgemeineren Auffassung des Corre- 
+spondeuzprincips folgende Gestalt: 
+
+„Gegeben ist in fester Ebene erstens ein dreistufiges System U.^ 
+von Ptinktepaaren p, q, g. Dasselbe besitzt ein zweistufiges System U^ 
+von Coincidenzen s, deren jede aus dem Coineidenzpunkte p und dem 
+die coincidirendcn Punkte vei'bindemlen Strahle g besteht. Gegeben ist 
+zweitens in derselben Ebene eine Plancurve m'*'" Ordnung, n^""- Banges, 
+ivelche durch ihre oo^ Tangenten und zugehörigen Berührungspunkte 
+ein einstufiges System 2^^ von Gebilden feststellt, deren jedes aus 
+einem Strahle und einem darauf liegenden Punkte besteht. Gesucht 
+ivird die Zahl x der dem Systeme 2J2 und Uj^ gemeinsamen Gebilde." 
+
+Diese Zahl ist in § 14 am Schluss berechnet. Es ist nämlich 
+
+1) T = 7n.v-\-n.[i, 
+
+wo V angiebt, wieviel Gebilde in 2^ liegen, die einen gegebenen 
+Strahl g besitzen, und ft angiebt, wieviel Gebilde in U2 liegen, die 
+einen gegebenen Coincidenzpunkt p) besitzen. Es ist also für v eye 
+und für ^ ep)^ einzusetzen. Es handelt sich also bloss noch danim, 
+sge und sp^ durch die Zahlen cc, ß, y auszudrücken. Das Symbol 
+sp^ zählt aber, wie oft jeder Punkt der festen Ebene als Coinci- 
+denzpunkt auftritt, ist also gleich y zu setzen. Um auch sgg zu 
+bestimmen, wenden wir die Punktepaarformel 13 des § 13 (pag. 45) 
+an-, diese heisst: 
+
+sgp -\-sge-\-2. ep^ =p^ + p^q -\-pq^ + q^. 
+
+Hier ist wegen der festen Ebene sgp, ]f und &lt;f gleich null zu 
+setzen; sp^ ergab sich eben gleich y^ p^q ist der oben mit s be- 
+zeichnete Grad der Curve, deren Punkte einem Punkte x entsprechen, 
+p&lt;f ist der oben mit r bezeichnete Grad der Curve, deren Punkte 
+einem Punkte y entsprechen. Also ergiebt sich aus der Coincideuz- 
+formel : 
+
+2) sge = s-\-r — 2.y oder v = s-\-r — 2.y. 
+Folglich wird aus Formel 1: 
+
+3) t =- m . s -\- m . r — 2 . m . y -\- n . y. 
+
+Nun sollte aber die Zahl m.s — y mit a und die Zahl m.r — y 
+mit ß bezeichnet werden. Ersetzt man demgemäss m . s durch 
+c(--\-y, m.r durch ß-\-y, so kommt endlich: 
+
+4) r=^a + ß + y.{n-2.m + 2). 
+
+
+
+38 Dritter Abschnitt. Die Coincidenzformeln. 
+
+Herr Brill hat aber die gesuchte Zahl gleich 
+
+gefunden, wo p das Geschlecht der Curve h bezeichnet. Da nun 
+nach den Plücker' sehen Formeln 
+
+2p = n-2.m.-]-2-\-h 
+ist, wo Je die Zahl der Rückkehrpunkte auf b ist, so ist die 
+Brill'sche Zahl um y . Je grösser als die unsere. Dieser Widerspruch 
+erledigt sich dadurch, dass bei der durch den Geschlechtsbegriff 
+veranlassten Auffassung von Brill (Clebsch's Vorl. v. Lindemann, 
+I. Th. pag. 456, 457, 460) in jedem Rückkehrpunkte y Coincidenzen 
+auch dann mitgezählt werden, wenn der Yerbindungsstrahl der 
+coincidirendeu Punkte nicht mit der Rückkehrtaugente zusammen- 
+fällt. Infolge dessen hat Brill seine Zahl jedes Mal um y .h zu 
+vermindern, wenn die einem Rückkehrpunkte entsprechende Corre- 
+spondenzcurve in ihm einen a- fachen Punkt besitzt. 
+
+Ein näheres Eingehen auf die Art und Weise der Anwendung 
+der Formel 4 kann der Verfasser sich ersparen, weil diese Formel 
+in den folgenden Untersuchungen niemals zur Anwendung gelangt, 
+da immer die unmittelbare Benutzung der Coincidenzformeln des 
+§ 13 schneller und bequemer zum Ziele führt. 
+
+Die Brill'sche Formel für die Zahl derjenigen Punktepaarc 
+einer Plancurve, welche 2Wei auf dieser Curve liegenden Correspon- 
+denzen gemeinsam sind, ergiebt sich bei uns in § 42 (Formel 29) 
+aus den allgemeinen Formeln für die gemeinsamen Elemente zweier 
+Systeme von Punktepaaren (Lit. 54). 
+
+
+
