@@ -1,0 +1,1616 @@
+Literatur-Bemerkungen. 
+
+
+
+Erster Abschnitt. 
+
+Dieser Absclinitt entwickelt in fasslicher Form die Gi'undregeln für das 
+Rechnen mit geometrischen Bedingungen und eine zweckmässige, in den folgen- 
+den Abschnitten beständig benutzte Bezeichnungsweise der am häufigsten vor- 
+kommenden Lagebedingungen. Die ersten Spuren eines Rechnens mit Beding- 
+ungen finden sich in den Abhandlungen von Halphen über die Charakteristiken 
+der Kegelschnitte und Flächen zweiten Grades (Comptes rendus, tome 76, 
+pag. 1074, und Bull, de la Soc. math , tome I, Heft 5) und in meinen Mit- 
+theilungen über die Anzahlen bei Plancurven dritter Ordnung (Gott. Nachr. 
+1874, pag. 267 und 1875, pag. 359). In systematischer, aber vielleicht zu ab- 
+stracter Form entwickelte ich die Grundlagen des Bedingungskalküls zuerst in 
+dem ersten Abschnitt meiner „Beiträge zur abzählenden Geometrie" (Math. 
+Ann. Bd. 10, pag. 8). 
+
+Lit. 1, pag. 2. In Grunert-Hoppe's Archiv (Bd. 63, pag. 97 bis 99) leitete 
+ich ausser diesem Werthe für die Constayitenzahl eines Polyeders noch einen 
+zweiten Werth ab, nämlich 
+
+c = 4.Ä;-3.e-3./'+12, 
+und erhielt durch Gleichsetzung der beiden Werthe einen neuen Beweis des 
+Euler'schen Satzes e + f= Ä + 2. Mit Benutzung des letzteren fand schon Hoppe 
+in Grunert's Archiv Bd. 55, pag. 217, dass die Constantenzahl eines Polyeders 
+gleich seiner Kantenzahl ist. 
+
+Lit. 2, pag. 3. Die Constantenzahl des strahlallgemeinen Gomiilexes be- 
+stimmte zuerst Lüroth in Crelle's Journal Bd. 67, dann auch Voss in den 
+Math. Ann. Bd. 9 , pag. 59. 
+
+Lit. 3, pag. 3. Das (symbolische) Product von Bedingungszeichen schrieb 
+zuerst Halphen in den Comptes rendus, tome 76, pag. 1074. Um damit sym- 
+bolisch zu rechnen, definirte ich das Product von Bedingungen zuerst im Mai- 
+heft der Gott. Nachr. von 1874 (pag. 272). Ausführlicher zeigte ich die Ana- 
+logie der Faktoren eines Productes mit den zusammensetzenden Bedingungen 
+einer zusammengesetzten Bedingung in meinen späteren Abhandlungen, nament- 
+lich in den Gott. Nachr. von 1875, pag. 363, Math. Ann. Bd. 10, pag. 10 und 
+Bd. 10, pag. 322. Dort hatte ich jedoch noch nicht die Summe zweier Be- 
+dingungen als eine neue Bedingung aufgefasst, was hier geschehen ist. Die 
+Anwendung der Multiplication und der Addition bei Bedingungen ist analog 
+der Anwendung ebenderselben Operationen im LogiJckalkül (cf. E. Schröder's 
+Operationskreis des Logikkalküls, Teubner 1877, pag. 5 bis 7). Dort bezeichnet 
+
+
+
+334 Literatur -Bemerkungen. 
+
+a mal b alles, was sou-ohl a als b ist, hier die Bedingung, welche ausspricht, 
+dass sowohl die Bedingung a, wie auch die Bedingung b erfüllt werden soll. 
+Dort bezeichnet a plus b alles, was enhceder a oder b ist, hier die Bedingung, 
+welche ausspricht, dass entweder die Bedingung a oder die Bedingung b er- 
+füllt werden soll. 
+
+Lit. 3a, pag. 6. In den Comptes rendus benutzt Chasles in jedem 
+Jahre seit 1871 das von ihm in den Comptes rendus von 1864 zuerst ausge- 
+sprochene Correspoudenzprincip (hier pag. 43) , um viele Hunderte von Anzahlen 
+für die Ordnung oder den Rang von Plancurven zu bestimmen, welche mit 
+gegebenen Plancurven irgendwie durch Bedingungen verwebt sind. Diese An- 
+zahlen sind meist Functionen der Ordnungs- und Rangzahlen der gegebenen 
+Curven. Die Bedingungen, welche den Zusammenhang der gegebenen Curven 
+mit den gesuchten aussprechen, sind seit 1874 vorzugsweise metrische. Sie be- 
+ziehen sich z. ß. auf ähnliche Dreiecke (C. R. Bd. 78 und 79), auf die Gleich- 
+heit, das constante Verhältniss, das constante Product und die constante 
+Summe gewisser Strecken, die auf Tangenten oder Normalen gegebener Curven 
+ausgeschnitten werden (C. R. Bd. 81, 82, 83), endlich auch auf den constanten 
+Umfang (C. R. Bd. 85) von Dreiecken, deren Ecken auf gegebenen Curven 
+liegen und deren Seiten gegebene Curven berühren. Die Bestimmung aller 
+solcher Anzahlen würde durch Anwendung des in diesem Buche entwickelten 
+Kalküls wesentlich erleichtert werden. 
+
+Lit. 4, pag. 12. Das Princip von der Erhaltung der Anzahl verwerthete 
+ich zuerst in den Gott. Nachr. von 1874 (pag. 274), um daraus Anzahlbe- 
+ziehungen für die Plancurven dritten Grades aufzufinden. Dort nannte ich es 
+„Princip der speciellen Lage'^, weil ich damals nur die hier mit II bezeichnete 
+Form anwandte. Den Namen „Princip von der Erhaltung der Anzahl" gebrauchte 
+ich zuerst in der ersten Abhandlung meiner „Beiträge zur abzählenden Geo- 
+metrie" (Math. Ann. Bd. 10, pag. 23), wo auch zuerst mit Hilfe des Princips 
+die wichtigen Formeln erkannt sind, welche hier unter dem Namen „Incidenz- 
+formeln" im zweiten Abschnitt abgeleitet und in den folgenden Abschnitten 
+fortwährend benutzt sind. Andere Anwendungen dieses fruchtbaren Princips 
+enthält der § 12 meiner Abhandlung über „Moduln bei Flächen zweiten Grades" 
+(Math. Ann. Bd. 10, pag. 351 bis 355). Für specielle Ableitungen ist das 
+Princip oft auch von Anderen verwerthet, z. B. in der Form I von Lothar 
+Marcks, welcher in den Math. Ann. Bd. 5, pag. 27 bis 30 die Ordnung der 
+Krümmungsmittelpunktsfläche einer Fläche Jiten Grades (cf. Sturm, Math. Ann. 
+Bd. 7, pag. 567) findet, indem er abzählt, wieviel Punkte eine unendlich ferne 
+Gerade mit ihr gemein hat. Die Form III des Princips benutzte Jonquieres 
+zur Bestimmung von Anzahlen, z. B. zur Berechnung der Constantenzahlen der 
+punktallgemeinen Plancurve und der punktallgemeinen Fläche (Brioschi Ami. 
+VIII 312 bis 328). Neuerdings gab Hurwitz (Math. Ann. Bd. 15, pag. 8) eine 
+interessante Anwendimg der Form IV des Princips, um die Steiner'schen und 
+Poncelet'schen Sätze über Schliessungsprobleme und einige ähnliche Resultate 
+auf die einfachste Weise abzuleiten. 
+
+Lit. 5, pag. 16. Diese Zahlen für die in einem ebenen Schnitt einer 
+Fläche liegenden Normalen und für die von einem Punkte auf eine Fläche 
+gefällten Kormalen gab zuerst Sturm in den Math. Ami. Bd. 7, pag. 567 u. f. 
+
+
+
+Literatur -Bemerkungen. 335 
+
+Lit. 5 a, pag. 18. Die Betheiligung der transcendenten Curven und 
+Flächen an algebraischen Systemen studirte Fouret namentlich im Bull, de la 
+Soc. math., tome 1 und 2, in den Comptes rendus, Bd. 78, 79, 82. In diesen 
+Abhandlungen entwickelt Fouret zugleich den interessanten Zusammenhang 
+der Systeme von Curven und Flächen mit algebraischen Differentialgleichungen. 
+
+Lit. 6, pag. 17. F. Klein beweist seine auf die Unterscheidung der 
+reellen und der imaginären Singularitäten bezügliche Formel durch Continui- 
+tätsbetrachtungen in den Erl. Ber. von 1875 und d. Math. Ann. Bd. 10, pag. 199. 
+
+Lit. 7, pag. 18. Den Vorschlag, mit Ordnung den Grad eines Punktortes, 
+mit Mang den Grad eines Strahlenortes, mit Klasse den Grad eines Ebenenortes 
+zu bezeichnen, machte ich in den Math. Ann. Bd. 10, pag. 21. Nach dieser 
+Terminologie richtet sich auch die Wahl der Namen für die hier in § 21, 
+pag. 101 definirten Begriffe der Ordnungscurven, Ordnimgsgeraden , Ordnungs- 
+flächen, Ordnungsebenen; Rangcurven, Rangbüschel (Bangpunkte, Rangebenen), 
+Rangflächen, Rangaxen; Klassencurven , Klassenaxen, Klassenflächen, Klassen- 
+punkte. 
+
+Lit. 8, pag. 19. Der Gedanke, hinsichtlich eines gegebenen Gebildes 
+und eines gegebenen Systems jeder Bedingung eine dadurch bestimmte Anzahl 
+zuzuordnen und diese Anzahl ebenso zu bezeichnen wie die Bedingung, findet 
+sich zuerst in meiner ersten Mittheilung über die cubischen Plancurven in den 
+Gott. Nachr. vom Mai 1874. Dieser Gedanke in Verbindung mit dem Gedanken, 
+eine Gleichung zwischen Bedingungen mit einer neuen Bedingung symbolisch 
+zu multipliciren (cf. hier pag. 3 und Lit. 3), waren für die Ausbildung der 
+Terminologie und des Kalküls der abzählenden Geometrie von fundamentaler 
+Bedeutung. 
+
+Lit. 9, pag. 22. Die Theorie der algebraischen Sijsteme von Punkten, 
+d. h. der Curven und Flächen, sind besonders ausführlich behandelt in den bei 
+Teubner erscheinenden inhaltreichen Werken von Salmon- Fiedler und Clebsch- 
+Lindemann. An diese beiden Werke schliesst sich auch das vorliegende Buch 
+am engsten an, zwar nicht hinsichtlich der Methode, aber doch hinsichtlich 
+der behandelten Gebilde. Die Systeme von Strahlen sind zuerst um ihrer 
+selbst willen studirt in den Abhandlungen von Kummer in den Ber. der Berl. 
+Akad. und im Crelle'schen Journal , ferner in der „Neuen Geometrie des Raumes" 
+von Plücker- Klein, dann auch in manchen Abhandlungen der Gott. Nachr. 
+und der Math. Ann., sehr ausführlich namentlich in drei Abhandlungen von 
+Voss, Math. Ann. Bd. 8, 9 und 10 (cf. auch Lit. 49). Die einstufigen Systeme 
+von Plancurven studirte zum Zweck der Berechnung von Anzahlen, hinsichtlich 
+der in solchen Systemen vorhandenen Singularitäten (courbes degenerees , Aus- 
+artungen) Zeuthen in seiner grossen, in den Berichten der Kopenhagener Aka- 
+demie 1873 (Naturw. og math. Afd. 10, Bd. IV) erschienenen Abhandlung 
+„Almindelige Egenskaber ved Systemer af plane Kurver". Die Systeme der 
+Gebilde, welche aus einzelnen Punkten, Strahlen, Ebenen zusammengesetzt 
+sind, wie z. B. des Gebildes, welches aus zwei Punkten und ihrem Verbin- 
+dungsstrahle besteht, studirte der Verfasser in den Gott. Nachr. (.Juliheft 1877), 
+und z'^ar mit Hinblick auf die Fragen nach der Zahl der gemeinsamen Gebilde 
+zweier solcher Systeme, d. h. also auf die Fragen, denen in der Punkt- Geo- 
+
+
+
+336 Literatur -Bemerkungen. 
+
+metrie die Frage entspricht, in wieviel Punkten sich eine Fläche und eine 
+Raumcurve, oder drei Flächen schneiden. (Man vergleiche hier die im Ab- 
+schnitt VI gelösten Probleme.) Specielle dreistufige Systeme von Gebilden, 
+deren jedes aus einem Punkte und einem Strahle besteht, behandelte zuerst 
+Clebsch 1872 in den Abh. der Gott. Ges. Bd. 17, unter dem Namen „Connexe"' 
+(Clebsch-Lindemann's Werk, pag. 924 u. f.) [cf. auch Lit. 52a]. 
+
+
+
+Zweiter Abschnitt. 
+
+Dieser Abschnitt entwickelt die in den folgenden Abschnitten fortwährend 
+benutzten Incidenzformeln. Die Incidenzformeln stellte ich theilweise schon 
+1875 in den Gott. Nachr. (pag. 370 und 371) auf und vollständig in den Math. 
+Ann. Bd. 10, pag. 26 bis 36. 
+
+Lit. 10, pag. 25. Der Ausdruck „incident^^ für die angegebene specielle 
+Lage verschiedenartiger Hauptelemente zu einander, rührt von Grassmann und 
+Sturm her. Den Ausdruck „ Incidenzfonneln " gebrauchte ich zuerst in meiner 
+zweiten Abhandlung der Beitr. zur abz. Geom., Math. Ami. Bd. 13, pag. 430. 
+
+Lit. 11, pag. 27. Diesen Satz benutzte z. B. Zeuthen in den Comptes 
+rendus vom Februar 1872 für einstufige Systeme von Plaucurven, femer im- 
+plicite auch Sturm in seinen Abhandlungen über cubische Raumcurven (Crelle's 
+Journal Bd. 79 und 80). 
+
+Lit. 12, pag. 33. Das Sjnnbol pe hatte ich in meinen früheren Abhand- 
+lungen noch nicht angewandt, vielmehr statt dessen immer {p^e—2i^) oder 
+(j^e^ — e^) geschrieben. 
+
+Lit. 13, pag. 35. Diese Formel zwischen den Bedingungen von vier in 
+einer und derselben Ebene befindlichen Punkten schrieb mir Hurwitz 1876, 
+nachdem ich ihm die Formel zwischen den Bedingungen von drei in gerader 
+Linie befindlichen Punkten mitgetheilt hatte (hier pag. 29 unter Nr. 2). 
+
+Lit. 14, pag. 38. Diese Formeln habe ich in den Math. Ann. Bd. 10, 
+pag. 37 bis 42 ausführlich abgeleitet, um sie bei der Plancurve dritter Ord- 
+nung vierten Ranges auf das aus den drei Wendetangenten gebildete Dreiseit 
+anwenden zu können (liier pag. 157 bis 159). Hier ist die Ableitung dem 
+Leser überlassen. 
+
+Lit. 15, pag. 40. In meinen Beitr. zur abz. Geom. (Math. Ann. ßd. 10, 
+pag. 33 bis 37) leitete ich die hier auf pag. 40 und 41 bewiesenen Formeln 
+weniger geschickt ab , indem ich sie damals noch nicht als specielle Fülle der 
+in den §§ 7 und 10 entwickelten Formeln hinstellte. 
+
+
+
+Dritter Abschnitt. 
+
+Dieser Abschnitt entwickelt aus dem Chasles'schen Correspondenzprincip 
+mit Hilfe des im ersten Abschnitt begründeten Kalküls mid der im zweiten 
+Abschnitt bewiesenen Incidenzformeln die Formeln für die Bedingungen, dass 
+
+
+
+Literatur -Bemerkungen. 337 
+
+sich zicei Hauptelemente unendlich nahe liegen. Diese Formeln, welche Corre- 
+spondenz formein oder Coincidenzformeln heissen, habe ich zuerst in den Math. 
+Ann. Bd. 10, pag. 54 bis 69 abgeleitet. Hier sind jedoch manche neue An- 
+wendungen hinzugefügt. 
+
+Lit. 16, pag. 45. Die Ausdehnung des Chasles'schen Correspondenzprin- 
+cips auf die Punkte einer Ebene und auf die Punkte im Baume verdankt man 
+Salmon (Geom. of three dim. sec. ed. 1865, pag. 511, in der Fiedler'schen Be- 
+arbeitung pag. 566) und Zeuthen (Comptes rendus, Juni 1874). Die hier ge- 
+gebene allgemeinere Auffassung der Correspondenzfragen zeigte ich zuerst in 
+den Math. Ann. Bd. 10 , pag. 54 flg. 
+
+Lit. 17, pag. 47. Die Bezout'sche Zahl der gemeinsamen Punkte von 
+drei Flächen bloss mit Hilfe des Correspondenzprincips zu bestimmen, gelaug 
+z. B. Pouret in dem Bull, de la Soc. math. Bd. 1, pag. 122 und 258. Ich er- 
+kannte die Formeln für die Zahl der gemeinsamen Elemente von Oertern als 
+specielle Fälle der allgemeinen Correspondenzformeln zuerst in den Math. Ann. 
+Bd. 10, pag. 91 flg. 
+
+Lit. 18, pag. 54. Die Zahl der Plancurven. eines Systems, welche eine 
+gegebene Plancurve berühren, ist zuerst von Chasles in den Comptes rendus 
+angegeben, dann von Zeuthen in den Math. Ann. Bd. 3, pag. 153 allgemein 
+bewiesen. Die Formel für die Zahl der Flächen eines Systems, welche eine 
+gegebene Fläche berühren, ist für den Fall, dass letztere puuktallgemein ist, 
+zuerst von Jonquieres in den Comptes rendus Bd. 58 und 61 bewiesen, und 
+für eine beliebige Fläche von Brill in den Math. Ann. Bd. 8, pag. 534 bis 538. 
+Endlich erkannte ich diese Formel in den Gott. Nachr. 1877, pag. 407 als spe- 
+ciellen Fall der Formel für die Zahl der gemeinsamen Strahlbüschel eines 
+zweistufigen und eines dreistufigen Systems von Strahlbüscheln (cf. hier Ab- 
+schnitt VI, pag. 300 und Lit. 52). 
+
+Lit. 19, pag. 55. Den Grad der Curve der Berührungspunkte von allen 
+möglichen zwei sich berührenden Flächen aus zwei einstufigen Flächensystemen 
+bestimmte ich mit einigen verwandten Zahlen zuerst in den Math. Ann. Bd. 10, 
+pag. 109. 
+
+Lit. 20, pag. 56. Den Grad der Fläche der Berührungspunkte von allen 
+möglichen zwei sich berührenden Flächen aus einem einstufigen und einem 
+zweistufigen Flächensysteme bestimmte zuerst Fouret in den Comptes rendus 
+Bd. 80, pag. 805, dann ich aus meinen Strahlbüschelformeln in den Gott. 
+Nachr. 1877, pag. 408 (cf. Lit. 18 und Abschnitt VI , pag. 302). 
+
+Lit. 21 , pag. 62. Die Zahl der zweien Congnienzen gemeinsamen Strahlen 
+bestimmte zuerst Halphen in den Comptes rendus vom Jahre 1872, pag. 41, 
+dann mit Hilfe des Correspondenzprincips Zeuthen in den Comptes rendus 
+vom Juni 1874. Eine sehr einfache Ableitung gab ich 1876 in den Math. Ann. 
+Bd. 10, pag. 96. 
+
+Lit. 22, pag. 64. Diesen von F. Klein herrührenden Satz findet man in 
+einer Mittheilung von S. Lie, Gott. Nachr. 1870, Nr. 4. 
+
+Lit. 23, pag. 64. Der § 16 ist ein Auszug aus meiner in den Math. 
+Ann. Bd. 10, pag. 318 veröffentlichten Abhandlung „Moduln vielfacher Beding 
+ungen bei Flächen zweiter Ordnung". 
+
+Schubert, Kalkül der abzählenden Geometrie. 22 
+
+
+
+338 Literatur- Bemerkungen. 
+
+Lit. 24, pag. 68. Auf die Erzeugung von ausgearteten Curven durch 
+homographische Abbildung der allgemeinen Curven machte mich Herr Zeuthen 
+1876 brieflich aufmerksam. 
+
+Lit. 25, pag. 71. Diese drei Formeln zwischen den elementaren Beding- 
+ungen fi, V, Q und den drei Ausartungsbedingungen cp, %, '^ bei der Fläche 
+zweiten Grades hat zuerst Zeuthen in den Overs. ov. d. K. Selsk. Forh. 1866 
+und den Nouv. Ann. (2), VII, pag. 385 aufgestellt. 
+
+Lit. 26, pag. 77. Dieser Ausdruck für die Bedingung, dass eine Fläche 
+zweiten Grades eine gegebene Gerade enthalte, ist zuerst von Hurwitz durch 
+das Princip von der Erhaltung der Anzahl gefunden (cf. Math. Ann. Bd. 10, 
+pag. 354). Dagegen rühren die Formeln VIII bis XIV vom Verfasser her. 
+
+Lit. 27, pag. 80. Diesen speciellen Fall der Formel XIV gab Cremona 
+in den Comptes rendus, tome 59, pag. 776, Halphen im Bull, de la Soc. math. 
+Bd. 1, und Lindemann in seinen „Vorles. von Clebsch", pag. 406, Formel 11. 
+
+Lit. 28, pag. 84. Solche Zahlbeziehungen im Fall des ein -eindeutigen 
+Entsprechens erwähnt Brill bei den Beispielen zu seiner Correspondenzformel 
+in den Math. Ann. Bd. 7, pag. 621 (cf. hier § 18 , Lit. 29). 
+
+Lit. 29, pag. 86. Die Correspondenzformel für Curven vom Geschlechte 
+null sprach zuerst Chasles 1866 aus in den Comptes rendus, tome 62, für Cur- 
+ven von allgemeinem Geschlechte Cayley in demselben Bande pag. 586 und 
+später auch in den Phil, trans. of the R. S. vol 158, 1868. Endlich gab Brill 
+ausreichende Beweise und eine eingehende Discussion der Formel in den Math. 
+Ann. Bd. 6, pag. 33, 1873, und in den Math. Ann. Bd. 7, pag. 607, 1874. Die 
+Brill'schen Betrachtungen sind auch in dem Clebsch -Lindemann'schen Werke, 
+pag. 441 üg. enthalten. 
+
+
+
+Vierter Abschnitt. 
+
+In diesem Abschnitte werden für verschiedene Gebilde mit Benutzung 
+der durch die vorhergehenden Abschnitte gewonnenen Anzahl- Beziehungen die 
+Anzahlen selbst berechnet, indem dieselben auf bekaimte Anzahlen von ein- 
+facheren Gebilden mit kleinerer Constantenzahl zurückgeführt werden. Einen 
+Theil der Untersuchungen dieses Abschnittes hat der Verfasser schon früher 
+in den Math. Ann. publicirt; doch ist auch Vieles neu, namentlich die §§ 25 
+und 28 bis 32. 
+
+Lit. 30, pag. 90. Die Anzahlen für Kegelschnitte sind grösstentheils 
+schon von Chasles in den Comptes rendus von 1864 und 1867 berechnet. 
+Ueber die ersten Arbeiten von Chasles und anderen auf dem Gebiete der ab- 
+zählenden Geometrie bis 1872 vergleiche man das von Painvin publicirte 
+Literaturverzeichniss im Darboux Bull. III, pag. 155 bis 160. 
+
+Lit. 31, pag. 97. Für die Zahl der Kegelschnitte einer Ebene, welche 
+fünf gegebene Kegelschnitte berühren, gab Jacob Steiner irrthümlich 6^ an. 
+Die richtige Zahl 3264^ fanden zuerst Chasles und Th. Bereut. 
+
+
+
+Literatur - Bemerkungen. 339 
+
+Lit. 32, pag. 97. Die erste Berechnung von geometrischen Anzahlen 
+durch Ausartungen leistete Chasles in den Comptes rendus von 1864 beim 
+Kegelschnitt. Für höhere Curven machte erst Zeuthen die Methode brauchbar 
+durch seine eingehenden Untersuchungen in den Alm. Egenskaber ved Systemer 
+af plane Kurver (Kopenh. Acad. 1873, Naturw. og math. Afd. 10, Bd. IV). 
+
+Lit. 33, pag. 102. Die Elementarzahlen der Flächen zweiten Grades be- 
+rechnete zuerst Zeuthen in den Overs. ov d. K. Selsk. Forh. 1866 und in den 
+Nouv. Ann, (2), VII, pag. 385, dann auch der Verfasser im Grell e'schen Jour- 
+nal Bd. 71, pag. 366. 
+
+Lit. 34, pag. 106, 144. Einige Anzahlen für die PJancurven dritter Ord- 
+nung mit Spitze und mit Doppelpunkt berechnete zuerst Maillard in seiner 
+Doctordissertation „Recherche des caracteristiques des systemes elementaires 
+de courbes planes du troisieme ordre" (these publice en decembre 1871), dann 
+Zeuthen in den Comptes rendus, Bd. 74. Mit Berücksichtigung der auf die 
+singulären Punkte und Tangenten bezüglichen Bedingungen, behandelte die 
+Curve dritter Ordnung mit Spitze der Verfasser in den Gott. Nachr. von 1874, 
+pag. 267, und von 1875, pag. 359, später noch eingehender in den Math. Ann. 
+Bd. 13, pag. 451 bis 509. Eine ausführliche Behandlung der Curve dritter 
+Ordnung mit Doppelpunkt gab der Verfasser in den Math. Ann. Bd. 13, pag. 
+509 bis 537. In diesen Abhandlungen ist auch das Princip von der Erhaltung 
+der Anzahl für die Berechnung oder Bestätigung der Anzahlen für cubische 
+Plancurven benutzt. 
+
+Lit. 35, pag. 163. Der § 25 ist im Wesentlichen ein Auszug aus der 
+von der königl. dänischen Akademie im Januar 1875 gekrönten, aber noch 
+nicht publicirten Preisschrift des Verfassers, über welche Zeuthen in den 
+Kopenh. Akademieberichten von 1875, Heft 1, Bericht erstattet hat. Die Unter- 
+suchungen über die cubische Rautncurve sollten urspünglich den Inhalt der 
+von mir in den Math. Ann. Bd. 10, pag. 6, und Bd. 13, pag. 430 versprochenen 
+dritten Abhandlung meiner „Beitr. zur abz. Geom." bilden. Da ich nun jene 
+Untersuchungen in dieses Buch aufgenommen habe, so werde ich eine dritte 
+Abhandlung der Beitr. zur abz. Geom. nicht mehr veröffentlichen. 
+
+Lit. 36, pag. 166. Zeuthen machte mich 1875 brieflich darauf aufmerk- 
+sam, dass die Stammzahlen der Ausartung rj gleich 4 und 16 und nicht gleich 
+1 und 4 sind, wie ich in meiner Preisschrift irrthümlich angeno m men hatte. 
+
+Lit. 37, pag. 167. Voss entwickelt in den Math. Ann. Bd. 13, pag. 170 
+die Gleichung dieses Complexes vierten Grades mit Hilfe von liniengeometrischen 
+Betrachtungen. 
+
+Lit. 38, pag. 182. Einen kleinen Theil der von Sturm in Borch. Journ. 
+Bd. 79, pag. 99 bis 140 und Bd. 80, pag. 128 bis 149 rein geometrisch abgeleiteten 
+Anzahlen für cubische Raumcurven fand schon Cremona in Borch. Journal 
+Bd. 60, pag. 180. 
+
+Lit. 39, pag. 184. Die inhaltreiche Abhandlung von Zeuthen, betitelt 
+„Almindelige Egenskaber ved Systemer af plane Kurver" in den Berichten der 
+Kopenhagener Akademie von 1873 (Naturw. og. math. Afd. 10, Bd. IV) leitet 
+nicht bloss die hier zusammengestellten Anzahlen ab , sondern giebt auch eine 
+
+22* 
+
+
+
+340 Literatur - Bemerkungen. 
+
+Reihe von, wichtigen Eegeha über die Miiltiiilicität der Coincidenzen und über 
+die Lage der Plücker'schen Singularitäten auf den Ausartungen der Plancurven 
+^ter Ordnung. Zur Veranschaulichung dieser Ausartungen dienen Figuren, in 
+denen jedesmal nicht bloss die Ausartung seihst, sondern noch zwei nicht aus- 
+geartete Curven gezeichnet sind, welche der Ausartung in einem einstufigen 
+Systeme seJir nahe liegen, so dass immer die Ausartung gewissermassen als 
+der Uebergang von einer der beiden letztgenannten Curven zur anderen er- 
+scheint. Ausserdem enthält die Abhandlung auch noch alle Formeln, welche 
+für eine Berechnung der elementaren Anzahlen der Curven «&lt;«'" Ordnung als 
+Ausgangspunkt dienen müssen. Für höhere Plancurven, als solche von der 
+vierten Ordnung, sind bis jetzt nur sehr wenige, vereinzelt dastehende Anzahlen 
+bekannt; z. B. zeigt Jonquieres in den Math. Ann. Bd. I, pag. 424, dass es in 
+fester Ebene immer f . (w — 1) (-»i — 2) (3«^ — 3w— 11) Curven «ter Ordnung 
+giebt, welche zwei gegebene Doppelpunkte haben und durch ^(«^-f-Sw — 12) 
+gegebene Punkte gehen. Ebenso ist man bei der Berechnung der Anzahlen 
+für Flächen bis jetzt kaum über die Fläche zweiten Grades hinausgekommen. 
+Doch hat der Verfasser angefangen, die Regelflächen dritten Grades anzahl- 
+geometrisch zu behandeln und ihre Ausartungen zu beschreiben. 
+
+Lit. 40, pag. 188. Die Anzahlen für die lineare Congritenz habe ich 
+schon in den Math. Ann. Bd. 10, pag. 83 bis 88 aus den Coincidenzformeln 
+des Strahlenpaares abgeleitet, ohne jedoch damals die lineare Congruenz mit 
+unendlich nahen Leitlinien als ein Gebilde aufzufassen, welches aus einem 
+Strahle besteht, dessen Punkte den hindurchgelegten Ebenen projectiv sind. 
+
+Lit. 41, pag. 194, 202, 205. Den Gedanken, die Anzahlen für die pro- 
+jective Beziehung der Elemente einstufiger Grundgebilde ebenso durch Aus- 
+artungen zu berechnen, wie die Anzahlen von Curven und Flächen, fasste ich 
+erst bei der Redaction dieses Buches, angeregt durch die Abhandlungen von 
+Sturm und Hirst über Correlationen. Auf anderem, mühsameren Wege be- 
+stimmte schon Sturm in den Math. Ann. Bd. 6 die hier auf pag. 200 und 201 
+berechneten Zahlen als die Anzahlen für die Lösungen der Probleme der 
+„räumlichen Projectivität^ . Später hat Sturm in seiner grossen Abhandlung 
+über correlative Bündel (Math. Ann. Bd. 12, pag. 254 bis 368), wo er die Me- 
+thode der Anzahlbestimmung durch Ausartungen benutzt, auch die hier in § 30 
+berechneten Anzahlen bestimmt, um sie bei der Berechnung der Anzahlen für 
+correlative Bündel zu verwerthen. Einen Theil dieser Anzahlen bestimmte auch 
+Herr Hirst in den Proc. of the London Math. Soc. Bd. 5 und Bd. 8, und zwar 
+in Bd. 8 vermittelst der Ausartungen. Inzwischen habe ich in einer an die 
+Redaction des Borchardt'schen Journals abgeschickten Abhandlung auch die 
+Anzahlen für das Gebilde bestimmt , welches aus zwei auf den Geraden g und 
+h liegenden Punktreihen derartig zusammengesetzt ist, dass jedem Punkte auf 
+/^ zivei Punkte auf g entsprechen, einem Punkte auf g aber nur ein Punkt auf 
+h entspricht. 
+
+Lit. 42, pag. 208, 217. Die Anzahlen des § 31 für das aus zwei col- 
+linearen Bündeln bestehende Gebilde sind bisher noch nicht berechnet. Die- 
+jenigen Anzahlen jedoch, welche sich auf mehrfache Bedingungen dieses Ge- 
+bildes beziehen, sind schon von Sturm in den Math. Ann. Bd. 10, pag. 117 bis 
+136 bestimmt. Von den Anzahlen für zwei correlative Bündel hat Sturm 
+
+
+
+Literatur -Bemerkungen. 341 
+
+in seiner ausführlichen Abhandlung in den Math. Ann. Bd. 12, pag. 254 
+bis 368 nicht bloss die hier in § 32 bestimmten Anzahlen, sondern auch 
+die auf melirfaclie Bedingungen bezüglichen Anzahlen nach der Ausartungs- 
+methode abgeleitet, die letzteren Anzahlen übrigens auch schon in den Proc. 
+of the London Math. Soc. Bd. 7, pag. 175. Vorher hatte Hirst für das 
+dual entsprechende, aus zwei correlativen Ebenen bestehende Gebilde die- 
+jenigen Anzahlen berechnet, bei denen die beiden Ebenen als gegeben an- 
+gesehen werden, Proc. of the London Math. Soc. Bd. 5 und 8. Vorbereitende 
+Betrachtungen für die anzahlgeometrische Behandlung der räumlichen Cor- 
+rclation, d. h. des Gebildes, welches die Punkte und die Ebenen des Baumes 
+einander ein - eindeutig zuordnet, stellte Hirst schon 1875 in den Proc. of the 
+London Math. Soc. Bd. 6, pag. 7 an. 
+
+
+
+Fünfter Abschnitt. 
+
+Dieser Abschnitt entwickelt aus den im dritten Abschnitt gewonnenen 
+Coincidenzformeln erster Dimension vermöge der symbolischen Multiplication 
+(pag. 20) die Bedingungen der Coincidenz von n Punkten einer Geraden und 
+der Coincidenz von n Strahlen eines Strahlbüschels, und findet die Anzahlen 
+für gewisse Singularitäten bei der punktallgemeinen Fläche und bei dem 
+strahlallgemeinen Complexe. Vorläufer dieses Abschnittes sind meine Abhand- 
+lungen „Tangentensingularitäten der allgemeinen Ordnungsfläche" in den Math. 
+Ann. Bd. 11, pag. 348 bis 378, ferner „Das Correspondenzprincip für Gruppen 
+von n Punkten und von n Strahlen" in den Math. Ann. Bd. 12, pag. 180 bis 
+201, und auch „Singularitäten des Complexes wten Grades" in den Math. Ann. 
+Bd. 12, pag. 202 bis 221. 
+
+Lit. 43, pag. 228, 236. Die Anzahlen für die Tangenten, Haupttangenten 
+und Doppeltangenten der punktallgemeinen Fläche sind seit langer Zeit be- 
+kannt. Die Ordnung der Curvc der Berührungspunkte der vierpimlitigen Tan- 
+genten bestimmte Salmon 1849 im 4. Bande des Cambr. a. Dubl. Math. Journ. 
+pag. 260, dann auch Clebsch in Crelle's Journ. Bd. 58, pag. 93. Cayley fand 
+ferner in den Phil, trans. of the Royal Soc. 1869, dass diese Zahl durch eine 
+Doppelcurve d'-^^ Ordnung um 22 . d und durch eine Rückkehrcurve rter Ord- 
+nung um 27 . r vermindert wird, was von Voss in den Math. Ann. Bd. 9, 
+pag. 483 bewiesen wurde. Die Zahlen für die drei- ztceipunkt igen und für die 
+dreifachen Tangenten bestimmte zuerst Salmon 1860 analytisch im 1. Band des 
+Quarterly Journ. pag. 336, später auch Sturm synthetisch in Crelle's Journ. 
+Bd. 72, pag. 350. Die leichte Bestimmung dieser Anzahlen durch das Chasles- 
+sche Con-espondenzprincip oder besser durch die Punktepaarformeln zweiter 
+Dimension (hier pag. 44 und 45) erkannte ich in den Math. Ann. Bd. 10, pag. 100. 
+Die Probleme, welche die Bestimmung der Zahlen für die fünfpun'ktigen Tan- 
+genten und für die übrigen in endlicher Anzahl vorhandenen singulären Tan- 
+genten verlangen, stellte Salmon in seiner Raumgeometrie, II. Theil, Art. 462 
+auf, ohne jedoch die bei der algebraischen Behandlung dieser Probleme auf- 
+tretenden Schwierigkeiten überwinden zu können (Salmon -Fiedler, pag. 581). 
+
+
+
+342 Literatur - Bemerkungen. 
+
+Endlich zeigte ich in den Math. Ann. Bd. 10 , pag. 102, und gleichzeitig in den 
+Gott. Nachr., Februar 1876, dass das Chasles'sche Correspondenzprincip die 
+Lösung der Salmon'schen Probleme ohne jede Schwierigkeit ergiebt. Ausführ- 
+licher behandelte ich diese Probleme im Zusammenhang mit einigen verwandten 
+Problemen in den Math. Ann. Bd. 11, pag. 348 bis 378. Die in § 33 dieses 
+Buches geleistete directe Zuriickführung aller jener Singularitätenzahlen auf 
+einige aus der Definition der Fläche ersichtliche Stammzahlen ist neu und 
+düi-fte ein Beispiel für die Handlichkeit des Abzählungskalküls abgeben. Neuer- 
+dings fügte Krey in den Math. Ann. Bd. 15, pag. 211 zu den Formeln des Verfassers 
+diejenigen Reductionen hinzu, welche sie erleiden, wenn die Fläche mit den 
+gewöhnlichen Singularitäten, wie Doppelcurve etc., behaftet ist. Die nicht- 
+punktallgemeitie Fläche behandelte hinsichtlich der Anzahlbeziehungen ihrer 
+Singularitäten am eingehendsten Zeuthen in den Math. Ann. Bd. 4, Bd. 9 und 
+namentlich Bd. 10, pag. 446 bis 546, nachdem schon Salmon in den Trans, 
+of the Royal Irish Acad. vol. 23, und Cayley in den Philos. trans. 1869 u. 1871 
+viele dieser Beziehungen angegeben hatten (cf. Salmon-Fiedler, IL Th., IL Aufl., 
+pag. 605 bis 617). 
+
+Lit. 44, pag. 245. Voss findet die richtige Zahl der Kreispunkte in den 
+Math. Ann. Bd. 9, pag. 241 sowohl auf anal}i:ischem Wege, wie auch durch 
+eine Abzählungsweise, welcher ich die erste von den beiden hier (pag. 244) 
+gegebenen Bestimmungsarten nachgebildet habe. 
+
+Lit. 45, pag. 245. Die Ordnung und Klasse der Krümmimgsmittelpunkts- 
+fläche der pimktallgemeinen Fläche bestimmten Darboux in den Comptes rendus 
+Bd. 70, pag. 1329, und Marcks in den Math. Ann. Bd. 5, pag. 29. Dann fügte 
+Sturm in seiner Abhandlung über Normalen an algebraische Flächen, Math. 
+Ann. Bd. 7, pag. 567 bis 583, das allgemeine Resultat hinzu, dass bei einer 
+Fläche '&gt;jter Ordnung, wt^r Klasse, welche in jede gegebene Ebene or Haupt- 
+tangenten wirft imd durch jeden gegebenen Punkt a Haupttangenten schickt, 
+die Ordnung der Krümmungsmittelpunktsfläche gleich 3n + 3m + a + a, und 
+ihre Klasse gleich n + m + a+ a ist. 
+
+Lit. 46, pag. 245. Sturm zeigte in den Math. Ann. Bd. 9, pag. 573 bis 
+575, dass die Tangenten der auf einer Fläche liegenden Krümmungslinien eine 
+Congruenz vom Feldrang n + r + a und vom Bündelrang m + r+a bilden, 
+wenn n die Ordnung, r den Rang, m die Klasse der Fläche und a den Feld- 
+rang, G den Bündelrang der von ihren Haupttangenten gebildeten Congruenz 
+bezeichnen. 
+
+Lit. 47, pag. 246. Clebsch bestimmte diese Zahl in Crelle's Journ. Bd. 63, 
+pag. 14 (cf. auch Salmon- Fiedler's Raumgeometrie, IL Theil, Art. 463) analy- 
+tisch, aber um den Grad der von den vierpunktigen Tangenten gebildeten 
+Regelfläche zu gross. Dies zeigte ich in den Math. Ann. Bd. 11, pag. 377. 
+
+Lit. 48, pag. 247. Die hier geleistete Ausdehnung des Correspondenz- 
+princips von Punktepaaren auf Funktgru2J2}en zeigte ich schon in den Math. 
+Ann. Bd 12, pag. 182 bis 196. Doch habe ich die hier mit den Nummern 13 
+bis 23 versehenen Formeln dort noch nicht aufgestellt. Den speciellen Fall 
+der Coincidenzformel für Punktgruppen, in welchem der Träger der Pimkt- 
+gruppe als fest vorausgesetzt wird, hier Formel 6 oder 24, betrachtete vor mir 
+
+
+
+Literatur - Bemerkungen. 343 
+
+schon Saltel in den Nouv. Ann. (2), Bd. 12, pag. 565 bis 570. Hieran schloss 
+Saltel in den Mem. cour. de l'Acad. de Belgique Bd. 24 die Auffindung der 
+Zahl der gemeinsamen endlichen Wurzeln von n Gleichungen mit n Unbekaimten 
+in dem speciellen Falle, wo jede dieser Gleichungen die Eigenschaft hat, für 
+Xi=X2=X3 = . . . = Xn vom Grade a^ + a^ + a^ + . . . + ccn zu sein , wo immer 
+ai ihren Grad für die Unbekannte Xi bedeutet. Eine Formel für die Zahl der 
+gemeinsamen endlichen "Wurzeln von n allgemeinen Gleichungen mit n Un- 
+bekannten gab Fouret im Bull, de la Soc. math. de France, Bd. 2, pag. 136, 
+indem er die geometrische Untersuchung, welche ihn im Bull, de la Soc. math. 
+Bd. 1, pag. 122 zu der Zahl der nicht unendlich fernen gemeinsamen Punkte 
+dreier Flächen geführt hatte , Schritt für Schritt algebraisch verfolgte. In den 
+Comptes rendus Bd. 80, pag. 1324 setzte Saltel an die Stelle der n in gerader 
+Linie befindlichen Punkte n Punkte, welche sich auf einer festen ßaumcurve 
+vom Geschlechte null befinden. Die Formeln des § 35 für die Bedingung der 
+Coincidenz von n Strahlen eines Strahlbüschels leitete ich in den Math. Ann. 
+Bd. 12, pag. 196 bis 201 ab. Doch sind die hier mit den Nummern 29 bis 40 
+bezeichneten Formeln neu. 
+
+Lit. 49, pag. 262, 271. Am ausführlichsten hat Voss in seiner Abhand- 
+lung „über Complexe und Congruenzen" (Math. Ami. Bd. 9, pag. 55 bis 162) 
+den strahlallgemeinen Complex riten Grades hinsichtlich seiner Singularitäten 
+behandelt, nachdem durch Plücker's „Neue Geometrie des Raumes" (Teubner 
+1868 und 1869) die Fundamente der Liniengeometrie festgestellt waren, ferner 
+durch Clebsch (Math. Ann. Bd. 2, pag. 1 bis 8, und Bd. 5, pag. 435 bis 442), 
+Klein (Math. Ann. Bd. 2, pag. 198 bis 226, Bd. 5, pag. 257 bis 278 und pag. 278 
+bis 302, und Bd. 7, pag. 208 bis 211), Lie (Math. Ann. Bd. 5, pag. 145 bis 256), 
+Klein und Lie (Berl. Monatsber. 1870), Pasch (Giessen 1870, "Crelle's Journ. 
+Bd. 75, pag. 106 bis 153), Weiler (Math. Ann. Bd. 7, pag. 145 bis 207) und 
+durch Voss' eigene Untersuchungen (Math. Ann. Bd. 8, pag. 54 bis 136) wich- 
+tige Vorarbeiten für die analytische Behandlung des Complexes, namentlich 
+auch hinsichtlich seiner sogenannten singulären Fläche geliefert waren. Dem 
+Verfasser gelang es dann in den Math. Ann. Bd. 12, pag. 202 bis 221 mit 
+Hilfe seines Kalküls alle diejenigen Singularitätenzahlen des Complexes zu be- 
+rechnen, welche den Zahlen für die Tangenten singulariäten bei der Fläche 
+ytten Grades, z. B. der Zahl für die fünfpunktigen Tangenten, analog sind, und 
+dadurch nich bloss viele von den durch Voss berechneten Zahlen zu bestätigen, 
+sondern ihnen auch eine Reihe von neuen Zahlen für höhere Singularitäten 
+hinzuzufügen. Der § 36 ist daher im Wesentlichen ein Auszug aus der eben 
+citirten Abhandlung des Verfassers. Die auch schon durch Voss oder vor Voss 
+gefundenen Singularitätenzahlen bind hier auf pag. 271 zusammengestellt. Da- 
+gegen sind alle übrigen hier auf pag. 269 und 270 angeführten Zahlen bis 
+jetzt nur durch den Abzählungskalkül , analytisch aber noch nicht bestimmt. 
+Ebenso fehlt noch eine analytische Berechnung des liniengeometrischen Ana- 
+logons der 27 in einer Fläche dritter Ordnung liegenden Geraden, nämlich 
+der Zahl 1280 derjenigen Strahlbüschel, deren sämmtliche Strahlen einem 
+Complexe vierten Grades angehören. 
+
+
+
+344 Literatur -Bemerkungen. 
+
+Sechster Abschnitt. 
+
+Dieser Absclinitt definirt für jedes beliebige Gebilde, was man unter 
+seinem Charakteristi'kenproblein zu verstehen hat, löst das Charakteristikenpro- 
+blem für einige Gebilde und liefei-t eine Reihe von interessanten Anwendungen 
+der dadurch gefundenen Charakteristikenformeln. Die meisten Untersuchungen 
+dieses Abschnittes sind neu. Doch ist der Beweis der in § 38 abgeleiteten 
+Charakteristikenformel erster Dimension schon in den Gott. Nachr. von 1876, 
+pag. 507 bis 512 vom Verfasser im Verein mit Hurwitz mitgetheilt. Ferner 
+habe ich einige Resultate der §§ 39, 40, 41 schon in den Gott. Nachr. von 
+1877, pag. 401 bis 426 ohne Beweis aufgestellt. 
+
+Lit. 50, pag. 274, 279. Die hier gegebene neue Formulirung des Be- 
+griffs der Charakteristiken ist berechtigt, : seitdem der von Chasles in den 
+Comptes rendus Bd. 59 gemachte Inductionsschluss , für jede Plancurve gäbe 
+es zwei Charakteristiken, dui'ch die weiteren Fortschritte der abzählenden 
+Geometrie, namentlich aber durch Clebsch's Beweis des Chasles'schen Satzes 
+in den Math. Ann. Bd. 6, pag. 1, als unhaltbar erkannt wTirde (conf auch 
+Clebsch-Lindemann's Vorles. über Geom. pag. 390 flg). Andeutungsweise gab 
+ich schon in den Gott. Nachi-. 1877, pag. 401 die Formulirung des Cha- 
+rakteristikenproblems. Das hier auf pag. 279 besprochene, aus dem Begriff" 
+der Charakteristiken resultirende , allgemeine Eliminationsverfahren zeigte ich 
+in den Math. Ann. Bd. 10, pag. 355. 
+
+Lit. 51, pag. 284. Die von Chasles in den Comptes rendus von 1864 
+ohne Beweis aufgestellte Charakteristikenformel erster Dimension für den Kegel- 
+schnitt wurde von Clebsch in den Math. Ann. Bd. 6, pag. 1 (1873) von Ral- 
+phen in dem Bull, de la Soc. math. de Fr. Bd. 1, pag. 130 bis 141 (1873) 
+und von Lindemann in Clebsch's Vorl. über Geom. pag. 398 (1875) bewiesen. 
+Halphen fügte in seiner Abhandlung und Lindemann in seinem Buche pag. 404 auch 
+die Charakteristikenformeln höherer Dimension hinzu. Halphen dehnte dann 
+in dem Bull, de la Soc. math. de Fr. Bd. 2, pag. 11 bis 33 seine Betrachtungen 
+auch auf Kegelschnitte im Räume und auf Flächen zweiten Grades aus. Im 
+Jahre 1876 aber erhob Halphen in den Comptes rendus Bd. 83, (4. September) 
+pag. 537 bis 538, und Bd. 83, pag. 886 bis 888 (13. November) Zweifel gegen 
+die Allgemeingiltigkeit der Chasles'schen Charakteristikenformel und deutete 
+Modificationen an, welche dieselbe bei Voraussetzung gewisser einstufiger 
+Systeme und gewisser einfacher Bedingungen erleiden müsste. Unmittelbar 
+nach der ersten Halphen'schen Note publicirten Hurwitz imd der Verfasser 
+ihren hier mitgetheilten Beweis des Chasles'schen Satzes. In demselben Jahre 
+sprach auch Saltel in dem Bull, de Belg. (2), Bd. 62, pag. 617 bis 624 Zweifel 
+gegen die allgemeine Richtigkeit des Satzes aus. Erst im Jahre 1878 gab 
+Halphen eine ausführKche Begründung seiner Zweifel und stellte die Formeln 
+auf, welche an die Stelle der Chasles'schen Formel zu treten haben, und zwar 
+in den Proc. of the London Math. Soc. vol. IX, Nos. 133, 134 und in den Math. 
+Ann. Bd. 14 (cf auch die soeben in Bd. 45 des Joum. de l'Ec. pol. erscheinende 
+Abhandl.). Da der Verfasser sich diese Halphen'schen Abhandl. erst während des 
+Druckes dieses Buches verschaff'en konnte, so war es ihm leider nicht mehr 
+möglich, die mchtigen Untersuchungen Halphen's hier zu verwerthen. 
+
+
+
+Literatur- Bemerkungen. 345 
+
+Lit. 52, pag. 289, 299, 303. Die wichtigsten Formeln der §§ 39, 40, 41 
+"habe ich schon in den Gott. Nachr. vom Juli 1877, pag. 401 bis 426 ohne Be- 
+weis mitgetheilt. Doch sind verschiedene der hier gemachten Anwendungen 
+neu. Die Resultate, welche sich auf die Berührung von Flächen von zwei 
+gegebenen Flächensystemen beziehen, hat schon Fouret in den Comptes rendus 
+Bd. 80, pag. 805 bis 809, und Bd. 82, pag. 1497 bis 1500 auf ganz anderem 
+Wege abgeleitet (cf. hier Lit. 20). 
+
+Lit. 52 a, pag. 306. Auf die Definition und die Untersuchung der Con- 
+nexe wurde Clebsch 1872 in den Gott. Abb. Bd. 17 und den Math. Ann. Bd. 
+5, pag. 427 durch die Invariantentheorie geführt. Ausführlicher behandelte 
+die Connexe Lindemann in seinen Vorles. von Clebsch pag. 924 bis 1037. Für 
+die vom Coordinatenzwange freie geometrische Forschung sind jedoch alle 
+übrigen Systeme von Hauptelementenpaaren ebenso wichtig wie der Connex. 
+In der That untersuchte Krause in den Math. Ann. Bd. 14, pag. 294 bis 322 
+auf analoge Weise einen gewissen Baumconnex, d. h. ein gewisses fünf- 
+stufiges System von Gebilden, deren jedes aus einem Punkte und einer zu- 
+gehörigen Ebene besteht. 
+
+Lit. 53, pag. 307, 323. Die Untersuchungen der §§ 42 und 44 sind neu. 
+Die Formel für die Zahl der gemeinsamen Punktgruppen von n gegebenen 
+(w — 1)- stufigen Systemen in dem speciellen Falle, dass der Träger dieser 
+Systeme gegeben ist, führt bei algebraischer Auffassung auf die von Saltel in 
+den Mem. de Belg. Bd. 24 gegebene Formel für die Zahl der gemeinsamen end- 
+lichen Wurzeln von n allgemeinen Gleichungen mit n Unbekannten (cf. Lit. 48). 
+
+Lit. 54, pag. 319. Brill beweist seine Formel für die Zahl der gemein- 
+samen Pmiktepaare aus zwei auf einer festen Curve liegenden einstufigen Sy- 
+stemen von Punktepaaren in den Math. Ann. Bd. 7, pag. 607 (Clebsch - Linde- 
+marm's Werk pag. 446) im Zusammenhange mit der Formel für die Zahl der 
+Coincidenzen eines solchen Systems (cf. hier Lit. 29). 
+
+Lit. 55, pag. 322. Die hier als specieUe Fälle der Charakteristikenfor- 
+meln für die Punktgruppe erkannten Resultate für die vielfachen Secanten des 
+Schnittes zweier Flächen leitete auf ganz anderem Wege Salmon in seiner 
+Raumgeometrie (Salmon-Fiedler, II. Th., Art. 216 und 219, pag. 262 und 264) 
+ab, ausserdem auch Zeuthen in Brioschi Ann. (2), III, pag. 175 bis 218, und 
+Picquet in den Comptes rendus, Bd. 77, pag. 474 bis 478, Bull, de la Soc. math, 
+Bd. 1, pag. 260 bis 280. 
+
+Lit. 56, pag. 329, 330, 331, 332. Die hier auf dem Schnitt zweier Com- 
+plexe abgezählten Singularitäten sind bisher noch nicht beachtet. 
+
+
+
+Alphabetisches AVortregister. 
+
+
+
+(Jede einem Worte nachgesetzte Zahl giebt entweder die Seite an, wo dasselbe definirt ist, 
+oder die Seite, wo dasselbe hauptsächlich vorkommt.) 
+
+
+
+Allgemeingiltigkeit einei* Gleichung 
+zwischen Bedingungen: 22. 
+
+Angehörig einer Bedingung: 6, einem 
+Gebilde: 7. 
+
+Ausarten , Ausartung , Ausartungsbe- 
+dingung, Ausartungsanzahl : 6, 68, 
+92, 98. 
+
+Axiomatische Anzahlen des Raumes: 16. 
+
+Bedingung: 1, 3, 6, 10. 
+Beschränkung eiaer Definition: 11. 
+Brennfläche einer Congruenz: 305. 
+Brennpunkte auf den Strahlen einer 
+
+Congruenz: 64. 
+Bündelgrad, Bündelrang: 18. 
+
+Charakteristiken: 274. 
+Charakteristikenformeln: 282. 
+Charakteristikenproblem : 281. 
+Charakteristikenzahl: 279. 
+Coiucidenz, Coincidenzbedingung, Co- 
+
+iucidenzformeln: 42, 249, 256. 
+Collinear: 208. 
+Complex: 8. 
+Congruenz: 8. 
+Conjugirt bei coUinearen Bündeln: 209, 
+
+bei correlativen Bündeln: 219. 
+Connex: 9, 306. 
+Correlativ: 217. 
+Correspondenzprincip , Chasles'sches : 
+
+43, Salmon-Zeuthen'sches : 45, Cayley- 
+
+Brill'sches: 86. 
+Constantenzahl: 1. 
+Cubisch: heisst „dritten Grades". 
+Curve: 8. 
+
+Definirende Bedingung eines Sy- 
+stems: 8. I 
+
+
+
+Definition oder Erzeugung eines Ge- 
+bildes durch ein anderes: 7. 
+
+Dimension einer Bedingung: 7, einer 
+Formel: 19. 
+
+Doj)pelaxen der cubischenRaumcurve: 
+163. 
+
+Doppelsecanten der cubischen Raum- 
+curve: 163. 
+
+Doppeltangenten einer Fläche: 229. 
+
+Dreifache Secanten der Schnittcurve 
+zweier Flächen: 323. 
+
+Dreifache , drei - dreipunktige , drei- 
+zweipunktige , drei - zwei - zweipiunk- 
+tige Tangenten: 238. 
+
+M, e, Cg, e^, e^ sind feste Symbole 
+füi- gewisse Grundbedingungen: 5. 
+
+Ebenenpaar: 49. 
+
+Elementarsy.steme der Plancurven vier- 
+ter Ordnung: 184. 
+
+Elementarzahlen des Kegelschnitts: 95, 
+der Fläche zweiten Grades: 105, der 
+cubischen Plancurve mit Spitze : 136, 
+der cubischen Plancurve mit Doppel- 
+punkt: 157, der Plancurven vierter 
+Ordnung: 186, 187. 
+
+Erhaltung der Anzahl: 12. 
+
+Erzeugung eines Gebüdes durch ein 
+anderes, eines Systems durch ein 
+Gebilde: 8. 
+
+Faktoren einer zusammengesetzten Be- 
+dingung: 3. 
+Feld- dual: 108. 
+Feldgrad, Feldrang: 18. 
+Fläche: 8. 
+
+
+
+Alphabetisches Wortregister. 
+
+
+
+347 
+
+
+
+Fünfpunktige Tangenten: 237. 
+Function von Bedingungen: 19. 
+
+€f, g, (Je, gp, gs, g\ g\ &lt;7* sind feste 
+Symbole für gewisse Grundbeding- 
+ungen: 5. 
+
+r ist ein allgemeines Zeichen für ein 
+irgendwie definirt gedachtes, geome- 
+trisches Gebilde. 
+
+Gerade Punktgruppe: 307. 
+
+Giltigkeitsbereich einer Gleichung zwi- 
+schen Bedingungen: 21. 
+
+Gleichung zwischen Bedingungen: 19. 
+
+Grad, Gradzahl: 17. 
+
+Grundbedingung: 4. 
+
+Grundgebilde: 4. 
+
+Hauptebenen, Hauptgerade, Haupt- 
+punkte der Ausartung ip der Fläche 
+zweiten Grades: 69. 
+
+Hauptelemente des Raumes, gemein- 
+samer Name für Punkt, Strahl, 
+Ebene: 4. 
+
+Hauptformeln für die cubische Plan- 
+curve mit Spitze: 111. 
+
+Hauptformeln für die Coincidenz von n 
+Punkten einer Geraden: 249, für 
+die Coincidenz von n Strahlen eines 
+Strahlbüschels: 256. 
+
+Haupttangenten einer Fläche: 231. 
+
+Homographische Abbildung: 68, 91, 
+111, 144. 
+
+Imaginäre Gebilde: 17. 
+
+Incident: 25. 
+
+Incidenzformeln: 25, 26, 31, 32. 
+
+Individuum heisst ein einzelnes Ge- 
+bilde zum Unterschied vom Gattungs- 
+begriff. 
+
+Invariante Bedingung: 5. 
+
+Klasse: 18. 
+
+Klassenaxen, Klassencurven, Klassen- 
+flächen, Klassenpunkte: 101. 
+Kreispunkte einer Fläche: 244. 
+Krümmungsmittelpunktsfläche : 245. 
+Krümmungslinientangenten : 245. 
+
+liineare Congruenz: 188. 
+Liniencomplexe : 8. 
+
+
+
+Linienflächen: 8. 
+Liniengeometrie: 9. 
+
+Metrische Bedingungen: 6. 
+Multiplication einer Bedingung mit 
+einer anderen: 3. 
+
+Ordnung: 18. 
+
+Ordnungscurve , Ordnungsebene, Ord- 
+nungsfläche, Ordnungsgerade: 101. 
+
+Ort heisst jedes von einem Haupt- 
+elemente erzeugte System: 8. 
+
+JP, p, p,j, p^, p^ sind feste Symbole 
+für gewisse Grundbedingungen: 5. 
+
+pe, festes Symbol für eine gewisse 
+Bedingung: 33. 
+
+Parabolische Punkte und Tangenten: 
+243. 
+
+Plancurve heisst eine Curve, deren 
+sämmtliche Punkte in einer und der- 
+selben Ebene liegen. 
+
+Plücker'sche Complexfläche: 271. 
+
+Polarebene: 82. 
+
+Potenz einer Bedingung: 3. 
+
+Princip von der Erhaltung der An- 
+zahl: 12. 
+
+Product von Bedingungen: 3. 
+
+Projectiv: 192, 195, 199, 202. 
+
+Punktallgemein heisst eine Plancurve 
+oder Fläche, wenn ihre Gleichung 
+in Punktcoordinaten so allgemein 
+wie möglich ist. 
+
+Punktepaar: 13. 
+
+Punktfeld: 4. 
+
+Räumliche Bedingung: 5. 
+
+Räumliches w-Eck: 1. 
+
+Rang: 18. 
+
+Rangaxe, Rangbüschel, Rangcurve, 
+
+Rangebene, Rangfläche, Rangpunkt: 
+
+101. 
+Raumelement: 9. 
+
+Reduction, Chasles-Zeuthen'sche: 97. 
+Regelfläche: 8. 
+Regeischaaren einer Fläche zweiten 
+
+Grades: 64. 
+
+Sechspunktige Tangenten: 254. 
+Singulare Fläche eines Complexes: 271. 
+
+
+
+348 
+
+
+
+Alphabetisches Wortregister. 
+
+
+
+Singuläjer Defect einer Formel bei 
+Plancurven: 109. 
+
+Singulare Punkte, Ebenen, Strahlen 
+bei der ein - eindeutigen Beziehung 
+von Grundgebilden: 193, 195, 196, 
+200, 202, 205, 209, 217. 
+
+Singularitätendreieck der cubischen 
+Plancurve mit Spitze: 106. 
+
+Spaltung einer Bedingung: 99. 
+
+Stammzahlen für Ausartungsanzahlen: 
+119 flg., 145 flg., 166, 185; für ge- 
+wisse Singularitätenzahlen bei Flä- 
+chen : 235 ; für gewisse Singularitäten- 
+zahlen bei Complexen: 265. 
+
+Strahlallgemein heisst ein Complex, 
+wenn seine Gleichung in Linien- 
+coordinaten so allgemeiu wie mög- 
+lich ist. 
+
+Strahlbüschelgeometrie: 9, 188, 299. 
+
+Strahlenaxe: 4. 
+
+Strahlenfeld: 4. 
+
+Strahlenpaar: 58. 
+
+Stufe eines Systemes: 8. 
+
+
+
+Summe von Bedingungen: 3. 
+Symbole sind Zeichen für definirte Be- 
+dingungen: 3. 
+Symbolische Multiplication : 20. 
+System von Gebilden: 8. 
+
+Theilgebilde der Ausartungen: 98. 
+
+Torse: 8. 
+
+Transcendente Gebilde: 18. 
+
+Uebertragung einer Bedingung von 
+einem Gebilde auf ein zweites Ge- 
+bilde, durch welches das erste er- 
+zeugt ist: 7. 
+
+Vierfache Secanten der Schnittcurve 
+
+zweier Flächen: 323. 
+Vierfache Tangenten: 237. 
+Vierpunktige Tangenten: 236. 
+Vier-zweipunktige Tangenten: 238. 
+Volle Coincidenz eines Punktepaares: 
+
+46, eines Strahlenpaares: 61. 
+
+Wendepunktsstrahl: 144. 
+
+Zahlenreihe: 131. 
+Zusammengesetzte Bedingung: 3. 
+
+
+
+Alphabetisches Autorenregister, 
+
+
+
+(DIo bei jedem Namen auf „Lit." folf/enden Zahlen beziehen sich auf die Nummern der Literatur- 
+bemerkungen (pag. 333 flg.), die voi-angehcnden Zahlen aber auf die Seiten des Bviches.) 
+
+Lürotli: Lit. 2. 
+
+Maillard: 109, 140, 144, 145, 162; 
+
+Lit. 34. 
+Marcks: Lit. 4, 45. 
+Painvin: Lit. 30. 
+Pasch: Lit. 49. 
+Picquet: Lit. 55. 
+
+Plücker: 9, 17, 88, 270, 271; Lit. 9, 49. 
+Poncelet: 16; Lit. 4. 
+Reye: 9. 
+Salmon: 48, 227, 245, 297; Lit. 9, 16, 
+
+43, 55. 
+Saltel: 43; Lit. 48, 51, 53. 
+Schröder 3; Lit. 3. 
+Steiner: Lit. 4, 31. 
+Sturm: 182, 183, 195, 202, 21G, 217, 
+
+224; Lit. 4, 5, 10, 11, 38, 41, 42, 
+
+45, 46. 
+Voss: 167, 245, 271, 272, 305, 331; 
+
+Lit. 2, 9, 37, 43, 44, 49. 
+Weiler: Lit. 49. 
+Zeuthen: 17, 45, 91, 97, 109, 140, 144, 
+
+145, 162, 184, 186; Lit. 9, 11, 16, 
+
+18, 21, 24, 25, 32, 33, 34, 35, 36, 
+
+39, 43, 55. 
+
+
+
+Bezout: 9, 46, 49, 282. 
+
+Brill: 57, 84, 86, 88, 319; Lit. 18, 28, 
+
+29, 54. 
+Cayley: 57, 86, 227; Lit. 29, 43. 
+Chasles: 6, 42, 44, 91, 97, 274, 276; 
+
+Lit. 3a, 18, 29, 30, 31, 32, 50, 51. 
+Clebsch: 9, 227, 306; Lit. 9, 43, 47, 
+
+49, 50, 51, 52a. 
+Cremona: 80; Lit. 27, 38. 
+Darboux: Lit. 45. 
+
+Fiedler: 48, 227,' 245, 297; Lit. 9. 
+Fouret: 47; Lit. 5a, 17, 20, 48, 52. 
+Gauss: 42, 47. 
+
+Halphen: 62, 80, 283; Lit. 3, 21, 27, 51. 
+Hirst: 195, 217; Lit. 41, 42. 
+Hoppe: Lit. 1. 
+Hurwitz: Lit. 4, 13, 26, 51. 
+de Jonquieres: Lit. 4, 18, 39. 
+Klein: 17, 64, 270; Lit. 6, 9, 22, 49. 
+Krause: Lit. 52a. 
+Krey: Lit. 43. 
+Kummer: 272; Lit. 9. 
+Lie, Lit. 22, 49. 
+Lindemann: 9, 80, 227, 280, 307; Lit. 
+
+9, 27, 51, 52a. 
+
+
+
+Verlag von B. G. Teubner in Leipzig. 
+
+(Ein vollständiges Verzeichniss des mathematischen, technischen und naturwissenschaftlichen 
+Verlags von B. G. Teubner in Leipzig ist in allen Buchhandlungen gratis zu haben.) 
+
+Bachmann, Dr. Paul, a. o. Professor an der Universität Breslau, die 
+Lehre von der Kreistheilung und ihre Beziehungen zur Zahlen- 
+theorie. Akademische Vorlesungen. Mit Holzschnitten im Text und 
+1 lithographirten Tafel. (XII u. 300 S.) gr. 8. 1872. geh. n. 7 Mk. 
+
+Bardey, Dr. E., algebraische Gleichungen nebst den Resultaten 
+und den Methoden zu ihrer Auflösung. Zweite durch viele Zahlen- 
+beispiele, erweiterte Erläuterungen und ein Register für die Auf- 
+gabensammlung vermehrte und verbesserte Auflage, (X u. 339 S.) 
+gr. 8. 1876. geh. n. 6 Mk. 
+
+Beer, August, Einleitung in die mathematische Theorie der 
+Elasticität und Capillarität. Herausgegeben von A. Giesen. 
+(VI u. 196 S.) gr. 8. 1869. geh. n. 4 Mk. 
+
+Bretschneider , C. A., Prof. am Gymnasium zu Gotha, die Geometrie 
+und die Geometer vor Euklides. Ein historischer Versuch. 
+Mit einer lith. Tafel. (IV u. 184 S.) gr. 8. 1870. geh. n. 4 Mk. 
+
+Burmester, Dr. L., Professor am Königl. Polytechnikum zu Dresden, 
+Theorie und Darstellung der Beleuchtung gesetzmässig ge- 
+stalteter Flächen, mit besonderer Rücksicht auf die Bedürfnisse 
+technischer Hochschulen. (XVI u. 386 S.) gr. 8. Mit einem Atlas 
+von 14 lithogr. Tafeln (in qu.-Fol. in Mappe). Zweite Ausgabe. 
+1875. geh. n. 8 Mk. 
+
+Cantor, M., Euclid und sein Jahrhundert. Mathematisch -histo- 
+rische Skizze. (72 S.) gr. 8. 1867. geh. 1 Mk. 80 Pf. 
+Separatabdruck aus der Zeitschrift für Mathematik und Physik. In der 
+Einzelnausgabe vergriffen, dagegen im Supplementheft zum XII. Jahrgang der 
+Zeitschrift für Mathematik und Physik noch zu haben. 
+
+die römischen Agrimensoren und ihre Stellung in der Ge- 
+schichte der Feldmesskunst. Eine historisch-mathematische Unter- 
+suchung. Mit 6 lith. Tafeln. (237 S.) gr. 8. 1875. geh. n. 6 Mk. 
+
+Clebseh, Dr. A., Prof. an der polytechnischen Schule zu Carlsruhe 
+(f als Professor in Göttingen), Theorie der Elasticität fester 
+Körper. (XI u. 424 S.) gr. 8. 1862. geh. n. 9 Mk. 
+
+Theorie der binären algebraischen Formen. (VIII u. 
+
+467 S.) gr. 8. 1871. geh. n. 11 Mk. 
+
+Vorlesungen über Geometrie. Bearbeitet und herausgegeben 
+
+von Dr. Ferdinand Lindemann. Mit einem Vorwort von Felix 
+Klein. Ersten Bandes erster TheiL (S. 1—496.) gr. 8. 1875. 
+geh. n. 11 Mk. 20 Pf. 
+
+Ersten Bandes zweiter Theil. (S. 497 — 1050 u. XII S.) 
+
+gr. 8. 1876. geh. n. 12 Mk. 80 Pf. 
+
+Beide Theile in einem Band, geh. n. 24 Mk. 
+
+Clebseh, Dr. A., und P. Gordan, Professor in Erlangen, Theorie der 
+Abel'schen Functionen. (XIII u. 333 S.) gr. 8. 1866., geh. 
+
+n. 7 Mk. 20 Pf. 
+
+
+
+Verlag von B. G. Teubner in Leipzig. 351 
+
+Diriehlet, P. G. Lejeune-, Vorlesungen über die im umgekehr- 
+ten Verhältniss des Quadrats der Entfernung wirkenden 
+Kräfte. Herausgegeben von Dr. F. Grube, ord. Lehrer an der 
+königl. Domschule zu Schleswig. (VIII u. 18.3 S.) gr. 8. 1876. 
+geh. n. 4 Mk. 
+
+Brach, Dr. C. A. von, Privatdocent an der Universität Marburg, Ein- 
+leitung in die Theorie der cubischen Kegelschnitte (Raum- 
+curven dritter Ordnung). Mit 2 lith. Tafeln. (IV u. 112 S.) gr. 8. 
+1867. geh. n. 2 Mk. 80 Pf. 
+
+Durege, Dr. H., ordentlicher Professor an der Universität 7ai Prag, 
+Theorie der elliptischen Functionen. Versuch einer elemen- 
+taren Darstellung. Dritte Auflage. Mit 32 in den Text gedruckten 
+Holzschnitten. (VIII u. 390 S.) gr. 8. 1878. geh. n. 9 Mk. 
+
+Elemente der Theorie der Functionen einer complexen 
+
+veränderlichen Grösse. Mit besonderer Berücksichtigung der 
+Schöpfungen Riemann's. Zweite zum Theil umgearbeitete Auflage. 
+(XII u. 233 S.) gr. 8. 1873. geh. n. 5 Mk. 20 Pf. 
+
+die ebenen Curven dritter Ordnung. Eine Zusammenstell- 
+ung ihrer bekannteren Eigenschaften. Mit 44 Figuren in Holz- 
+schnitt. (XII u. 343 S.) gr. 8. 1871 geh. n. 7 Mk 20 Pf. 
+
+Fiedler, Dr. Wilhelm, Professor am eidgenössischen Polytechnikum zu 
+Zürich, die darstellende Geometrie in organischer Verbindung 
+mit der Geometrie der Lage. Für Vorlesungen an technischen 
+Hochschulen und zum Selbststudium. Zweite Auflage. Mit 260 
+Holzschnitten und 12 lithographirten Tafeln. (LIV u. 761 S.) 
+gr. 8. 1875. geh. n. 18 Mk. 
+
+Gordan, Dr. Paul, ord. Professor der Mathematik an der Universität 
+zu Erlangen, über das Formensystem binärer Formen. (52 S.) 
+gr. 8. 1875. geh. n. 2 Mk. 
+
+Günther, Dr. Siegmund, vermischte Untersuchungen zur Ge- 
+schichte der mathematischen Wissenschaften. Mit in den 
+Text gedruckten Holzschnitten und 4 lithographirten Tafeln. (VIII 
+u. 352 S.) gr. 8. 1876. geh. n. 9 Mk. 
+
+Hankel, Dr. Herm., weil. Professor in Tübingen, zur Geschichte der 
+Mathematik im Alterthum und Mittelalter. (IV u. 410 S.) 
+gr. 8. 1874. geh. n. 9 Mk. 
+
+Vorlesungen über die Elemente der projectivischen Geo- 
+metrie in synthetischer Behandlung. (VIII u. 256 S.) gr. 8. 
+1875. geh. n. 7 Mk. 
+
+Heilermann, Dr. Hermann, Director der Realschule zu Essen, eine 
+elementare Methode zur Bestimmung von grössten und kleinsten 
+Werthen, nebst vielen Aufgaben. Mit 21 Figuren in Holzschnitt, 
+(VII u. 104 S.) gr. 8. 1871. geh. n. 2 Mk. 40 Pf. 
+
+Helmert, F. E,., die Ausgleichungsrechnung nach der Methode 
+der kleinsten Quadrate mit Anwendungen auf die Geodäsie imd die 
+Theorie der Messinstrumente. (XI u. 348 S.) gr. 8. 1872. geh. 
+
+n. 7 Mk. 
+
+
+
+352 Verlag von B. G. Teubner in Leipzig. 
+
+Hesse, Dr. Otto, weil. Prof. am königl. Polytechnikum zu München, 
+Vorlesungen über analytische Geometrie des Kaumes, 
+insbesondere über Oberflächen zweiter Ordnung. Revidirt und mit 
+Zusätzen versehen von Dr. S. Gundelfinger, a. o. Professor an 
+der Universität zu Tübingen. Dritte Auflage. (XVI u. 546 S.) 
+gr. 8. 1876. geh. n. 13 Mk. 
+
+■ sieben Vorlesungen aus der analytischen Geometrie der 
+
+Kegelschnitte. Fortsetzung der Vorlesungen aus der analytischen 
+Geometrie der geraden Linie, des Punktes und des Kreises. [Se- 
+paratausgabe aus der Zeitschrift für Mathematik und Physik.] (52 S.) 
+gr. 8. 1874. geh. n. 1 Mk. 60 Pf. 
+
+Vorlesungen aus der analytischen Geometrie der ge- 
+raden Linie, des Punktes und des Kreises in der Ebene. 
+Zweite vermehrte Auflage. (VII u. 226 S.) gr. 8. 1873. geh. 
+
+n. 6 Mk. 20 Pf. 
+
+vier Vorlesungen aus der analytischen Geometrie. Se- 
+paratabdruck aus der Zeitschrift für Mathematik u. Physik. (57 S.) 
+gr. 8. 1866. geh. n. 1 Mk. 60 Pf. 
+
+die vier Species. (35 S.) gr. 8. 1872. geh. n. 1 Mk. 
+
+die Determinanten elementar behandelt. 2. Auflage. (IV u. 
+
+48 S.) gr. 8. 1872. geh. n. 1 Mk. 20 Pf. 
+
+Joachimstlial, F., Anwendung der Differential- und Integral- 
+rechnung auf die allgemeine Theorie der Flächen und der Linien 
+doppelter Krümmung. (Herausgegeben von A. Liersemann.) Mit 
+4 Figurentafeln. (VIII u. 174 S.) gr. 8. 1872. geh. n. 5 Mk. 
+
+Kirchlioff, Dr. Gustav, Professor in Berlin, Vorlesungen über 
+mathematische Physik. Mechanik. Zweite Auflage. (VIII u. 
+466 S.) gr. 8. 1877. geh. n. 13 Mk. 
+
+Zlein, Prof. Dr. Hermann, Lehrer der Mathematik und Physik am 
+Vitzthum"schen Gymnasium zu Dresden, die Prineipien der Me- 
+chanik historisch und kritisch dargestellt. Eine von der 
+philosophischen Honoren-Facultät zu Göttingen gekrönte Preisschrift. 
+(Vin u. 120 8.) gr. 8. 1872. geh. n. 2 Mk. 40 Pf. 
+
+Klekler, Karl, Professor an der k. k. Marine -Akademie zu Fiume, die 
+Methoden der darstellenden Geometrie zur Darstellung der 
+geometrischen Elemente und Grundgebilde. Mit 13 lithographirten 
+Tafeln. (Xu. 151 S.) gr. 8. 1877. geh. n. 4 Mk. 40 Pf. 
+
+KoMransch, F., Professor in Würzburg, Leitfaden der praktischen 
+Physik, mit einem Anhange: Das elektrische und magne- 
+tische absolute Maasssystem. Dritte verbesserte Auflage. 
+(Xn u. 254 S.) gr. 8. 1877. geh. n. 5 Mk. 
+
+Koenigsberger , Dr. Leo, ordentl. Prof. an der Universität zu Wien, 
+die Transformation, die Multiplication und die Modular- 
+gleichungen der elliptischen Functionen. (VII u. 196 S.) 
+gl'. 8. 1868. geh. n. 4 Mk. 
+
+
+
+Verlag von B. G. Teubner in Leipzig. 353 
+
+Königsberger , Dr. Leo, ordentlicher Professor an der Universität zu 
+Wien, Vorlesungen über die Theorie der ellij^tischen Func- 
+tionen nebst einer Einleitung in die allgemeine Functionenlehre. 
+Mit 62 Holzschnitten im Text. 2 Theile. gr. 8. 1874. geh. 
+
+n. 21 Mk. 60 Pf. 
+
+Vorlesungen über die Theorie der hjperelliptischen In- 
+tegrale. (IV u. 170 S.) gr. 8. 1878. geh. n. 4 Mk. 80 Pf. 
+
+Kötteritzsch, Th., Dr. phil., Lehrer am Gymnasium zu Gi'imma, Lehr- 
+buch der Elektrostatik. (X u. 335 S.) gr. 8. 1872. geh. n. 7 Mk. 
+
+Krebs, Dr. G., Lehrer der Physik und Chemie an der höheren Gewerbe- 
+und Handelsschule zu Frankfurt a. M., Einleitung in die mecha- 
+nische Wärmetheorie. Mit 52 Holzschnitten im Text. (VI u. 
+' 218 S.j gr. 8. 1874. n. 4 Mk. 
+
+Lindemann, Dr.P., Prof a. d. Univers, zu Freiburg i.B., Untersuchungen 
+über den ßiemann-Roch'schen Satz, gr. 8. 1879. geh. 1 Mk. 
+
+Lommel, Dr. Eugen, Professor der Mathematik an der Universität zu 
+Erlangen, Studien über die BesseTschen Functionen. (VII 
+u. 135 S.) gr. 8. 1868. geh. n. 3 M. 
+
+Lorenz, L., die Lehre vom Licht. Vorlesungen in der obersten 
+Klasse der Offizierschule zu Kopenhagen gehalten. Autor, deutsche 
+Ausg. Mit zahlr. Holzscbn. im Text. (203 S.) gr. 8. 1877. geh. 
+
+n. 4 Mk. 
+
+Mansion, Dr. Paul, Professor an der Universität Gent, Elemente der 
+Determinanten mit vielen Uebungsaufgaben. (VI u. 49 S.) 
+gr. 8. 1878. geh. n. 1 Mk. 20 Pf. 
+
+Matthiessen, Dr. Ludwig, Professor an der Universität zu Rostock, 
+Grundriss der Dioptrik geschichteter Linsensysteme. Ma- 
+thematische Einleitung in die Dioptrik des menschlichen Auges. 
+(VIII u. 276 S.j gr. 8. 1877. geh. n. 8 Mk. 
+
+Grundzüge der antiken und modernen Algebra der litteralen 
+
+Gleichungen. (XVI u. 1001 S.) gr. 8. 1878. geh. n. 20 Mk. 
+
+Meyer, Dr. phil. Gustav Ferdinand, ehemal. Privatdocent an der Uni- 
+versität Göttingen, Vorlesungen über die Theorie der be- 
+stimmten Integrale zwischen reellen Grenzen, mit vorzüglicher 
+Berücksichtigung der von P. Gustav Lejeune -Dirichlet im 
+Sommer 1858 gehaltenen Vorträge über bestimmte Integrale. Mit 
+i.d. Test gedr. Holzschn. (XVIII u. 628 S.) gr. 8. 1871. geh.n. 12Mk. 
+
+Narr, Dr. F., Docent der Physik an der Universität München, Ein- 
+leitung in die theoretische Mechanik. Mit 35 Figuren in 
+Holzschnitt. (XII u. 350 S.) gr. 8. 1875. geh. n. 6 Mk. 
+
+Neumann, Dr. Carl, ord. Professor in Leipzig, Vorlesungen über 
+Riemann's Theorie der Abel'schen Integrale. Mit zahlreichen in 
+den Text gedruckten Holzschnitten und einer lithographirten Tafel. 
+(XVI u. 514 S.) gr. 8. 1865. geh. n. 11 Mk. 
+
+das Dirichlet'sche Princip in seiner Anwendung auf die Rie- 
+
+mann'schen Flächen. (80 S.) gr. 8. 1865. geh. n. 1 Mk. 80 Pf. 
+
+Schubert, Kalkül der abzählenden Geometrie. 23 
+
+
+
+354 Verlag von B. Gr. Teubner in Leipzig. 
+
+Neumann, Dr. Carl, ord. Prof. in Leipzig, die Haupt- und Brenn- 
+punkte eines Linsensysteme s. Elementare Darstell, der durch 
+Gauss begi-ünd. Theorie. (VIIu.4lS.) gr. 8. 1866. geh. IMk. öOPf. 
+
+Theorie der Bessel'schen Functionen. Ein Analogen zur 
+
+Theorie der Kugelfunctionen. (VIII u. 72 S.) gr. 8. 1867. geh. n. 2 Mk. 
+
+über die Principien der Galilei-Newton'schen Theorie. 
+
+Akademische Antrittsvorlesung. (32 S.) gr. 8. 1870. geh. n. 1 Mk. 
+
+Vorlesungen über die mechanische Theorie der Wärme. 
+
+(XVI u. 240 S.) gr. 8. 1875. geh. n. 7 Mk. 20 Pf. 
+
+die elektrischen Kräfte. Darlegung und Erweiterung der voji 
+
+A. Ampere, F. Xeumann, W. Weber, G. Kirchhoff entwickelten 
+mathematischen Theorien. I. Theil. Die durch die Arbeiten von 
+A. Ampere und F. Xeumann angebahnte Richtung. (XV u. 272 S.j 
+gr. 8. 1873. geh. n. 7 Mk. 20 Pf. 
+
+einige Notizen hinsichtlich der in neuerer Zeit gegen die Ge- 
+setze von Ampere und Weber erhobenen Einwände. Separat- 
+abdruck aus dem XI. Bande der Mathematischen Annalen. (S. 309 
+bis 340.) gr. 8. 1877. geh. n. 1 Mk. 20 Pf. 
+
+Untersuchungen über das Logarithmische und Newton- 
+
+sche Potential. (XVI u. 368 S.) gr. 8. 1877. geh. n. 10 Mk. 
+
+Neumann, Dr. F., Professor der Physik an der Universität zu Königs- 
+berg, Beiträge zur Theorie der Kugelfunctionen. I. u. IL 
+Abtheilung. [In einem Band.] (156 S.) gr. 4. 1878. geh. n. 8 Mk. 
+
+Plücker, Julius, neue Geometrie des Raumes, gegründet auf die Be- 
+trachtung der geraden Linie als Raumelement. Mit einem Vorw. von 
+A. Clebsch. (IV u. 378 S.) gr. 4. 1868. 1869. geh. u. 15 Mk. 
+
+Reusch, E., Professor an der Universität Tübingen, Theorie der 
+Cy lind erlin sen. Mit zwei lithographirten Tafeln. (VI u. 35 S.) 
+gr. 8. 1868. geh. n. 1 Mk. 60 Pf. 
+
+Constructionen zur Lehre von den Haupt- und Brenn- 
+punkten eines Linsensystems. Mit fünf auf Stein gravirten Tafeln 
+[in besonderem Hefte]. (VH u. 70 S.) gr. 8. 1870. geh. n. 3 Mk. 
+
+Eeye, Dr. Th., ord. Professor an der Universität zu Strassburg, syn- 
+thetische Geometrie der Kugeln und linearen Kugelsysteme 
+mit einer Einleitung in die analytische Geometrie der 
+Kugelsysteme. (VIII u. 93 S.) gr. 8. 1879. geh. n. 2 Mk. 40 Pf. 
+
+Riemann's, Bernhard, gesammelte mathematische Werke und 
+wissenschaftlicher Xachlass. Herausg. unter Mitwirkung von R. D e d e - 
+kind von H. Weber. (VIII u. 526 S.) gr. 8. 1876. geh. n. 16 Mk. 
+
+Röthig, Dr. Oscar, Oberlehrer an der Friedrich- Werder"schen Gewerbe- 
+schule in Berlin, die Probleme der Brechung und Reflexion. 
+(VIII u. 112 S.) gr. 8. 1876. geh. n. 2 Mk. 80 Pf. 
+
+Salmon, George, analytische Geometrie der Kegelschnitte mit 
+besonderer Berücksichtigung der neueren Methoden. Frei bearbeitet 
+von Dr. Wilhelm Fiedler, Prof. am eidgen. Polytechnikum zu Zürich. 
+Vierte Aufl. (XXIV u. 701 S.) gr. 8. 1878. geh. n. 14 M. 40 Pf. 
+
+
+
+Verlag von B. CI. Teubner in Leipzig. 355 
+
+Salmon, George, analytische Geometrie der höheren ebenen 
+Curven. Deutsch bearbeitet von Dr. Wilhelm Fiedler. (XVI 
+u. 471 S.) gr. 8. 1873. geh. n. 10~ Mk. 
+
+analytische Geometrie des Raumes. Deutsch bearbeitet von 
+
+Dr. Wilhelm Fiedler. Zweite verb. Auflage. Zwei Theile. gr. 8. 
+1874. geh. n. 24 Mk. 
+
+Vorlesungen über die Algebra der linearen Transforma- 
+tionen. Deutsch bearbeitet von Dr. Wilhelm Fiedler. Zweite 
+verb. u. sehr verm. Aufl. (XIV u. 478 S.) gr. 8. 1877. geh. n, lOMk. 
+
+Schnell, Dr. 'Wilhelra., grossh. bad. Hofrath u. Professor am Poly- 
+technikum zu Cai-lsruhe, Theorie der Bewegung und der 
+Kräfte. Ein Lehrbuch der theoretischen Mechanik. Mit beson- 
+derer Rücksicht auf das wissenschaftliche Bedürfniss technischer 
+Hochschulen. Zweite umgearb. Aufl. I. Bd. 1. Geometrie der Strecken- 
+systeme und Geometrie der Massen. 2. Geometrie der Bewegung und 
+Theorie der Bewegungszustände (Kinematik). Mit vielen in den Text 
+gedr. Holzschn. (XVI u. 580 S.)" gr. Lex.-8. 1879. geh. n. 10 Mk. 
+
+allgemeine Theorie der Curven doppelter Krümmung in 
+
+rein geometrischer Darstellung. Mit Holzschnitten. (106 S.) gr. 8. 
+1859. geh. n. 2 Mk. 40 Pf. 
+
+Schlegel, Victor, Mathematiker am Gymnasium zu Waren, System 
+der Raumlehre. Nach den Principien der Grassmann'schen Aus- 
+dehnungslehre und als Einleitung in dieselbe dargestellt. I. Theil: 
+Geometrie. Die Gebiete des Punktes, der Geraden und der 
+Ebene. [Mit vielen Holzschnitten im Text.] (XVI u. 156 S.) 
+gr. 8. 1872. geh. n. 4 Mk. 
+
+II. Theil: Die Elemente der modernen Geometrie 
+
+und Algebra. (XVI u. 260 S.) gr. 8. 1875. geh. n. 7 Mk. 
+
+Schmidt, Dr. Wilib., Professor an der Landesschule zu Grimma, die 
+Brechung des Lichts in Gläsern, insbesondere die achroma- 
+tische und aplanatische Objectivlinse. (121 S.) gr. 8. 1874. geh. 
+
+n. 3 Mk. 60 Pf. 
+
+Schröder, Dr. E., Prof. a. d. polyt. Schule zu Darmstadt, Lehrbuch der 
+Arithmetik und Algebra für Lehrer imd Studirende. I. Bd.: Die 
+sieben algebraischen Operationen. (X u. 360 S.) gr. 8. 1873. geh. n. 8 Mk. 
+
+der Operationskreis des Logikkalkuls. (VI u. 37 S.) gr. 8. 
+
+1877. geh. 1 Mk. 50 Pf. 
+
+Schüler, Wilhelm. Friedrich, Assistent u. Repetitor an der techn. Hoch- 
+schule in München, die Arithmetik und Algebra in philosophischer 
+Begründung. Vorlesungen. In drei Theilen. I. Theil. Die vier Species 
+mit ganzen und gebrochenen positiven und negativen Grössen und die 
+Determinanten. (VI u. 140 S.) gr. 8. 1873. geh. n. 4 Mk. 
+
+Serret, J. A., Handbuch der höheren Algebra. Deutsche Ueber- 
+setzung von G. Wertheim, Lehrer an der Realschule der israeli- 
+tischen Gemeinde zu Frankfurt a. M. 2 Bände. I. Band. 2. Aufl. 
+(VIII u. 528 S.j gr. 8. 1878. geh. 9 Mk. 
+
+
+
+356 Verlag von B. G. Teubner in Leipzig. 
+
+Sohncke, Leonhard, Professor am Polytechnikum zu Karlsruhe. Eni- 
+wickelung einer Theorie der Krj^stallstruktur. Mit 55 Holz- 
+schnitten im Text und 5 lithogr. Tafeln gr. 8. 1879. geh. n. 8 Mk. 
+
+SomofF, Josef, Mitglied der Kaiserl. Academie der Wissensch. u. Prof. emer. 
+an der Universität zu St. Petersburg, theoretische Mechanik. Aus 
+dem Russischen übersetzt von A. Ziwet. Erster Theil: Kinematik. 
+(XVI u. 412 S.) gr. 8. 1878. geh. n. 6 Mk. 80 Pf. 
+
+Steiner's, Jacob, Vorlesungen über synthetische Geometrie. 
+2 Theile. Zweite Auflage, gr. 8, geh. n. 20 Mk. 
+
+Sturm, Dr. Rticlolf, ord. Professor am Polytechnikum zu Darmstadt, 
+synthetische Untersuchungen über Flächen dritter Ordnung. 
+(XX u. 388 S.) gr. 8. 1867. geh. n. 8 Mk. 
+
+■Waltenhof en , A. von, k. k. ord. Professor der Physik an der deutschen 
+technisÄlien Hochschule zu Prag, Grundriss der allgemeinen 
+mechanischen Physik. Die wichtigsten Lehrsätze der Mechanik 
+fester, flüssiger und gasförmiger Körper, der mechanischen Wärme- 
+theorie und der Potentialtheorie nebst einer mathematischen Ein- 
+leitung. Für Studirende an Hochschulen und für Lehramtscandi- 
+daten. (XO u. 361 S.) gr. 8. 1875. geh. n. 8 Mk. 
+
+Wand, Theodor, Consistorial -Assessor und Mitglied der bayerischen 
+Abgeordneten -Kammer, die Principien der mathematischen 
+Physik und die Potentialtheorie nebst ihren vorzüglichsten 
+Anwendungen. Mit 8 in den Text gedruckten Holzschnitten. (VHI 
+u. 184 S.) gl-. 8. 1871. geh. n. 3 Mk. 
+
+Weissenborn, Dr. Herrn., Professor am Realgymnasium zu Eisenach, 
+Grundzüge der analytischen Geometrie der Ebene füi- 
+orthogonale und homogene Punkt- imd Linien -Coordinaten. (VIII 
+u. 236 S.) gr. 8. 1876. geh. n. 7 Mk. 
+
+Wittwer, Dr. W. C, Professor der Physik am k. b. Lyceum zu Regens- 
+burg, die Moleculargesetze dargestellt. Mit einer Figurentafel. 
+(VIII u. 155 S.) gr. 8. 1871. geh. n. 3 Mk. 
+
+Witzscliel, Dr. Benjamin, Grundlinien der neueren Geometrie 
+mit besonderer Berücksichtigung der metrischen Verhältnisse an 
+Systemen von Punkten in einer Geraden und einer Ebene. Mit in 
+den Text gedr. Holzschn. (X u. 273 S.) gr. 8. 1857. geh. n. 4 Mk. 
+
+Wüllner, Dr. Adolf, Professor an der polytechnischen Schule in Aachen, 
+Lehrbuch der Experimentalphysik. Vier Bände. Dritte viel- 
+fach umgearbeitete und verbesserte Auflage. Mit vielen in den Text 
+gedruckten Holzschnitten, gr. 8. 1874. 1875. geh. n. 41 Mk. 
+
+Compendium der Physik für Studirende an Universitäten und 
+
+technischen Hochschulen. Zwei Bände. Mit zahlreichen Abbildungen 
+im Text und einer farbigen Spectraltafel. gr. 8. geh. 1879. Beide 
+Bände zusammen n. 19 Mk. 20 Pf. 
+
+Einzeln jeder Band ä n. 9 Mk. 60 Pf. 
+
+
+
+PLEASE DO NOT REMOVE 
+CARDS OR SLIPS FROM THIS POCKET 
+
+UNIVERSITY OF TORONTO LIBRARY 
+
+
+
+QA Schubert, Hermann Cäsar 
+
+551 Hannibal 
+
+S44. Kalkül der abzählenden 
+
+Geometrie 
+
+Physical &amp; 
+AppUed Sa. 
+
+
+
+32 
+
+
+
