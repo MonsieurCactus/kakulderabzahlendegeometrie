@@ -1,70 +1,54 @@
-§1. 
-Die Coustanteiizalil eines Gebildes. 
+# §1 Die Coustanteiizalil eines Gebildes. 
 
 Das äusserliche Ziel der abzählenden Geometrie ist die Be- 
 antwortung aller Fragen von folgender Form: 
 
-„Wieviel geometrische Gebilde von hestimmter Definition erfüllen 
-gewisse gegebene Betliugiingeu?" 
+    „Wieviel geometrische Gebilde von hestimmter Definition erfüllen gewisse gegebene Betliugiingeu?" 
 
 Die Zahlen, welche diese Fragen beantworten, hängen also 
-einerseits von der Natur der aufgestellten Definition, andererseits 
-von der Natur der gegebenen Bedingungen ab. Wenn nun die De- 
-finition für ein F genanntes Gebilde derartige Bestimmungen ent- 
-hält, dass der Raum oo'' Individuen besitzt, welche diese Definition 
+einerseits von der Natur der aufgestellten *Definition*, andererseits 
+von der Natur der gegebenen *Bedingungen* ab. Wenn nun die Definition 
+für ein $\Gamma$ genanntes Gebilde derartige Bestimmungen enthält, 
+dass der Raum $\infty^c$ Individuen besitzt, welche diese Definition 
 erfiülen, oder, was ganz dasselbe ist, dass die analytisch -geome- 
-trische Darstellung dieses Gebildes F c wesentliche Constanten ent- 
-hält , so soll c die ConstantenmM des Gebildes F oder seiner De- 
-finition heissen. 
+trische Darstellung dieses Gebildes $\Gamma c$  wesentliche $Constanten$ enthält, 
+so soll $c$ die *Constantzahl* des Gebildes $\Gamma$ oder seiner Definition heissen. 
 
-Hiernach bedeutet der Ausspruch, dass der (als Träger sei- 
-ner Punkte aufgefasste) Raum drei Dimensionen hat, nichts anderes, 
+Hiernach bedeutet der Ausspruch, dass der (als Träger seiner Punkte aufgefasste) 
+Raum drei Dimensionen hat, nichts anderes, 
 als dass der Punkt die Constantenzahl 3 hat. Die Constantenzahl 
 der Ebene ist auch gleich 3, die des Strahles aber gleich 4. Aus 
 diesen Constantenzahlen ergeben sich durch Addition die Constanten- 
-zahlen aller aus einer endlichen ÄnmJd von Punkten, Ebenen und 
+zahlen aller aus einer *endlichen Anzahl* von Punkten, Ebenen und 
 Strahlen zusammengesetzten Gebilde. Beispielsweise ist die Con- 
 stantenzahl 
 
-1. eines Punktepaares gleich 2.3, also einer Strecke von be- 
-stimmter Länge gleich 2.3—1; 
+1. eines Punktepaares gleich $2 \times 3$, also einer Strecke von bestimmter Länge gleich $2 \times 3 - 1$; 
 
-2. eines Dreiecks im Räume gleich 9, eines Dreiecks in fester 
-Ebene gleich 6; 
+2. eines Dreiecks im Räume gleich 9, eines Dreiecks in fester Ebene gleich 6; 
 
-3. eines räumlichen w-Ecks, d. h. eines Polyeders, welches n 
-Ecken und nur Dreiecke zu Grenzflächen hat, gleich 3.«; 
+3. eines räumlichen $n$-Ecks, d. h. eines Polyeders, welches n Ecken und nur Dreiecke zu Grenzflächen hat, gleich 3.; 
 
-4. eines ebenen w-Ecks im Räume gleich 2.W + 3-, 
+4. eines ebenen $n$-Ecks im Räume gleich $2 \times n + 3$, 
 
-Schubert, Kalkül der abzählenden Q-eometrie. 1 
-
-
-
-
-
-
-2 Erster Absc-hnitt. 
-
-5. einer geraden Punktgruppe, d. h. eines Gebildes, welches 
-aus einem Strahle und n darauf liegenden Punkten besteht, gleich 4 + m; 
+5. einer geraden Punktgruppe, d. h. eines Gebildes, welches aus einem Strahle und $n$ darauf liegenden Punkten besteht, gleich $4 + n$; 
 
 6. eines Strahlbüschels gleich 5; 
 
-7. eines Gebildes, welches aus n in einem Strahlbüschel liegenden 
-Strahlen besteht, gleich 5 -f- n. 
+7. eines Gebildes, welches aus n in einem Strahlbüschel liegenden Strahlen besteht, gleich $5 + n$. 
 
-8. Aus der in 3. für ein Dreieckspolyeder angegebenen Con- 
-stantenzahl gelangt man sehr leicht zu der Constantenzahl c eines 
-beliebigen Polyeders. Ein solches habe e Ecken, /Flächen, /^Kanten. 
-Man zerlege jedes, eine Fläche bildende w-Eck durch Ziehen von 
-M — 3 Diagonalen in w— 2 Dreiecke. Dann mögen auf den /'Flächen 
-im Ganzen &lt;? Diagonalen zur Zerlegung erforderlich sein, und d Drei- 
-ecke entstehen. Dann ist 8 um f grösser als d, weil auf jeder 
-Fläche ein Dreieck mehr entsteht, als Diagonalen zur Zerlegung 
+8. Aus der in 3. für ein *Dreieckspolyeder* angegebenen Con- 
+stantenzahl gelangt man sehr leicht zu der Constantenzahl $c$ eines 
+*beliebigen Polyeders*. Ein solches habe $e$ Ecken, $f$ Flächen, $k$ Kanten. 
+Man zerlege jedes, eine Fläche bildende $n$-Eck durch Ziehen von 
+$n-3$ Diagonalen in $n-2$ Dreiecke. Dann mögen auf den $f$ Flächen 
+im Ganzen $d$ Diagonalen zur Zerlegung erforderlich sein, und d Drei- 
+ecke entstehen. Dann ist $\delta$ um $f$ grösser als $d$, weil auf *jeder*
+Fläche *ein* Dreieck mehr entsteht, als Diagonalen zur Zerlegung 
 nothwendig sind. Also ist: 
 
-ö^d-hf. 
+$$ \delta = d + f$$
+
 Ferner sind die 3 . d Seiten der d Dreiecke zum Theil die 
 fZ Diagonalen, zum andern Theil die /.'Kanten, jedoch so, dass jede' 
 der d Diagonalen, und auch jede der A.' Kanten zweinml als Drei- 
