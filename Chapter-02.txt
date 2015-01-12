@@ -1,0 +1,1130 @@
+Zweiter Abschnitt. 
+Die Incideiiz form ein. 
+
+
+
+§ 7. 
+Die Iiicideiizformcln für Punkt iiiicl Strahl. 
+
+Den Hauptelementeii schliessen sich als nächst einfache Gebikle 
+die Incidenzen an, d, h, diejenigen Gebikle, welche aus zwei ver- 
+schiedenen Hauptelementen zusammengesetzt sind, die eine gewisse, 
+incident genamite, specielle Lage zu emander haben. Incident heisseu 
+nämlich (Lit. 10): 
+
+1. Punkt und Strahl, wemi der Punkt auf dem Strahle liegt, 
+oder, was dasselbe ist, der Strahl durch den Punkt geht; 
+
+2. Ebene und StraJd^ wemi der Strahl in der Ebene liegt; 
+
+3. FunM und Ebene ^ wemi der Punkt in der Ebene liegt; 
+
+4. Strahl und Strahl^ wemi die beiden Strahlen sich schneiden. 
+Alle Gleichungen zwischen den Grundbedmgungen jeder dieser 
+
+4 Incidenzen nennen wir Incidenz formein. In diesem Paragraphen 
+stellen wir nur die Incidenzformeln für Punkt und Strahl auf. 
+
+Irgend ein Gebilde besitze einen Strahl g und auf demselben 
+einen Pmikt jj. Dami lassen sich 4 auf jj und g bezügliche, zwei- 
+fache Bedingimgen angeben, nämlich: 
+
+P\ 9e, gp, pg. 
+
+Das Symbol pg bezeichnet nach den Festsetzungen der §§ 2 
+und 4 die Zahl derjenigen Gebilde, eines Systems, welche ihren 
+Punkt p auf einer gegebenen Ebene haben und zugleich ihren Strahl 
+g eine gegebene Gerade schneiden lassen. Diese Zahl ändert sich 
+nach dem Princip von der Erhaltung der Anzahl (§ 4) nicht, tvenn 
+wir die gegebene Gerade in die gegebene Ebene legen. Dann aber er- 
+füllt die Bedingung pg erstens jedes Gebilde, dessen Punkt 2&gt; ^^it 
+der gegebenen Geraden liegt, zweitens jedes Gebilde, dessen Strahl 
+g in der gegebenen Ebene liegt. Daher ist allgemein: 
+
+I) P9=P&lt;, + 9 , 
+
+oder, insofern man p^ statt pg setzen kann (§ 6) 
+
+I) pg^p' + ge. 
+
+
+
+26 Zweiter Abschnitt. 
+
+Aus dieser wielitigen Formel und der ilir dual eutspreclieudeu For- 
+mel folgen durch symbolische Multiplicationen schliesslich alle 
+übrigen Incidenzformeln. Unser Bedmjungslialkül dispensirt uns also 
+schon nach einmaliger Anwendung des Prmcips von der ErJialtimg der 
+Anzahl von allen tveiteren geometrischen Ucbcrlegungcn. Multipliciren 
+wir die Formel 1 symbolisch mit p und mit g, so erhält man nach 
+Benutzung der Formeln des § 6: 
+
+2)^g^p^+pg, 
+und 
+
+woraus mau durch Addition erhält: 
+
+II) P(Jp=P^ + 9s. 
+
+Um die Formeln vierter Dimension zu erhalten, multipliciren wir 
+Formel 1 symljolisch mit p^, mit gp mid mit g^. Dann kommt: 
+
+P9s=P^9p^^, 
+
+P9s=P^9e+G, 
+
+also : 
+
+III) pg, =p% = G-hp'g = G + p'ge . 
+
+Die Formeln fünfter Dimension enthalten nur Selbstverständliches, 
+
+z. B. 
+
+p^ge = mi([ p)^gp=p^gs=X)G. 
+
+Die eben abgeleiteten Incidenzformeln, von denen man sich beson- 
+ders die mit römischen Nummern versehenen merken mag, finden 
+überall Anwendung, wo gegebene Bedingungen sich auf einen Strahl 
+und einen Punkt beziehen, der dem Strahle incident ist. Wir heben 
+in den folgenden Paragraphen einige besonders naheliegende An- 
+wendungen hervor. 
+
+
+
+Anwendung der Incidenzformeln I, II und III auf die Incidenz 
+einer Tangente mit ihrem Berührungspunkt. 
+
+Lidem wir unter g jede Tangente einer Raumcurve, unter 2^ 
+ihren BerührungspimM verstehen, gewinnen wir aus jeder Formel 
+des § 7 eine Formel zwischen Bedingungen, die einer Raumcurve 
+auferlegt sind, wenn wir nur die dort auftretenden Symbole in 
+richtiger Weise auf die Raumcurve übertragen. Da die Raumcurve 
+ein einstufiges System von Gebilden besitzt, deren jedes aus einer 
+Taugeute und ihrem Berührungspunkte besteht, so wird aus einer 
+
+
+
+Die Incidenzformeln. 27 
+
+Bedingung, welche in § 7 i-fach ist, bei der Uebertragimg auf die 
+Kaumcurve eine (i— 1)- fache. Beispielsweise wird aus 
+
+1. (Je die einfache Bedingung, dass die Curve eine gegebene 
+Ebene berühre; 
+
+2. p^ die Bedingung, dass sie eine gegebene Gerade schneide; 
+
+3. ]f die Bedingung, dass sie durch einen gegebenen Punkt gehe; 
+
+4. Qs die Bedingung, dass sie eine gegebene Ebene l^erühre imd 
+die Taugente des Berührungspunktes durch einen auf der Ebene 
+gegebenen Punkt schicke; 
+
+5. p^Qp die Bedingung, dass sie eine gegebene Gerade schneide 
+und dabei die Tangeute des Schnittpunktes durch einen gegebeneu 
+Punkt schicke. 
+
+Es Avird genügen, wemi wir nur bei c'mujcn Formeln des § 7 
+die Uebertragimg auf die Raumcurve in Worten angeben. 
+Die Formel I 
+
+liefert den häufig angewandten Satz (Lit. 11): 
+
+„Addirt man hei einem hdiehigen eiiistufigeu Systeme von Curven 
+die Zahl der eine gegebene Gerade schneidenden und die Zahl der eine 
+gegebene Ebene berührenden Oiirven, so ist die Summe gleich der Zahl 
+derjenigen Curven des Systems, ivelche eine Ebene so schneiden, dass 
+die Tangente des SchnittpunJctes eine gegebene Gerade schneidet, oder^ 
+was dasselbe ist, gleich dem Grad der Curve der Berührungspunkte 
+oller eine gegebene Gerade schneidenden Tangenten, oder, was auch 
+dasselbe ist, gleich dem Grad der Linietifläche derjenigen Tangenten, 
+ivelche in den Schnittpunkten der Raumciirven mit einer gegebenen 
+Ebene berühren" 
+
+Dieser Satz lässt sich leicht auf Plancurven übertragen (Lit. 11). 
+
+Die Formnl II des § 7 liefert für jede Raumcurve den Satz: 
+
+j, Addirt man bei einem zweistufigen Systeme von Eaumcurven 
+die Zahl der durch einen gegebenen Funkt geltenden und die Zahl der 
+irgend einen Strahl eines gegebenen Strahlbüscliels berührenden Baum- 
+curven, so ist die Summe gleich dem Grade der Curve, ivelche gebildet 
+■wird von den Berührungspunkten aller durch einen gegebenen Punkt 
+an Baunicurven des Systems gesogenen Tangenten"' (Lit. 11). 
+
+Die Formel III des § 7: 
+
+P^gp=P^ge + G 
+liefert den Satz: 
+
+^, Addirt man hei einem dreistufigen Systeme von Baunicurven 
+die Zahl der eine gegebene Ebene in einem gegebenen Punkte berühren- 
+
+
+
+28 Zweiter Abschnitt. 
+
+deti Baumairven und die Zahl der eine gegebene Gerade herührenden 
+Baimicurven des Systems, so ist die Summe gleich dem Grade der 
+Fläehe, tvelche gebildet ivird von den Berührung spunlden aller durch 
+einen gegebenen PunJd an Baumcurven des Systems gezogenen Tan- 
+gmten." 
+
+Versteht man unter g jede Tangente einer Fläche und unter p 
+den zugehörigen Berührungspunkt, so besitzt eine Fläche ein drei- 
+stufiges System solcher aus g und p bestehenden Incidenzeii. Folg- 
+lich wird jede i- fache Bedingung des § 7 für die F'läcTie eine 
+(*— 3) -fache Bedingung. Also liefert die Formel II des §7, welche 
+dritter Dimension ist, eine Beziehung zwischen nullfachen Beding- 
+ungen, d. h. zwischen Anzahlen, die sich auf ein nullstufiges System, 
+d. h. eine endliche Anzahl von Flächen, also speciell auch auf eine 
+einzige gegebene Fläche beziehen. Da die Bedingung p^ gar nicht 
+erfüllt werden kann, so liefert Formel II den bekamiten Satz: 
+
+„Legt man von einem heliebigen Punlde des Baumes an eine 
+Fläche die oo ' Tangenten, so bilden ihre Berührungspunkte eine Curvc, 
+deren Grad gleich dem Bange der Fläche ist, d. h. gleich der Zahl 
+der einem gegebenen Strahlbüschel angehörigen Tangenten." 
+
+Formel III liefert für eine Fläche den Satz: 
+
+„Addirt man bei einem einstufigen Flächensysteme die Zahl der 
+durch einen gegebenen Punkt gehenden Flächen und die Zahl der eine 
+gegebene Gerade berührenden Flächen, so ist die Summe gleich der 
+Zahl derjenigen Flächen des Systems, welche eine gegebene Gerade so 
+schneiden, dass die Tangente im Schnittpunkt durch einen gegebenen 
+Punkt geht." 
+
+§ 0. 
+Weitere Beispiele zu den Iiicidenzforineln I, II, III. 
+
+1. Es sei g jeder Strahl einer gegebenen Congruenz, p jeder 
+der beiden auf ihm liegenden Brennpunkte, so dass jeder Strahl 
+der Congruenz zwei Incidenzen bestimmt. Dann liefert die For- 
+mel I den Satz: 
+
+„Addirt man die doppelte Zahl der in einer gegebenen Ebene 
+liegenden Strahlen einer Congruenz zu dem Grade ihrer Bremi- 
+fläche, so ist die Summe der Grad der Curve, die gebildet wird 
+von allen denjenigen Brennpunkten , welche auf den eine gegebene Ge- 
+rade schneidenden Üongruenzstrahlen liegen." 
+
+Formel II liefert einen analogen Satz für einstufige, Formel III 
+für zweistufige Systeme von Congruenzen. 
+
+
+
+Die Incidenzformeln. 29 
+
+2. Wemi drei Punkte a, h, c auf einem und demselben Strahle 
+g liegen, so besteht zwischen den Grundbedingungen von a, h, c 
+eine Gleichung dritter Dimension, welche die Grundbedingungen des 
+Trägers g nicht mehr enthält. Man findet diese Gleichung, indem 
+man aus den drei durch Formel I gelieferten Gleichungen 
+
+ag = a^-\-ge, 
+bg=h^ + ge, 
+
+g und ge eliminirt, dabei jedoch nur addirt, subtrahirt oder multi- 
+plicirt, aber nicht dividirt (cf § 5). Wir multipliciren also die 
+erste Gleichung mit b — c, die zweite mit c — a, die dritte mit a- b 
+und addiren die erhaltenen Gleichungen. Dami ergiebt sich: 
+
+= «2 (&amp;-a) + &amp;2^c-rt) + c^ («--&amp;), 
+wofür man auch schreiben kann: 
+
+(«-&amp;)(&amp;-c)(c-a) = 0. 
+Es war vorauszusehen, dass die gesuchte Gleichung für a = /&gt;, 
+für &amp; = c und für c = a erfüllt werden muss, weil 3 Punkte immer 
+in gerader Linie liegen, sobald zwei derselben identisch sind. 
+
+3. Wir betrachten das Gebilde, welches aus zwei sich in jt 
+schneidenden Strahlen g und h besteht. Diesem Gebilde, welches 
+die Constantenzahl 7 hat, legen wir die sechsfache Bedingung gji^ 
+auf und wenden die Formeln II und III an. Daim kommt nach- 
+einander: 
+
+g. K = {pgp -p^) {phj&gt; -p^) 
+=-P^fJphp = {G-\-p^ge)hp 
+= Ghp +X)^gehp = Ghp-\- g, {H+p^h) 
+^Ghp-\-Hge, 
+
+ein leicht in Worten ausdrückbares Resultat, das wir sofort weiter 
+
+verwerthen wollen. 
+
+4. Wir betrachten das räumliche n-Ech mit den n Seiten 
+
+9l, 92, 9z&gt;--'9n, 
+d. h. das Gebilde, welches aus -den n Strahlen g^^ g.^,...gn so zu- 
+sammengesetzt ist, dass der erste Strahl den zweiten, der zweite 
+den dritten, der dritte den vierten u. s. w., der letzte wieder den 
+ersten Strahl schneidet. Diesem Gebilde, welches die Constanten- 
+zahl 3.M hat, legen wir die 3. m- fache Bedingung 
+
+gisg2sg3sgu...g„s 
+
+auf Die durch diese Bedingung bestimmte Anzahl ergiebt sich bei 
+Anwendung des oben in 3 gefundenen Resultates ohne Weiteres. 
+
+
+
+30 Zweiter Abschnitt. 
+
+Man hat nämlicli dann: 
+
+9ug2sg3s ■ ..gns==Gig2pg3s ■■■gns 
+
+-}-9leG^g3s...gns. 
+
+Nun erkennt man leicht, dass das räumliche n-'Eck durch jede 
+der beiden rechts vom Gleichheitszeichen stehenden Bedingungen 
+1 - deutig bestimmt ist, vorausgesetzt, dass n &gt; 3 ist. Ist n = 3, so 
+ist f/itf (?2^3ä= 1, aber G^g^pg-is^^-, weil dami durch den Punkt 
+der Bedingung g^p kein Strahl geiegt werden kami, der die beiden 
+durch G^g-is festgelegten und in derselben Ebene liegenden Strahlen 
+schneiden könnte. Also ist nur für n &gt; 3 : 
+
+
+
+gug2sg3s...gns 
+
+
+
+9 
+
+
+
+Es gieht demnach 2 räumliche n - Ecke, dci'en n Seiten in n ge- 
+gehcnen Strahlbüscheln liegen, ivenn &gt;5 ist. 
+
+Um eine weitere Anzahl für das räumliche w-Eck zu bestim- 
+men, bezeichnen wir seine w- Ecken mit 
+
+öfj, «2? %5 • • -^wj 
+so dass «1 der Schnittpunkt von g^ und g^, a^ der Schnittpunkt von 
+^2 und &lt;73 u. s. w., ün der Schnittpunkt von (jr„ und g^ ist. Dann 
+legen wir dem räumlichen «-Eck die 3. m- fache Bedingung 
+
+a^a^a^...angipgip...gnp 
+auf und wenden die Incidenzformel 11 an. Dann kommt: 
+(iigip a^g-ip a^gsp ■ . . ang„p 
+
+= K^ + Ö'l.O («2^ + 92s) («3^ + ^3.) . . . (««^ + gn.^. 
+
+Nach Ausführung der angedeuteten Multijilication rechts würde 
+man 2" Glieder erhalten, von denen nur 
+
+a^^a^^a^ ...arC" 
+und 
+
+g\Bg-2sg3s..-gn, 
+
+von null verschieden sind, weil alle übrigen Glieder eine nicht er- 
+füllbare Bedingung enthalten, nämlich die, dass ein Punkt, etwa 
+«2, gegeben sein soll und zugleich ein durch ihn gehender Strahl, 
+dies ist dann 
+ist aber 
+
+
+
+3. 
+
+
+
+a^a^a.^gxpg.j,gz^ = 2. 
+Dieses Resultat kann in Worten etwa so ausgesprochen werden: 
+
+
+
+
+
+
+
+&lt;«^3 
+
+
+• • ff «^ = 
+
+
+= 1, 
+
+
+und. 
+
+
+wie oben gezeigt 
+
+
+ist, für w&gt;3: 
+
+
+
+
+Also 
+
+
+ist für w&gt;3: 
+
+
+9xsg2, 
+
+
+...gn,- 
+
+
+= 2. 
+
+
+Für 
+
+
+«1 
+w = 3 erhält man 
+
+
+a,...a„gr, 
+dagegen: 
+
+
+p92p-- 
+
+
+■9np 
+
+
+
+Die Tncidenzfonneln. 31 
+
+„Beivegen sich hei einem räumlichen n-Eck alle Ecken mit Aus- 
+nahme einer einzigen auf n — 1 festen Ebenen , während seine n Seiten 
+hesfändig durch n feste Punkte gehen, so heschreibt die ausgeschiedene 
+Ecke eine Raumcurve dritter Ordnung, wenn n'^3 ist, einen Kegel- 
+schnitt, wenn n^3 ist." 
+
+Man beachte, dass der Beweis dieses Satzes ohne Weiteres 
+aus den Incidenzformehi folgt, also kein anderes, der Algebra ent- 
+lehntes Princip erfordert, als das von der Erhaltung der Anzahl (§ 4). 
+
+
+
+§ 10. 
+Die übrigen Incideiizformelu. 
+
+Dem in § 7 behandelten Gebilde, Avelches aus einem Strahle 
+und einem darauf liegenden Punkte besteht, entspricht dual das 
+Gebilde, ivelches aus einem Strahle und einer durch ihn gehenden 
+Ebene besteht. Die für dieses Gebilde geltenden Incidenzformehi 
+können also aus den in § 7 abgeleiteten Formeln direct abgelesen 
+werden. Die Ebene heisse e, der auf ihr liegende Strahl g. Dann 
+hat man zmiächst: 
+
+IV*) eg=-gp-\-eg, 
+
+oder, insofern e^ für e, substituirt werden darf (§ 6) 
+
+IV) eg==g,^e^ 
+
+Daraus folgt: 
+
+eV = (i9p + e^ 
+und namentlich: 
+
+V) ege^gs-\re% 
+ferner die Formel vierter Dimension: 
+
+VI) e'ge -eg,^G + ehj ^G + e^g,. 
+
+Die dritte der 4 in § 7 angeführten Incidenzen besteht ans 
+einer Ebene e und einem in derselben befindlichen Funkte p. Die For- 
+meln zwischen den Grundbedingungen dieser Incidenz erhält man 
+durch blose Rechnung aus den bisher aufgestellten Formeln, indem 
+man beachtet, dass, wenn der Punkt ]} auf dem Strahle g liegt, 
+und dieser Strahl g in der Ebene e liegt, der Punkt p auf die 
+Ebene e fallen muss. Man hat also sowohl 
+
+wie auch 
+
+. e9 = e^ + 9p- 
+
+* Die römischen Nuuimeni schliessen sich an die Nummern des § 7 an. 
+
+
+
+32 Zweiter Abschnitt. * 
+
+Aus beiden folgt, wenn man die erste Gleichung mit e, die 
+zweite mit p multiplicirt, und beachtet, dass dann die linken Seiten 
+identisch werden: 
+
+Nun substituirt man nach Formel 11 und Formel V für e(ie und 
+pgp. Dami kommt: 
+
+i&gt;^e + (js + e^ = e^p + g, + p^, 
+oder 
+
+VII) p3__p2g^^g2._g3_0. 
+
+Aus dieser wichtigen Incidenzformel folgt durch symbolische 
+Multiplication mit e oder p die Formel vierter Dimension: 
+
+VIII) p^e-p^e^-\-pe' = 0. 
+
+Durch nochmalige Multiplication mit p oder e erhält man das 
+selbstverständliche Resultat : 
+
+
+
+Die vierte der in § 7 angeführten Incidenzen besteht ans zwei 
+sich sclmeklcndai Strahlen. Dieselben mögen g und h heissen und 
+sich in p schneiden. Dann gelten nach I, II und III die Formeln: 
+
+9e-pg-p\ 
+
+he = ph~ii^, 
+
+h-phj,-p^, 
+
+H-^pVij.—p^h. 
+Multiplicirt man die erste dieser 6 Gleichungen mit 1, die zweite 
+mit — h, die dritte mit lip, die vierte mit g^, die fünfte mit — r/, 
+die sechste mit 1, und addirt die dann entstandenen 6 Gleichungen, 
+so erhält man: 
+
+IX) G-gJi + gehp-\-gphe-gh + H==0. 
+
+Dieses ist die Formel niedrigster Dimeüsion, die zwischen den 
+Grundbedingungen zweier sich schneidender Strahlen besteht. Durch 
+Multiplication derselben mit h, hg, hp entstehen die Formeln fihifter 
+und sechster Dimension: 
+
+X) Gh -gs{hp + h) + {gp-Vg,)h~ gH^Q. 
+
+XI) Ghe-gsh-\-gpH==0. 
+
+XII) Ghp-g,h,-\-geH=0. 
+
+Die Formel XII haben wir schon im Beispiel 3 des § 9 kemien 
+gelernt. Die Multiplication der Formel IX mit hs giebt das selbst- 
+verständliche Resultat: 
+
+Gh.^gsH. 
+
+
+
+Die Incidenzformeln. 33 
+
+Jede von den eben durch symbolisches Eechnen gewonnenen 
+Formeln kann natürlich auch geometrisch abgeleitet werden. Frei- 
+lich ist dieser Weg meist viel umständlicher. Beispielsweise geben 
+wir eine geometrische Herleitung der Incidenzformel VII. 
+
+Das Gebilde, welches aus einer Ebene e und einem darin be- 
+iindlicheji Punkte 2^ besteht, hat die dreifachen Grundbedingungen 
+p^, p^e, pe^, e^. 
+
+Zu diesen fügen wir die dreifache Bedingung pe*, welche aus- 
+sprachen soll, dass die Ebene e durch eine gegebene Gerade geht, auf 
+tvelcher zugleich der Punkt p liegt. Daim betrachten wir die Be- 
+dingung p^e und legen den gegebenen Punkt der Bedingung e in 
+die gegebene Gerade der Bedingung p^. Daim erfüllt die Beding- 
+ung pi^e erstens jedes Gebilde, welches seinen Punkt p in dem 
+gegebenen Punkte besitzt, welches also eine Bedingung p^ erfüllt, 
+zweitens aber auch jedes Gebilde, welches seine Ebene e durch die 
+gegebene Gerade schickt und zugleich seinen Punkt p auf ebendie- 
+selbe Gerade wirft, welches also eine Bedingung pe erfüllt. Man 
+hat also: 
+
+XIII) pH^p^+p^e. 
+Folglich gilt auch die dual entsprechende Formel: 
+
+XIV) pe^ = e^^-^e. 
+
+Aus beiden Formeln resultirt die gesuchte Formel VII durch Elimi- 
+nation von pe. 
+
+Man kaim das Gebilde, welches aus der Ebene e und dem 
+darin befindlichen Punkte p besteht, als einen StraJdbüschel be- 
+trachten, dessen Scheitel p und dessen Ebene e heisst. Dann be- 
+deutet das neu eingeführte Symbol p e die Bedingung , dass der Strahl- 
+büschel einen gegebenen Strahl enthalte. 
+
+§ 11. 
+Beispiele zu den Iiieidenzformelu IV bis XIV. 
+
+Beispiele zu den Licidenzformeln IV bis VI kami man durch 
+duale Uebertragung der in §§ 7 und 8 betrachteten Beispiele er- 
+halten. Zur Einübung der übrigen Incidenzformeln mögen folgende 
+Beispiele dienen. 
+
+
+
+* Dieses Symbol für die oben angegebene Bedingung behalten wir in 
+allen folgenden Abschnitten ebenso bei, wie die in § 2 definirten Bedingungs- 
+symbole (Lit. 12). 
+
+Schubert,.Kalkal der abzäblendeu Geometrie. 3 
+
+
+
+34 Zweiter Abschnitt. 
+
+1. Jede Fläche besitzt ein zweistufiges System von Gebilden, 
+deren jedes aus einer Tangentialebene e und deren Berührungs- 
+punkte p besteht. Ein einstufiges System von Flächen besitzt also 
+ein dreistufiges System solcher Gebilde. Auf dieses wenden wir 
+die Formeln XIII und XIV an. Aus p^ wird für die Fläche die 
+Bedingung fi, durch einen gegebenen Punkt zu gehen, aus e? die 
+Bedingung q^ eine gegebene Ebene zu berühren, aus pe die Be- 
+dingung Vj eine gegebene Gerade zu berühren. Folglich steckt in 
+Formel XIII der Satz: 
+
+„Addirt man hei einem einstufigen Flüchensysteme die Zahl (i der 
+dureh einen gegebenen PunU gehenden Flächen und die Zahl v der 
+eine gegebene Gerade berührenden Flächen, so ist die Summe der Grad 
+der Fläche der Berührungspun'kte auf allen denjenigen Tangentialebenen, 
+ivelche von einem gegebenen Punkte an alle Flächen des Systems ge- 
+sogen werden können." 
+
+Analog erhält man aus Formel VIII den folgenden Satz: 
+„Addirt man bei einem zweistufigen Flächensysteme die Zahl der 
+eine gegebene Gerade in einem gegebenen Punkte, und die Zahl der 
+eine gegebene Gerade in einer gegebenen Tangentialebene berühren- 
+den Flächen, so ist die Summe der Grad der Fläche der Berüh/rungs- 
+punMe auf allen denjenigen Tangentialebenen, ivelche durch eine ge- 
+gebene Gerade an alle Flächen des Systems gezogen werden können.^' 
+
+2. Bezeichnet man bei einer Raumcurve jede Schmiegungsebene 
+mit e und ihren Berührungspunkt mit j^), so giebt Formel VII 
+den Satz: 
+
+„Addirt man bei einem mveistufigen Systeme von Baumcurven die 
+Zahl der durch einen gegebenen PtmM gehenden Baumcurven und den 
+Grad der Curve der Berührungspunkte auf allen Schmiegungsebenen, 
+die durch eine Gerade gelegt werden können, so erhält man dieselbe 
+Summe, als wenn man addirt die Zahl der eine gegebene Ebene oscu- 
+lirenden Baumcurven m dem Grade der Fläche der Berührungspunkte 
+auf allen Schmiegungsebenen, welche von einem gegebenen Punkte an 
+die Baumcurven des Systems gesogen werden können" 
+
+?&gt;. Ein zweistufiges Flächensystem enthält ein vierstufiges System 
+von Gebilden, deren jedes ans 2 in einem und demselben Punkte be- 
+rührenden Haupttangenten besteht. Auf dieses System wenden wir 
+die Incidenzformel IX an: 
+
+(G^ + J?) + {ßjA + gJh^ = {g,h + gh^ 
+Dann erhalten wir den Satz: 
+
+
+
+Die Incidenzformeln. 35 
+
+„Äddirt man hei einem zweistufigen Flächensysteme die Zahl det' 
+Flächen, welche eine gegebene Gerade als Haupttangente haben, zu der 
+Zahl der Flüchen, ivelche die eine von zwei zusammengehörigen Hau^f- 
+tangenten durch einen gegebenen Punlt schicken tind die andere in eine 
+gegebene Ebene iverfen, so erhält man den Grad der Linienfläche, die 
+gebildet ivird von allen Haupttangenten , ivelche mit einer in einem ge- 
+gebenen Strahlbüschel liegenden Haupttangente zusammengehören" 
+
+Die Incidenzformeln können in manniclifaclier Weise benutzt 
+werden, um Formeln zwischen Grundbedingungen für alle diejenigen 
+Gebilde aufzustellen, Avelche aus einzelnen Hauptelementen zusammen- 
+gesetzt sind. Hierzu liefern die folgenden Nummern Beispiele. 
+
+4. In einer und derselben Ebene e mögen 4 Punkte a^, «g? %&gt; 
+r/j liegen. Um dami die Formel niedrigster Dimension zwischen 
+den Grundbedingungen von o^, a.^, «g, Ö4 zu finden, hat man die 
+Grundbedingungen e, e^, e^ aus den folgenden 4 Gleichungen (In- 
+cidenzformel VII) zu eliminiren: 
+
+«1^ — a^^e 4- a^ e^ — e^ = 0, 
+
+«2^ — 0^2^^ + ^2 e^ — e^ = 0, 
+
+^z — a^e + «36^ — e^ = 0, 
+
+Die Elimination liefert, dass die symbolische Determinante 
+
+I a^a^a^ 1 
+
+a^a^a^X 
+
+\ a^a^a^ 1 
+
+i a^a^a^ 1 
+
+verschwinden muss oder, was auf dasselbe hinauskommt: 
+[a^ — a.2 ) (a^ — a^ («i — aj («g - «3) ( «2 ~" «^4) (^3 — Ö4) = (Lit. 13). 
+Das Vorhandensein jedes der 6 Faktoren links komite voraus- 
+gesehen werden, da 4 Punkte immer in derselben Ebene liegen, 
+wenn zwei von ihnen zusammenfallen. 
+
+b. In einem Strahlbüschel ^ dessen Scheitel p und dessen Ebene 
+r heisst, mögen die Strahlen g und h liegen. Dann bestehen 
+zwischen den auf jj, e, g, h bezüglichen Grundbedingungen eine 
+Reihe von Gleichungen, welche aus den Incidenzformeln I bis VI 
+folgen und welche ich schon in den Math. Ami. Bd. 10 pag. 326 u. 
+327 erwähnt habe. Von diesen Gleichungen mögen die folgenden 
+hier Platz finden. 
+
+a) g^, = eg~-e^, 
+
+b) 9e-pg-p^. 
+
+3* 
+
+
+
+36 
+
+
+
+
+
+
+
+
+Zweiter Abschnitt. 
+
+
+
+
+
+
+
+
+Da 
+
+
+
+
+
+
+9s=pgp-p^- 
+
+
+=p{eg-e})- 
+
+
+_^s 
+
+
+
+
+
+
+ist, so 
+
+
+kommt 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c) ih 
+Da 
+
+
+-peg- 
+
+
+G 
+
+
+'+P') 
+
+-P^9p 
+
+
+=^peg- 
+^phj = 
+
+
+
+
+peg-^ 
+-p^g 
+
+
+-(;)« + . 
+
+
+=^ + P). 
+
+
+ist, so 
+
+
+ist auch 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d) 
+
+
+
+
+G = 
+
+
+= {fe- 
+
+
+-P')9- 
+
+
+-fe^=peg 
+
+
+-p^e^ 
+
+
+
+
+
+
+Ferner 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--pH^ + (i^+lZ/O + ((? + ^^9) + ge hj, 
+
+peghe = (p^ + //«) (c^ + /i,) 
+
+p^e^gh -=peG + peH-\-pegphe 
+
+=^peG-\-peH+ (ßs -]-p^) {h + e=*) 
+
+6. Wir hetraeliten, wie bei 5, zwei Strahlen g und /^, die sich 
+in 2J schneiden mögen und deren Schnittebene e heissen mag, und 
+stellen uns dann die Aufgabe, alle Symbole von der Form 
+
+g"'h-, 
+
+wo,m oder n, oder beide grösser als 1 sind, durch Symbole aus- 
+zudrücken, welche nur p, e und die ersten Potenzen von g und h 
+enthalten. Wir erhalten zunächst durch Addition der Formeln a) 
+und b) unter Nr. 5: 
+
+a) g^ = g {p + e) - {p^ + e% 
+
+b) /^2 = A(p + e)-(y + fi2^. 
+
+Man multiplicire diese Formeln mit g und h und ersetze sofort 
+
+die rechts erscheinenden Sympole g^ und h^ durch die rechten Seiten 
+
+der Formeln a) und b), und wende dann dasselbe Verfahren immer 
+
+wieder von neuem an. Dann ergiebt sich nach und nach: 
+/■ — s 
+
+c) g^ = 2 .peg — 2 .pe — 2 .p^ — 2 .e^^ 
+
+d) gVi=pgh-\-egh—p^h — e^h, 
+
+e) g^=2 .peg — 2 . j)^e^, 
+
+f) g^h = 2pegh - 2 .pe h — 2 .p^h — 2 . e^h, 
+
+g) g^h^ ^p^gh + 2 .pegh + ^^/^^ — 2 .peg — 2 .|)r h — 2 .p^g — 2 . r^g 
+
+-2.fh-2.e'h^2.p^e\ 
+h) g^h=^2.^gh-2.x&gt;''eVi, 
+
+
+
+Die Incidenzformeln. 37 
+
+i) g^¥ = 4:2)6 gh + 2 .p^gh + 2 . ^gh — 2 .^^e^*/ 4 .ji/^e^/i + 4 .p^e^^ 
+k) //t^ _ 2 ./e^^/i - 4 ._p3e2/i, 
+1) g^h^ = 4 .p^e^gh — 4 .p^^^^«/ — 4 . p^e^Ä, 
+in) ^*/t^ = 4 .p^e^gli^ 
+und ausserdem die aus diesen durch Vertausclmng von g und 7^ 
+hervorgehenden Formehi. Diese Gleichungen kann man verwerthen 
+bei der Berechnung der d enthaltenden Ausartungssymbole in § 23. 
+
+7. Wir betrachten das Gebilde, welches aus drei Strahlen be- 
+steht, die sich in einem und demselben Punkte p schneiden, und 
+dabei in einer und derselben Ebene e liegen. Es bezeichne für 
+dieses Gebilde: 
+
+V die Bedingung, dass irgend einer der drei Strahlen eine 
+
+gegebene Gerade schneide, 
+1^2 die Bedingung, dass jeder von zweien unter den drei Strahlen 
+
+eine gegebene Gerade schneide, 
+Vg die Bedingung, dass jeder der drei Strahlen eine gegebene 
+
+Gerade schneide. 
+Dann lassen sich alle höheren Potenzen von v vermöge der In- 
+cidenzformeln ausdrücken durch 
+
+p, e, V, Vg, 1/3. 
+Man erhält nämlich nach und nach: 
+v^ = v.^-]-vp-\-ve — 3^^ — 3 e\ 
+
+1/3 = Vg -I- 3 v^p -\-dv^e — 6vp^-{-2 vpe — 6ve^ — 6pe — Qp^ — 6 e^, 
+1/4 = 6 y^p _|_ 6 v^e _ 3 y^p^ -I- 14 p^pe — 3 v^e^ — 38 vpe — 40 vp^ 
+
+-40ve3 + 30i)V, 
+v5 = 15 y^p2 ^ 50 p^pe -f 15 1/36^ - 30 v^pe- 60 v^p^ - 60 v^ e^ 
+
+-S0vye''-^240p^e% 
+v^ = 360 v^p^+ 180 v^f + 180 v^e^ - 500 v^p^e^ + 560 vp^e\ 
+v' = 1120 v^p^e" - 2520 v^^p^e^, 
+v^ = 4200i/3p3e2 
+
+Die sehr leichte direct geometrische Herleitung der letzten 
+dieser neun Formeln liefert eine Bestätigung, denn 
+
+1/^^ = 8,. (8 -4)3. 2. 2 + 84. (8 -4)2. 1.2.(1 + 1) 
++ 83 . (8 - 3)3 . 1 . 2 . 2 . (1 + 1) = 4200. 
+Diese Gleichungen lassen sich z. B. bei der Berechnung der t 
+enthaltenden Ausartungssymbole in § 23 verwertheu. 
+
+8. Für das in einer Ebene /it liegende Dreiseit bezeichne /"jede 
+der drei Seiten. Dann lassen sich die Symbole 
+
+
+
+38 Zweiter Abschnitt. 
+
+/'"fe'*, ^^ *'* 4- w &gt; 3 ist, 
+durch (i und durch die Symbole 
+
+/■"'/;'», wo m + w^3 ist, 
+
+ausdrücken. Man erhält nämlich durch die Incidenzformeln, wie in 
+
+Math. Ann. Bd. 10 pag. 37 — 42 ausführlich abgeleitet ist (Lit. 14): 
+
+r = 6 rte - 3 fe' - 22 iiffe -\- 6 fif -{- 30 ^% - 21 ti^r + 54 fi'f\ 
+
+rfe = 3 ffe' +&amp;iLPfe-l ^fe' - 18 [l'ffe - 3 (l^f + 30 fi^O 
+
+/■5 = 15 ff/ + 50 ^/^/; - 60 ^fe^ + 15 ft^f - 210 (i'^ffe - 90 jitV''* 
++ 360rt', 
+
+/Y/ = /-/ + 5 fi/-/-/ - 10 ^'f? + ^YY. - ftY' - 8 f^'ffe, 
+
+ffe = 3 r/ + 26 ^Z/;^ + 21 ft.YY; - 72 ^Y.' - 6 i^^f - 102 iitY/o 
+/■« = 15/;^ 4- 165 ft/-/;2 + 195 ^yY; - 545 j^Y/ - 15 it^Y' - 990 ^YA; 
+/•/•/ = 3 ^/;3 + 3 iitY/;' - 3 ^YY. - 12 ii'fe\ 
+ffe' = 8 /i /;» + 21 ftY/;' - 6 ft YYe - 66 ^Y/, 
+
+ff, == 35 ft/-/ + 130 iitY/"/ + 5 /^YY; - 425 ii^YA 
+
+f = 210 iife^ + 910 /tY/«' + 210 ^YY. - 3150 ftY/ ; 
+
+/'/=6ftY/-6^Y/;^ 
+
+/^/•/=12|itY/ + 3^Y/*/, 
+/•Y/ = 45ftY/ + 45ftY/;^ 
+/■Y = 235^Y/ + 345iitY/;', 
+/^ = 1540 jitY/ + 2660 fiY/;'; 
+
+/■/-/= 12 ^YA 
+/^/;3=39^Y/, 
+/•Y/=i80iitY/, 
+r/;=i050^Y/, 
+
+r=7280ftY/- 
+
+Diese Gleichungen werden in § 25 bei der Berechnung der A und 
+v' oder A und P' enthaltenden Ausartungssymbole gute Dienste leisten. 
+
+
+
+§ 12. 
+
+Die Incidenzformelu, angewandt auf die Hauptelementen 
+
+ineidenten Systeme von Hauptelementen. 
+
+Während wir uns bisher nur mit den Fällen beschäftigt haben, 
+wo ein einziges Hauptelement einem andern Hauptelemente incident 
+ist, untersuchen wir jetzt die Fälle, wo die sämmtUchen Elemente 
+eines Systems von Hauptelementen einem Punkte , einer Ebene oder 
+einem Strahle incident sind. Ein solches System bilden z. B. die 
+sämmtlichen Punkte einer Plancurve. Die für solche Systeme giltigen 
+
+
+
+Die Incidenzformeln. 39 
+
+Gleichungen ergeben sich ohne Weiteres aus unseren Incidenzformehi. 
+Zunächst erledigen wir die Fälle, wo nullstufige Systeme von Haupt- 
+elementen einem Punkte, einer Ebene oder einem Strahle inci- 
+dent sind, 
+
+1. Liegen n Punkte p in einem und demselben Strahle ^, so 
+bestimmt ein und derselbe gegebene Strahl g nicht eine, sondern 
+n Incidenzen. Ferner hat man zu beachten, dass p^ p,j, P die Be- 
+dingungen bedeuten, dass irgend eitler der n Punkte auf einer ge- 
+gebenen Ebene, in einem gegebenen Strahle, in einem gegebenen 
+Punkte liegen soll. Man darf daher hier nicht^ wie dies sonst ge- 
+schehen ist, p^ statt pr, oder p^ statt P schreiben (cf. §§ 6 u. 7), 
+weil dieses Missverständnisse hervorrufen könnte. Also geben unsere 
+Incidenzformeln I und II: 
+
+a) Pg^pg-n.ge, 
+
+b) P=pgp~n.g,. 
+
+2. Gehen n Strahlen g durch einen und denselben Punkt p^ so 
+liefern die Incidenzformeln I, II, III: 
+
+a) ye-P9-~n.p\ 
+
+b) 9s—P9p-n.p^, 
+
+c) G=p^gp-p^g. 
+
+3. Gehen n Ebenen e durch einen und denselben Strahl (/, so 
+bekommt man aus IV und V: 
+
+a) eg^eg-n.gp^ 
+
+b) E=ege — n. g, . 
+
+4. Liegen n Strahlen g in einer und derselben Ebene e, so be- 
+kommt man aus IV, V, VI: 
+
+a) gp = eg-n.e^, 
+
+b) g^^ege — n. e^, 
+
+c) G = e^ge — e^g. 
+
+5. Liegen n Punkte p in einer mid derselben Ebene e, so liefert 
+die Incidenzformel VII: 
+
+P = ep,j — e^p -\-n .e^. 
+
+6. Gehen n Ebenen e durch einen und denselben Punkt p, so 
+erhält man aus VII: 
+
+E =peg —p^e -f w .p^. 
+
+7. Schneiden n- Strahlen h einen und denselben Strahl g, so 
+liefert die Incidenzformel IX: 
+
+H=gh — 9ehp — gphe-\-gsh — n.G. 
+
+
+
+40 Zweiter Abschnitt. 
+
+Von den Fällen, wo ein nielir als nuUstufiges System einem Punkte, 
+einer Ebene oder einem Strahle incident ist, haben wir nur die- 
+jenigen zu erledigen, wo die Incidenzformeln zu einer Gleichung 
+zwischen mehr als zwei auf das System bezüglichen Bedingungen 
+führen, da die übrigen selbstverständlich sind (Lit. 15). 
+
+8. Die sämmtlichen Strahlen eines einstufigen Systems von 
+Strahlen, d. h. einer als Ort ihrer Tangenten aufgefassten Curve, mögen 
+in einer und derselben Ebene ^ liegen; und es möge a der Rang 
+dieser Curve, d. h. die Zahl der Strahlen sein, welche eine beliebig 
+gegebene Gerade schneiden. Ferner sei q die Bedingung, dass das 
+System einen Strahl in einer gegebenen Ebene besitze oder, was 
+dasselbe ist, dass jene Curve eine gegebene Ebene berühre. Endlich 
+sei T die Bedingung, dass das System einen gegebenen Strahl ent- 
+halte oder, was dasselbe ist, dass jene Curve eine gegebene Gerade 
+berühre. Dann liefert die Incidenzformel VI die für alle dreistufigen 
+Systeme giltige Gleichung: 
+
+T=-^^Q — a.^^. 
+
+9. Eine zweite auf Plancurven bezügliche wichtige Gleichung 
+erhalten wir durch Anwendung der Formel VII auf ein in einer 
+Ebene ft liegendes einstufiges Punktsystem, d. h. auf eine als Ort 
+ihrer Punkte aufgefasste Flancurve. Wir bezeichnen mit a ihren 
+Grad, mit v die Bedingung, dass sie eine gegebene Gerade schneide, 
+und mit P die Bedingung, dass sie durch einen gegebenen Punkt 
+gehe. Dann ist das Symbol p^ der Formel VII durch P zu ersetzen, 
+das Symbol p^e durch ^iv und das Symbol jje^ durch a.ft^, während 
+für das Symbol e^ null gesetzt werden muss, weil die Bedingung, in 
+einer gegebenen Ebene zu liegen, von einem szveistufigen Curven- 
+systeme nicht erfüllt werden kann. Für jedes zweistufige System 
+von Plancurven gilt daher die Gleichung: 
+
+10. 11. Den in 8. und 9. für Plancurven gefundenen Gleichungen 
+entsprechen dual zwei auf Kegel bezügliche Gleichungen, welche 
+sich aus den Incidenzformeln HI und VII ergeben. 
+
+12. Für eine Linienfläche ^ weiche ihre oo^ Strahlen sämmtlich 
+durch eine gegebene Gerade g schickt oder, was dasselbe ist, welche 
+in einem speciellen linearen Complexe liegt, bezeichne a den Grad, 
+T die dreifache Bedingung, einen gegebenen Strahl zu enthalten, 
+t die zweifache Bedingung, aus einem gegebenen Strahlbüschel 
+einen Strahl zu enthalten, q die einfache Bedingung, in einer ge- 
+
+
+
+Die Tncidenzformeln. 41 
+
+gebenen Ebene einen Strahl zu besitzen, q' die einfache Bedingung, 
+einen Strahl durch einen gegebenen Punkt zu schicken. Daim gilt 
+für jedes dreistufige System von Linienflächen die aus der Incidenz- 
+forniel IX folgende Gleichung: 
+
+13. Für eine Congruenz, deren oo^ Strahlen sämmtlich eine ge- 
+gebene Gerade g schneiden, bezeichne b die Zahl der Strahlen, die 
+sie in einer gegebenen Ebene hat, b' die Zahl der Strahlen, die 
+sie durch einen gegebenen Punkt schickt, B die zweifache Be- 
+dingung, einen gegebenen Strahl zu enthalten, ß die einfache Be- 
+dingung, aus einem gegebenen Strahlbüschel einen Strahl zu ent- 
+halten. Dami liefert die Incidenzformel IX die Gleichung: 
+
+B = gß-bg„-b'ge. 
+
+Alle diese fundamentalen Formeln werden im IV. Abschnitt 
+gute Dienste leisten. 
+
+
+
