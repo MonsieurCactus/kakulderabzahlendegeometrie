@@ -47,68 +47,66 @@ ecke entstehen. Dann ist $\delta$ um $f$ grösser als $d$, weil auf *jeder*
 Fläche *ein* Dreieck mehr entsteht, als Diagonalen zur Zerlegung 
 nothwendig sind. Also ist: 
 
-$$ \delta = d + f$$
+$$ \delta = d + f $$
 
-Ferner sind die 3 . d Seiten der d Dreiecke zum Theil die 
-fZ Diagonalen, zum andern Theil die /.'Kanten, jedoch so, dass jede' 
-der d Diagonalen, und auch jede der A.' Kanten zweinml als Drei- 
-ecksseite auftritt. Daher ist auch: 
+Ferner sind die $3\delta$ Seiten der $\delta$ Dreiecke zum Theil die 
+$d$ Diagonalen, zum andern Theil die $k$ Kanten, jedoch so, dass jede' 
+der $d$ Diagonalen, und auch jede der $k$ Kanten *zweinmal* als Dreiecksseite auftritt. 
+Daher ist auch: 
 
-?&gt;8 = 2d-\-2'k. 
+$$ 3\Delta = 2d + 2k $$
+
 Aus beiden Gleichungen folgt: 
 
-d=2h-3f. 
-Nun kann man ein Polyeder, welches zur Zerlegimg der Flächen 
-in Dreiecke rZ Diagonalen erfordert, immer als ein Dreieckspolyeder 
-ansehen, welches dahin specialisirt ist, dass an d Kanten der 
-Neigungswinkel der zusammenstossenden Flächen den speciellen 
-Werth von 180" bekommt. Also ist die Constantenzahl c eines be- 
-liebigen Polyeders um d kleiner als die eines Dreieckspolyeders von 
-gleicher Eckenzahl e. Es ergiebt sich also: 
+$$ d=2h-3f $$
 
-= 3. e^d, 
+Nun kann man ein Polyeder, welches zur Zerlegimg der Flächen 
+in Dreiecke $d$ Diagonalen erfordert, immer als ein Dreieckspolyeder 
+ansehen, welches dahin specialisirt ist, dass an $d$ Kanten der 
+Neigungswinkel der zusammenstossenden Flächen den speciellen 
+Werth von $180\circ$ bekommt. Also ist die Constantenzahl c eines be- 
+liebigen Polyeders um $d$ kleiner als die eines Dreieckspolyeders von 
+gleicher Eckenzahl $e$. Es ergiebt sich also: 
+
+$$c = 3e-d$$
+
 oder nach Substitution des oben abgeleiteten Werthes für d, 
 
-c = S.e-\'^.f-2k (Lit. 1), 
+$$ c = 3e + 3f 2-k \hspace{0.25in} (Lit. 1)$$ 
+
 und nach Benutzung der Euler'schen Gleichung: 
 
-f-\-e=^k + 2, 
+$$f+e=k+2$$
+
 das einfache Resultat 
 
-c = k-\-6. 
+$$c = k+6$$
 
-Da es immer go''' einander congruente Gebilde giebt, so ist 
-
-nach dieser Formel ein Polyeder, abgeselien von seiner Lage, durch 
-
-genau so viele einfacJie Bedingungen bestimmt, wie die Zahl seiner 
-
-Kanten beträgt. Treten noch weitere beschränkende Bestimmungen 
-
-
-
-Die Symbolik der Bedingungen. 3 
-
+Da es immer $\infty^6$ einander congruente Gebilde giebt, so ist 
+nach dieser Formel *ein Polyeder, abgeselien von seiner Lage, durch 
+genau so viele einfache Bedingungen bestimmt, wie die Zahl seiner 
+Kanten beträgt*. Treten noch weitere beschränkende Bestimmungen 
 in die Definition des Polyeders, so wird die Constantenzahl ent- 
-sprechend vermindert. Z. B. ist die Constantenzahl eines Prisnia- 
-toids nm 2 kleiner als seine Kantenzahl, weil zwei seiner Ebenen 
+sprechend vermindert. Z. B. ist die Constantenzahl eines Prisniatoids 
+nm 2 kleiner als seine Kantenzahl, weil zwei seiner Ebenen 
 die specielle Lage von parallelen Ebenen haben. 
 
 Den oben angegebenen Constantenzahlen fügen wir noch einige 
 hinzu, die aus der analytischen Geometrie bekamit sind. Es ist 
 nämlich die Constantenzahl: 
 
-9. einer in beliebiger Ebene gedachten Plancurve w*""" Ordnung, 
-j^'ter Klasse, mit ö Doppelpunkten, x Spitzen, ö' Doppeltangenten, 
-x' Wendetangenten, 
+9. einer in beliebiger Ebene gedachten *Plancurve* $n$-ter Ordnung, 
+$n'$-ter Klasse, mit $\delta$ Doppelpunkten, $\kappa$ Spitzen, $\delta'$ Doppeltangenten, 
+$\kappa'$ Wendetangenten, 
 
-c = 3-f |n(w + 3)-^-2x 
-= 34-i&gt;*'(w' + 3)-d'-2&gt;£'; 
+$$
+c = 3 + \frac{1}{2}n(n+3) -\delta - 2\kappa = 3 + \frac{1}{2}n'(n'+3) -\delta' - 2\kappa' 
+$$
 
 10. einer punktallgemeinen Fläche w*®" Grades 
 
-c = |(w-fl)(»^ + 2)0^4-3)^l; 
+$$ c= \frac{1}{6} (n+1)(n+2)(n+3)-1 $$
 
-11. eines strahlenallgemeinen Liniencomplcxes w*®" Grades 
+11. eines strahlenallgemeinen *Liniencomplexes* $n$-ten Grades 
 
-c=^'^(w + l)(w + 2)2(n-f 3)-l (Lit. 2). 
+$$ c= \frac{1}{12} (n+1)(n+2)^2(n+3)-1 \hspace{0.25in} (Lit. 2). $$
