@@ -1,0 +1,264 @@
+§5. 
+Die Darstellung der den Bedlugimgen zugehörigen An- 
+zahlen durch die Bedingungssymhole und das Rechnen 
+mit diesen Symbolen. 
+
+lu § 4 ist besprochen, dass jede einem Gebilde P mit der 
+Constantenzabl c auferlegte, c- fache Bedingung s immer durch eine 
+unveränderliche, endliche Zahl von Gebilden F erfüllt wird. Es liegt 
+daher nahe, diese von der c- fachen Bedingung allein abhängige 
+Anzalil mit ganz demselben Symbole s zu bezeichnen, tvie die Beding- 
+ung selbst (Lit. 8). Indem wir dann, der Kürze wegen, immer blos 
+„Bedingung" sagen, statt „durch die Bedingung bestimmte Anzahl", 
+können wir von Functionen der Bedingungen und von Gleichungen 
+zwischen Bedingungen sprechen. Hiernach hat bei einem Gebilde 
+mit der Constantenzabl c eine Gleichung zwischen Bedingungen 
+natürlich nur dami Sinn, wemi jede dieser Bedingmigen c'*'' Dimen- 
+sion ist. Wir ertheilen jedoch auch- einer Gleichung zivischen Be- 
+dingungen von niederer als der c'*^ Dimension einen Sinn. Eine Gleich - 
+img zwischen a-fachen Bedingungssymbolen soll nämlich den Sinn haben, 
+dass aus ihr jedesmal eine Identität zwischen Anzahlen erhalten wird^ 
+sobald man nur allen a-fachen Symbolen ein und dasselbe, sonst ganz 
+beliebige, (c — a)- fache Bedingungssymbol als symbolischen FaJctor hin- 
+zusetzt, und dann statt jedes der entstandenen (a -\- c — a) - fachen Be- 
+dingungssymbole die zugehörige Anzahl einsetzt. Demnach spricht eine 
+Gleichung a^'^'' Dimension, d. h. zivischen a-fachen Bedingungen, soviel 
+Anzahlidentitäteu aus, als überhaupt (c — a)- fache Bedingungen 
+denkbar sind. 
+
+Zur Verdeutlichung diene folgendes Beispiel. Für eine Plau- 
+curve n*" Ordnung mit der Constantenzabl c bezeichne P die zwei- 
+fache Bedingung, dass sie durch einen gegebenen Punkt gehe, ft 
+die einfache Bedingung, dass sie ihre Ebene durch einen gegebenen 
+Punkt schicke, v die einfache Bedingung, dass sie eine gegebene 
+Gerade schneide. Dann bedeuten die Symbole P, ^v, ^^ drei zwei- 
+fache Bedingungen, zwischen denen die in § 12 Nr. 9 zu beweisende 
+Gleichung 
+
+1) P=iiv — n.yi} 
+
+besteht. Diese Gleichimg sagt nun aus, dass, weim y irgendivelche 
+(c— 2)-fache Bedingimg ist, die drei Anzahlen Py, ^vy, 
+durch die Relation 
+
+2) Py = ^vy — n.fi^fj 
+
+2* 
+
+
+
+20 Erster Abschnitt. 
+
+mit einander verbunden sind, gleichviel, was für eine (c — 2) -fache 
+Bedingung man unter y versteht. Da die Curven, welche die will- 
+kürliche Bedingung ij erfüllen, ein zweistufiges System bilden, so 
+kann man die obige Gleichung auch so interpretiren. In jedem 
+ztveistufiyen Systeme von Plancurven n'*"' Ordnung ist die Zahl der 
+die Bedingung P erfüllenden Curven gleich der Zahl der ^ v erfüllen- 
+den Curven vermindert um das n- fache der fx- erfüllenden Curven. 
+Es liegt in der Definition einer Gleichung zwischen «-fachen 
+Bedingungssymbolen, dass aus einer solchen Gleichung immer wieder 
+eine richtige Gleichung hervorgeht, tvenn man jedem a- fachen Symbol 
+ein und dasselbe beliebige, etiva ß-fache Symbol v als Faktor hinzu- 
+setzt. Denn die Identitäten, welche man aus der neu entstandenen 
+Gleichung ziehen kann, befinden sich ja dann sämmtlich unter den 
+Identitäten, welche die ursprüngliche Gleichung ausspricht. Die 
+neue Gleichung spricht nämlich diejenigen Identitäten aus, welche 
+man erhält, wemi man die hinzuzudenkende vollkommen willkür- 
+liche Bedingmig y so auffasst, als wäre sie aus v und einer be- 
+liebigen anderen Bedingung zusammengesetzt. Dieses Hinzusetzen 
+eines und desselben Bedingungssymbols zu den sämmtlichen Sym- 
+bolen einer Gleichung zwischen Bedingimgen, ist vom Verfasser 
+„symbolische MuUiplication jener Glächung" genannt (Lit. 8). Das 
+Verfahren der symbolischen Multijjlication involvirt also keine sach- 
+liche Aenderung; es führt aber zu einer specielleren Interpretation 
+der Gleichungen, indem es die Dimension der Formel erhöht, und 
+die Dimension der hinzuzudenkenden Bedinguntren um ebensoviel 
+erniedrigt. Beispielsweise multipliciren wir die oben angeführte 
+Gleichung 
+
+
+
+erhalten 
+
+
+
+wo bei 5. rechts der Subtrahend 
+Plancurve existirt, deren Ebene durch 4 beliebig gegebene Punkte 
+gehen könnte. Aus 3., 4., 5. folgt nun durch Substitution: 
+6) P^ = ^^v^-2.n.^t,^v. 
+
+Wir konnten die Gleichung 6 auch direct aus Gleichung 1 
+ableiten, indem wir auf beiden Seiten quadrirteu. Ueberhaupt 
+
+
+
+1) 
+
+
+
+
+
+
+
+
+P = 
+
+
+= ILV 
+
+
+— w.fi^ 
+
+
+mit P. 
+
+
+Dann 
+
+
+kommt 
+
+
+
+
+
+
+
+
+3) 
+
+
+
+
+
+
+
+
+P2 = 
+
+
+livP 
+
+
+- n . ^i^P. 
+
+
+Multipliciren 
+
+
+wir 
+
+
+ferner 
+
+
+mit 
+
+
+^v und mit ,u^. 
+
+
+4) 
+
+
+
+
+
+
+
+
+iivP 
+
+
+=.^^. 
+
+
+^ — n .}i^v 
+
+
+und 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^) 
+
+
+
+
+
+
+
+
+^'P-= 
+
+
+fl^V, 
+
+
+
+Die Symbolik der Bedingungen. 21 
+
+gelten in unserem Bedingungskalkül alle arithmetischen Regeln, ivelche 
+aus Addition, Suhtraction und Mtdtiplication allein sich ergehen. 
+Da die auftretenden Gleichungen meist lineare ganze Functionen 
+von Bedingungen gleicher Dimension einander gleicli setzen, so ist 
+eine Verwechselung einer symbolischen Multiplication mit einer 
+wirklichen Multiplication kaum zu befürchten. Trotzdem unter- 
+scheiden wir, der grösseren Deutlichkeit wegen, die beiden Multi- 
+plicationen häufig dadurch, dass wir bei wirklichen Multiplicationen 
+einen Punkt als Multiplicationszeichen setzen, bei symbolischen 
+Multiplicationen dagegen nicht. Erst im sechsten Abschnitt kommen 
+Formeln vor, in denen Bedingungssymbole theils durch symbolische, 
+tlieils durch Avirkliche Multiplication verbunden werden. 
+
+Der Kürze wegen schreiben wir Bedingungen, die allen Gliedern 
+ehier Summe gemeinsam sind, auch wie abgesonderte Faktoren, be- 
+achten jedoch dabei, dass eine Gleichung zwischen Bedingungen 
+erst dami interpretirt werden kaim, wemi jede angedeutete Midtipli- 
+cation entweder eines Symbols mit einer Summe, oder zweier 
+Summen Avirklich ausgeführt ist. Wir schreiben also z, B. 
+
+p2 = {^yiv — n . (11^) {}i V — n . (i^) = {^v — n . fi^Y, 
+köimen aber darunter nichts anderes verstehen, als: 
+
+Eine symhoUsche Division, d. h. ein Wegla.ssen eines und des- 
+selben symbolischen Faktors aus allen Bedingungssymbolen einer 
+Gleichung führt nicht nothwendig zu einer richtigen Gleichung, ist 
+also im Allgemeinen nicht gestattet. Es ist z. B. richtig die Formel 5: 
+
+jedoch wäre es falsch, wenn man daraus schliessen wollte: 
+F^'^^^v oder P=ftv. 
+Häufig schreiben wir , auch bei einem Gebilde mit der Con- 
+stantenzahl c solche Gleichungen a^" Dimension, welche nur richtig 
+werden, wemi allen «-fachen Bedingungen eine gewisse Sorte von 
+(c — «)- fachen Bedingimgen zugesetzt wird, oder, was dasselbe ist, 
+welche nicht für alle «-stufigen Systeme, sondern nur für gewisse 
+unter ihnen giltig sind. Dann muss natürlich immer der Giltig- 
+keitsbereich der Gleichungen genau angegeben und es muss 
+namentlich bei jeder symbolischen Multiplication mit einer Beding- 
+ung z beachtet werden, ob sie auch mit zu den definirenden Be- 
+dingungen der im Giltigkeitsbereiche liegenden Systeme gehört. 
+Gilt eine Formel «*''' Dimension für alle «-stufigen Systeme, so 
+
+
+
+22 Erster Abschnitt. 
+
+Hernien wir sie all(jemän(jUti(j. Nicht allgemeiugiltig, sondern nur 
+giltig für gewisse Systeme sind z. B. in § 13 Nr. 14 bis 17, 
+ferner die Formeln der" §§ 25 und 26. Wenn über den Giltig- 
+keitsbereich einer Formel niclits festgesetzt ist, so ist nie allfjemem- 
+
+
