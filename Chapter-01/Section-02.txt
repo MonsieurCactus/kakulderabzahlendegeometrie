@@ -1,0 +1,232 @@
+§2. 
+Die Bezeicliiiuug: der Bedingungen. 
+
+Die verschiedenen, einem Gebilde von bekannter Definition 
+auferlegten Bedingungen unterscheiden wir von einander durch 
+Symbole (Buchstaben mit oder ohne Indices). Ist die Bedingung 
+msanimengesetzt ^ d. h. sagt sie nichts weiter aus, als dass mehrere 
+Bedingungen mgleich erfüllt werden sollen, so ertheilen wir ihr als 
+Symbol das Produlft* der Symbole der zusammensetzenden Be- 
+dingungen, und nennen die letzteren ihre Faktoren. Zwei Beding- 
+ungen y und z mit einander mtdtiplicireny heisst demnach, diejenige 
+zusammengesetzte Bedingung yz bilden, welche ausspricht, dass y 
+und z migleicli erfüllt werden sollen. Hieraus ergiebt sich dann 
+weiter, dass man unter der w*^° Potenz einer Bedingung y diejenige 
+zusammengesetzte Bedingung zu verstehen hat, welche ausspricht, 
+dass die Bedingung y «-mal erfüllt werden soll. Auch der Summe* 
+zweier Bedingungen legen wir einen Sinn bei. Zwei Bedingungen 
+y und s addiren, heisst nämlich, diejenige Bedingung y-\-z bilden, 
+welche ausspricht, dass entweder y oder s erfüllt werden soll (Lit. 3). 
+
+
+
+* Man vergleiche die Anwendung der Summe und des Produktes im Logik- 
+kalkül, z. B. in E. Schröder'« „Uperationskreis des Logikkalküls", Teubner 1877. 
+
+1* 
+
+
+
+4 Erster Abschnitt. 
+
+Li der moderneu Auffassung der Geometrie betrachtet man als 
+elementarste Bausteine der Gebilde den Punkt, die Ebene und den 
+Strahl, indem man den beiden letzteren gewissermassen dasselbe 
+Anrecht auf Ursprünglichkeit wie dem Punkte eim*äumt. Wir 
+nennen deshalb diese drei Gebilde die drei Hanptelemente des Baumes. 
+Die einfachsten Gebilde, welche der PtcnJä erzeugt, sind die Ge- 
+sammtheit: 
+
+1. aller Punkte eines Strahles — Pnnhtaxe, gerade PunMreihe^ 
+Gerade; 
+
+2. aller Punkte einer Ebene — PunMfeld, Ehe^ie; 
+
+3. aller Punkte des Raumes — PunUraum, Raum. 
+
+Die einfachsten von der Ebene erzeugten Gebilde sind die Ge- 
+sammtheit: 
+
+1. aller durch einen Strahl gehenden Ebenen — Ehe^ienaxe^ 
+Ehenenhüscliel , Gerade ; 
+
+2. aller durch einenPunkt gehenden Ebenen — Ehenenhündel, Punlct; 
+
+3. aller Ebenen des Raumes — Ebenenrawn, Piaum. 
+
+Die einfachsten, von dem Strahle erzeugten Gebilde sind die 
+Gesammtheit: 
+
+1. aller durch einen Punkt in einer Ebene gehenden Strahlen — 
+Stralähüschel ; 
+
+2 a. aller in einer Ebene liegenden Strahlen — Straläenfeld, Ebene; 
+
+2 b. aller durch einen Punkt gehenden Strahlen — StraMcn- 
+hiindel, Punkt; 
+
+3. aller Strahlen, die einen Strahl schneiden — Sfrahlenaxe, 
+sjiecieller linearer Complex, Gerade; 
+
+4. aller Strahlen des Raumes — Straldenramn , Raum. 
+
+Die eben genannten Gebilde neimen wir mit den Hauptelementen 
+zusammen, die 14 Grundgcbilde des Raumes, im Anschluss an die 
+in der Geometrie der Lage übliche Terminologie. 
+
+Unter den einem Gebilde F auferlegbaren Bedingimgen spielen 
+die fundamentalste Rolle die Grundbedingungen; das sind Bedingungen, 
+welche verlangen, dass irgend ein dem Gebilde F augehöriges 
+Ilauptelement in einem gegebenen Grundgebilde liegen soll. Bei- 
+spielsweise ist für eine Raumcurve die Bedingung, eine gegebene 
+Gerade zu schneiden, eine Grundbedingung, weil sie verlangt, dass 
+irgend ein der Raumcurve angehöriger Punkt auf einer gegebenen 
+geraden Punktreihe liegen soll. Jedes der oben angeführten 14 
+Grundgebilde giebt Veranlassung zu einer Grundbedingung. Von 
+diesen werden drei immer erfüllt, nämlich diejenigen, welche nur 
+
+
+
+Die Symbolik der Bedingungen. 5 
+
+aussprechen, class eins der drei Hauptelemente dem Räume angehören 
+soll. Für die übrigen 11 Grundbedingungen führen wir feste Symbole 
+ein, die in den folgenden Abschnitten fortwährend heuntzt 
+werden. 
+
+I. Ist ein Pimkt mit p bezeichnet, so bedeutet: 
+
+1. dasselbe Symbol ^9 auch die Bedingimg, dass dieser Punkt 
+j) auf einer gegebenen Ebene liegen soll; 
+
+2. das Symbol Pg die Bedingung, dass der Punkt p auf 
+einer gegebenen Geraden liegen soll; 
+
+3. das Symbol P die Bedingung, dass der Punkt p gegeben 
+sein soll. 
+
+IL Ist eine Ebene e genannt, so bezeichnet: 
+
+1. dasselbe Symbol e auch die Bedingung, dass die Ebene 
+e durch einen gegebenen Pimkt gehen soll; 
+
+2. das Symbol Cg die Bedingung, dass die Ebene e durch 
+eine gegebene Gerade gehen soll; 
+
+3. das Symbol E die Bedingung, dass die Ebene e gegeben 
+sein soll. 
+
+III. Ist ein Strahl g genaimt, so bedeutet: 
+
+1. dasselbe Symbol g auch die Bedingung, dass der Strahl 
+g eine gegebene Gerade schneiden soll; 
+2 a. das Symbol ge die Bedingung, dass der Strahl g in einer 
+
+gegebenen Ebene liegen soll; 
+2b. das Symbol gp die Bedingung, dass der Strahl g durch 
+einen gegebenen Punkt gehen soll; 
+
+3. das Symbol gg die Bedingung, dass der Strahl g einem 
+gegebenen Strahlenbüschel augehören soll; 
+
+4. das Symbol G die Bedingung, dass der Strahl g gegeben 
+sein soll. 
+
+Hiernach bedeuten z. B. g'^, dass der Strahl g jede von zwei 
+gegebenen Geraden sclineiden soll, hhp, dass ein h genannter Strahl 
+sowohl irgend eine gegebene Gerade schneiden, wie auch durch 
+irgend einen gegebenen Punkt gehen soll. 
+
+Die Grmidbedingungen gehören zu den räumlichen Bedingungen, 
+d. h. solchen, die nothwendig eine Bestimmung enthalten, welche 
+die Lage des untersuchten Gebildes F zu einem als gegeben be- 
+trachteten Gebilde F' angiebt. Diejenigen Bedingimgen, welche 
+frei von einer solchen Bestimmung sind, wollen wir invariante 
+neimen. Eine invariante Bedingung spricht man z. B. aus, wenn 
+man von einem Puuktepaar verlangt, dass seine beiden Punkte un- 
+
+
+
+6 Erster Abschnitt. 
+
+endlich nahe liegen, oder, wenn man von einer punktallgemein 
+defiiprten Plancurve verlangt, dass sie einen Doppelpunkt besitze, 
+oder dass zwei ihrer Wendepunkte zusammenfallen. Zu den in- 
+varianten Bedingungen gehören namentlich die im vierten Abschnitt 
+behandelten Bedingungen, welche aussprechen, dass ein Gebilde in 
+gewisser Weise zerfallen oder überhaupt ausarten soll. Zu den 
+räumlichen Bedingungen gehören auch die imtrischen Bedingungen, 
+d. h. diejenigen, welche über die Grösse etwas festsetzen, insofern, 
+als sie eine besondere Lage zu einem festen Gebilde, nämlich dem 
+unendlich fernen, imaginären Kugelkreise aussprechen. Metrische 
+Bedingungen sind z. B. in § 4, Beispiel 5 und 6, § 39, Anwen- 
+dung V, § 33, Nr. 28 behandelt. Ferner hat Chasles in vielen Ab- 
+handlungen der „Comptes rendus" (Lit. 3 a) Anzahlbestimmungen 
+für metrische Bedingungen gemacht, z.B. für die Bedingung der 
+Gleichheit zweier auf einem Strahle durch Plancurven ausgeschnitte- 
+nen Strecken, 
+
+Bei der Anwendung der eingeführten Bedingungssymbolik be- 
+achte man namentlich Folgendes: 
+
+1. Die Bedingung, welche ausspricht, dass zwei von einander 
+ahhüngige Bedingungen erfüllt werden sollen, ist nicht etwa als aus 
+diesen zusammengesetzt aufzufassen und wird demgemäss auch im All- 
+gemeinen nicht wie ein Prodnkt bezeichnet, sondern erhält als einzelne 
+Bedingung ein besonderes Symbol. Eine solche Bedingung erfüllt 
+z. B. ein Kegelschnitt, welcher einen gegebenen Kegelschnitt an 
+einer Stelle zweipunktig, au einer anderen dreipunktig berührt. 
+Nur weim kein Missverständniss möglich ist, bezeichnen wir wohl 
+auch die Bedingung, welche ausspricht, dass zwei von einander ab- 
+hängige Bedingungen erfüllt werden sollen, wie das Produkt dieser 
+beiden, namentlich weim die eine Bedingmig eine Ausartungsbe- 
+dingung ist, z. B. in den §§ 16, 23, 24 und 25, 
+
+2. Wenn eine räumliche Bedmgung ausspricht, dass das Ge- 
+Inlde r zu dem gegebenen Gebilde F' eine gewisse Lage eimiehmen 
+soll, so betrachten wir F' und jeden seiner Theile als der räum- 
+lichen Bedingung angehörig. Beispielsweise ist der Punkt der Be- 
+dingung hp, weim von einem Strahle h die Rede ist, derjenige 
+Punkt, durch welchen, zufolge der Bedingung h^, der Strahl h 
+gehen soll. 
+
+3. Die Gebilde, welche nach der Bemerkung 2. mehreren ge- 
+gebenen Bedingungen angehören, hat man sich zunächst immer in 
+beliebiger Lage zu einander vorzustellen. Bezeichnet man z. B. für 
+
+
+
+L)io Symbolik der Bedingungen. 7 
+
+eine Curve mit z die Bedingung, dass sie durch einen gegebenen 
+Punkt gehen soll, so bedeutet z^ die Bedingung, dass die Curve 
+zivci gegebene, aber beliebig zu. einander liegende Punkte enthalte, 
+nicht aber etwa^ dass die Curve nothwendig durch einen und denselben 
+PimJd zzveimal gehen soll. 
+
+4. Bei jedem vorliegenden Gebilde kami man auf mamiichfache 
+Weise Gebilde F' angeben, welche in gewisser Weise durch das- 
+selbe erzeugt sind. Ein Punkt z. B. erzeugt zugleich das Strahlen- 
+bündel, welches ihn zum Scheitel hat. Eine Fläche besitzt als ein 
+von ihr erzeugtes Gebilde etwa ihre Krümmungsmittelpunktsfläche 
+oder ihre Doppelcurve, oder die Linienfläche der sie vierpunktig 
+berührenden Tangenten. Wenn nun in dieser Weise ein Gebilde 
+r' einem Gebilde F angehört, und dem Gebilde F' eine gewisse 
+Bedingvmg z auferlegt ist, so ist diese Bedingung indirect auch F 
+zugeschrieben. Wenn wir dami die Bedingung z als eine Beding- 
+ung für F auffassen, nemien wir sie auf F übertragen, und bezeich- 
+nen sie, wenn kein Missverständniss möglich ist, ebenso, als wenn 
+sie F' angehörte, also auch mit z. Bezeichnet man z. B. jeden 
+Punkt einer gewissen Raumcurve mit p, so bedeutet j)g für die 
+Raumcurve die Bedingung, dass sie eine gegebene Gerade schneide. 
+Bezeichnet man ferner jede Wendetangente einer Plancurve mit f, 
+so spricht das Symbol fe für die Plancurve die Bedingung aus, eine 
+gegebene Ebene zu osculiren. Besteht ein Gebilde aus einem Strahle 
+g, und n auf ihm liegenden Punkten pj, P2y Ihy-Pn, so bedeutet 
+das Symbol 
+
+91hlh-"Vn 
+
+die Bedingung, dass dieses Gebilde seinen Strahl g eine gegebene 
+Gerade schneiden lasse, und zugleich jeden seiner Punkte auf eine 
+gewisse von n gegebenen Ebenen werfe. 
