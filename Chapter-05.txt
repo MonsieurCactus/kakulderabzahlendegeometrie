@@ -1,0 +1,3193 @@
+Fünfter Abschnitt. 
+Die melirfaelien Coineidenzen. 
+
+
+
+§ 33. 
+
+Coincidenz von Schiiittpuukteii einer Geraden mit einer 
+
+Fläche (Lit. 43). 
+
+Eine Fräcke Fn m*" Ordnung liat mit jeder Geraden y n Punkte 
+gemein. Bezeichnet man irgend einen dieser n Punkte mit ^i, 
+irgend einen zweiten mit p.^, irgend einen dritten mit p^ und so 
+fort bis pn, so ist nach der Coincidenzformel erster Dimension für 
+Punktepaare (§ 13) die Bedingung ^, dass zwei solche Schnitt- 
+punkte coincidiren, von den drei Bedingungen i\, i\t g abhängig 
+durch die Gleichung: 
+
+Multipliciren wir diese Gleichung z. B. mit g^, so kommt: 
+
+h9s=P29s+Pigs-G. 
+Wendet man dami die Incidenzformel III in § 7 an, so erhält 
+man: 
+
+oder 
+
+hg-^ = G+Pi^g + V2^fj- 
+
+Jedes der Symbole rechts lässt sich jetzt aus der Definition 
+der Fn bestimmen. G bedeutet, wie oft sich auf einer gegebenen 
+Geraden ein Punkt der Fn mit irgend einem andern Punkt der F^ 
+zusammenstellen lässt, wobei in jedem Paare sowohl der eine wie 
+der andere Punkt als erster des Paares aufzufassen ist. Also ist, 
+gemäss der Definition der Fn'. 
+
+G = w (w - 1). 
+
+Die Symbole 2h^g und p^^g sind gleich null zu setzen, weil ein 
+beliebig gegebener Punkt nicht auf der zu Grunde liegenden Fläche 
+zu liegen braucht. Also ergiebt sich : 
+
+fa^r/., = M(n— 1). 
+
+
+
+Fünfter Abschnitt. Die mehrfachen Coincidenzen. 229 
+
+Dies heisst in Worten: 
+
+Jeder Strahlhüschel des Baumes hesiM n(n—l) Strahlen, von denen 
+jeder zwei misammenfallende Punkte der Fn entMlt. 
+
+Setzen wir also, wie dies auch im Folgenden immer geschehen 
+soll, die Fn punlä- allgemein^ d. h. ohne Doppelcurve etc. voraus, 
+so kömien wir das erhaltene Resultat auch so aussprechen: 
+
+Jeder Strahlhüschel des Baumes besitzt n(n — l) Tangenten einer 
+Fn oder, was dasselbe ist, die Tangenten einer Fn bilden einen Com,- 
+plex vom Grade n(n — l). 
+
+Natürlich konnten wir oben statt i\ imd 2^2 irgend welche zwei 
+verschiedene von den n Symbolen p schreiben. Es steht nun aber 
+auch nichts im Wege, die Bedingung, dass p■^^ und p.^ coincidiren, 
+mit denjenigen Bedingungen zusammenzusetzen, welche aussprechen, 
+dass 2^2 ^^^ Pä oder p^ und Pg coincidiren und so fort. Man gelangt 
+so zu allen möglichen Anzahlen, welche sich auf inehrfache und 
+mehrpmiktige Berührung einer Fläche durch eine Gerade beziehen-, 
+z. B. erhält man für die zweifache Bedingung, dass ausser p^ and 
+jjg auch noch zwei andere Punkte, etwa p.^ und p^ coincidiren sollen, 
+bei Anwendung derselben Coincidenzformel : 
+
+^üh + hlh - h^&gt; 
+wobei nur zu beachten ist, dass man £3 nicht durch p.^ oder 210 
+sondern durch irgend welche zwei andere Symbole |J auszudrücken 
+hat. Man erhält also für die Bedingung, dass eine Gerade mit 
+einer Fläche an zwei verschiedenen Stelleu zwei zusammenfallende 
+Schnittpunkte hat: 
+
+{Pi+P2-9)(jih+P^-'9)- 
+Eine solche Gerade nennt man eine Boppeltangente. Da nun in 
+jedem der beiden Berührungspunkte die Coincidenz von p^ und 2h 
+resp. j)3 mid p^ gedacht werden kann, so erhalten wir, wenn wir 
+die Bedingung, dass eine Gerade Doppeltangente einer Fn ist, mit 
+«22 bezeichnen: 
+
+2 . 622 = (2^1 +Ä -9) {ih ^p^-y) 
+
+oder 
+2 . £22 =PiP^+Pdh+P2Pz ■i-P2P4-fJPi '-9P2-9P3 -f/Pi + (/e + (/p- 
+Von den zehn Symbolen der rechten Seiten bedeuten dann die 
+vier ersten ganz dasselbe, nämlich dass eine Gerade g mit einer 
+Fn zwei auf gegebenen Ebenen liegende verschiedene Schnittpunkte 
+habe. Ebenso bedeuten die vier folgenden Symbole ganz dasselbe, 
+nämlich dass eine Gerade g eine gegebene Gerade schneide und 
+dabei einen Schnittpunkt mit der F, 
+
+
+
+230 Fünfter Abschnitt. 
+
+habe, üeberhaupt ist jedes aus i Faktoren j9 mit i verschiedenen 
+Indices bestehende Symbol gleich jedem anderen Symbol, das aus 
+i Faktoren ]} mit verschiedenen Indices zusammengesetzt ist. Mul- 
+tipliciren wir nun die obige Gleichimg mit ge, so kommt: 
+
+2 . e^.,ge = 4 .p^p^ge - 4 .2h9^ + &lt;x = 4 .ihPsfJe - 4 .p,^g -3.6?. 
+. Da jetzt die Symbole vierfacJic Bedingungen darstellen und der 
+Strahl die Constantenzahl 4 hat, so repräsentiren die Symbole 
+Anzahlen, die wir berechnen wollen. 
+
+Um PxPsge zu bestimmen, beachten wir, dass auf der Ebene 
+der Bedingung ge sowohl die Ebene von p^^ wie auch die Ebene von 
+j&gt;3 n Punkte der i^„ ausschneidet. Man erhält also n^ Verbindungs- 
+strahlen der ersten n Punkte mit den zweiten n Punkten. Aber 
+auf jedem dieser Verbinduugsstrahlen kann man jeden der *? — 2 
+übrigen Punkte als p^ und jeden der n — o dann noch übrigen 
+Punkte als p^ ansehen; also ist: 
+
+PiPz(Je = n^{n-2){n-^). 
+Für p-^g ergiebt sich wieder nMl. Um G zu bestimmen, be- 
+achten wir, dass auf der Geraden der Bedingung G jeder der n 
+Schnittijunkte als ^)^, jeder sonstige als ^j^, jeder der n — 2 daun 
+noch übrigen Punkte als p^^ jeder der w — 3 dann noch restirenden 
+Punkte als p^ aufgefasst werden muss; also kommt: 
+2 . £22^« = 4 . «2 {n - 2) (n - 3) - 4 . - 3 . n (/i - 1) {n - 2) {n - 3) 
+= n {n - 2) (w - 3) (4 w - 3 n + 3) 
+oder 
+
+«22 9e —\-n (n - 2) {n - 3) (m + 3). 
+
+Soviel Doppeltangenten liegen also in jedem ebenen Schnitte der 
+Fläche n''^'' Ordnung. 
+
+Analog erhalten wir für die Bedingung £3, dass auf einer Ge- 
+raden von den n Schnittpunkten mit der Fn sowohl die Punkte 
+p^ und p^, wie auch die Punkte p.2 und ^^o coincidiren sollen, 
+
+{l\+lh-9)(^P^-Vpz-^9) 
+oder 
+
+ihih -\-ihih +i&gt;-2ih +}h^ - 9 O'i -\-ih) - - -Qlh + Oe+gp- 
+
+Also ist: 
+
+hOe = 3 .Pilhde +Pi^ge -p^^g -Ps^g - 2 .p^^g -4..G-{-G. 
+Hier sind PiPig« = n^ {n — 2), G = n {n — 1) (w — 2), die übrigen 
+Symbole gleich null zu setzen; also ist: 
+
+s^ge = 3 . w2 (w - 2) - 3 . n (w - 1) {n - 2) 
+= 3w(w-2). 
+
+
+
+Die melufaclien Coincidenzen. 231 
+
+Dies ist also die Zahl der in einer gcgehenen Ebene liegenden 
+Haupttangenten der Fnj d. h. derjenigen Tangenten, welcJie dreipunldig 
+herüliren. 
+
+Um auch alle übrigen, auf die melirfacheu und melirpunktigeu 
+Tangenten bezüglichen Anzahlen zu gewinnen, definiren wir das 
+Symbol 
+
+Eikl.n, 
+
+WO /, li, l, tn nur geschrieben wird, wenn es grösser als 1 ist. 
+Es bezeichne dieses Symbol die Bedingung, dass eine Gerade von 
+ihren w Schnittpunkten mit Fn an einer Stelle i, an einer 
+zweiten Stelle k, an einer dritten l, an einer vierten m Punkte 
+vereinige. Da es für eine Gerade eine einfache Bedingung ist, zwei 
+Schnittpunkte mit Fn zu vereinigen, so sind £3 ei^e einfache Be- 
+dingung, £3 und £22 zweifache, £4, £32, £222 dreifache, £5, £42, £33, £332, 
+£2-222 vierfache Bedingungen. Bedingungen von noch höherer Di- 
+mension lassen sich nicht aufstellen, weil die Gerade die Constan- 
+tenzahl 4 hat. Wir bezeichnen ferner bei £2, £3, £4 den Berührungs- 
+punkt beziehungsweise mit &amp;2? ^3; K) ^^i % ^^^ Punkt, wo drei- 
+punktige Berührung stattfindet, mit 63, den Punkt, wo zweipunktige 
+Berührung stattfindet, mit b^. Bei £32 nennen wir zur Unterscheidung 
+&amp;2 irgend einen der beiden Berührungspunkte, c.^ dann den andern. 
+Bei £222 bezeichnen wir irgend einen der drei Berührungspunkte mit 
+?&gt;2. Natürlich bedeuten diese Symbole &amp;2&gt; ^37 ^4&gt; ^2 auch die zu- 
+gehörigen Bedingungen, also z. B. £32^3, dass eine Gerade eine Fläche 
+drei-zweiptmlitig berühre, und dabei den Punkt, wo dreipunktige 
+Berührung stattfindet, auf einer gegebenen Ebene habe, ferner £22^2^5 
+dass eine Gerade Doppeltangente sei und dabei den einen Be- 
+rührvmgspunkt auf einer gegebenen Geraden besitze, d. h. J^-mal 
+die Bedingung, dass eine Gerade in einem gegebenen Punkte der 
+Fn berühre und ausserdem die Fn noch an einer andern Stelle be- 
+rühre. Wir drücken nun mit Benutzung der eingeführten Symbole 
+die zu berechnenden, auf die £ bezüglichen vierfachen Bedingungen, 
+durch gewisse leicht zu ermittelnde, auf g und die n Schnittpunkte 
+bezügliche Bedingungen aus. Dabei lassen wir aber erstens die- 
+jenigen Symbole fort, welche gleich null sind, und zweitens die- 
+jenigen, welche sich nach den Incidenzformeln (§ 7) leicht als die 
+Summe zweier anderen erkemien lassen, wie z. B. 
+
+h h C'ig = h \0e + «2 h ^2^ = «2 'VJe + f 2 ^2^^'2 J 
+
+
+
+1) ^29s, 
+
+
+2) s,h,g. 
+
+
+
+
+3) h9e, 
+
+
+4) fs^'i.; 
+
+
+5) ^3^3^ 
+
+
+6) B^^g,, 
+
+
+'&lt;) hiOp, 
+
+
+8) e,A\ 
+
+
+10) e,g, 
+
+
+11) ^4Z'4; 
+
+
+
+
+12) «32^, 
+
+
+13) fg^fts, 
+
+
+14) .3,6,; 
+
+
+
+232 Fünfter Abschnitt. 
+
+Tabelle der Tangentenanzahlen. 
+
+
+
+9) 8^^h.,C,^ 
+
+
+
+15) £,22^/; 16) «222^2; 
+
+■ 17) £5, 18) s^, 19) £33, 20) £32,, 21) £,,,,. 
+
+Für diese 21 Anzalileii erhält man nach der oben auseinander- 
+gesetzten Methode die folgenden Formeln. Dabei sind rechts zur 
+Vereinfachung die Incidenzformeln angewandt und diejenigen Sym- 
+bole fortgelassen, welche gleich null sind. Schliesslich ergeben sich 
+dann die auf die £ bezüglichen Bedingungen als Functionen von 
+nur fünf auf ^ und g bezüglichen Bedingungen, nämlich von: 
+
+Ihlhlhlh, Ih^lhlh, Ih^lh^, 9elhlh, ^■ 
+
+
+
+Tabelle der Formeln. 
+
+1) ^2^. = (ih +i&gt;2 -9)9s=(^, 
+
+2) €.,h,g, = {p, + j;, - g)2h9e = {l\ + Ih - 9)lh9e . 
+
+= lhP29e-G-, 
+
+3) h9&lt;^ = (Pi + Ä - i/) (jh + Ih -9)9e = ^' lhlh9e -^.i\gs + Gr 
+
+= ?&gt;.l\p^ge-^.G, 
+
+4) B.,gp = ip^ -\-P2-9) {Pi + Ps - 9) 9p = Pi^9p + 3 J\P29p 
+
+~4..p,g, + G^G + ^.p^g,-~A.G + G = G, 
+
+5) *3 ^3' = !&gt;i +Ä - 9) (Pi + Ps - 9)P{' = PühPi^ - gPzPi 
+
+- 9P-2Pi^ + g'^Pt^ =PilhPi - 2 -Pi^P^^ + G; 
+
+6) 2 . £,2^, = {x\ +1X, - g) (p^ +p^-g)g^ = A .2hP29e - 4 .Pigs + G 
+
+= 4:.p^P2ge-3.G, 
+
+7) 2.£„f7^,= (pi+P2-9)(j&gt;3-\-p^~9)gp = 4:.pa)sgp-4:.i),g,-{-G 
+
+= 4 -PiPsgp -S.G = Ap^gs -3G = G; 
+
+8) £2, h^ = (Pi + P2 - 5^) O3 + P4 - ^) i?i' = 2 . p^^'p, Ps-3. p^^gp^ 
+
++ g'p,' = 2 .p,^p,p, - 3 .p,V H- G-, 
+
+9) £22&amp;2^2 = iX\ +P2 - ^) (Xh+P^ - f/) 2J1P3 =Ä^P3' + 2 .i)i'iJ3P4 
+
++ PdhPzlh - 2 . ^Pi'Pa - 2 . i/PiPaPs + ^«PiPs 
+-^9pPiPz 
+= Pi'i'2' + 2 .l\hhP^ +P1P2P3P4 - 2 .Pi'p/ - 2 . ^.PiPa 
+- 2. i), 2^9,^3 -F5r,Pji92 + (? 
+
+= PiP^PäPi -Pi'P-^-9ePüh + G; 
+
+
+
+Die mehrfachen Coincidenzen. 233 
+
+= 3 .pi%9 + 4 -IhlhPsfJ - 3 ./i&gt;i' - ^9'PiP2 
+
++ Q-9'Pi-f/ 
+= 3 .p,W + 4 .p,^p,p, + 4 .i^jJai/, - 3 . G - 9 . 9ePa&gt;2 
+
+= 3 .i^i'zJa" + 4 .Ä'i^2i^3 - 5Ä2\&gt;i/« - 2 . (^; 
+
+11) £,&amp;, = (Pi+J52-^)(2Ji+i?3-6')(23i+i?4-^)i^i 
+
+= 3 . Pi_''P2P3 + PiPiPsP^ - 6 • 9Pi^P2 - 3 . 9PdhP3 
+-\-'^.9hh^ + ^(fPiP~z-9hh 
+
+■ = PdhPzPi + 3 'PihhP-ö - 6 •Pl'-P2' - 3 .Pi''P2P3 
+
+- 3 .^,iv^2 + 3 . (^ + 3 . (/,2;iiJ2 + 3 (7 - 2 . (^ 
+= PühPüh - 6 .i&gt;i'i'2' + 4 ö^ ; 
+
+12) £32^ = iPx + P2 - ö') (Pi +P^ - 9) (Pa +P6-9)(J 
+
+= 2.p,'9 + 6 .i?ii?2i^35' - fPi' - ll5''2?iP2 + G -^'i^i - ^' 
+= 2 -i^i^i^a'' + 6pii^2^« + 6 -Pi^Püh -G- ^'^9ePiP2 
+-nG + 6.2G-2G 
+
+= 6 -Pi'P2P, + 2 .p,V -pPiP29e -2.G, 
+
+13) £32^3 = iXh+P2-9)(lh+P'i-'y){P^^Pi-&lt;j)Px 
+
+= 4 .i&gt;i2i)2i^3 + 2 .ihP2Püh - 6 •i'i^'Ä - 5 •i/Ä2J2i^3 
++ 2 . /i^i^ ^ 4 _ ^2^5^ p^ _ ^3^^ 
+
+= 2 .PdhPsPi + 4 .i)i2_p2P3 - Öi^i^iJ^' - 5iJi'i?22?3 
+
+- 55'.i'iP2 + 2 . ö^ + 4 . 5'«i?i2)2 + 4 . G^ - 2 . (t 
+
+= 2 .pdhPüh - Pi^P2P3 - 6 •i'1'2'2' - 5'«Pii'2 + 4G^, 
+
+14) «32 ^2 = (Pl +P2-9) {Pl +B -- 9) {Pi +Ä - i/)i^4 
+
+- Pi'ä' + 4 .iJi2p2lJ3 + ^PlP^Pdh - ^9PlP2 - '^9PlP2Pz 
+
+-\-9hh^-\-^-9'PxP2-9^Px 
+
+= 3 .P1P2PBP4. + 4 .i)i'i?2l'3 H-I'i'ä' - Öj^i^i^a' - ^Pl^P2P3 
+
+- l9eV,P2 + ^ + 5 .i/^ÄPs + 5G^ - 2 . ö 
+= 3 .pühPsPi - 3 . 2^i'i&gt;2P3 - 4 .p,'2h'' - 2 • ^'«l^ii^a + 4 . (^; 
+
+15) 3!£222&lt;/ = (&gt;i+i'2--^)03+i'4-^)(&gt;5+i&gt;G-^)^ 
+
+= 8 .PiP2Ps9 - 12 .P1P29' + 6i&gt;ii/' -/ 
+
+= 8.Vi^2i^3 + 8.2&gt;iP2^«-12iJii&gt;2^«~12(^ + 6.2G^-2G^ 
+
+= 8 .i?i2i?2i% - 4i)ii92^« - 2 (r; 
+
+16) 2 . £222 h = (jh +i^2 - 9) (P3 +1&gt;4 - i/) (2% +Ä - ^)i^i 
+
+= 4 .i&gt;i-2\&gt;P3 + 4 .pdhPüh - 4 .^i^i^Pa - 8 ■9PdhP3 
+
++ 9h\^ + ^-9'"PxP2-9^Pi 
+
+= 4 .i?i'2&gt;22&gt;3 + 4 d\P2PiPi - 4 .Ä'i^2' - 8 -i^i'Äi^s 
+
+-8.^.2Jii5, + G^ + 5.(7.i)ii)2 + 5.(?-2.G 
+
+= ^.p^p-iPüh -4.iVi^2i^3~4.i9i-2V-3.(/,i&gt;iP2 + 4.&lt;^; 
+
+
+
+234 Fünfter Abschnitt. 
+
+1 ^) f 5 = 0^1 +lh - 9) ilh +l&gt;-6 - y) {Pi -^ih - 9) (ih +lh - 9) 
+
+= 6 .Jh^lhlh + 5 -Pählhlh - 12 .^'i^i'i^a - ^Q'9PiP2Pä 
+
++ 6 . gW + 18 . ö''i&gt;ii%.- 8 . 9hh + ^' 
+= 5 .PiP.p^Pi + 6 .7^i^i)2i&gt;3 - 12 -Ä'i^a' - 16 •iJi'i&gt;2i&gt;3 
+
+- 16 .g.pah + 6 . (^ + 18 .r/,j)j;, + 1S.G 
+-'S.2.G + 2.a 
+= 5 -PiPdhPi - 10 •i&gt;x'i^2i^3 - 1 2 •i^i'j^a' + 2 .^.i^ii&gt;, + 10 . G ; 
+
+18) «12 = 0&gt;i + J&gt;2 - 5') 0&gt;i +i^3 - 9) {pi +P4 - 9) {ih +i'G - ^) 
+
+= 6 .iJi'i)2i&gt;3 + 8 .pdhPsPi - 9 . i^23i-i&gt;2 - 22 . 5'i&gt;ii&gt;2i&gt;3 
+
++ 3 . /y'^j&gt;;^ + 21. i/2jj jj^ - 8 . 9hh + 9^ 
+- 10 .PiPdhPi + 6 -i'i'j^si's - 9 -j^'ä/ - 22 .i&gt;,^j&gt;,i)3 
+
+- 22^,j?j;2 + 3 . G^ + 21 . g.p.p, -{-21.G 
+
+-8.2a + 2G 
+= 8 -PdhPüh - 16 -Ä^i^ai^s - 9 -Ä^^j^' - 5'.i&gt;ii^2 + 10 . (x; 
+
+19) 2 . £33 = Q)i 4-i^2 - 9) (pi +P3 - 9) (jh +i% - ö') (jh +i&gt;6 - ö') 
+
+= PiW + 6 .i?i'i&gt;2i'3 + 9 -PühPdh - 8 . gi)^^!)^ 
+~ 24 ..&lt;/i)ii&gt;2l&gt;3 + 2 . (/^i&gt;i^' + 22 . fp,p, 
+-^.9hh+9' 
+
+= '^PühPüh + 6 -p ihhPs -^PiP-^ - 8 .i^i-&gt;2' - 24 4h'Püh 
+
+- 24. . g,p,p, + 2.G^22. g,p,p, + 22.G 
+-8.2.G + 2.G 
+
+= 9 -PdhPsPi- 18 ■Pi'P2ps - "7 ■PiW-^'9cPdh + 10 . (7-, 
+
+20) 2 . £322 = (27, +^^2 - g) {p^ -\-p^ - g) {p^ +p.^ - g) {p^ +p^ - g) 
+
+= 4 .pi'p.dh + 12 .pdhPiP^ - 4 dh^p29 - ^^PdhPz9 
+-j-p.'f + 23 .g%p, - S.g'p. + g" 
+
+= 4 dh^p2P-6 + 12 dhP2Pdh - 4 . A'i^2' - 28 dh^P2P3 
+
+- 28 . gePdh + G + 23. gepdh + 23 . (^ 
+-8.2.G + 2.G^ 
+
+= 12 dhPdhPi - 24 .p.hhPz - 4 •iJi'iJ2' - 5 • 9ePdh 
++ 10.^; 
+
+21)4! «,222 = 0^1 +^^2 - 9) (dh + Pi - 9) (Pö -^P6 - 9) {Pi +P^ - 9) 
+= 16 'PdhPzPi - 32 . gp.pdh + 24 . g-pdh - 8 . ^'i?i + ^4 
+= 16 dhP2Püh - 32 . Pi'2J2i'3 - 32 . ^.i9ii)2 + 24 . gep.p^ 
+
++ 24..G-8.2.G + 2.G 
+= 16 'PdhPdh - 32 -Ä^i^äÄ - 8 . gePdh + 10 . G^. 
+
+Durch diese Formeln, sind die Zahlen s cUred als Functionen 
+der fünf Stamms ahlen 
+
+PdhPüh, Pi'p2p'i^ 9ePdh, PiW, G- 
+
+
+
+Die mehrfachen Coincidcnzen. 235 
+
+dargestellt. Diese fünf Stammzalilen aber können leicht aus der 
+Definition der Fläche «*"'' Ordnung gewonnen werden. 
+
+1. Das Symbol G bedeutet, wenn es sich um i Schnittpunkte 
+handelt, die Zahl der Variationen i*""^ Klasse ohne Wiederholung, 
+gebildet aus den n Schnittpunkten einer gegebenen Geraden mit der 
+Fläche, ist also gleich n {n — 1) (w — 2) . . . (n — i-h 1). 
+
+2. Um p^p^i zu bestimmen, verbinden wir jeden der n Schnitt- 
+punkte auf der Geraden der Bedingung i\^ mit jedem der n Schnitt- 
+punkte auf der Geraden der Bedingung ]i^. Es entstehen n^ Ver- 
+bindungslinien ; also ist bei zwei Punkten l\^ p^ gleich w^, bei 
+drei Punkten gleich n^ (n — 2), bei i Punkten gleich n^ {n — 2) 
+
+3. Um gePilh 2^ bestimmen, suchen wir auf der Ebene von 
+(Je die n Schnittpunkte mit der Ebene von p^ und die n Schnitt- 
+punkte mit der Ebene von 2^2? verbinden jeden Schnittpunkt aus 
+der einen Gruppe mit jedem aus der anderen Gruppe. Dadurch 
+erhalten wir, dass gelhP2 ^^i zwei Punkten gleich w^, bei i Punk- 
+ten gleich n^ (n — 2) (w — 3) ...(« — i + 1) zu setzen ist. 
+
+4. Um Pi^P2P3 zu bestimmen, suchen wir zunächst die n Schnitt- 
+punkte der Fläche mit der Geraden der Bedingung jh^- Wir haben 
+dami noch zu berechnen, wieviel von jedem dieser Punkte aus- 
+gehende Gerade einen Schnittpunkt auf der Ebene von 2^2 eiiieu 
+anderen Schnittpunkt auf der Ebene von p^ haben, d. h. wieviel 
+Gerade die Bedingung ffpP^lh erfüllen. Für dieses Symbol können 
+wir nach den Incidenzformeln setzen gsP3+P2^Pi= G+p^^g -{-p2^Py 
+Nun sind p^^g und p^^p^ gleich null, G = n(n—1)-^ also ist 2h^P2lh 
+gleich w^(w— 1), also bei iPunkten gleich n^{n— 1) (w — 3)...(m — i-fl). 
+
+5. Um PiP2P3Pi zu bestimmen, berechnen wir zunächst gXhlhPi- 
+Dieses Symbol ist gleich geP^Pi^-l-p^lhlhj ^^^o mit Benutzung von 
+3 und 4 gleich n^ (w — 2) -f n^ (n — 1) = n^ (2w — 3). Nun aber be- 
+deutet gihlhlh &lt;ien Grad der Linienfläche, welcher von allen Ge- 
+raden gebildet wird, die auf den drei gegebenen Ebenen der drei 
+Bedingungen 2h i Ihy Ih ^^^^ verschiedene Schnittpunkte haben. Diese 
+Linieufläche hat demnach mit der Fläche Fn nach den Bezout'schen 
+Sätzen (§ 13) 00^ Punkte gemein, von denen in einer gegebenen 
+Ebene w^(2m — 3) liegen. Unter diesen Pimkten fallen nach 4 
+w^ (n — 1) zugleich auf die Ebene von 2h 5 ^*^ (^ ~" 1) zugleich auf die 
+Ebene von 2h ^^^ '^ 0* "" '^) zugleich auf die Ebene von p^. Die 
+Zahl der übrigen ist der Werth des gesuchten Symbols PiP^P^P^}) 
+also ist bei vier Punkten: 
+
+
+
+236 
+
+
+Fünfter Abscliiiitt. 
+
+
+
+
+
+
+imd bei 
+
+
+IhlhlhPi = 2w^ — 3w^ — 3n^ {n - 
+i Punkten gleich n\2n^ -ßn + S)(n- 
+
+
+-4).. 
+
+
+.{n 
+
+
+
+i+l). 
+
+Für w = 3 ergiebt dies die Zahl 21 derjenigen Geraden, welche 
+mit einer Fläche dritten Grades auf vier gegehenen Ebenen vier ver- 
+schiedene SchnittpunJcte haben, d. h. die Zahl 27 der auf der FläcJie 
+liegenden Geraden. 
+
+Setzen wir nun die eben berechneten Werthe der fünf Stamm- 
+zahlen in die Formeln ein, welche oben mit Hilfe der Incidenz- 
+formeln abgeleitet sind, so gelangen wir zu den folgenden Resul- 
+taten: 
+
+1) e,gs = n{n~l), 
+
+2) B^h^ge = n, 
+
+3) 53Ör, = 3.«(w-2), 
+
+4) 63r/,, = w(w-l)(w-2), 
+
+5) s.,b^^ = 2.n, 
+
+6) £.,^ge=-\.n{n-2){n-?&gt;){n + ^), 
+
+7) f22Ä' = i-w(w-l)(«-2)(w-3), 
+
+8) EM = n{n-?&gt;){n+2), 
+
+9) a^^b^c^ = n{n^-2n^ + 2n-Q), 
+
+10) E^g = 2n(n-^){^n-2), 
+
+11) «A = »*(llw-24), 
+
+12) «gg^r = n [n - 3) {n - 4) {n^ + 6 n - 4) , 
+
+13) £32&amp;3 = w (n - 4) (3^2 -\-bn- 24), 
+
+14) £32&amp;2 = »^(n-2)(«-4)(&gt;^2 + 2n+12), 
+
+15) £222^/ = i • w (w — 3) {n — 4) (m — 5) (w^ + 3w — 2), 
+
+16) £222^2 = i-»K&gt;*-2)(w-4)(n-5)(n2 + 5w+12), 
+
+17) " £5 = 5 . « (n - 4) (7n - 12), 
+
+18) £42 = 2 . w (w - 4) (w - 5) (w + 6) (3w - 5), 
+
+19) £33 = 1 . &gt;i (w - 4) (w - 5) {n^ + 3^2 + 29 w - 60), 
+
+20) £322 = i . w (w - 4) (w - 5) (w - 6) (w^ + 9^i2 ^ 20m - 60), 
+
+21) £2222==TV-»*(»*-4)(&gt;*-5)(w-6)(**-7)(n3+6n24-7w-30). 
+
+Beispielsweise fassen wir einige dieser Resultate in Worte: 
+9, Zieht man in jedem PiinJde eines ebenen Schnittes einer Fläche 
+
+^^ier Ordnung eine in ihm und noch anderstvo berührende Tangente, 
+
+so bilden die anderen Berührungspunhte eine Gurve vom Grade 
+
+n{n^-2n^-\-2n-Q). 
+
+11. Die BerührimgsjMnJcte der eine Fläche w'*" Grades vierpunktig 
+
+berüJircnden Tangenten bilden eine Gurve com Grade ^&lt;(ll&gt;i — 24). 
+
+
+
+Die mehrfachen Coincidenzen. 237 
+
+15. Die dreifachen Tangenten einer Fläche n^^" Grades bilden eine 
+Linienfläehe vom Grade 
+
+j . w (w - 3) (n - 4) {n - 5) (w^ + 3w - 2). 
+
+17. Eine Fläche n"" Grades lesitzt b.n(n — 4)(ln— 12) PunJde, 
+in denen eine Tangente fiinfpunJctig berühren kann. 
+
+18. Eine Fläche n*^" Grades besitzt 
+
+2.n(n-4) (ii - 5) (w + 6) (3 n - 5) 
+vierpunMig berührende Tangenten, welche noch anderswo ziveipunläig 
+berühren. 
+
+21. An eine Fläche n^^"" Grades lassen sich 
+
+j| . w (w - 4) {n - 5) (m - 6) (n - 7) (n^ + 6n^ + 7w -30) 
+vierfache Tangenten legen. 
+
+Es bietet keine Schwierigkeit dar, den 21 Formeln noch die- 
+jenigen hinzuzufügen, welche auf die Bedingungen Bezug nehmen, 
+dass ein einfacher Schnittpunkt der mehrfachen und mehrpunktigen 
+Tangenten auf einer gegebenen Ebene resp. einer gegebenen Ge- 
+raden liegen soll. Dies verdeutlichen die folgenden Beispiele. 
+
+22. Der Grad der Curve derjenigen Punkte, von welchen sich 
+anderswo berührende dreifache Tangenten ziehen lassen, ist gleich ^ von 
+
+Pi (P2 +P'3-9) {Pi + Ä - 5') (P6 + Ih - 9) 
+
+= 8 .piP^PsPi - ^^-gpdhPi + 6 '(fPiP2 -ghh 
+
+= 8 .PiPciPslh - 12 .gePiP^ - 12 .Pi^p^Ps + 6 .gePiP2 ■i-(i.G-2.G 
+
+= 8 . Pig^PsPi - 12 .Pi^p^Pä - 6 . geP,P2 + 4:.G 
+
+-= 8 . w2 (2^2 _ 6w + 3) (w - 4) (w - 5) (n - 6) 
+
+-12.n2(w-l)(w-3)(w-4)(»*-5)(w-6) 
+
+-6.n^{n-2){n-3){n- 4) {n - 5) (« - (5) 
+
++ 4:.n{n-l)(n-2){n- 3) {n - 4) (n -5)(n- 6) 
+
+= 2.n(w-4)(w-5)(w-6)(«3 + 3n2-2w-12). 
+
+23. Die Zahl derjenigen Haupttangenten, welche, von einem ge- 
+gebenen Punkte der Fläche ausgehend, anderswo berühren .^ ist gleich 
+
+1 
+
+— von 
+
+n 
+
+Pi^ (P2 -\-p^-o) (ä +p^ - v) 
+
+= PiV + 3 .Jöi'i^aPs - ^-gPhh +jPi V 
+
+-PiP^^ + 3 -phhP^ + 4 -Pi'ä' + G 
+
+= 3.i9,2p,2&gt;3-3.ÄW+ö 
+
+= 3n2 in - 1) (w - 3) - 3 . w^ (n - 2) (w - 3) + n {n - 1) (w - 2) (« - 3) 
+
+= n (« - 3) {n' 4- 2). 
+
+
+
+238 Fünfter Abschnitt. 
+
+24. Die Zahl derjenigen Tangenten, tvelche auf drei gegebenen 
+Ebenen drei versc-Jiiedene einfaclie Schnütpunhte haben, ist gleich 
+PxPdh (ih +i&gt;5 - ^) = 2 -ihlhlhlh ~ 9ü\lhlh 
+= 2 -PilhPalh -lh-P2lh - (JePüh 
+^2.n' (2n' - 6w + 3) (w - 4) - w^ (« -X){n- 3) {n - 4) 
+
+— w^ (n — 2) (w — 3) (n — 4) 
+= w2(w-4)(2w2-3w-3). 
+
+Absichtlich ist jedes dieser Abzählungsresultate direct aus den 
+fünf Stammzahlen und damit aus der Definition der Fläche «*''" Gra- 
+des abgeleitet, da der Verfasser zeigen wollte, wie selbst diejenigen 
+Resultate, welche durch die herkömmliche rein algebraische Methode 
+bisher nicht gewonnen werden konnten (cf. Salmon- Fiedler, Raum, 
+IL Th., II. Aufl., Art. 465, letzte Zeile), z. B. die Zahl der fünf- 
+punktigen Tangenten, sich ohne fremde Hilfsmittel naturgemäss aus 
+dem Begriff des zweistufigen Punktsystems ergeben, sobald man 
+nur den Bedingungskalkül anwendet. 
+
+Freilich können auch die Resultate stufenweise abgeleitet wer- 
+den, z. B. aus den Anzahlen für die Tangenten die Anzahlen für 
+die Haupttangenten und Doppeltangenten, aus diesen die Anzahlen 
+für die vierpunldigen, drei-ziveipwiktigen und dreifachen Tangenten, 
+aus diesen dann die Anzahlen für die fünfpunlitigen , vier-ziveipmik- 
+tigen, drei-dreipunJctigen, drei-zwei-sweipimldigen und vierfachen Tan- 
+genten. Beispielsweise folgt aus den drei Zahlen ^33^3, ^32 ^27 hiö 
+die Zahl £5 bei Anwendung der Coincidenzformel 1 des § 13 ohne 
+Weiteres, nämlich: 
+
+h-hA^hA-h^9 
+= n{n- 4) (3^2 + 5w - 24) + n {n - 2) {n - 4) {01^ + 2n+ 12) 
+
+- w (w - 3) (w - 4) (w^ + 6 1« - 4) 
+= n(n- 4) (35n - 60) = 5 . w (w - 4) (7m - 12). 
+Um noch andere Formeln aufzustellen, welche die späteren der 
+oben berechneten Anzahlen s auf frühere zurückführen, ist es nütz- 
+lich, den folgenden Satz zu benutzen, welcher direct aus den Bezout- 
+schen Sätzen folgt: 
+
+„Wenn eine Gerade, welche Fn an einer Stelle a-punhtig, an 
+einer anderen Stelle ß-punJctig berührt u. s. w., eine Begelfläche vom 
+Grade v erzeugt, so ist: 
+
+wo Vj, Va, v^i,... die Ordnungen der Curvcn sind, welche bezüglich von 
+
+
+
+Die mehrfachen Coincidenzen. 239 
+
+den einfachen ScJmittpimlcten , den Stellen a- punktiger Berührung, den 
+Stellen ß-punMiger Berührung u. s. w. gebildet iverden." 
+
+Um diesen Satz auf unsere Zahlen e anwenden zu können, 
+setzen wir noch fest, dass \ bei einem Symbole s immer jeden 
+einfachen Schnittpunkt der betreffenden Tangente bedeuten soll. 
+Dann haben wir nach dem eben ausgesprochenen Satze: 
+
+^ • {hf) = 3 . £3635' + 1 . eAy, 
+
+^ • («3^3^) = 3 . «a&amp;g^ + 1 . £3&amp;3&amp;i, 
+
+n . (£22^) = 2 . i£229h) + 1 • h29h 5 
+
+AK 
+
+
+
+n 
+
+
+^{hA9) = 
+
+
+2.£22V 
+
+
++ 2.£22&amp;2C2 
+
+
++ 1 
+
+
+n 
+
+
+.(£,^) = 4. 
+
+
+^A + i 
+
+
+.£4^1; 
+
+
+
+
+
+
+n 
+
+
+•(%.9) = 3 
+
+
+•«32^3 + 
+
+
+2.e,A 
+
+
++ 1 
+
+
+•% 
+
+
+
+A, 
+
+W . («222^) = 2 . £222 ^2 + 1 • %2 K 
+
+Mit Hilfe dieser Formeln kann man die auf h^ bezüglichen 
+Symbole leicht aus den in den ersten 21 Formeln berechneten Sym- 
+bolen bestimmen, z. B. das in 22 berechnete Symbol £222^1 ^^^ 
+
+w. (£222^) — 2. £222^2 
+= \n' {n - 3) (w - 4) (w - 5) {n^ + 3w - 2) 
+
+- 2 4w (n - 2) (« -4) (n - 5) (w^ + 5w + 12) 
+= \.n (n - 4) {n - 5) (w* - lln^ + 6»» - ^n^ - Ow^ - 6w + 72) 
+= ^i?.(w-4)(&gt;^-5)(w-6)(n3 + 3w2-2w-12). 
+Bei Anwendung der Coincidenzformel erster Dimension für Punkte - 
+paare ist man hiernach im Stande, die Zahlen 
+
+%; ^427 ^33? ^322? ^2222 
+
+ohne grosse Rechnung als Functionen von n und den Zahlen: 
+
+^i9} ^4^45 *325'&gt; %^3? ^32 ^2 &gt; ^222^; ^222^2 
+
+darzustellen und zwar oft auf verschiedene Arten; dies zeigen die 
+folgenden Ableitungen: 
+
+17) £5 = s.h, . (w - 4) + sj), - s^g . (n - 4) 
+
+= £4 &amp;4 . {n - 4) + (w . £^0' - 4 . bM - s^g . (w - 4) 
+
+= £4^4-(w-8) + 4.£4Ö', 
+
+17) «5 = «32 ^3 + «32 ^2-^32^; 
+
+18) £,2 = £4^.0^-5) + £,&amp;^.(w-5)-£4(7.(n-4)(n-5) 
+
+= 2 . (w . £4^ - 4 . £4 ft^) . (n - 5) - £4 (/ . (w - 4) (w - 5) 
+= s^g.in - 5) (w + 4) - £4&amp;4. 8 . {n — 5), 
+
+18) £42 = £32^3 . (W - 5) + £32&amp;i - £32^ . (w - 5) 
+
+= £32 &amp;3 . (w - 5) + (w . £32 ö- - 3 . £32^3 - 2 . £32/^2) - «32 ö'- (&gt;* -5) 
+
+
+
+^3 . (W - 8) - 2 . £32 &amp;2 + 5 . «32^'; 
+
+
+
+32 "3 
+
+
+
+240 Fünfter Abschnitt. 
+
+1 8) f .jo = «222 ^2 • ^ + «222 h'^ — «222 9 • ^ 
+
+= 4 • «222 ^2 " • «222 5^ j 
+
+19) 2 . £33 = £32 &amp;2 • (w - 5) + £32 fei - £32^ {n - 5) 
+
+= £32 &amp;2 • (»* - 5) + (w . ^i/ - 3 . £32 &amp;2 - 2 . £32^2) - %2&lt;/ (w-5) 
+
+= £32&amp;2 • (W - 7) - 3 . £3263 + ö-fsg^r; 
+
+20) 2 . £322 = «32^1 •(&gt;* - 6) + %&amp;! . (w - 6) - £32^. (m - 5) (w - 6) 
+
+= 2 . (m - 6) (W.£32^ - 3 .£32&amp;3 - 2 . £32^2) 
+
+-£325r.(w-5)(w-6) 
+
+= £32Ö'.(w-6)(« + 5)-6.£32&amp;3.(«-6)-4.£32&amp;2.(w-6), 
+
+20) £322 = «222 ^2 • 0^ ~ 6) + «222 ^1 • 3 — £222^ • ^ • ('^ ~" 6) 
+
+= £222^2-(^— 6) + 3.(w.£222Ö' — 2.£222^2) — 3.«2225'-(w-6) 
+
+= £222^2 • (»* — 12) + 18 . £2226'; 
+
+21) 4 . £2222 = «222 &amp;i . (w - 7) + £222 &amp;i • (« - 7) - £222^ • (w - 6) (w - 7) 
+
+= 2.(w-7).(w.£222Ö'-2.£222y-«222Ö'-(w-6)(w-7) 
+
+= £2220' . (w - 7) (w + 6) - 4 . £222 h . (n - 7). 
+Hiernach erhält man durch Substitution der Werthe von 
+
+«4^; «4^4J h29, «32^3) «32^2, «2225^; «222^2 
+
+die oben berechneten Zahlen bestätigt und zwar £5 zweimal, £42 drei- 
+
+
+
+Um auch zu den Anzahlen zu gelangen, welche sich auf swei 
+mehrfache und mehrpunktige Tangenten mit gemeinsamem Berüh- 
+rimgspimlite beziehen, müssen wir einen wichtigen Hilfssatz voran- 
+schicken. Es sei auf der Fläche Fn eine beliebige Curve C r^^^ Gra- 
+des gegeben. Dann giebt es co^ Strahlen g, welche diese Curve C 
+schneiden. Ein solcher C schneidender Strahl ist also endlichdeutig 
+bestimmt, wenn man ihm irgendwelche dreifache Bedingimg auf- 
+erlegt. Diese enthalte keine anderen Symbole, als solche, welche 
+in diesem Paragraphen besprochen sind. Dann lässt sie sich, wie 
+dies aus den obigen Entwickelungen hervorgeht, im allgemeinen auf 
+die Symbole g^, l\ge, Pxlhi lhP&gt;lh zurückführen. Wir unterscheiden 
+aber auf jedem Strahle g, der C schneidet, den Schnittpunkt mit C 
+selbst von den übrigen n—1 Schnittpunkten, indem wir ihn mit 
+C[y, jeden der übrigen n—1 Schnittpimkte mit 2%, jeden der dann 
+noch restirenden Schnittpunkte mit jjg und so fort bezeichnen. Dann 
+kommt man bei der Zurückführung der auf g bezüglichen dreifachen 
+Bedingungen nur auf die folgenden, von null verscJiiedmen Symbole: 
+
+
+
+Die mehrfachen Coincidenzen. 241 
+
+Die Wertlie dieser sechs Symbole ergeben sich leicht aus der De- 
+finition der Fläche F w'*^"" Ordnung und der Curve C r^^^ Ordnung. 
+Die Ebene von gg schneidet O in r Punkten; also ist, wenn es 
+sich nur um den Schnittpunkt auf G handelt, gs gleich r. Ist also 
+von i Schnittpunkten die Rede, so ist: 
+
+g, = r . (w - 1) (« - 2) . . . {n - i + 1). 
+Ebenso ergiebt sich: 
+
+OeP-i = r .n {n — 2) . . . {n — i + \). 
+
+Bei q^l^^ beachte man, dass die Ebene der Bedingung q^ die 
+Curve in r Punkten, dass die Gerade von p^ die Fläche F^ in 
+n Punkten schneidet und dass der Verbindungs strahl jedes von den 
+r Punkten mit jedem von den n Punkten einen Strahl liefert, der 
+C schneidet und q^p^^ erfüllt; also ist: 
+
+g'ij?2^ = r . w (w — 2) (w — 3) . . . (w — i + 1), 
+
+Um qi2hPs 2^ bestimmen, erinnern wir uns, dass von jedem 
+der r Punkte, in denen die Ebene von q^ die Curve C schneidet, n(n-~ 1) 
+Strahlen ausgehen, die auf zwei gegebenen Ebenen verschiedene 
+Schnittpunkte haben; also ist: 
+
+Ü1P2P3 = r .n(n-' 1) (n — 3)... (n — ^ + !)• 
+
+Ferner gehen von jedem der n Punkte, in denen die Gerade 
+von j)^^ die F^ schneidet, r.(n—l) Strahlen aus, die ausser in C 
+noch in der Ebene der Bedingung Jh einen Schnittpunkt besitzen; 
+also ist: 
+
+P2^P3 = r.n(n—l) (n — 3) . . . (m — i + 1). 
+
+Hiernach ist bei drei Punkten gp2P3 = Mh -^P2^Pb = ** • ^ • (2 w — 3). 
+Dies ist also der Grad der Linienfläche, die von den go^ Geraden 
+gebildet wird, welche C schneiden und ausserdem auf zwei ge- 
+gebenen Ebenen verschiedene Schnittpunkte haben. Diese Linien- 
+fläche schneidet Fn in r .n"(2n — S) Punkten, unter denen sich 
+erstens q^p^p^ = r .n{n—\) befinden, die auf C liegen , zweitens 
+r.n(ii—l), welche die Bedingung j)2 ^2^3 erfüllen und drittens r.n(n—\), 
+welche i?2iV erfüllen; also bleibt bei drei Punkten: 
+
+P2PZP4. = »^ • »«^ (2»« — 3) — 3.r.w(w— l=r.w(2w2 — 6w-f3), 
+und bei i Punkten: 
+
+PiPzPi = ^ • w (2n^ — 6n -f 3) (n — 4) . . . {n — « -f 1). 
+
+Vergleicht man diese sechs Resultate mit den oben für die 
+fünf Symbole: 
+
+Piys, PxPiüe, PlW, PxhMh, PühPüh 
+
+gefundenen Werthen, so sieht man, dass die Umwandelung der Be- 
+
+Scliubert, Kalkül der abzäblenden Geometrie. 16 
+
+
+
+242 Fünfter Abschnitt. 
+
+dingung i\ in die Bedingung, die Curve C r'^"' Grades zu schneiden, 
+auf die Wertlie der StammsaMcn keinen anderen Einßuss ausüht, als 
+
+r 
+
+dass dieselben mit dem Bruche — mtätiplicirt erscheinen. Dieses Re- 
+sultat kann mau aussprechen wie folgt: 
+
+Bei jeder Fläche Fn n^^"' Grades ist die Zahl der Geraden., tvelche 
+eine beliebige, auf ihre n SchnittpunMe mit Fn bezügliclie dreifache Be- 
+dingung erfüllen und ausserdem eine auf Fn liegende Curve C r'*" 
+
+r 
+Grades schneiden, — mal so gross, als die Zahl der Geraden, tvelche 
+
+dieselbe dreifache Bedingung erfüllen und ausserdem einen SchnittimnM 
+auf einer gegebenen Ebene besitzen. 
+
+Dasselbe Resultat würde man aus dem Bezout'schen Satze er- 
+halten, wemi man wüsste, dass die Schnittpunkte der jene dreifache 
+Bedingung erfüllenden Geraden auf Fn eine Curve bilden, welche der 
+vollständige ScJiniU der F» mit einer gewissen Fläche ist. 
+
+Mit Hilfe des eben bewiesenen Hilfssatzes kann man aus 
+imseren Abzählungsresultaten eine grosse Menge neuer Anzahlen 
+erhalten, wie die folgenden Beispiele verdeutlichen: 
+
+25. Aus 2) folgt, dass S2b^gjj=£.^gs = n{n—\) ist; also gehen 
+
+r 
+durch einen Punkt im Räume n (n —\) = r. {n — 1) Tangenten, 
+
+deren Berührungspunkte auf einer in der Fläche liegenden Curve 
+»"*™ Grades sich befinden oder, was dasselbe ist, die Tangential- 
+ebenen in den Punkten einer auf F„ liegenden Curve r^^"^ Grades 
+bilden einen einstufigen Ort vom r .(ii— 1)*^" Grade. Z. B. gehen 
+von den Tangentialebenen in den Stellen vierpimktiger Berührung 
+(Nr. 11) immer w(llw — 24) (m— 1) durch jeden Punkt des Raumes. 
+Ebenso folgt leicht, dass es n {n — Xf Punkte giebt, in denen zwei 
+Tangenten berühren, deren jede durch einen gegebenen Punkt geht, 
+mit anderen Worten, dass durch eine Gerade n {n — 1)^ Tangential- 
+ebenen an die Fn gelegt werden können. 
+
+26. Aus 3) und 5) folgt s^b^g^-s^b^^ ^ E.^ge = 2 .n^?&gt;n.{n-2) 
+= «(3 « — 4). Dies ist der Grad der Curve der Berührungspunkte 
+aller eine gegebene Gerade schneidenden Haupttangenten. Diese 
+Curve schneidet also nach unserem Hilfssatze die Curve vierpunkti- 
+
+ger Berührung (Nr. 11) in — -n (3« — 4) . sj)^ = (3m — 4) . ej)^ 
+
+Punkten. Unter diesen Punkten befinden sich die s^g Berührungs- 
+punkte der die gegebene Gerade schneidenden vierpunktigen Tan- 
+genten. Die übriffen 
+
+
+
+Die mehrfachen Coincidenzen. . 243 
+
+Punkte sind also Punkte, in denen vierpunktige Berührung statt- 
+findet und in denen eine Haupttangente berülirt, welche die ge- 
+gebene Gerade schneidet, ohne mit der vierpunktigen Tangente 
+identisch zu sein. Da nun nach Nr. 5 in jedem Punkte einer Fn 
+nur 2ivei Haupttangenten berühren, so ist jene Zahl die Zalil der- 
+jenigen dreijmnJitig 'berührenden Tangenten, tvelche mit einer vierimnhti- 
+gen Tangente denselben Berühnmgspunkt haben und dabei eine gegebene 
+Gerade schneiden. Wir fassen jetzt jede vierpunktige Tangente mit 
+derjenigen Haupttangente zusammen, welche denselben Berührungs- 
+punkt hat. Dadurch entsteht auf der Fn ein einstufiges System 
+von Strahlenpaaren; auf dieses wenden wir die Coincidenzformel 
+21 des § 15 an. Dann ist 6]i = sJ)^ und oe nach Nr. 25 gleich 
+Ej)^{n-~X) zu setzen. Das Coincidenzsymbol so bedeutet die Zahl 
+derjenigen vierpunktigen Taugenten, welche mit Haupttangenten 
+zusammenfallen, die denselben Berührungspunkt haben; diese Zahl 
+ist also gleich: 
+
+s^g 4- [(3 w - 4) . £j)^ - E^g] - sj)^ - sj)^ .{n-\) 
+= 2.(w-2).£4&amp;, = 2w(&gt;^-2)(lln-24). 
+
+Da man zusammenfallende Haupttangenten paraboUsdie Tan- 
+genten und ihre Berührungspunkte parabolische Pimhte neimt, so 
+kann dieses Resultat auch so ausgesprochen werden: 
+
+Es giebt auf einer FläcJiC n^^" Ordnung 
+2.w(«-2)(llw-24) 
+vierpunTitig berührende parabolische Tangenten. 
+
+27. Es liegt nahe, im Anschluss an das eben gefundene Re- 
+sultat die Ordnung der parabolischen Curve und den Grad der 
+Regelfläche der parabolischen Tangenten zu bestimmen. Zu diesem 
+Ende fassen wir je zwei in demselben Punkte berührende Haupt- 
+tangenten als Strahlenpaar zusammen. Dadurch wird auf der Fn 
+ein zweistufiges System von Strahlenpaaren gebildet, auf welches 
+wir die Coincidenzformelu 39 und 49 des § 15 anwenden. Wir 
+haben dann zu setzen: 
+
+6ge == 3 w (w — 2) , öhe = 3 n (« — 2), öp^ = 2 . «, 
+(?j9e = 2.w(w— 1), ae^ = 2n{n—iy. 
+
+Um (Sgh zu bestimmen, wenden wir den oben bewiesenen 
+Hilfssatz an und benutzen den Werth des Symbols s.^b.^g = £^ge + £^b.^^ 
+zweimal, den Werth des Symbols s^g^- = s-^ge-^- H9p einmal. Dann 
+kommt: 
+
+16* 
+
+
+
+244 Fünfter Abschnitt. 
+
+6gh = n (3w - €f - 3w {n -2)-n{n- 1) {n - 2) 
+
+Also ergiebt sich durch die angewandte Coincidenzformel für 
+die Ordming der paroholisclien Ctirve: 
+
+3n (n - 2) + 3m (w - 2) + 2 . w - 2w (n-l) = A.n (ii - 2), 
+
+und für den Grad der von den imraboUsdien Tangenten gehildeten 
+LinienfläcJie : 
+
+An . (2n^ - 6w + 5) - 2 . w - 2 . « {n - 1)^ = 2n .{n-2). (3m - 4). 
+
+Nach unserem Hilfssatze haben die iiarabolische Curve und die 
+Curve vierpunktiger Berührung 
+
+4« (n- 2). (11m -24) 
+Punkte gemein. Die Zahl der Tangenten in diesen Punkten haben 
+wir aber in Nr. 26 gleich 
+
+2m. (m- 2) (11m -24) 
+gefunden. Dass die erstgenannte Zahl doppelt so gross ist als die 
+letztgenannte, erklärt sich dadurch, dass die parabolische Curve 
+und die Curve vierpunktiger Berührung sich an 2m(m — 2)(11m — 24) 
+Stellen ztveipunJäig herühren. 
+
+28. Wir stellen ims die der metrischen Geometrie angehörige 
+Aufgabe, die Zahl der KreisinrnJcte einer Fläche Fn m*^" Grades zu 
+bestimmen. Ein Kreispunkt ist ein solcher Punkt, in welchem beide 
+Haupttangenten den unendlich fernen imaginären Kugelkreis schnei- 
+den; wir haben also, wenn wir der Aufgabe die irr-ojective Fassung 
+geben, zu bestimmen, wie oft ein Punkt auf der F^ Berührungspimkt 
+zweier einen gegebenen Kegelschnitt schneidender Haupttangenten 
+ist. Nach dem Princip von der Erhaltung der Anzahl (§ 4) dürfen 
+wir statt des Kegelschnittes jede seiner beiden Ausartungen annehmen. 
+Nehmen wir zuerst die Ausartung, hei tvelcher die Kegelschnittpimkte 
+zwei Gerade bilden. Dann kann die gestellte Forderung auf zweier- 
+lei Weise erfüllt werden; erstens, wenn jede der beiden Geraden 
+von einer der beiden Haupttangenten geschnitten wird; zweitens, 
+wenn die eine oder die andere Gerade von beiden Haupttangenten 
+geschnitten wird. Die auf den ersten Fall bezügliche Zahl ist schon 
+in Nr. 27 als der Werth des Symbols agh bestimmt. Wenn, wie 
+im zweiten Falle, eine Gerade von beiden Haupttangenten geschnitten 
+werden soll, so liegen diese mit ihr in derselben Tangentialebene; 
+also ist die gesuchte Zahl der Kreispunkte 
+
+4 . M (2m2 - 6m 4- 5) + 2 . m (m - 1)2 = 2 . m {6n^ - 14m + 1 1). 
+
+
+
+Die mehrfachen Coincidenzen. 245 
+
+Es ist vielleicht interessant, dieses Resultat auf eine zweite 
+Weise zu finden, indem man statt des Kegelschnittes seine andere 
+Ausartung wählt. Bei dieser bilden die Punkte zwei zusammen- 
+fallende Gerade. Die gestellte Forderung, dass jede der beiden 
+Haupttangenten den Kegelschnitt schneiden soll, wird also erfüllt 
+erstens von den parabolischen Haupttangenten, welche die Doppel- 
+gerade schneiden, zweitens viermal von den Haupttangenten, welche 
+in einer durch die Doppelgerade gehenden Tangentialebene liegen, 
+drittens von den Haupttangenten, welche in den n Schnittpunkten 
+der Doppelgeraden mit der F^ berühren; also ist die gesuchte Zahl 
+der KreispunMe auch gleich 
+
+2n {n - 2) (39Z - 4) + 4 . w (« - 1)2 + 2 . w = 2w {bn^ -Un-\- 11). 
+
+In der Salmon-Fiedler'schen Raumgeometrie (2. Aufl., pag. 43 
+bis 46} ist diese Zahl um die Zahl der in einer Ebene liegenden 
+Haupttangenten 2U gross angegehen. Das richtige Resultat gab zu- 
+erst Voss in den Math. Ann. Bd. IX pag. 241 (Lit. 44), Aehnlich 
+kann man auch die metrischen Probleme lösen, in denen nach Ord- 
+nung und Klasse der Krümmung smittelpunlitsfläclie (Lit. 45) oder 
+nach Feldrang und Bündelrang der von den Krümmung sUnientan- 
+genten gebildeten Congruenz gefragt wird (Lit. 46). 
+
+29. Um die Zahl derjenigen PunMe der Fläche n''"' Ordnung zu 
+hcstimmen, in denen die beiden Haupttangenten vierpunhtig berühr en, 
+ohne zusammenzufallen, betrachten wir das Punktepaar, welches 
+durch einen Punkt der Curve vierpunktiger Berührung und einen 
+derjenigen w — 3 einfachen Schnittpunkte erzeugt wird, die auf der 
+in jenem Punkte nur dreipunktig berührenden Haupttangente liegen. 
+Auf das von solchen Punktepaaren gebildete einstufige System wen- 
+den wir die Coincidenzformel erster Dimension für Punktepaare an 
+(§ 13, Formel 1). Dann erhalten wir für das Symbol p dieser 
+Formel sj)^.{n — d&gt;\ für g den schon in Nr. 26 berechneten Werth 
+(3m — 4). £4?&gt;4 — f^^ multiplicirt mit }* — 3. Um das Symbol q der 
+Formel zu berechnen, wenden wir dasselbe Mittel au, welches uns 
+oben (p.239) zu den h^ enthaltenden Symbolen führte. Dann bekommen 
+wir für q den Werth n .\{?&gt;n — ^) . £^b^ — s^g'] — '^ .sj)^-^ also ist der 
+Werth des Coincidenzsymbols jener angewandten Formel gleich 
+
+[eJ)^ . {n - 3)] -f [n . (3w - 4) . sjj^ -n.e^g-^. s^bj 
+
+- [(ßn - 4) . e,b, . {n - 3) - a,g . {n - 3)] 
+oder 
+
+s^b^.{10n — lS)-3.s^g. 
+
+
+
+246 Fünftt-r Abschnitt. 
+
+Das Coincidenzsymbol wird aber in zwei Fällen erfüllt, erstens 
+bei jedem Punkte, in dem msammenfallende Haupttangenten vier- 
+punktig berübren, zweitens zweimal bei jedem Punkte, in welchem 
+die leiden Haupttangenten , (jetrennt liegend, vlerpunJdig berühren. Die 
+Zabl der im ersten Fall genannten Punkte ist in Nr. 26 berechnet. 
+Die auf den zweiten Fall bezügliche Zahl ist die gesuchte. Für 
+diese erhalten wir also: 
+
+^ . f,h, . (lOn - 18) - 1 . e,g - (w - 2) . e,h, 
+= s^h^ . (An - 7) - f . £^g (Lit. 47). 
+
+Nach Substitution der oben berechneten Werthe für s^h^ und 
+s^g erhalten wir das Resultat: 
+
+„Eine Fläche n^'^'' Ordnung besitzt 
+
+6n.{ln^-2Sn-\-30) 
+Punkte, in denen die beiden Haupttangenten vierimnldig berühren, ohne 
+zusammenzufallen" 
+
+Für M = 3 erhält mau hieraus die Zahl 185 der Schnittpunkte 
+der 27 auf einer Fläche dritter Ordnung liegenden Geraden. 
+
+Der Verfasser hat in seinen „Tangentensingularitäten" (Math. 
+Ann. Bd. 11 pag. 377) ausser der eben berechneten Anzahl und 
+den meisten der vorangehenden Anzahlen noch viele andere Resul- 
+tate bestimmt, aus welchen wir hier die folgenden hervorheben: 
+
+30. Die Zahl der in parabolischen PunMen dreij)unJctig und noch 
+anderswo sweipunhtig berührenden Tangenten beträgt: 
+
+2w {n - 2) (m - 4) (3^2 -\-bn- 24). 
+
+31. Bie Zahl der an einer Stelle dreipunktig, an einer anderen 
+Stelle Mveipunläig berührenden Tangenten, bei denen die Tangential- 
+ebenen der beiden BerührungspunJcte zusammenfallen, oder, was das- 
+selbe ist, die Zahl derjenigen Bopypeltangentidlebenen , bei denen der 
+Verbindungsstrahl der beiden Berührung spunlite in einem dieser Be- 
+rührungspunJcte dreipunktig berührt, beträgt: 
+
+n in- 2) {n - 4) (n^ + 3^^ + 13w - 48). 
+
+32. Bie Zahl derjenigen Punkte, in denen die eine Haupttangente 
+vierpunktig, die andere nur dreipunktig, aber noch anderswo zwei- 
+punktig berührt, beträgt: 
+
+n {n - 4) {21 n^ - 13 n' - 264w + 396). 
+
+33. Bie Zahl derjenigen Punkte, in welchen die beiden Haupt- 
+tangenten, getrennt liegend, dreipunktig berühren, aber so, dass jede 
+von ihnen die Fläche noch anderswo ziveiininktig berührt, ist gleich: 
+
+
+
+Die mehrfachen Coinciclenzen. 247 
+
+n {n - 4) (4w^ - 4w^ - 95?*^ + 9dn^ + 544w - 840). 
+
+34. Die Curve derjenigm FunMe, in denen eine drei-ziveipunUigc 
+Tangente dreipunhtig berührt, henlhrt die Curve der parabolischen 
+Punlite überall, wo sie dieselbe trifft, ßiveipunhtig und zwar in denjenigen 
+parabolischen PunJden, deren Haupttangentefn noch andersivo berühren. 
+
+35. Die Curve derjenigen Punkte, in denen eine drei-zweipunlctige 
+Tangente dreipunläig berührt, berührt die Curve vierpunMiger Berüh- 
+rung in den Perührungspunliten der fünfpunMigen Tangenten zwei- 
+punlitig und schneidet sie ausserdem noch einfach, erstens in denjenigen 
+Punkten, ivo die vier-zweipunktigen Tangenten vierpunktig berühren, 
+zweitens in denjenigen Punkten, wo die eine Maupttangente vierpunktig 
+berührt, die andere Haupttangente eine drei-zweipunktige Tangente ist. 
+
+
+
+§34. 
+Die Coincidenz mehrerer Punkte einer Geraden (Lit. 48). 
+
+Schon im vorigen Paragraphen haben wir uns mit der Co- 
+incidenz von mclir als zivei Punkten auf einem Gebilde beschäftigt, 
+welches aus einer Geraden und n darauf befindlichen Punkten be- 
+stand, nur dass die Definition dieses Gebildes die Beschränkung ent- 
+hielt, dass die n Punkte einer und derselben Fläche angehörten. 
+Hier beschäftigen wir uns mit dem allgemeineren Gebilde F, dessen 
+Definition ebenso lautet, aber frei von dieser Beschränkung ist, 
+also aus einer Geraden g und n in ihr liegenden Punkten 
+
+besteht. Die (w—1) -fache Bedingung, dass diese w Punkte auf 
+ihrem Träger g an einer und derselben Stelle coincidiren, bezeich- 
+nen wir mit s. Es handelt sich darum, e durch die auf 
+
+9, Pi, P2,---Pn 
+bezüglichen Grundbedingungen auszudrücken. Dieses gelingt bei 
+Anwendung der symbolischen Multiplication vermittelst der Formel 
+für die Coincidenzbedingung beim Punktepaare (§ 13, Formel 1). 
+Hiernach ist die Bedingung Sik, dass die Punkte j)» und j&gt;i- auf g 
+coincidiren, ausgedrückt durch: 
+
+£ik=Pi+Pk-g; 
+
+daher erhält man für die zweifache Bedingung, dass auf ^ an einer 
+Stelle die Punkte pi und 2h, an einer anderen Stelle die Punkte jv 
+und ps coincidiren, die Formel: 
+
+
+
+248 Fünfter Abschnitt. 
+
+Si k . £rs = {Pi -hPk - g) {Vr ^-Ih - 9) 
+= piPr +PiI&gt;s +lhPr -hlhPs 
+
+- 9 (Pr -i-Ps + j&gt;/ +/) + {ge + g^:). 
+
+Multiplicirt man in derselben Weise die Formeln für die Be- 
+dingungen: 
+
+*12J ^13} *UJ ^157 ••• ^1«; 
+
+SO erhält man eine Formel für die Bedingung s, dass auf g die 
+n Punkte 
+
+Pl, P2,P3&gt;---Pn 
+
+an einer und derselben Stelle coincidiren. Es ist also: 
+
+« = (Pi +i&gt;2 - 9) (Pi +P3 - ^) 0^1 +ih -g)-- {Pi +i&gt;» - 5')- 
+
+Da man, wie eben den Index 1, jeden der n Indices bevor- 
+zugen konnte, so muss man nacli Ausführung der Multiplication 
+der (n — 1) Faktoren für s einen in den n Indices symmetrischen Aus- 
+druck bekommen können. Dies gelingt am kürzesten so; man 
+ordne den Ausdruck für e nach steigenden Potenzen von pt^—g'^ 
+dann kommt: 
+
+S = ttn-l + an-2 . (Pi -g)-{- OCn-3 ■ (Pi " ^)^ + • • • + «o • 0^1 " 9Y~\ 
+WO 111 
+
+«0=1; CCl=P2-\-pä-^-'-Pn, 
+
+und überhaupt ai gleich der Summe der sämmtlichen (n — 1), Pro- 
+ducte von je i verschiedenen der n — 1 Symbole 
+
+P2, Ih, Pi,-'-Pn 
+
+gesetzt ist. Nun aber ergiel)t sich aus den Incidenzformeln des 
+§ 7 für die Potenzen von jt)^ — g Folgendes : 
+
+ipi-gf-pi^-^-Pig+g' 
+
+=i&gt;i' - (i^i' + ge) -pig + {ge + äO 
+
+= -Pig-hgp, 
+{Pi - gf = i-Pi9 + 9p) (.Pi - g) 
+
+= -Pi^g +Pigp -\-Pig^ -- gs 
+• = - iih^ -^Pi ge) -\-Pigp + W + Os +Pige) - gs 
+
+=Pigpi 
+ipi-gy=Pigp{Pi-g) 
+
+=pigp -Pigs 
+
+= 0, 
+
+also überhaupt 
+
+(j)^— ^)« = für w&gt;3. 
+Substituirt man die erhaltenen Werthe für die Potenzen von 
+p&gt;i— g, so kommt: 
+
+
+
+Diu mehrfachen Coincidenzen. '249 
+
+E == («„_i +p^CCn--^-g(c(n-2 -\- 2h^n-3) + ffp (««-3 +^^1«»— l)? 
+
+hier aber ist jede der drei K\a,m.mei'n symmetrisch in den 2)i,P2,---Pn, 
+da immer 
+
+ai-\-piai-i 
+
+die Summe der sämmtlichen n; Producte von je i verseliiedeneii der 
+n Symbole 2h} P2}-"Pn wird. Setzt man daher immer für solche 
+Summe ßi, so erhält man schliesslich die gesuchte Hauptformel 
+
+1) S = ßn-l-9ßn-'2 + gpßn-Z. 
+
+Zur Verdeutlichung specialisiren wir diese Formel für n = 4 ; 
+dann hat man: 
+
+£ =PlP2P3 +P1P2P4. +PlPdh +P-2P3Pi 
+
+- 9P1P2 - 9P1P3 - 9P1P4. - 9Pdh - 9P2P1 - 9p3Pi 
+
++ 9pPx + gpPi + gpPs + gpPA- 
+
+Aus 1) erhält man durch symbolische Multiplication mit den 
+auf g bezüglichen Grundbedingungen: 
+
+2) gS =gßn-l-igp+ge)ßn-2-^gsßn-3, 
+
+3) gpB==gpßn-i-gsßn-2-]-Gßn-z, 
+
+4) geS = geßn-l-gsßn-2, 
+
+5) g,E = g,ßn-l-Gßn-2, 
+
+6) Gs = Gßn-t. 
+
+Um zweitens auch die auf den Coincidenzpunld bezüglichen Be- 
+dingungen auszudrücken, führen wir die folgenden Bezeichnungen 
+ein; es mögen 
+
+1^123 •••n, iA'iS •••n, P^12Z ■■•n 
+
+die Bedingungen bedeuten, dass die n Punkte p coincidiren sollen und 
+zugleich der CoincidenzpunM bezüglich 
+
+auf einer gegebenen Ebene, 
+
+in einer gegebenen Geraden, 
+
+in einem gegebenen Punläe 
+liegen soll. Die Formel für 2h2u--'n erhält man durch Multiplication 
+der Formel 1 mit irgend welcher der n Bedingungen j^i, j)^,...ji„. 
+Am schnellsten gelangt man zum Ziele, wemi man die die Sym- 
+bole a enthaltende, der Formel 1 vorangestellte Formel mit 2h 
+multiplicirt; dann ergiebt sich zunächst: 
+
+Pl23'--n^2h^n-l+2h^^n-2 
+
+-Pigan-2~2h^9(^n-3 
+
+-\-p^gpan-3 -{-Pi_^gpCCn-i. 
+
+
+
+250^ Fünfter Abschnitt. 
+
+Hieraus folgt aber bei Anwenckmg der Incidenzformelu für 
+Strahl und incidenteu Punkt (§ 7): 
+
+lh2i ...» =i'i ßn-l +Xh^'^n-2 — p^^ Kn-i 
+
+= 2h"n~l —(Je icCn-2 -{-Ih^^n-s) 
+■i-g,{an-3-i-2)iCCn-i). 
+
+Fülirt man jetzt wieder die Symbole ß ein, so erhält man 
+schliesslich: 
+
+V) rm ...n = ßn-geßn--2+ 9. ßu-S- 
+
+Specialisirt man wieder, indem man ?^ = 4 setzt, so kommt: 
+Pmi = Pilhlhlh - Oelhlh - fjelhlh 
+
+- 9ePil)i - 9elh]9^ - (Jelhlh - ^ei?3i^4 
+
++ gsPi + Osio-z + gsih + 9slh- 
+Multiplicirt man Formel 7 mit 9e und mit G, so erhält man: 
+
+8) 9ePl2i...n = 9eßn-Gßn-2, 
+
+9) G2h2,...n-Gßn. 
+
+Die Formel iür 2^^123 ... n erhält man am schnellsten, wenn man 
+die Formel 4 von der mit 9 multiplicirten Formel 7 subtrahirt und 
+beachtet, dass immer 
+
+P9 -~ 9e =2&gt;^ (Incidenzformel I des § 7) 
+ist; dann ergiebt sich: 
+
+10) iA23 . . . n=9ßn-9eßn-l + Gßn-3, 
+
+und hieraus: 
+
+11) 9ep\2,...n-9sßn~Gßn-l. 
+
+Die Formel für ^A23 . ..n erhält man, wenn man die Formel 5 
+von der mit 9p multiplicirten Formel 7 subtrahirt und beachtet, dass 
+
+P9p~-9s=P^ (Incidenzformel 11 des § 7) 
+ist; dann ergiebt sich nämlich: 
+
+12) iA23 . . . n=9pßn - ös ßn-l^ Gßn-2. 
+
+Die voranstehenden sechs Formeln 7 bis 12 können benutzt 
+werden, um umgekehrt die sechs Bedingungen 
+
+G2hlh'-'Pn, 9s2hP2---Pn, 9e2hP2-'-Pn, 
+9pPüh ■ ■ -Pn, 9Püh ■ ■ -Pn , 2h2h ■■ Pn 
+
+durch Coincidenzbedingungen allein auszudrücken. Der Kürze wegen 
+leisten wir dies nur für den speciellen Fall « = 4 und lassen dann 
+die Resultate für ein allgemeines n unmittelbar folgen.- 
+
+
+
+Die mt'lu-iaclR'ii Coincideuzen. 251 
+
+Formel 6 lässt sich für w = 4 schreiben wie folgt: 
+
+13) GlhlhlhP^= G^lh23i- 
+Aus Formel 11 ergiebt sich: 
+
+UdhlhPdh = 9ep\23i + G-piP-^Ps + GpilhPi + GPiP-dh + Gp2Pdh 
+oder 
+
+14) 9sPiP&lt;dhPi = geP^i23i + G^i^l23 + ^^24 + ^i^l34 + &lt;^i&gt;23-l- 
+
+Ebenso erhält man aus 8: 
+
+15) OePiPühPA = 9ePi2'i4. + Ö^J^iSä + GPn + ^i&gt;U + ^^^^23 + ^Pil + ^i'34- 
+
+Formel 12 giebt zunächst: 
+
+OpPxP^PzP^ =P^12U + (^&lt;'i'^23 + &lt;^1^12 + G^Pl3 + ^1^23) 
++ {(/ep\2i + G^i^ia + &lt;^jöu + G-P24) 
++ (^&lt;^i^'l34 + G-P23 + &lt;^Ä4 + ^i&gt;34) 
++ (^d^'234 + (^P23 + G^i&gt;24 + Ö^i&gt;34) 
+- Gi&gt;i2 - (^Pl3 - G-Pu - Glh3 - Glhi - ^i&gt;34 
+
+oder 
+
+16) fMhP'PsPi =P\2U + 9eP\2n + 9eP\2i 
+
++ geP\si + 9eP\^^ + G^Ä2 + Ö^Ä3 
++ G^jJi4 + Ö^i&gt;23 + ^^1^24 + &lt;^Ä4- 
+
+Aehnlich ergiebt sich aus 10: 
+
+9P1P2P3PA =i&gt;'l234 + 9ePl23 + ^«2^124 + ^^134 + 9eP23i 
+
+-\-3.{Gp,-\-Gp, + Gp, + Gp^) 
+
+- Gpi - (rpa — Gp-i - Gpi 
+oder 
+
+1 7) 9P1P2P3P4. =P\23A + i/«i?123 + Ö'«Ä24 + 5'«l'l34 + 9eP2'U 
+
++ 2.(Gp, + Gp,^Gp,-hGp,). 
+Endlich erhält man aus 7: 
+
+PxPiPzPi. =Ä234 + 9ePv2 + 9ePi3 + 9ePu ' ■ 
+
++ 9eP23 + 9eP24. + 9ePz4. + ^-G 
+- 9ePi^ - 9eP2^ - 9eP'/ - 9eP^^ ^ 4 . (? 
+
+oder 
+
+18) PühPüh =i^l234 + 9ePi2 + 9ePn + ^«Ä4 
+
+^9eP2Z-\-9eP23^9eP;^ 
+
+- 9ePx - 9eP2 - 9eP^ - 9ePl + 2 . G. 
+
+Wir verallgemeinern jetzt die Formeln 13 bis 18 von ?* = 4 
+auf ein allgemeines n und setzen zur Abkürzung 
+
+S/, s?, s-^ 
+gleich der Summe der sämmtlichen Symbole, welche man erhält, 
+wenn man beziehungsweise dem Symbole 
+
+
+
+252 Fünfter Abschnitt. 
+
+p, p% p^ 
+als Index alle möglichen ni Zusammenstellungen von i verschiede- 
+nen unter den n Indices 
+
+giebt. Mit Hilfe dieser Aljkürzung lassen sich die Formeln 13 bis 
+18 für das allgemeine n schreiben wie folgt: 
+
+,.Pn=GSn, 
+
+■Pn=geSn^-\-GSn-l, 
+
+.Pn = geS„-\-G-Sn-2, 
+
+'Pn = S/ + Ije S^n-1 + GSn-2, 
+
+.Pn = Sn^ + Qe Sn-l + 2 . 6/S„_3, 
+. .Pn = Sn + g. Sn-2 — &lt;/e s\_3 + 2 . GSn-i- 
+
+Die Formeln 13 bis 18 können weiter benutzt werden, um 
+auch die in den Formeln 1 bis 6 berechneten Coinadenshedingungen 
+
+f, ^g, ^gp, ^ge, ^gs, sG 
+
+durch die Symbole 
+
+Si, Si^, Si^, geSi, GSi, geSi^ 
+
+auszudrücken. In den Formeln 1 bis 6 treten nämlich keine anderen 
+Bedingungen auf, als solche von der Form: 
+
+Gp,p,...pi, gsp,p.,...pi, 
+
+gep,p.,...pi, gpPiP2-'-Ph 
+
+gPiPz- '-!&gt;'&gt; lhP2---Pi' 
+Man setze also für diese Bedingungen die rechten Seiten der Gleich- 
+ungen 13 bis 18 ein; dann ergiebt sich mit Benutzung der durch 
+den Buchstaben s vorher eingeführten Abkürzungen: 
+
+
+
+13) 
+
+
+Gpdh • 
+
+
+14) 
+
+
+g-^Püh ■ 
+
+
+15) 
+
+
+gePdh ■ 
+
+
+16) 
+
+
+gpPdh ■ 
+
+
+17) 
+
+
+gpiP2 ■ 
+
+
+18) 
+
+
+Pdh ' 
+
+
+
+19) 
+
+
+£ = S„_i-s2„_2+6\_3, 
+
+
+20) 
+
+
+sg = s\-i - S\_2 + geS„-2 - 2 .ges\-3, 
+
+
+21) 
+
+
+£gp=^s\-i-{-ges\-2-\-Gs^-3, 
+
+
+22) 
+
+
+£ge = geSn-l-geS\-2, 
+
+
+23) 
+
+
+8g,=geS\-x-\-GSn-2, 
+
+
+24) 
+
+
+eG=GSn~i (Lit. 48). 
+
+
+Zur 
+
+
+Verdeutlichung specialisiren wir die Formeln 19 
+
+
+
+bis 23 
+
+so, dass jede von ihnen vierter Dimension wird; dann haben wir 
+für 19 M = 5, für 20 w = 4, für 21 n=3, für 22 n = 3, für 23 
+n = 2 zu setzen und erhalten: 
+
+19) S =i3i234 +Ä235 +i^l245 + Pniö +1^2345 
+
+-P\23 -P\24. -P\26 -P\z^ -P\35 - P\a^ 
+P 234 '~P 235 P 245 P 345 
+
+
+
++ P\2 +P\s +P\i +P\6 +iA3 +iA4 
+45? 
+
+
+
++ P%6 +P%i +P%5 +P^ 
+
+
+
+Die mehrfachen Coincidenzen. 253 
+
+20) EfJ =p\^^ -\-p\24. +iA34 +P\u 
+
+-p\^ -p',3 -i&gt;'i4 -Ph^ -pSi -p%i 
+
++ ffePi2 + ^«1^13 + SlePu + 9e Ihz + fhP^^ + OeP^i 
+
+- 2 . r/,|),2 _ 2 . g^rp^^ _ 2 . cjep^^ ~ 2 . gei\\ 
+
+21) £()p -P\2 +i&gt;\3 +i^''^3 + f/ePl'' + ^«i'2' + f/ePs"" + G^, 
+
+22) £f/« = gePu + f/.i&gt;i3 + geP23 " i'ei^i^ - ö'^l',^ - gePs^ 
+
+23) 6^. = ^,Ä' + (/,i,./4-(^. 
+
+Die entwickelten Formeln werden im VI. Abschnitt eine wich- 
+tige Anwendnng finden, nämlicli bei der Cbarakteristikentlieorie des 
+Gebildes, welches aus einer Geraden und n darauf liegenden Punk- 
+ten besteht (§ 42). 
+
+Es liegt nahe, die Coincidenzformeln dazu zu benutzen, um 
+gewisse der im vorigen Paragraphen berechneten Anzahlen zu 
+controliren resp. sie auf elegantere Weise abzuleiten. Wir wählen 
+dazu beispielsweise die Formeln 19 bis 23. Bezeichnen i^^, j&gt;^,,...j|7„ 
+die n Schnittpunkte des Strahles g mit einer vorliegenden Fläche 
+Fn n^" Ordnung, so reduciren sich alle Symbole dieser Formeln 
+auf null, ausgenommen 
+
+""? 9ePl2} P 123&gt; Ä234 
+
+und diejenigen Symbole, welche ebenso gebildet sind, aber andere 
+Indices haben. Bei unserer Anwendung wird also aus den Formeln 
+19 bis 23: 
+
+« = 5-Ä234-10.i9V23, 
+^0 = ^-P\23 + ^-fhPn&gt; 
+£gp = G., 
+
+Ege-?&gt;.gePv2, 
+
+egs = G. 
+
+Nun ist 6r bei zwei Punkten gleich n (n — 1), bei drei Punkten 
+gleich Ol (n —l)(n~ 2), ferner gePi2 bei drei Punkten gleich n(n — 2), 
+bei vier Punkten gleich n (n — 2) (n — 3), ferner 2^\is bei vier Punk- 
+ten gleich 2 .n{n — 3), bei fünf Punkten gleich 2 .n(n — S) (n — 4), 
+endlich ^h^zi bei fünf Punkten gleich w(llw — 24) (w — 4); also ist 
+nach 
+
+Formel 23, die Zahl der in einem StraJilbüscJiel liegenden Tangenten 
+gleich w (w — 1) , 
+
+Formel 22, die Zahl der in einem ebenen Schnitte liegenden Haupt- 
+tangenten gleich 3 . n {n — 2), 
+
+Formel 21, die Zahl der durch einen gegebenm Funkt gehenden 
+Haiipftangcnfen gleich 71 {n - 1) (n — 2), 
+
+
+
+254 Fünfter Abschnitt. 
+
+Formel 20, der Grad der von den vierpunUhjen Tangenten 
+gebildeten Linienfläche gleich 
+
+4 . 2 . w (w - 3) + 6 . w (« - 2) (w - 3) = 2 . M (w - 3) (3 M - 2), 
+
+Formel 19, die Zahl der fünfpunUig berührende^i Tangenten gleich 
+5 . n (11« - 24) in-A) - 10 . 2 . w (n-3) (w-4) = bn («-4) (7«- 12). 
+
+Diese Bestimmung der Zahl der fünfpunktigen Tangenten bloss 
+aus dem Grad der Curve vierpunktiger Berührung und der Zahl 2 
+der in einem und demselben Punkte berührenden Haupttangenten 
+dürfte noch einfacher sein, als die früheren Bestimmungen. 
+
+Es hindert nichts, diese Berechnungen auch auf Systeme von 
+Flächen auszudehnen. Beispielsweise suchen wir in einem ein- 
+stufigen Flächensysteme die Anzahl derjenigen Flächen zu bestim- 
+men, welche sechspimläig berührende Tangenten besitzen. Zu diesem 
+Zwecke haben wir die Formal 19 für « = 6 zu specialisiren. Es 
+treten dann rechts 6^ Symbole von der Form i&gt;i2345 ^^^&gt; ^2 Sym- 
+bole von der Form ^^^23-1: ^^^^ 63 Symbole von der Form p^i-iz'-) 
+folglich erhalten wir den Satz: 
+
+„Bezeichnet hei einem einstufigen Flächensysteme: 
+
+a) cp die Ordnung der Curve, welche von den Berührungspunliten 
+aller 00^ fiinfininMig herüJirenden Tangenten gebildet ivird, 
+
+b) ip die Ordnung der Fläche, ivelche von den BerührungsimnJcten 
+aller co^ vierpunJctig berührenden Tangenteii erzeugt icird, 
+
+c) [i die Zahl derjenigen Flächen des Systems, ivelche durch einen 
+gegebenen Punkt gehen, 
+
+so ist 
+
+6 . 9) — 15 . t^ + 40 . |Lt 
+
+die Zahl derjenigen Flächen des Systems, ivelche scchsimnMige Tan- 
+ge}iten besitzen. 
+
+§ 35. 
+Die Coiucidenz mehrerer Strahlen eines Strahlhiischels (Lit. 48). 
+
+Wir legen dem Gebilde F, welches aus einem Strahlhüschel mit 
+dem Scheitel p und. der Ebene e und aus n diesem Strahlhüschel an- 
+gehörigen Strahlen 
+
+besteht, die (w — l)- fache Bedingung £ auf, dass diese n Strahlen in 
+irgend einem- Strahle des Strahlbüschels coincidiren. Es handelt 
+sich zunächst darum, s durch die auf 
+
+
+
+Die mehrfachen Coincidenzen. 255 
+
+bezüglichen («—!)- fachen Grrundbe dingungen auszudrücken. Dieses 
+gelingt durch die Formel für die Bedingung der Coincidenz zweier 
+sich schneidender Strahlen (§ 15, Formel 21), und durch das Verfahren 
+der symbolischen Multiplication. Bezeichnet f,i. die einfache Be- 
+dingung, dass die beiden Strahlen gi und (jk coincidiren, so ist 
+
+iik — gi^-gk-v-e. 
+
+Da nun 
+
+^ = ^12 • ^13 • ^14 • • • ^1« 
+
+ist, so erhalten wir die gesuchte Formel für b aus 
+
+Um einen in den ^^ , g^i- --gn symmetrischen Ausdruck zu er- 
+zielen , führen wir die Multiplication der n — 1 Faktoren derartig 
+aus, dass der entstehende Ausdruck nach steigenden Potenzen von 
+gi~p — e geordnet erscheint; dann kommt: 
+
+£ = «„_! + an-2 (gi -P - e) + «n-S • (^i -p - c)^ + . . . 
+
+wo 
+
+«o'=l; «i=^2+//3 + --- + ^«j 
+
+und überhaupt «/ gleich der Summe der sämmtlichen (n — 1),- Pro- 
+ducte von je i verschiedenen der n— 1 Symbole 
+
+92. (Jz,'-'9n 
+
+gesetzt ist. Nun aber ergiebt sich mit Benutzung der Incidenz- 
+formeln (§§ 7, 10, 11) für die Potenzen von gi—p — e Folgendes: 
+
+{9i-p-ey = {9u-\-gip)-gi{p + e)-9xP-(/ie-^P''-^^pe + e^ 
+=---^iO + e) + 2^e, 
+
+(^1 -P - ef = (&lt;7i -P - e) (- giP -9x^ + ^pe) 
+
+= 2gi2'&gt;e - 2fe - 2pe^ ~P9u -P9ip — egu 
+
+- egip -\-p^9i + eVi + ^Pe9i 
+= 2g,pe - 2p'e - 2pe^ -2gu + 2peg, 
+= 2g^pe — 2p^ -2e^-^pe — 2gu + 2pegi 
+= 2.gipe — 2.pe, 
+
+i9i -P- ef = {9x -^ - e) {^gxPe - 2^e) 
+
+= — 2pegy — 2p^e — 2pe^ — 2g^p^e — 2g^pe^ 
+
++ 2(gxe-\-gip)pe 
+= -2pegi, 
+
+
+
+256 Fünfter Abschnitt. 
+
+(^1 -i&gt; - e)' = {9i -^ - e) (- 2^eg,) 
+
+= - '2']^{gu+9ip) + 2i/e(/i + 2pehj^ 
+
+= 0, 
+und überhaupt 
+
+(^1 ^P ~' ^Y" ^ ^ f^^^' *'* ^ '^• 
+Substituirt man die erhaltenen Werthe der Potenzen von 
+gy—p — e, so kommt: 
+
+£ = (a„_i + &lt;/ia„_2) — G^H- c) {an-2+9^cCn-z) + 2j)e (a„_3 + (/ia„_4) 
+
+Hier ist aber jede der vier Klammern symmetrisch in den r/j, 
+92, 9i,---9n, da immer 
+
+cci + 9^(^1-1 
+die Summe der sämmtlichen ri; Producte von je i verschiedenen der 
+n Syml)ole g^^ 9-2} ■••9n wird. Setzt man daher immer für solche 
+Summe ßi, so erhält man schliesslich die gesuchte Hauj^tforniel: 
+
+I) £ = ^„-1 - (p + e) ßn-2 + 2 .peßn-z - 2 .i^/3„_4. 
+Speciell ergiebt sich für die Zahl derjenigen Gebilde F eines 
+
+dreistufigen Systems, bei welchem die vier Strahlen r/i, g^, g^, g^ 
+zusammenfallen, 
+
+f = {9i9i9i + 9l9■^9^ + 9i9i9i + //^i'.s^'J 
+
+-(j' + e) {9,9,-\-9ig3+gtg^+g,g^-hg,(A-\-9B9^) 
+
+-]-2.pe (r/i + g., ^g^+g^-^ .pe. 
+Aus 1) erhält man durch Multiplication mit den auf den Scheitel 
+p und die Ebene e des Strahlbüschels bezüglichen Bedingungen: 
+
+2) i)£ =pßn-i - G^' +i&gt;e) /3„_2 + 2 ./e^„_3 - 2 .p^eßn-^, 
+
+3) c£ = c^„_i - ipe + e^) /3„_2 + 2pe'ßn-z - 2 .pe'ßn-^, 
+
+4) i)^£ =i)'A«-i - (2'' -^-fe) /3„_2 + 2 .i&gt;^e^„_3, 
+
+5) pes =j)e/3,_i - (/g +pe^) /3„_, + 2 .i;^e^/3„_3 - 2 .p'^'ßn-4, 
+
+6) e^f = e^/3„_x - {pc' + c^) /3„_2 + 2 . j)e^^„_3, 
+
+7) p^e=2jlßn-i-p'eßn-2, 
+
+8) ^£ =Ä-i -iJ'e2^„_2 + 2 .i)='ß2/3„_3, 
+
+9) eh = e^ßn-i-pe^ßn-2, 
+10) p^eE=p^eßn-i-p^e''ßn-2, 
+
+II) pe^e=pe^ßn-i—p^e^ß,,-2, 
+
+12) J^3g2^__^^3g2^^_^_ 
+
+Um zweitens auch die auf den Coincidenzstrahl bezüglichen Be- 
+dingungen auszudrücken, führen wir die folgenden Bezeichnungen 
+ein. Es bedeuten 
+
+
+
+Die mehrfachen Coinciclenzen. 257 
+
+9123. ..n, (/el2S...7i, gpl'i3...n-, (Jsl23...n, Gl23...n 
+
+die Bedingungen, dass die n Strahlen g coincidiren und zugleich der 
+Coincidensstrahl bezüglich 
+
+eine gegebene Gerade schneide, 
+
+in einer gegebenen Ebene liege, 
+
+durch einen gegebenen FunM gehe, 
+
+in einem gegebenen Strahlbüschel liege ^ 
+
+ein gegebener Strahl sei. 
+
+Die Formel für ^123 . . . « erliält man durcli Multiplication der 
+Formel 1 mit irgend welcher der n Bedingungen gi, g.,,...gn. Am 
+schnellsten gelangt man zum Ziele, wenn man die Formel, welche 
+die Symbole a enthält und der Formel 1 vorangestellt ist, mit g^ 
+multiplicirt; dann ergiebt sich zunächst: 
+
+gi2Z...n=gxCCn-\+gi^Cin-2—pgiCCn^'i — eg^an-2 
+
+—pg^^an-3 — eg^^an-a + 2 .j^eg^Un-a 
+
+-\- 2 .peg^^a,,-^ — 2 .peg^an-i. — 2 .peg^^a^-h. 
+
+Hieraus folgt bei Anwendung der Incidenzformeln für Strahl 
+mit incidentem Punkte und incidenter Ebene (§§ 7, 10, 11): 
+^123.. . n = giCCn-i — (i&gt;^ + 6^) a„_2 — Qj^ + 6^) g^a^-a — 2.guC(.n~3 
++ 2 .^i,o:„_3 + 2^(i&gt;^ + e^ +iJe) a„_3 
+4- 2 . (j9^ + e^ +j.)e) &lt;/i«„_4+ 2 . G^fc^-i — 2 . Gj ß„_.i 
+
+— 2 .2'&gt;'^e^ccn—4, — 2 .p&gt;^e'gi (x-n-h 
+= g^an-x-~ (i?' + e') {a„ _2 + g\ a„ _ 3) 
+
++ 2 . {iJ^ + e^ +i)e) (a„_3 + g^ cc^-a) 
+
+— 2 .p^e"^ (a„_4 + gi ccn-t,). 
+
+Führt man jetzt wieder die Symbole ß ein, so erhält man 
+schliesslich: 
+
+l^)gi23...n = ßn-{p'-^e'^)ßn-2 + 2.{p' + e'+^e)ß„-S-2.p'e'ßn-A. 
+
+Specialisirt man wieder, indem man n = 4 annimmt, so kommt: 
+
+gi23i = gig^g^gA - {p^ + e') {g^g.^ + ^iö'3 + ^15^4 + g^g^ + ^2^4 + ^35^4) 
+
+^2.{p'-Ve^-^'Pe){g,+g,+g,Jrg,)-'^'P''-^'' 
+Multiplicirt man Formel 13 mit p, e, pe^ pe, so erhält man: 
+
+14) pgi23...n-pßn-{f-Ve'+^)ßn-2+2.p'e'ßn-z-2.i:^e''^ß,-,, 
+
+15) egv,3...n = eßn-{p^-^e^+pe)ßn-2+2.fe'ßn-3-2.p^e'ßn-i, 
+
+16) pegi23...n=peßn —fe"ßn-2 + 2.p^e-ßn-3, 
+
+17) pegi23...n = peßn. 
+
+Schubert, Kalkül dur abzähluiulen Geometrie. 17 
+
+
+
+258 Fünfter Abschnitt. 
+
+Die Formel für geU3...n erhält man nun am schnellsten, indem 
+man die Incidenzformel I des § 7 anwendet, also 4 von 14 sub- 
+trahirt; dann kommt: 
+
+Ebenso erhält man gpviz...n-, indem man 6 von 15 subtrahirt: 
+19)^,.i23...n=e/3,-e^/3„_i4-(e=^-i)')/3«-2+2.i)3e/3„_3--2./e2^„_4. 
+Um /7,si23...w zu bestimmen, wenden wir die Incidenzformel 
+ös^peg — {V^ + e^ -\-pe) an und erhalten aus 16, 1, 8, 9: 
+
+20) gsi-2z...n=peßn-{f + e^+^)ßr,-,^pH^ß.-^. ^ 
+Ebenso erhält man G123 ...» durch die Incidenzformel G=peg—p^e^ 
+
+aus 17, 10, 11: 
+
+21) Gr2z...n=?eßn-p'e^ßn-i + 2.p^e^ßn-,. 
+
+Die Formel 18 multipliciren wir nun noch mit p und p^, die 
+Formel 19 mit e und e^, die Formel 21 mit p, e, p)e- dann be- 
+kommen wir: 
+
+
+
+22) 
+
+
+Pgel23 . . 
+
+
+. . n =p'ßn -fßn-1 -pe'ßn-2 + 2 .p'e'ßn-, 
+
+
+23) 
+
+
+P'gev2^.. 
+
+
+..n=p'ßn-p'e'ßn-2, 
+
+
+24) 
+
+
+egp 123.. 
+
+
+. „ = e^^ßn - e'ßn-. -p^e/3,_, + 2 .p'e^ßn-z, 
+
+
+25) 
+
+
+e'gpm. 
+
+
+..n==e^ßn-fe^ßn^2, 
+
+
+26) 
+
+
+pG,2,.. 
+
+
+..n=p'eß^-p'e'ß^_„ 
+
+
+27) 
+
+
+eGv23.. 
+
+
+..n=pe'ßn-p'e^ßn-l, 
+
+
+28) 
+
+
+peGi23.. 
+
+
+..n-fe'ßn. 
+
+
+
+Die zwölf Formeln 13 und 18 bis 28 können dazu benutzt 
+werden, um umgekehrt die zwölf Bedingungen 
+
+p'e'ßn,pe^ßn,p'eßn, e'ßn,p'ßn, P^ßn, c' ßn, p' ßn, pcßn, eßn,pßn,ßn 
+
+durch Coincidenzbedingimgen allein auszudrücken. Der Kürze wegen 
+leisten wir dies nur für n = b, da die Resultate für das allgemeine 
+n aus den Formeln für w = 5 ohne Schwierigkeit entnommen werden 
+kömien. 
+
+Formel 28 lässt sich für w = 5 schreiben wie folgt: 
+
+29) P'ß'9i92939A9^o =i&gt;e 6^12345. 
+
+Aus Formel 26 ergiebt sich mit Benutzung von 29: 
+
+30) p'eg,g^gYj.,g, =pG,,,,,+pe (6^1234+ 6^1235+^^1245+ ^1345 + 0^2345)- 
+Ebenso: 
+
+31) Pe'g,g2939,9, = eG^i23i5 +i&gt;e (■6^1234+ ^^1235 + 6^1245 + ^^1345+ 0^2345)- 
+Aus Formel 23 entnehmen wir: 
+
+
+
+Die mehrfaclien Coincidenzen. 259 
+
+woraus mit Benutzung von 29 folgt: 
+
+32) fg^g-ig^g^g-^ =p''gei2u^ -\-pe (G^,3 + G^i24 + &lt;^i25 + •••)• 
+
+Analog : 
+
+33) e^gig-ig^g^gh = e^gp^^uh -\-pe ((xi23 + (?i24 + •••)• 
+Aus 21 scliliessen wir zunäclist: 
+
+rnkg^g^g^g-, = G^i234ö + (2^'e+i)e=') {g^g.g^g^+ . . . ) - 2 ._27^e2 (^^^^^^^^^^_^ ^_ _ _ &gt;) 
+
+-2pe{G,,,-\-...), 
+also 
+
+34) i^e^i r/2 &lt;/35'46'5 = &lt;^12345 + 0' + e) (G^i234 + ^^1235 + • • • ) 
+
+Aus 21 entnehmen wir mit Benutzung von 32, 31, 29: 
+
+fgig^g^g^g^ =pgemtö +i&gt;^ (sie 1234+^« 1235 +. . .) + ^.pe{G-^.^+G^.^+...) 
+
++ e{G,,, + ..) + ?&gt;.pe{G,, + ...)-2pe{G,, + ..), 
+also 
+
+35) i)^f/i 5^2^3 g^g^ = j)^« 12345 + i?^ (5'. 1234 + ^e 1235 + • • • ) 
+
++ e(G^m + ^m + ..-) 
++ 4.pe(G^i2 + G^i3 + ---)- 
+Dem entspricht dual: 
+
+36) e^gigig-äg^g^ = ^5^^^12345 + e^ {gp^u + gpi236 + . . . ) 
+
++ i)(G^,23 + G^124+---) 
+
++ 4.i;e(G^,2 + ^i3 + -.-)- 
+Aus 20 folgt mit Benutzung von 32, 33, 34, 30, 31: 
+
+pegig-zgsg^g^o = 5'*-i2345 + (pH eHje) {g^g^g^g^ + • • • ) -i^'e^ (5'ii/25'3 + • • • ) 
+
+= f7a2345+p'(^«1234+...) + e2((/^1234+...)-f-(G^,,3.,+ ...) 
+
++ 3.i)e((^,2 + ...) + 3.fe(&lt;^i2 + .-.) 
+
++ 2.(p + e)((7,23 + .-)+6.i)e(^i2 + .-.) 
+
+-iHG^m + .-)-e(^i23 + --)-6i&gt;KG^i2 + ---), 
+also: 
+
+37) i? PÄ'l ^2^3^45'5 =5'^ 12345 +i^^(^« 1234+...) + 6^(^7^1234+...) 
++ (^1234+-.-) + (iHe)(G^,23 + --.) 
+
++ 6.i)e((?i2+...). 
+Aus 18 folgt mit Benutzung von 35, 32, 33, 31, 29: 
+
+pgi g^g^g^g^ = ge 12345 +p^ {g^g^g^g^ +...) + e^ {g^g^gz + • • • ) 
+-p^ {gig^gz + •••)- 2 .^e^ (^r^^rg + . . . ) 
+
++ 2pV(5r, + r/2 + ...) 
+
+17* 
+
+
+
+260 Fünfter Abschnitt. 
+
+= 5'«12345 + [P {9e 123-1 +...) + 2 .|?2 (^^j^, + . . . ) 
+
+-{-3.e{G,, + ...) + 16pe{G, + ...)] 
++ [e^(^^i23 + ...) + 6i5e((?, + ...)] 
+-[p'(9pi2s + .--) + Qpe{G, + ...)] 
+-2.[e{G,, + ...)-^4pe{G, + ...)] . 
+
+also 
+
+38) P 9192930^95 = fy« 12345 +i&gt; (i/e 1234 + • • • ) +1^^ (i'« 123 + • • • ) 
++ e^^^ 123 +...) + ^ (^12 + • • • ) 
+
+-i- 10. peiG, + ...). 
+Dieser Formel entspriclit dual: 
+
+3^J) G9i92939.i9t, = 9p 12345 + e (ä^ 1234 + ...) + e^ (^p 123 + .-• ) 
++ p'{9ei2s-]-...)+p{G,,-h...) 
++ 10pe{G,-^...). 
+Endlicli ergiebt sich aus 13 mit Benutzung von 35, 36, 32, 
+33, 34, 30, 31: 
+
+9i9-29i9^9^ =^12345 +i^' (5'i^2^3 + •..) + ^^ {9i929z + ...)- 2 -i?" {9x92 + • • • ) 
+-2.e'{9,9, + ...)-2.^e{9,9,^...) 
+^2 .p^e{9, + ...) + 2 .pe\9, + ...) 
+
+= .'/l2345 + [iK^&lt;^123 + ...) + 3y(^.:2 + ...)+6-e(G^X + ...) 
+
++ 4()p'e'] + Ve{9,n,-\-. :) + ?&gt;. e\g,r2 + ..-) 
++ 6.i9((^i + ...) + 40j)'e2]-2.[pH^,i2 + ...) 
++ lOi^^e^] -^ 2 . [e^ {9,,, + ...)+ lOi/e^] - 2 . {G,, + . . ) 
++ 4i)((?, + ...) + 4e((^i + ...) + 20i9V] 
++ 2.[ij((5i4-...) + Ve'] + 2.[e(G^, + ...) + 5ijV], 
+also 
+
+40) 9l92939i9-, = i/l2345 +P i9el23 +•..) + ^ (^;. 123 + ■•. ) +!&gt;' (^'«12 + • • • ) 
+
++ e^(^,i2 + ...)-2.(G^,, + ...) 
+
++ 20/e^ 
+Um besser erkennen zu können, wie sich diese Formeln ge- 
+stalten, wenn n noch kleiner als 5 ist, denken wir uns, wo es 
+nöthig ist, die Symbole pge, p^ge, ecjp, e^g^^ G, pG, eG, peG ge- 
+mäss den Incidenzformeln ersetzt durch 
+f9^fj P^9, e^9-e^ e^9, peg-p^e^, p^eg-p^e^, pe^g- 
+Z. B. werden die zwölf Formeln 29 bis 40 für w = 3 : 
+
+29) p'e^9ig293=p'e'9,2s, 
+
+30) p^eg^g.,g., -pG.^^+ph^ {g^^-{- g,^ + g^^), 
+
+31) pe^g^g^g^ =eG^2z+P^e\g^^+g^^+g^^), 
+
+32) p^g^g.,9^ ^i^'ö^iäs+r^'U +0^2 + ^/3); 
+
+
+
+Die mehrfachen Coincidenzen. 261 
+
+33) e^g^g^g^ = e^iaa +i^'e' (^i + ^2 + 9z), 
+
+34) i^^'i^sö'a = 0^123 +P (G^i2 + G^i3 + G,,) + e (G,, + G,, + G,,) 
+
+^2.p'e'{g,-{-g,-^g,), 
+
+35) pVi^sö-s =iJ^a23 +i33 ( r/,2 + g,, -\-g,,) + e{G, + G,-i- G,) + 4 .p^'e^ 
+
+36) e^^i5'25'3 = 6.^^123 + e' {g^^+g,,+g.,) ^p {G, + G,-^G,) + A .p'e', 
+
+37) peg,g,g, = g^ns +i&gt;' (^12 + ^13 + fe) + e' (g^ + (/is + 0^23) 
+
++ (G,, 4- ^13 + G.J +p (G, + ö, + G,) 
++ e{G, + G,-\-G,)^Q.p^e\ 
+
+38) i^ö'l5'25'3 = geUZ +P (gen + ö'« 13 + i/. 23) + P^ (^1 + ^2 + i/3) 
+
++ e'(ö'i+5'2+5'3)+i^'e, 
+
+39) e^/i ^2^3 = gpns + e (ö'^ 12 + ^^ 13 + gp 23) + e^ (^1 + ^'2 + ^3) 
+
++i^'(&lt;/l+5'2+^3)+iJe^ 
+
+40) gig2g3 = g^ +P (gn + ge2 -\-ge2 ) + e (g^i + ^^2 + gps) 
+
+-\-pi^-\-e^ — 2 .pe. 
+
+Um die Uebertragung dieser Formeln für jeden beliebigen Werth 
+von n zu zeigen, schreiben wir noch die Formeln 35 und 40 für 
+
+w = 7: 
+
+35) p^gig^gig^g^g^g, -pgex-i^^i +p^ (^'123456 + ^'123457 + • • • ) 
+
++ e (6rj2345 + ""12346 + • • • ) 
+
++ 4. /e2(&lt;/,23, + r7,,35 + ...), 
+
+40) gig2g3g-,gö(Jegi = 5'i2345G7 +p (geuz^ + genu^^ + . . . ) 
+
++ e(^^12345+...)+i^'(i/l234 + i/l235+--) 
+
++ e'G[i234+---) 
+
+-2.i^e(ö'l234+5'l235+--) 
+
++ 20. i)=^e2(&lt;7i23+ 5^124 +^125 + •••)• 
+
+Hiernach lassen sich nun auch die in den Formeln 1 bis 12 
+ausgedrückten Coincidenzbedingungen durch die übrigen, auf den 
+Coincidenzstrahl bezüglichen Bedingungen ausdrücken. Dadurch 
+erhält man Formeln, die den Formeln 19 bis 24 des § 34 analog 
+sind, aber hier übergangen werden sollen. 
+
+Die Formeln 29 bis 40 werden uns im VI. Abschnitt gute 
+Dienste leisten, nämlich bei der Charakteristikentheorie des Gebildes, 
+welches aus n in einem Strahlbüschel liegenden Strahlen besteht 
+(§44). 
+
+Die Formeln 1 bis 28 dagegen werden wir schon im nächsten 
+Paragraphen benutzen, um gewisse Singularitätenzahlen des Com- 
+plexes n}^"- Grades zu berechnen. 
+
+
+
+262 Fünfter Abschnitt. 
+
+§ 36. 
+Singularitäten des allgemeinen Strahlencomplexes (Lit. 49). 
+
+In § 33 ist gezeigt, dass allein aus der Definition der Fläche 
+^^tcu Q^rades als einer Gesammtlieit von co^ Punkten, die auf jeder 
+Geraden n Punkte besitzt, mit Hilfe der Coincidenzformeln alle 
+Zahlen abgeleitet werden kömien, welche sich auf die mehrpunktigen 
+und mehrfachen Tangenten beziehen. Hier wollen wir das Analoge 
+für den Strahlencomplex n'^" Grades Cn ableiten, wobei wir theil- 
+weise die in § 35 entwickelten Formeln benutzen können. 
+
+Der Complex Cn besitzt nämlich, seiner Definition gemäss, auf 
+jedem der co^ Strahlbüschel des Eaumes n Strahlen, ist also ein 
+specielles fünfstufiges System, erzeugt von dem in § 35 behandelten 
+Gebilde. Wir sagen nun, dass ein Strahlbüschel den Complex in 
+dem Coincidenzstrahle li-, i- strahlig lieriiJirt, wenn von den u dem 
+Strahlbüschel und dem Complexe gemeinsamen Strahlen i Strahlen 
+in h; vereinigt liegen. Demgemäss kömien die Aufgaben, die wir 
+uns hier stellen, so ausgesprochen werden: 
+
+„Alle Zahlen zu bestimmen, ivelche sich beziehen auf die den 
+Complex C'n in einem oder mehr Berührungsstrahlen zwei- oder mehr- 
+strahlig berührenden Strahlbüschel, auf deren Berührungsstrahlen und 
+auf deren sonstige Complexstrahlen." 
+
+Zu diesen Anzahlen können wir auf zwei Wegen gelangen. Bei 
+dem directen Wege multipliciren wir die Coincidenzbediugungen mit 
+einander, analog wie in § 33, und stellen so die gesuchten An- 
+zahlen direct als Functionen gewisser Stammzahlen dar, deren 
+Werthe dann aus der Definition des Complexes entnommen werden. 
+Die indirecte Methode findet aus der Definition des Complexes zu- 
+nächst nur die Anzahlen für die co* zweistrahlig berührenden 
+Strahlbüschel, bestimmt dann aus diesen Anzahlen diejenigen, welche 
+sich auf die in dreistufiger Mannichfaltigkeit vorhandenen berühren- 
+den Strahlbüschel beziehen u. s, w., und steigt so allmählich auf bis 
+zu den in endlicher Anzahl vorhandenen, z. B. den seclisstrahlig be- 
+rührenden Strahlbüscheln. 
+
+Wir bezeichnen mit F das Gebilde, welches aus einem Strahl- 
+büschel mit dem Scheitel p, der Ebene e und aus n in diesem 
+Strahlbüschel befindlichen, dem Complexe d angehörigen Strah- 
+len besteht. Hinsichtlich der Bezeichnung der Coiucidenzbeding- 
+ungen setzen wir, analog wie in § 33, Folgendes fest. Es bedeute 
+^iiui,...i,n} WO ii, «27 h)--- grösser als 1 sind, 
+
+
+
+Die mehrfachen Coincidenzen. 263 
+
+die Bedingung, dass ein Gebilde F von seinen n Strahlen im ersten 
+Strahle i^, im zweiten Strahle i^,---, im m*"" Strahle in Strahlen ver- 
+einigt. Dasselbe Symbol bedeute auch jedes diese Bedingung erfällende 
+Gebilde T; z. B. bezeichnet % sowohl ein Gebilde F, auf welchem 
+von den n Strahlen in einem Strahle vier, in einem anderen Strahle 
+drei coincidiren, wie auch die fünffache Bedingung, welche ein F 
+dadurch erfüllt, dass bei ihm solche Coincidenzen stattfinden. Hier- 
+nach lassen sich die folgenden Bedingungen e aufstellen: 
+
+
+
+1) 
+
+
+einfache: 
+
+
+h: 
+
+
+2) 
+
+
+zweifache: 
+
+
+H, 
+
+
+3) 
+
+
+dreifache: 
+
+
+h, 
+
+
+4) 
+
+
+vierfache: 
+
+
+£5, 
+
+
+5) 
+
+
+fünffache : 
+
+
+«6, 
+
+
+Wenn 
+
+
+bei einem 
+
+
+S I 
+
+
+i Strahlen 
+
+
+coincidiren 
+
+
+, SC 
+
+
+
+■12 &gt; ^33? %2&gt; ^2222? 
+
+52? ^43; ^422; ^332? ^3222; ^22222' 
+
+nur ein Strahl vorhanden ist, in welchem 
+zeichnen wir ihn mit h/, wenn zwei 
+vorhanden sind, bezeichnen wir den einen mit h;, den anderen mit 
+li] wenn drei vorhanden sind, so soll der eine hi, der zweite h, der 
+dritte w,- heissen; beispielsweise bedeutet also: 
+
+1. £4^^7*4 die fünffache Bedingung, dass bei einem Gebilde F, 
+dessen Scheitel auf einer gegebenen Ebene liegt, vier Strah- 
+len coincidiren und dass zugleich der Coincidenzstrahl eine 
+gegebene Gerade schneide; 
+
+2. S222^hh die fünffache Bedingung, dass bei einem Gebilde F 
+dreimal zwei Strahlen coincidiren und dass unter den drei 
+Coincidenzstrahlen zwei sind, deren jeder eine gegebene 
+Gerade schneide; 
+
+3. £32/^3/^2 die fünffache Bedingung, dass auf einem Gebilde F 
+in einem Strahle drei Strahlen, in einem anderen zwei 
+Strahlen coincidiren und dass jeder der beiden Coincidenz- 
+strahlen eine gegebene Gerade schneide. 
+
+Zur Berechnung legen wir uns, der besseren Uebersicht wegen, 
+nur diejenigen Symbole s vor, welche die einfachen Grundbeding- 
+ungen ihrer Coincidenzstrahlen enthalten, weil aus ihnen alle anderen 
+durch die lucidenzformeln (§11, Nr. 5, a, b, c, d) gewonnen wer- 
+den können, nämlich: 
+
+
+
+K- 
+
+
+=ph- 
+
+
+-/, 
+
+
+
+
+\= 
+
+
+= eh- 
+
+
+e', 
+
+
+
+
+H- 
+
+
+=peh- 
+=peh 
+
+
+-pH 
+
+
+-&lt;? —pc. 
+
+
+
+264 Fünfter Abschnitt. 
+
+Ferner führen wir von zwei sich dual entsprechenden Sym- 
+bolen immer nur das eine an. 
+
+
+
+
+
+TabeUe der 
+
+
+zu bereelmenden Sjrmbole 
+
+
+f. 
+
+
+1) 8,p'e, 
+
+
+2) ^.Ä, 
+
+
+3) e.^eh,', 
+
+
+
+
+
+
+4) s,p^ 
+
+
+5) fgje, 
+
+
+6) £3_2j2A3, 
+
+
+7) «si^e/ig; 
+
+
+
+
+8) ^.d^', 
+
+
+9) B,,pe, 
+
+
+10) e,,pVi,, 
+
+
+11) 8,,peh,, 
+
+
+12) 8,,ph,l, 
+
+
+13) B^ß, 
+
+
+14) £^e, 
+
+
+15) f^?/?^; 
+
+
+
+
+
+
+16) h.^^', 
+
+
+17) e,,pe, 
+
+
+18) %PÄ3, 
+
+
+19) £32i^^^2, 
+
+
+20) e327i3/*25 
+
+
+21) 8,,,p', 
+
+
+22) a,,,i.e, 
+
+
+23) 8,,,ph„ 
+
+
+24) 8,,,]i,l,; 
+
+
+
+
+25) s,p, 
+
+
+26) ^5/^5; 
+
+
+
+
+
+
+
+
+27) s,^, 
+
+
+28) sji,, 
+
+
+29) £,2^,; 
+
+
+
+
+
+
+30) a,,p, 
+
+
+31) £33/^3; 
+
+
+
+
+
+
+
+
+32) e,,,p, 
+
+
+33) 8,,,h„ 
+
+
+34) £3,2/^,; 
+
+
+
+
+
+
+35) s,,,,p, 
+
+
+36) £2222%: 
+
+
+
+
+
+
+
+
+37) s,, 
+
+
+38) .,„ 
+
+
+39) 8,„ 
+
+
+40) £^2, 
+
+
+41) £332, 
+
+
+42) ^3222, 
+
+
+43) £22222- 
+
+
+
+
+
+
+
+
+
+Man hätte noch bei der Aufstellung der Symbole die Beding- 
+ung /?! mit berücksichtigen können, welche aussprechen soll, dass 
+das Gebilde F einen von den n Strahlen, die nicht Coincidenz- 
+strahleu sind, eine gegebene Gerade schneiden lässt. Wir hätten 
+dann aber 82 Symbole erhalten. Der Kürze wegen berücksichtigen 
+wir daher diese Bedingung h^ nur insofern, als es zur Berechnung 
+der aufgestellten 43 Symbole nützlich ist. Mit Hilfe des Satzes 
+von den gemeinsamen Strahlen eines Complexes und einer Con- 
+gruenz (cf. § 15, Folgerung aus Formel 35) kann man ein Mittel 
+gewinnen, um die Bedingung h^^ durch die vorher eingeführten Be- 
+dingungen auszudrücken. Wir denken uns ein einstufiges System 
+von Strahlbüscheln, deren jeder den Scheitel p und die Ebene e 
+hat. Ihre Strahlen bilden eine Congruenz mit dem Bündelrang p 
+und dem Feldrang e. Dieselbe hat mit dem Complex C„ 00^ Strah- 
+len gemein, von denen nach dem citirten Satze 
+
+p .n-\- e .n 
+eine gegebene Gerade schneiden. Bezeichnet man also mit g die 
+Bedingung, dass ein Gebilde F einen seiner n Strahlen eine ge- 
+gebene Gerade schneiden lässt, so gilt die folgende Hilfsformel: 
+(j = n.{p + e). 
+
+In den Anwendungen auf die Gebilde s muss die Bedingung g 
+ähnlich, wie dies bei den Gebilden s des § 33 (pag. 239) geschah, 
+zerlegt werden; z. B. 
+
+
+
+Die mehrfachen Coincidenzen. 265 
+
+1) n.{p + e) £^p =g£^p = 4:. s^ph^ + 1 . s^p&gt;hi , 
+oder 
+
+2) 11 .{ji-[-e) £32 /ig == g £32 7^3 = 3 . £32 \^r\- 2.£^., h^ Ji^ + l. £32 h \ 
+
+= 3 . fgä/ise + 3 . £32^3 j9 + 2 . £32/^3/^2 + 1 • h^W 
+= 3 . £^2p\ — 3 . £32^^ + 3 . £326^3 — 3 . £336^ 
+
+-\-2.£^^WAr^-H^W, 
+oder 
+
+HtW = 1^ • (h-iPh + h^eh) — 3 • Sy^Ph - 3 . £32 ek^ 
++ 3 . £32 p^ + 3 . £326^ — 2 . £32 ^3/^-2, 
+
+3) ^ M.(p + e)£5=^£5 = 5.£5Ä5+l.£5/il, 
+
+oder 
+
+h\ = 1^ • (P^ö + ^£5) - 5 . £5/^5. 
+
+Die eben bewiesene Hilfsformel liefert auch ohne Schwierig- 
+keit die Werthe der Stammzahlen , auf welche man bei der directen 
+Berechnung alle Zahlen £ zurückführen kann. Bezeichnet man näm- 
+lich von den n Strahlen des Gebildes F irgend einen mit g^, einen 
+zweiten mit g^, einen dritten mit ^3 und so fort bis g„, so kann 
+man alle Zahlen £ schliesslich durch die folgenden acht Stamm- 
+zahlen ausdrücken: 
+
+p^e% p^eg^, p^g^g.,, peg^g,, p^g^g^g^, 
+P^9i929z, P9i92939i, 9i9i9z9^9i, 
+wobei immer von zwei sich dual entsprechenden nur die eine ge- 
+schrieben ist. Man ersieht aus der Definition des Complexes zu- 
+nächst unmittelbar die Werthe der folgenden Symbole: 
+
+p^e'=^l, p^gip = 0, fgu = 0, peg^^n, p^g,, = 0, 
+
+pegx, = n, pG^==0, pgipg2p = n% pgipg2e==n\ 
+Pgu92e = n^, gug2p = n^ 
+
+und die Werthe der dazu reciproken Symbole. 
+
+Hieraus folgt nach und nach durch die obige Hilfsformel: 
+
+p^eg^ = n, p^g^g^ = n^^ peg.g, =-2.n{n-l\ 
+P^9ip92 = &lt; P^9u92 = &lt; pegug2 = ^n^-'&gt;^, P 91^92 = ^^ 
+P^9i929z = 4&gt;*^ - 6w2, peg^g^g^ = 6n^ - 12n^ -f- 4w, 
+P9yp929% == 3w=^ - 4w2, pgug.J-^ = Sw^ - 4%^, 
+gu92egz-^n^-^n^, 9ug2pgs = 2n^-2n% gug^i93 = 2n^-2n\ 
+P9i929z9^- lOw^- 36&gt;^3-f 28&lt; 
+
+9i929s9a96 = 20^5 - 120«^^ 4- 200n' - 80n\ 
+
+
+
+266 Fünfter Abschnitt. 
+
+Unsere acht Stammzahlen haben daher , wenn von i Strahlen die 
+Bede ist, die folgenden Werthe: 
+
+1) j/e^ = w(&gt;^— l)...(w — i+ 1), 
+
+II) x)^eg^=n{n—l)...{n — i-{-\), 
+
+III) f9,92 = ^^' (« - 2) . . . {n - i + 1), 
+
+IV) peg^ g^ = 2.n(n-l){n-^2)... {n -i+1), 
+V) l&gt;'g,[/29s = 2^2 (2n - 3) (n - 3) . . . (n - i + 1), 
+
+VI) pe0i9&gt;yz = 2 w (3 ^2 _ 6 w + 2) {n - 3) . . . (w - i + 1), 
+VII) iuj,g,g,g, = W {hn^ - 18i* + 14) (w - 4) . . . (n - i + 1), 
+VIII) r/,r/,(/3^,^, = 2Ow2(n-2)()^2-4n + 2)0^-5)...0^-i+l). 
+
+Wir gehen nuu zur Berechnung der 43 oben zusammenge- 
+stellten, die Bedingungen £ enthaltenden Symbole über. Zunächst 
+ergeben sich die Werthe derjenigen 13 Symbole, welche 
+
+^27 Hl ^4J ^57 ^6 
+
+enthalten, ohne Weiteres, wenn man die Werthe der acht Stamm- 
+zahlen in die Formeln 1 bis 28 des § 35 einsetzt; nämlich: 
+
+1) f^i^^e =i?e (g^ + g.,) — _2/e^ = n {n — 1) + n {n —\) — n{n— 1) 
+
+= n{n—l), 
+
+2) £2p^\ =P^(Ji92 — i?^e^ = n^ — n (ti — 1) = n, 
+
+3) £2Pe\ =-peg^g.2 = 2n (n - 1), 
+
+4) £3^/ = 3 .2)^9192 - 3 .p^eg, = 3 . w^ (w-2) - 3 . w (w- 1) (n-2) 
+
+= 3w(n-2), 
+
+5) £^p e = 3.peg^g.,-2 . j/ eg^ - 3p e^g^ + 2 . ;/ e^ 
+
+= 3.2w(«-l)(M-2)-6.«(«-l)(w~2)-f-2w(w-l)(w-2) 
+= 2 . « (w - 1) («^ - 2), 
+
+6) ^32^'/'3 =iJVi^2^3 - 3 .p'e'g, + 2p' e' = 2n' (2 w- 3) 
+
+- 6 w (w - 1) (w - 2) -f 2 w (»* - 1) (n - 2) 
+= 2n(3w-4), 
+
+7) s.peh, =-peg,g,g, - 3 .i^^e^r/, -f 2 .i&gt;^e^ = 2»i (3«^ - 6n -f 2) 
+
+- 6w (w - 1) (n - 2) + 2 . w (li - 1) {n - 2) 
+= 2w(w2-2), 
+
+13) £,2/ = 4 .p'yi9293 - 6 • (P' +/e) ^^1^2 + 8 -i/e^, 
+
+= 4 . 2 w^ (2 w - 3) {n - 3) - 6 . n^ {n -2){n- 3) 
+
+■ - 6n\n-2) (m-3)-6.2w (?^-l) («-2) (m-3) 
+-^8.w(w-l)(5^-2)(/^-3) 
+-4w(ji-3)(3n-2), 
+
+
+
+Die mehrfachen Coincidenzen. 267 
+
+14) s^}e = A .i&gt;eiJi^2^3 - 6 • (P^e -\-pe^) g^g.^ + 8 .p^e^g^ - 2 .p^e" 
+
+= 4..2n (Sfi^ - 6w + 2) {n - 3) -- 12 . w^ (w -2)(n- 3) 
+-12.2^i(w-l)(w-2)(n-3) 
++ 16.w(w-l)(«-2)(w-3) 
+-2.«(w-l)(n-2)(«-3) 
+
+= 2w(w-3)(«3 + 3n-2), 
+
+15) s^ph^ -POxO-^g^g^ - 6 0/ +i9e') ^1^2 + 8 . p^ehj^ ~ 2 .p^c' 
+
+= 2n2(5ii2_i8&gt;i+14)-12.w2(w-2)(n-3) 
+-6.2&gt;^(w-l)(»^-2)(w-3) 
++ 16 . w (w - 1) (n - 2) {n - 3) 
+- 2 . »^ (w - 1) (w - 2) (w - 3) 
+
+= 2w(6n2-llfi-6), 
+
+25) £52^ = ö.i)g^g.^g,g,,-10.(j)^-\-pe)g,g,g.^+204)^eg^g.,-102)^egi 
+
+= ö.2n^ (5«2 - 18 w + 14) {n - 4) 
+
+- 10 . 2^2 (29* - 3) (n - 3) (n - 4) 
+-10.2w(3n2-6« + 2)(?i-3)(«-4) 
++ 20.w2(,*_2)(w-3)(n-4) 
++ 20.2w(&gt;*-l)(w-2)(w-3)(«-4) 
+- lOn (n -V){n- 2) (n - 3) (« - 4) 
+
+= 10 n {n - 4) (w + 2) (2 w — 3), 
+
+26) B,\ = i/i^,&lt;/3^4i/5 - 10 (p^ + e^) r/,i/,^3 + 20 0/ + e=^ +^^) g^g.^ 
+
+- lOp^e^g, 
+
+= 20w2(w-2)(«2_4w+2)-20.2ii2(2»^-3)(w-3)(w-4) 
++ 40w2(w-2)(w-3)(w-4) 
++ 20.2.w(^'-l)(w-2)(w-3)(w-4) 
+-20.n{n-l)(n-2)(n-d)(n-4) 
+= 20n{ln^-30n + 24:), 
+37) £6 = Q-gigiOsg^gs ~ 15 (i? + e)g^g./j.,g^ + 20 . 2 .peg,g,g.^ 
+
+— 15.2 peg^g.j. 
+= 6 . 20 fi^ (,i _ 2) («2 _ 4^ + 2) (w - 5) 
+
+- 30 . 2 n^ (5 w2 - 18 w + 14) (&gt;» - 4) {n - 5) 
+
++ 40. 2^(3^2- 6w+2)(w-3)(w-4)(w-5) 
+-30.2w(w-l)(iz-2)(«-3)(w-4)(w-5) 
+= 20ji(«- 5) (17^2-50^ + 24). 
+Die übrigen 30 Symbole e erhält man entweder auch direct 
+aus den Stammzahlen durch Zusammensetzung von Coincidenz- 
+bedingungen nach dem Vorbilde des § 33 oder durch allmähliche 
+Ableitung aus schon berechneten Anzahlen. Beide Arten der Ab- 
+leitung zeigen die folgenden Beispiele. 
+
+
+
+268 Fünfter Abschnitt. 
+
+1. Wir erhalten £32222 direct als Function der Stammzahlen durch 
+die Gleichung: 
+
+{g9+gio-p-e\ 
+
+woraus folgt: 
+
+5 ! £2,222 = 5o . 2^ g^g.g^g^g-^ - ö^ . 2^ (j3 + e) g^g.g^g^ + o,.2^ {p + efg^g,(j^ 
+
+-5,.2\{p + efg,g, + ö,.2K (p + efg, 
+
+-55 2°.(i3 + e)5 
+= (^i-5)(«-6)(w-7)(w-8)(»*-9). [32 .20.w2(«-2)(n2-4«+2) 
+
++ 10.8.2.2»^2(29^-3)(w-3)(«-4) 
++ 10.8.2.2w(3w2-6w + 2)(w-3)(m-4) 
+-10.4.8w2(w-2)(n-3)(w-4) 
+-10A.6.2n{n-l){n-2){n-3){n-A) 
++ ö. 2. 20. n{n- l){n -2) {n-3){n- 4) 
+-20.m(w-1)(w-2)(w-3)(w-4)] 
+= 20 n (w-5) (w-6) («-7) (»-8)(«-9)(w^+6 «^+3 «2-50w+24), 
+oder 
+
+£,2222 = ^n{n-5) (n-6) (w-7) (w-8) («-9) (w-2) (^3+ 8«2+19w-12). 
+
+Dies ist also die Anzahl derjenigen StrahTbüsehel des Baumes, 
+welche einen gegebenen Liniencomplex w'*'* Grades fünfmal zweipunMig 
+herühren, d. h. hei denen fünf Strahlen existiren, deren jeder zwei Com- 
+plexstrahlen in sich vereinigt, oder noch anders ausgedrückt, die An- 
+zahl derjenigen Ebenen, auf denen die Strahlen eines Complexes n''"' 
+Grades eine Oiirve mit einem fünffachen Punkte einhüllen. 
+
+2. Um ^^£32 direct zu bestimmen, haben wir aus § 35 For- 
+mel 1 für n = 2 und für n = 3 zu specialisiren, dann die beiden For- 
+meln mit einander und das Froduct mit p)^ zu multipliciren; dann 
+kommt: 
+
+p's,, = 6 .p'g,g,g, - 9 . Q)^ +p'e)g,g, + 10 .p'eg, + 3 .ph'g, - 2 .p'e% 
+woraus man nach Einsetzung der Stammzahlen erhält: 
+_2/£32 = 2 w (w - 3) (w - 4) {n^ + 6 w - 4). 
+
+3. Um £^^eh2 indirect zu berechnen, führen wir dieses Symbol 
+auf die £22 enthaltenden zurück-, dann hat man: 
+
+£3267*2 = £22 [eh k (« - 4) + eW - {e% -\-peh^ {n - 4)] 
+
+= £22 \e\ I2 {n — 4) + M . e\ (jj -f e) — 2 . {ehie + eh2p) — 2 . eh^ l^ 
+
+— (e^\ +pe\) (n — 4)] 
+= 2w.(«-4)(2«=^ + 4»i2_i3w_6). 
+
+
+
+Die mehrfachen Coincidenzen. 269 
+
+4. Das Symbol £.13 bestimmt man aus den £3^2 enthaltenden 
+Symbolen durch die Formel: 
+
+«43 = «322 h + «322 h - 2 (p + e) £322 
+
+= 4w(w-5)(w-6)(w* + 8w3 + 67w2-250w + 320). 
+
+5. Das Symbol ]Jh bestimmt sich aus: 
+
+6. Das Symbol s^ erhält man schnell sowohl aus: 
+
+«6 = % h + «42 ^2 - (P + e) «42 J 
+
+wie auch aus: 
+
+e, = e,,h,-hhsh-2.(p + e)s,,=^20n{n^D){llri'-^b0n + 24). 
+Hiernach hat der Verfasser mit vielen Bestätigungen die in 
+der folgenden Tabelle zusammengestellten Wertlie der 43 s ent- 
+haltenden Symbole gefunden. 
+
+Tabelle der Werthe der 43 s. 
+
+1) £^ph = n{n-l), 
+
+2) £2i^^^^2 = ^&gt; 
+
+3) 8^pe\ = 2.n{n—\)-^ 
+
+4) £3|)3 = 3.w(w-2), 
+
+5) f3pe = 2.w(w— l)(w — 2), 
+
+6) £3_p2/^g = 2.w(3w-4), 
+
+7) B,pe}H=-2.n{n'-2y, 
+
+8) £22i^' = ^.n{n-2){n- 3) (w + 3), 
+
+9) £22P6 = n(w— l)(w— 2)(w — 3), 
+
+10) £22i5'/i2 = 2w(w-3)(w2 + 2w-4), 
+
+11) £22i'e/i2 = 2w(w-3)(2w2-w-2), 
+
+12) £22j)/»2^2 = 2w(2w'-2w2-9»« + 6); 
+
+13) £^2'' = 4w(w-3)(3w-2), 
+
+14) £^e = 2w(w-3)(w2 + 3w-2), 
+
+15) £^/^^ = 2w(6w2-llw-6)•, 
+
+16) £32/ = 2w(w--3)(w-4)(w2_|_6^_4&gt;)^ 
+
+17) £32_23e = 2n (n - 3) (w - 4) (2 w^ + 3 n - 2) , 
+
+18) £32i)7*3 = 2w(w-4)(w3 + 6w2-15w-6), 
+
+19) £32p;t2 = 2w(w-4)(2# + 4w2-13w-6), 
+
+20) £32^3/^2 = 4w (n^ - # + w2 - 50w + 72); 
+
+21) £222/ = 1^* (»* - 3) (»^ - 4) (n - 5) (w2 + 3n - 2), 
+
+22) £22ai9e = iw(n-3)(w-4)(n-5)(3w2_|_3^_2)^ 
+
+23) £222^ K = ^ 0^ - 4) (n - 5) (3 n=^ + 4 n' - 1 7 w - 6) , 
+
+
+
+270 Fünfter Abschnitt. 
+
+24) 5222/j2?2 = 4w(n-5)(2w^-2w3-9n2-38n + 72); 
+
+25) £5i9=10w(w-4)(w + 2)(2w-3), 
+2ß) £,,7i5 = 20w(7w2-30w + 24)-, 
+
+27) £^2'&gt; = 2 w (w - 4) (w - 5) (^3 + 14^2 _ ^ _ 39) ^ 
+
+28) f^2^^4 = 4w(n-5)(6w3+ 13^^-138^+120), 
+
+29) £42^2 = 4w (»^ - 5) («^ + 4# + 15^2 - 138n + 120) ; 
+
+30) hsP = ^* 0* - 4) (w - 5) (2 w^' + 1 2 w^ + «* - 30) , 
+
+31) £33/^3 = 4w(m-5)(w* + 2w34- 19^2- 142^+120); 
+
+32) «322P ^n{n- 4) (w - 5) (w - 6) (3 w^ + 16 w^ - 5n - 30), 
+
+33) «322 h = 2 w (w - 5) {n - 6) (w* + 8 # - 3 w^ - 130w + 120), 
+
+34) £322 h = 4,n(n- 5) (n - 6) (2**^ + 6# - »»^ - 130 w + 120) ; 
+
+35) £22222^ = tV&gt;K'*-4) (^«-5) (n- 6) (w-7) (5^^+ 18^*2-9^-30), 
+
+36) £2222 \ = h^ (*^-5) (»*- 6) (**- 7) (3^*^+ 8^3- 17n2-122ti +120) •, 
+
+37) £6 = 20w(w-5)(17w2_50w + 24); 
+
+38) £52 = 20n {n - 5) (w - 6) (2# + 13 w^ - 50 w + 24) ; 
+
+39) £^g = 4ii {n - 5) (w - 6) (w^ + 8 w^ + 67 w^ - 250 n + 120) ; 
+
+40) £422 = 2nln-5){n-6)(n-l)(n^-{- 18ri3+47«2-250n+120); 
+
+41) £332 = 2w(w-5)(w-6)(^*-7)(2w^+16^^3+49n2-250w+120); 
+
+42) £3222 = I n (n - 5) {n - 6) (n - 7) (w - 8) (3 n^ + 24 w^ + 3 1 w^ 
+
+-250^ + 120); 
+
+43) £22222 = ^H'*-5)(w-6)(n-7)(n-8)(n-9)(»^-2)(# + 8w2 
+
++ 19n-12). 
+
+Aus diesen Werthen können die Werthe derjenigen Symbole, 
+welelie vielfache, auf den Coincidenzstralil h bezügliche Bedingungen 
+enthalten, leicht durch die Incidenzformeln bestimmt werden; näm- 
+lich: 
+
+44) £3 hs s = ^äP e A3 — £3i&gt;^ ^3 — £3 e^ h^ — e^p eh^ = A.n, 
+
+45) £22/i2. = £22^6^2 - 2 . £22i:»^ - 2 . £226^ - 2 . £221^6 
+
+= 2.w(w-3)(w + 2), 
+
+46) £4/^4^ = £4 {e\ ~ e') = 2m (1 1 w - 18), 
+
+47) £32 h^p = £32 (eh^ - e') = 2n {n - 4) (3 ^H 7 w - 18), 
+
+48) £s2hp = ^32 (ß \ — e^) = 2n (n — 4) (w^ + n^ + 9^—18), 
+
+49) £222 ^2p = £222 (^^2 "- 3 . e") = n {n — 4) (w — 5) {n^ -i-4n^+6n— 18). 
+
+Die wichtigsten der Zahlen, welche durch unsere Symbole £,, 
+^3? ^22? ^4? %2? ^222 dargestellt werden, sind seit den liniengeome- 
+trischen Untersuchungen von Plücker, Klein und Voss bekannt. 
+Dagegen sind die Werthe der £5, £^3, £33, £322, «22225 ^g&gt; ^52? %) 
+*422j ^33-2; ^3-222? ^22222 enthaltenden Symbole vom Verfasser zuerst 
+
+
+
+Die mehrfachen Coincidenzen. 271 
+
+berechnet und zwar in seinen „Singularitäten des Complexes" 
+(Math. Ann. Bd. 12 pag. 202) [Lit. 49]. Wir stellen die von Voss 
+in den Math. Ann. Bd. 9 pag. 55 bis 162 algebraisch berechneten 
+Symbole e hier zusammen mit Angabe der Seiten, auf denen sie 
+dort zu finden sind. 
+
+1) e^h3s = 4:.n (pag. 63), d. h. durch jeden Complexstrahl gehen 
+vier Wendeebenen (das liniengeometrische Analogon der zwei in 
+jedem Punkte einer Fläche berührenden Haupttangenten); 
+
+2) ^Ye = 2.n{n-l){n-2) [pag. 72]; 
+
+3) £.,eK==n.(3n-2) [pag. 72]; 
+
+4) 6seJip==n.(ßn — 2) [pag. 73]; 
+
+5) «4^3^ = 4 . w (w — 3) (3 w — 2) [pag. 74] , dies ist nämlich die 
+Ordnung der Fläche der Scheitel aller derjenigen Complexkegel, 
+die Undulationskanten besitzen; 
+
+6) £4/^4^ = 2.^^(11^-18) [pag. 74]; 
+
+7) a^^}H, = 2.n{n + 2){n-~^) [pag. 75]; 
+
+8) £^2^6 = n(n- 1) (n -2)(n- 3) [pag. 75]. 
+
+Die Singularitäten der sogenannten PläcJcer' sehen Complexfläche 
+(Lit. 49) sind durch diejenigen unserer Symbole ausgedrückt, welche 
+die Bedingung e^ enthalten. Wir lassen die wichtigsten hier folgen: 
+9) £,^2g2_2w(w-l) [Voss, pag. 139]; 
+
+10) f3^9e2 = w(w-2)(2n+l) [pag. 139]; 
+
+11) s.,^pe^ = ^n(n-2)(n-S){3n-i-l) [pag. 139]; 
+
+12) £4e2 = 4w(w-3)(3w-2) [pag. 141], dies ist die Zahl der 
+stationären Punkte der RücJckehrcurve ; 
+
+13) £32e2 = 2w(w-3)(w-4)(w^ + 6w-4) [pag. 76 und 141]; 
+
+14) £,,_^e' = ^n(n-3)(n-4:)(n-b)(n'-{-3n-2) [pag. 76 u. 141]. 
+Mit den in diesen Paragraphen erörterten Hilfsmitteln kann 
+
+man auch leicht zu den Anzahlen für die Singularitäten der so- 
+genannten sinrjidären FläeJie des Complexes gelangen, d. h. der 
+Fläche der Scheitel aller mit Boppelkanten behafteten Complexkegel; 
+gerade so, wie wir in § 33 zu denjenigen Anzahlen gelangen koini- 
+ten, welche sich auf den zweistufigen Ort der Tangentialebenen be- 
+ziehen. 
+
+Schliesslich machen wir noch darauf aufmerksam, dass die acht 
+Stammzahlen (pag. 266) für i = n— 1 nicht null werden, woraus 
+man schliessen kann, dass der Complex ^*^" Grades go^~* Strahl- 
+büschel enthält, welche ganz in ihm liegen^ d. h. deren sämmtliche 
+
+
+
+272 Fünfter Abschnitt. 
+
+StraMen dem Complexe angehören. Gerade so ergaben die Stamm- 
+zahlen des § 33 die Anzahlen für die ganz in einer Fläche liegen- 
+den Geraden; z. B. ergab dort (pag. 236) die Formel: 
+
+für n = d, dass die Fläche dritten Grades 27 Gerade enthält, weil 
+eine Gerade, welche eine Fläche dritten Grades in vier verschiede- 
+nen Punkten schneiden soll, nach dem Princip von der Erhaltung 
+der Anzahl ihre sämmtlichen Punkte mit der Fläche dritten Grades 
+gemein haben muss. Ebenso können wir bei einem Complexe ^*®'* 
+Grades, welcher in einem Strahlbüschel i-\-l Strahlen besitzt, den 
+Schluss ziehen, dass die sämmtlichen Strahlen dieses Strahlhüschels 
+dem Complexe angehören. Demgemäss erhalten wir aus unseren acht 
+Stammzahlen die folgenden Resultate: 
+
+1. l)-^g^g.2 = n' giebt für n=l den Werth 1; folglich ist bei 
+einem linearen Complexe jeder Punkt des Raumes Scheitel eines 
+einzigen Strahlbüschels, dessen sämmtliche Strahlen Complexstrah- 
+len sind. 
+
+2. fg^g.,gs = 2n'(2n-3) giebt für n = 2 den Werth 8; folg- 
+lich wird bei einem Complexe zweiten Grades eine Fläche achter 
+Ordnung von den Scheiteln aller derjenigen Strahlbüschel gebildet, 
+deren sämmtliche Strahlen Complexstrahlen sind. Es ist diese 
+Fläche die doppelt gezählte sogenannte Kummer'sche Fläche, doppelt 
+gezählt, weil jeder ihrer Punkte Scheitel zweier in dem Complexe 
+liegender Strahlbüschel ist. 
+
+'^. peg.^g.j.g^ = 2n(^n^ — Qn-\-2) giebt für n = 2 den Werth 8; 
+folglich wird eine Raumcurve achter Ordnung von den Scheiteln aller 
+derjenigen Strahlhüschel gebildet, die ganz in dem Complexe zweiten 
+Grades liegen und dabei ihre Ebene durch einen gegebenen Punkt 
+schicken. 
+
+4- i'^iö'25'35'4 = ^'^Hö^*'~ ^^^ + 1'^) giebt für n = ^ den Werth 
+90; folglich wird bei einem Complexe dritten Grades eine Raumcurve 
+neunzigster Ordnung von den Scheiteln aller derjenigen Strahlbüschel 
+gebildet, deren sämmtliche Strahlen Complexstralüen sind. Dieses Re- 
+sultat findet auch Voss (Math. Ann. Bd. 9 pag. 158). 
+
+5- 9i ff 2939 4.95 = 20 w- (n — 2) (n^ — 4n -f 2) giebt für w = 4 den 
+Werth 1280; folglich giebt es 1280 StraliTbilscliel , deren sämmtliche 
+Strahlen einem gegebenen Complexe vierten Grades angehören. Dieses 
+liniengeometrische Analogon der 27 in einer Fläche dritten Gra- 
+des liegenden Geraden fand der Verfasser in den Math. Ann. 
+
+
+
+Die meln-faclien Coincidenzen. 273 
+
+Bd. 12 pag. 211. Interessant wäre es, in ähnlicher Weise, wie die 
+gegenseitige Lage der 27 Geraden einer cubischen Fläche studirt 
+ist, zu untersuchen, welche speciellen Lagen die oo^ Strahlbüschel 
+eines Complexes dritten Grades und die 1280 Strahlbüschel eines 
+Complexes vierten Grades zu einander eiimehmen. 
+
+üebrigens kann man die eben angegebenen fünf Resultate auch 
+aus einigen der s enthaltenden Symbole erhalten, z. B. das in Nr. 4 
+angeführte Resultat aus den Formeln für f-^^ph^l-i und ^iphi, indem 
+man n = 'd setzt, das Resultat von Nr. 5 aus den Formeln für 
+s-ioh.Ji.^ und fr./z.r,, indem man 7^ = 4 setzt. 
+
+
+
+Schubert, Kalkül der abzähleiidou Geometrie. 18 
