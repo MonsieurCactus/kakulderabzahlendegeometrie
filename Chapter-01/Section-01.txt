@@ -1,0 +1,40 @@
+§1. 
+Die Coustanteiizalil eines Gebildes. 
+
+Das äusserliche Ziel der abzählenden Geometrie ist die Be- 
+antwortung aller Fragen von folgender Form: 
+
+„Wieviel geometrische Gebilde von hestimmter Definition erfüllen 
+gewisse gegebene Betliugiingeu?" 
+
+Die Zahlen, welche diese Fragen beantworten, hängen also 
+einerseits von der Natur der aufgestellten Definition, andererseits 
+von der Natur der gegebenen Bedingungen ab. Wenn nun die De- 
+finition für ein F genanntes Gebilde derartige Bestimmungen ent- 
+hält, dass der Raum oo'' Individuen besitzt, welche diese Definition 
+erfiülen, oder, was ganz dasselbe ist, dass die analytisch -geome- 
+trische Darstellung dieses Gebildes F c wesentliche Constanten ent- 
+hält , so soll c die ConstantenmM des Gebildes F oder seiner De- 
+finition heissen. 
+
+Hiernach bedeutet der Ausspruch, dass der (als Träger sei- 
+ner Punkte aufgefasste) Raum drei Dimensionen hat, nichts anderes, 
+als dass der Punkt die Constantenzahl 3 hat. Die Constantenzahl 
+der Ebene ist auch gleich 3, die des Strahles aber gleich 4. Aus 
+diesen Constantenzahlen ergeben sich durch Addition die Constanten- 
+zahlen aller aus einer endlichen ÄnmJd von Punkten, Ebenen und 
+Strahlen zusammengesetzten Gebilde. Beispielsweise ist die Con- 
+stantenzahl 
+
+1. eines Punktepaares gleich 2.3, also einer Strecke von be- 
+stimmter Länge gleich 2.3—1; 
+
+2. eines Dreiecks im Räume gleich 9, eines Dreiecks in fester 
+Ebene gleich 6; 
+
+3. eines räumlichen w-Ecks, d. h. eines Polyeders, welches n 
+Ecken und nur Dreiecke zu Grenzflächen hat, gleich 3.«; 
+
+4. eines ebenen w-Ecks im Räume gleich 2.W + 3-, 
+
+Schubert, Kalkül der abzählenden Q-eometrie. 1 
