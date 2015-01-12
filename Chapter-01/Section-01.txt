@@ -38,3 +38,93 @@ Ecken und nur Dreiecke zu Grenzflächen hat, gleich 3.«;
 4. eines ebenen w-Ecks im Räume gleich 2.W + 3-, 
 
 Schubert, Kalkül der abzählenden Q-eometrie. 1 
+
+
+
+
+
+
+2 Erster Absc-hnitt. 
+
+5. einer geraden Punktgruppe, d. h. eines Gebildes, welches 
+aus einem Strahle und n darauf liegenden Punkten besteht, gleich 4 + m; 
+
+6. eines Strahlbüschels gleich 5; 
+
+7. eines Gebildes, welches aus n in einem Strahlbüschel liegenden 
+Strahlen besteht, gleich 5 -f- n. 
+
+8. Aus der in 3. für ein Dreieckspolyeder angegebenen Con- 
+stantenzahl gelangt man sehr leicht zu der Constantenzahl c eines 
+beliebigen Polyeders. Ein solches habe e Ecken, /Flächen, /^Kanten. 
+Man zerlege jedes, eine Fläche bildende w-Eck durch Ziehen von 
+M — 3 Diagonalen in w— 2 Dreiecke. Dann mögen auf den /'Flächen 
+im Ganzen &lt;? Diagonalen zur Zerlegung erforderlich sein, und d Drei- 
+ecke entstehen. Dann ist 8 um f grösser als d, weil auf jeder 
+Fläche ein Dreieck mehr entsteht, als Diagonalen zur Zerlegung 
+nothwendig sind. Also ist: 
+
+ö^d-hf. 
+Ferner sind die 3 . d Seiten der d Dreiecke zum Theil die 
+fZ Diagonalen, zum andern Theil die /.'Kanten, jedoch so, dass jede' 
+der d Diagonalen, und auch jede der A.' Kanten zweinml als Drei- 
+ecksseite auftritt. Daher ist auch: 
+
+?&gt;8 = 2d-\-2'k. 
+Aus beiden Gleichungen folgt: 
+
+d=2h-3f. 
+Nun kann man ein Polyeder, welches zur Zerlegimg der Flächen 
+in Dreiecke rZ Diagonalen erfordert, immer als ein Dreieckspolyeder 
+ansehen, welches dahin specialisirt ist, dass an d Kanten der 
+Neigungswinkel der zusammenstossenden Flächen den speciellen 
+Werth von 180" bekommt. Also ist die Constantenzahl c eines be- 
+liebigen Polyeders um d kleiner als die eines Dreieckspolyeders von 
+gleicher Eckenzahl e. Es ergiebt sich also: 
+
+= 3. e^d, 
+oder nach Substitution des oben abgeleiteten Werthes für d, 
+
+c = S.e-\'^.f-2k (Lit. 1), 
+und nach Benutzung der Euler'schen Gleichung: 
+
+f-\-e=^k + 2, 
+das einfache Resultat 
+
+c = k-\-6. 
+
+Da es immer go''' einander congruente Gebilde giebt, so ist 
+
+nach dieser Formel ein Polyeder, abgeselien von seiner Lage, durch 
+
+genau so viele einfacJie Bedingungen bestimmt, wie die Zahl seiner 
+
+Kanten beträgt. Treten noch weitere beschränkende Bestimmungen 
+
+
+
+Die Symbolik der Bedingungen. 3 
+
+in die Definition des Polyeders, so wird die Constantenzahl ent- 
+sprechend vermindert. Z. B. ist die Constantenzahl eines Prisnia- 
+toids nm 2 kleiner als seine Kantenzahl, weil zwei seiner Ebenen 
+die specielle Lage von parallelen Ebenen haben. 
+
+Den oben angegebenen Constantenzahlen fügen wir noch einige 
+hinzu, die aus der analytischen Geometrie bekamit sind. Es ist 
+nämlich die Constantenzahl: 
+
+9. einer in beliebiger Ebene gedachten Plancurve w*""" Ordnung, 
+j^'ter Klasse, mit ö Doppelpunkten, x Spitzen, ö' Doppeltangenten, 
+x' Wendetangenten, 
+
+c = 3-f |n(w + 3)-^-2x 
+= 34-i&gt;*'(w' + 3)-d'-2&gt;£'; 
+
+10. einer punktallgemeinen Fläche w*®" Grades 
+
+c = |(w-fl)(»^ + 2)0^4-3)^l; 
+
+11. eines strahlenallgemeinen Liniencomplcxes w*®" Grades 
+
+c=^'^(w + l)(w + 2)2(n-f 3)-l (Lit. 2). 
