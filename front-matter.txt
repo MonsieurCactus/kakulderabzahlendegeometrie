@@ -1,0 +1,279 @@
+DER 
+
+
+
+ABZÃ„HLENDEN GEOMETRIE 
+
+
+
+Dk. HERMANN SCHUBERT, 
+
+OBERLEHRER AK DER GELEHRTENSCIIUI-E DES JOIIANNEUiMS IN HAMBURG. 
+
+
+
+DEPARTMENT OF MATHEMATICS 
+UNIVERSITY OF TORONTO 
+
+
+
+LEIPZIG, 
+
+VERLAG VON B. G. TEUBNER. 
+
+1879. 
+
+
+
+
+Das Recht der Uebersetzung in fremde Sprachen ist vorbehalten. 
+
+
+
+6^4 
+
+So/ 
+
+S4f 
+
+
+
+Druck von B. G. Teubner in Dresden. 
+
+
+
+Vorrede. 
+
+
+
+Dieses Buch soll einen doppelten Zweck erfÃ¼llen. Es soll 
+erstens den Leser mit den Vorstellungen, Problemen und Resultaten 
+eines neuen Gebietes der Geometrie vertraut machen, in welchem 
+man, unter Verzichtleistung auf die eigentliche Construction der 
+Gebilde, nur zu berechnen trachtet, wieviel Gebilde von bestimmter 
+Definition gewisse gegebene Bedingungen erfÃ¼llen, um dadurch einer- 
+seits der analytisch -geometrischen Forschung wichtige Vorarbeiten 
+und Fragestelkmgen zu liefern, andererseits die Eigenschaften des 
+Raumes in einem neuen Lichte erscheinen zu lassen. Welch' einen 
+fruchtbaren Boden dieses seit kaum 15 Jahren erschlossene Gebiet 
+besitzt, zeigt am besten der Umfang des Capitels â€žAbzÃ¤hlende 
+Geometrie" im Jahrbuche Ã¼ber die Fortschritte der Mathematik 
+(VIII, 5 C). Das Buch soll aber auch zweitens die Handhabung 
+eines eigenthÃ¼mlichen KalkÃ¼ls lehren, durch welchen man im Stande 
+ist, auf leichte und naturgemÃ¤sse Weise eine grosse Menge auch 
+von solchen geometrischen Anzahlen und Beziehungen zwischen 
+SingularitÃ¤tenzahlen zu bestimmen, welche die mit den Mitteln der 
+modernen Algebra operirende Methode der neueren analytischen 
+Geometrie entweder nur unter grossen Eliminationsschwierigkeiten 
+oder Ã¼berhaupt nicht zu berechnen vermocht hat. Wenn daher das 
+vorliegende Buch zu einigen Capiteln der grossen Werke von Sal- 
+mon-Fiedler und Clebsch-Lindemann einige ErgÃ¤nzungen hin- 
+zufÃ¼gen sollte, so wÃ¼rde der Verfasser darin den schÃ¶nsten Lohn 
+fÃ¼r die MÃ¼hen der Redaction finden. 
+
+Li den ersten drei Abschnitten habe ich den didaktischen Zweck 
+vornehmlich im Auge gehabt und alle Definitionen, SÃ¤tze und For- 
+meln durch einfache und complicirte, bekannte und neue Beispiele 
+
+
+
+rV Vorrede. 
+
+und Anwendungen erlÃ¤utert. GegenÃ¼ber meinen frÃ¼heren Abhand- 
+lungen auf dem Gebiete des AbzÃ¤hlungskalkÃ¼ls in den â€žGÃ¶ttiager 
+Nacbricliteu" und â€žMathematiselien Annalen" giebt das Buch theils 
+eine consequentere DurchfÃ¼hrimg der Methode, theils auch manche 
+noch nicht publicirte Untersuchungen. Zu den letzteren gehÃ¶ren 
+namentlich die Berechnung der Anzahlen fÃ¼r die Raumcurve dritter 
+Ordnung, die Charakteristikentheorie mehrerer aus Punkten, Strah- 
+len und Ebenen zusammengesetzter Gebilde nebst Anwendungen, 
+und die Bestimmung gewisser, noch nicht studirter SingularitÃ¤ten 
+auf dem Schnitt zweier Liniencomplexe. Auf die hinten angefÃ¼gten 
+â€žLiteraturbemerkungen" ist im Texte diu-ch das Zeichen â€žLit." hin- 
+gewiesen. Auf die Literaturbemerkungen folgt noch ein Wort- 
+register und ein Autorenregister. 
+
+FÃ¼r ein erstes, weniger eingehendes Studium des Buches kÃ¶mien 
+etwa folgende Paragraphen Ã¼bergangen werden: Â§Â§ 11, 1(3 bis 18, 
+23 bis 32, und wohl auch Â§Â§ 34 bis 36 und 41 bis 44. 
+
+Zum Schluss mÃ¶chte ich noch dem GefÃ¼hle des Dankes fÃ¼r 
+die wohlwollende Anregung Ausdruck verleihen, welche mir in den 
+letzten Jahren durch den Briefwechsel mit mehreren Mathematikern, 
+namentlich mit den Herren Zeuthen, Sturm, Klein, Voss, Hal- 
+phen, Hirst zu Theil wurde und welche mir die Freude am. wissen- 
+schaftlichen Arbeiten, insbesondere an der Abfassung dieses Buches, 
+wesentlich erhÃ¶ht hat. Femer fÃ¼hle ich mich verpflichtet, sowohl 
+den Herren Lazarus in Hamburg und Hurwitz in MÃ¼nchen fÃ¼r 
+ihre bereitwillige Hilfe bei der Correctur, wie auch dem Herrn 
+Verleger fÃ¼r die sorgfÃ¤ltige Ausstattung des Buches meinen Dank 
+auszusprechen. 
+
+Hamburg, im Juli 1879. 
+
+Hermann Schubert. 
+
+
+
+Inlialtsverzeichniss. 
+
+
+
+Erster Abschnitt. 
+Die Symbolik der Bedingungen. 
+
+Seite 
+
+Â§ 1. Die Constantenzahl eines Gebildes 1 
+
+Â§ 2. Die Bezeichnung der Bedingungen 3 
+
+Â§ 3. Die Dimension einer Bedingung und die Stufe eines Systems . . 7 
+
+Â§ i. Das Princip von der Erhaltung der Anzahl 12 
+
+Â§ 5. Die Darstellung der den Bedingungen zugehÃ¶rigen Anzahlen durch 
+
+die Bedingungssymbole und das Rechnen mit diesen Symbolen 19 
+Â§ 6. Die Gleichungen zwischen den Grundbedingungen jedes der drei 
+
+Hauptelemente 22 
+
+Zweiter Abschnitt. 
+
+Die Incidenzformeln. 
+
+Â§ 7. Die Incidenzformeln fÃ¼r Punkt und Strahl 25 
+
+Â§ 8. Anwendung der Incidenzformeln I, II und III auf die Incidenz einer 
+
+Tangente mit ihrem BerÃ¼hrungspunkte 26 
+
+Â§ 9. Weitere Beispiele zu den Incidenzformeln I, II, III 28 
+
+Â§ 10. Die Ã¼brigen Incidenzformeln 31 
+
+Â§ 11. Beispiele zu den Incidenzformeln IV bis XIV 33 
+
+Â§ 12. Die Incidenzformeln , angewandt auf die Hauptelementen incidenten 
+
+Systeme von Hauptelementen 38 
+
+Dritter Abschnitt. 
+
+Die Coincidenzformeln. 
+
+Â§ 13. Die Coincidenzformeln des Punktepaares und die Bezout'schen SÃ¤tze 42 
+Â§ 14. Anwendung der Coincidenzformeln des Â§ 13 zur Bestimmung von 
+Anzahlen, die sich auf die BerÃ¼hrung von Plancurven und FlÃ¤- 
+chen beziehen 50 
+
+Â§ 15. Das Strahlenpaar und seine Coincidenzbedingungen 58 
+
+Â§ 16. Anwendung der Coincidenzformeln des Strahlenpaares auf die beiden 
+
+in einer FlÃ¤che zweiten Grades liegenden Regeischaaren ... 64 
+Â§ 17. Die Paare verschiedenartiger Hauptelemente und ihre Coincidenz- 
+bedingungen 80 
+
+Â§ 18. Ableitung der Cayley-BriH'schen Correspondenzformel aus den all- 
+gemeinen Coincidenzformeln fÃ¼r Punktepaare 86 
+
+
+
+VI Inhaltsverzeichniss. 
+
+Vierter Absclmitt. 
+Die Berechnung von Anzahlen durch Ausartiingen. 
+
+Seite 
+
+Â§ 19. Anzahlen fÃ¼r Gebilde, die aus endlich vielen Hauptelementen be- 
+stehen 89 
+
+Â§ 20. Anzahlen fÃ¼r Kegelschnitte 90 
+
+Â§ 21. Die Chasles-Zeutlien'sche Reduction 97 
+
+Â§ 22. Anzahlen fÃ¼r FlÃ¤chen zweiten Grades 102 
+
+Â§ 23. Anzahlen fÃ¼r cubische Plancurven mit Spitze 106 
+
+Â§ 24. Anzahlen fÃ¼r cubische Plancurven mit Doppelpunkt 144 
+
+Â§ 25. Anzahlen fÃ¼r cubische Raumcurven 163 
+
+Â§ 26. Anzahlen fÃ¼r Plancurven vierter Ordnung in fester Ebene . . . 184 
+
+Â§ 27. Anzahlen fÃ¼r die lineare Congruenz 188 
+
+Â§ 28. Anzahlen fÃ¼r die Gebilde, welche aus zwei Geraden bestehen, deren 
+
+Punkte oder Ebenen einander projectiv sind 194 
+
+Â§ 29. Anzahlen fÃ¼r das Gebilde, welches aus einem EbenenbÃ¼schel und 
+
+einem ihm projectiven StrahlbÃ¼schel besteht 202 
+
+Â§ 30. Anzahlen fÃ¼r das Gebilde, welches aus zwei projectiven Strahl- 
+bÃ¼scheln besteht , 205 
+
+Â§ 31. Anzahlen fÃ¼r das aus zwei collinearen BÃ¼ndeln bestehende Gebilde 208 
+
+Â§ 32. Anzahlen fÃ¼r das aus zwei correlativen BÃ¼ndeln bestehende Gebilde 217 
+
+FÃ¼nfter Abschnitt. 
+
+Die mehrfachen Coincidenzen. 
+
+Â§ 33. Coincidenz von Schnittpunkten einer Geraden mit einer FlÃ¤che . 228 
+
+Â§ 34. Die Coincidenz mehrerer Punkte einer Geraden 247 
+
+Â§ 35. Die Coincidenz mehrerer Strahlen eines StrahlbÃ¼schels 254 
+
+Â§ 36. SingularitÃ¤ten des allgemeinen Strahlencomplexes 262 
+
+Sechster Abschnitt. 
+Die Charakteristikentheorie. 
+
+Â§ 37. Formulirung des Charakteristikenproblems fÃ¼r ein beliebiges Ge- 
+bilde r 274 
+
+Â§ 38. Das Charakteristikenproblem fÃ¼r den Kegelschnitt 284 
+
+Â§ 39. Ableitung und Anwendung der Charakteristikenformeln fÃ¼r das Ge- 
+bilde, welches aus einem Strahle und einem darin liegenden 
+Punkte besteht 289 
+
+Â§ 40. Ableitung und Anwendung der Charakteristikenformeln fÃ¼r den 
+
+StrahlbÃ¼schel 299 
+
+Â§ 41. Ableitung und Anwendung der Charakteristikenformeln fÃ¼r das Ge- 
+bilde, welches aus einem Strahle, einem auf dem Strahle 
+liegenden Punkte und einer durch den Strahl gehenden Ebene 
+besteht 303 
+
+Â§ 42. Charakteristikentheorie des Gebildes, welches aus einem Strahle 
+
+und n darauf befindlichen Punkten besteht 307 
+
+
+
+Inhaltsverzeichniss. VII 
+
+Â§ 43. Bestimmung der Anzahlen fÃ¼r vielfache Secanten der Schnittcurve 
+
+zweier FlÃ¤chen 319 
+
+Â§ 44. Charakteristikentheorie des Gebildes, welches aus einem Strahl- 
+bÃ¼schel und n darin befindlichen Strahlen besteht. Anwendung 
+
+auf die zweien Complexen gemeinsame Congruenz 323 
+
+Idteraturbemerkungen 333 
+
+Wortregister 346 
+
+Autorenregister 349 
