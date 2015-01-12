@@ -1,0 +1,3435 @@
+Sechster Abschnitt. 
+Die Charakteristikentheorie. 
+
+
+
+§ 37. 
+
+Fornmlirung" des Charakteristilienproljlems für ein 
+
+beliebiges Gebilde r. 
+
+Chasles fand im Jahre 1864 (Comptes rendus) [Lit. 50] ex- 
+perimentell, dass die Anzahl der Kegelschnitte, welche einem ge- 
+gebenen, in fester Ebene befindlichen, einstufigen Systeme ange- 
+hörig, eine hinzutretende, gegebene, einfache Bedingung z erfüllen, 
+immer gleich 
+
+a . fi + /3 .v* 
+
+ist, wo a und ^ Coefficienten sind, welche nur von der Natur der 
+Bedingung z abhängen, \i und v aber die Anzahlen sind, welche 
+angeben, wieviel Kegelschnitte des einstufigen Systems die Beding- 
+ungen [i und V erfüllen, von denen 
+
+fi bezeichnet, dass ein Kegelschnitt durch einen in der 
+
+festen Ebene gegebenen Punkt gehen soll, 
+V bezeichnet, dass ein Kegelschnitt eine in der festen 
+Ebene gegebene Gerade berühren soll. 
+Chasles nannte deshalb [i und v die Charakteristilien*'^ des 
+einstufigen Systems. In unserer Terminologie lautet der Chasles- 
+sche Satz kurz: 
+
+Für den Keyclsclmitt lässt sich jede einfache Bedingung durcJt die 
+beiden Bedingungen ^ und v ausdrücken. 
+
+Wir denken uns nun, verallgemeinernd, statt des Kegelschnitts 
+ein beliebiges Gebilde F mit der Constantenzahl c, statt des ein- 
+
+
+
+* Ein Beweis dieses Satzes folgt in § 38. 
+
+** Später nannte man misshrüuchlich Charakteristiken eines Gebildes F 
+alle auf r bezüglichen Anzahlen, ohne sich darüber Rechenschaft abzulegen, 
+ob für ein solches Gebilde F ein dein Chasles'schen Satze analoger Satz existirt. 
+
+
+
+Die Charakteristikentlieorie. 275 
+
+stufigen Systems ein i- stufiges System Z, statt der beiden Beding- 
+ungen ^ und V beliebig viele i- fache Bedingungen. Dann gelangen 
+wir dazu^ uns hinsichtlich des Gebildes F folgende Frage vorzulegen: 
+
+Ist es für ein Gebilde F möglich^ jede beliebige i- fache Bedingung 
+durch irgend welche i- fache Bedingungen aiiszudrüciten , so dass die ent- 
+stehende Gleichung für jedes i- stufige System richtig ist? 
+
+Wir nehmen an, es wäre gelungen, für F gewisse m i-fache Beding- 
+ungen ausfindig zu machen, durch welche jede andere i-fache Be- 
+dingung ausgedrückt werden kann. Diese m Bedingungen mögen 
+&amp;j, &amp;2, h.^^...hm heissen. Dann lässt sich zunächst einsehen, dass 
+auch durch irgend welche m .beliebig ausgewählte ^'- fache Beding- 
+ungen, etwa Cj, C2,...c,„, jede andere «-fache Bedingung ausdrück- 
+bar ist; deim man kann, der Voraussetzung gemäss, jede der m 
+Bedingungen 
+
+^1} ^2&gt; ^3? • ••^m 
+
+durch l\^ h.^, h.^,...b,a ausdrücken und erhält dadurch m Gleichungen 
+von der Form: 
+
+C = «1 . &amp;i -f- «2 . &amp;2 + «3 • ^3 + • • • "'" • ^m • 
+
+Aus diesen ni Gleichungen aber ergiebt sich jede der m Be- 
+dingungen b als lineare Function der m Bedingungen c. Hat man 
+also irgend welche Bedingung 2 durch die m Bedingungen b aus- 
+gedrückt, so braucht man für die letzteren nur die eben erwähnten 
+linearen Functionen zu substituiren, um z als Function der m be- 
+liebig gewählten Bedingungen c zu erhalten. Man kann dieses Re- 
+sultat auch so aussprechen: 
+
+Gelingt es, bei einem Gebilde F eine i- fache Bedingung s durch 
+m andere i- fache Bedingungen vermittelst einer Formel darzustellen, 
+welche für alle i-stufigen Systeme richtig ist, so bestehen immer ztviscJien 
+irgend welchen beliebig gewählten Je -f m i- fachen Bedingungen k von 
+einander unabhängige Gleichungen. 
+
+Beispielsweise nehmen wir beim Kegelschnitt die einfache Be- 
+dingung »", dass derselbe eine in seiner Ebene gegebene Plancurve 
+dritter Ordnung vierten Ranges berühre. Diese Bedingung ist nach 
+§ 14, pag. 51 von ^ und v durch folgende Gleichung abhängig: 
+
+Hieraus können wir dann leicht die eine Gleichung ableiten, 
+welche zwischen z und etwa den beiden in § 20 besprochenen ein- 
+fachen Ausartungsbedingungen d und f besteht, wo d bedeutet, 
+dass der Kegelschnitt in zwei Gerade zerfallen soll, £ bedeutet, 
+
+18* 
+
+
+
+276 Sechster Abschnitt. 
+
+dass die Tangenten des Kegelschnitts zwei Stralillniscliel bilden 
+sollen. Wir müssen dann d und £ durch ^ und v darstellen; dies 
+ist in § 20 geschehen. Es ist nämlich nach der Bezeichnung dieses 
+Paragraphen: 
+
+2 .V — \i = e, 
+
+woraus folgt: 
+
+Führt man dies in die Formel für z ein, so erhält man: 
+
+Hiernach hat es also eigentlich keinen Sinn, zu betonen, dass 
+gerade die beiden Bedingungen ft und v charakteristisch sind. Man 
+kann sie ja durch irgend welche andere Bedingungen ersetzen. Der 
+Chasles'sche Satz lautet also besser so: 
+
+Beim Kegelschnitt läset sich jede einfache Bedingung durch jede 
+zwei beliebig geivählte einfache Bedingungen linear ausdrücken oder, 
+was dasselbe ist, beim Kegelschnitt bestehen immer ztvischen (2-\-'k) 
+beliebig gewählten einfachen Bedingungen^ mindestens h von einander 
+unabhängige^ allgemeingiltige Gleichungen. 
+
+Wir kehren zu dem Gebilde F mit der Constantenzahl c zurück, 
+hei welchem wir uns die heliebige i- fache Bedingung z durch die 
+m i- fachen Bedingungen 
+
+&amp;i, b.j,...bm 
+ausgedrückt denken in der Form: 
+
+1) £; = «1 . &amp;, + «2 • ^2 + «3 • ^3 + • • • «« • '^^&gt;rn 
+
+wo «1, «2? ao,...a„i Coefficienten sind, deren Werthe natürlich von 
+der Natur der Bedingung z abhängen. Um diese Werthe zu be- 
+stimmen, multipliciren wir die Gleichung 1 mit m willkürlich ge- 
+wählten (f-i) -fachen Bedingungen. Diese mögen 
+
+fZi, d.^, d^^...d,n 
+heissen. Dann erhalten wir m Gleichungen, auf deren linken Seiten 
+die m c- fachen Symbole 
+
+zc\, zd.2,.. .zd,a 
+stehen, auf deren rechten Seiten aber die m^ r- fachen Symbole 
+
+&amp;l J^ , 62 (^1 , . . . &amp;i (?2, . . . b,adm 
+
+und ausserdem die gesuchten m Coefficienten 
+
+
+
+Diu Cliarakttn-istikentliforic. 277 
+
+vorkommen. Wir betrachten nun die Werthe der m^ aus h und d 
+zusammengesetzten Symbole als bekannt und setzen diese Wertbe 
+in die m Gleichungen ein. Dann kann man jetzt mit Hilfe dieser 
+m Gleichungen jede der iii, Zahlen a als Function der m Symbole 
+
+0dl, sd.2,...2d,n 
+darstellen. Jede der so entstandenen m Functionen kann aber selbst 
+als eine c-fache Bedingung angesehen werden, die aus 2 und einer 
+(c — ij- fachen Bedingung zusammengesetzt ist. Wir bezeichnen die 
+so entstehenden (c — «)- fachen Bedingungen mit 
+
+und setzen für die ni Zahlen a die berechneten Werthe in die 
+Gleichung 1 ein; dann kommt: 
+
+2) = (ze,) . b, + (sc,) . b, + (06,) .b, + ... + ize,:) . b,,,. 
+
+Nun bedeuten aber 0, b^^ b^,...b,n die Zahlen, welche angeben, 
+wieviel Gebilde F jede dieser Bedingungen und ausserdem die 
+(c — i) -fache, definirende Bedingung des hinzugedachten i- stufigen 
+Systems Z' erfüllen. Bezeichnen wir die letztgenannte (c — i) -fache 
+Bedingung mit y, so lautet die Gleichung 2 ausführlich: 
+
+3) 0y = (^e,) . (yb,) + (ze,) . (yb,) + {0e,) . (yb,) + . . . + (^e«0 • (!/&amp;»), 
+wo jetzt in jeder Klammer ein c-faches Bedingungssymbol steht 
+und wo die m Punkte zwischen den Klammern Multiplicationen im 
+gewöhnlichen arithmetischen Sinne anzeigen. Die Gleichung 3 kann 
+man aber nun noch auf eine andere Weise interpretiren, wenn man 
+nämlich nicht auf die Bedingungen y und selbst, sondern auf die 
+Systeme Rücksicht nimmt, welche durch diese Bedingungen definirt 
+werden. Das durch y definirte i- stufige System hatten wir mit U 
+bezeichnet, das durch definirte (c — i)- stufige System wollen wir 
+mit Z' bezeichnen. Dann können ivir in den obigen Klammem immer 
+und y fortlassen, wenn wir darauf achten, dass die Symbole e auf 
+das System 2J' und die Symbole b auf das System U 0u be0iehen sind. 
+Der besseren Unterscheidung wegen wollen wir die auf U' bezüg- 
+lichen Symbole stricheln, so dass wir schreiben: 
+
+4) y0 = b,.e\-\-b,.e'^ + b,.e',-{-...b,n.e'n„ 
+
+wo die Punkte wieder ivirkliclie Multiplicationen anzeigen. Die 
+voranstehenden Ueberlegungen fassen wir zu dem folgenden Haupt- 
+sat0e zusammen. 
+
+Wenn für ein Gebilde F irgend welche m i- fache Bedingungen 
+ausfindig gemacht sind, durch ivelche jede andere i- fache Bedingung 
+
+
+
+278 Sechster Absclinitt. 
+
+ausgedrückt werden kann, so lässt sich die Zahl derjenigen Gebilde F, 
+lüelche einem i- stufigen Systeme E und einem (c — i)- stufigen Systeme 
+2J ' gemeinsam sind, als eine Summe von m Producten von je zivei 
+Faktoren darstellen, von denen der erste Faktor immer angiebt, wieviel 
+U angehörige Gebilde eine i-fache Bedingung erfüllen, der zweite Fak- 
+tor immer angiebt, tvieviel 2J' angehörige Gebilde eine (c-~i)- fache 
+Bedingung erfüllen. Die m i- fachen Bedingungen und die m (c~i)- 
+fachen Bedingungen können ganz willkürlich gewählt werden, nur 
+müssen sie von einander unabhängig sein. Um die Zahl der gemein- 
+samen Gebilde der beiden Systeme so auszudrücken, ist die Kenntniss 
+der folgenden Zahlen erforderlich, erstens der m Zahlen, welche an- 
+geben, wieviel 2J angehörige Gebilde jede der gewählten m i- fachen Be- 
+dingungen erfüllen, zweitens der m Zahlen, ivelche angeben, tvieviel ü' 
+angehörige Gebilde jede der gewählten m (c — i) -fachen Bedingungen 
+erfüllen, drittens der m^ Zahlen, welche angeben, wieviel Gebilde die 
+m^ zusammengesetzten Bedingungen erfüllen, deren jede aus einer der 
+i- fachen und einer der (c — i)- fachen Bedingungen besteht. 
+
+Beispielsweise nehmen wir als bekannt an, dass bei einem 
+Kegelschnitt in fester Ebene jede einfache Bedingimg durch die 
+beiden oben definirten Bedingungen ^ und v ausgedrückt werden 
+kann. Wir können uns dann die Aufgabe stellen, die Zahl % der 
+Kegelschnitte zu berechnen, welche einem gegebenen einstufigen 
+Systeme Z und einem gegebenen vierstufigen Systeme U' gemein- 
+sam sind, und zwar können wir zur Berechnung für U zwei ein- 
+fache und für 2J' zwei vierfache Bedingungen beliebig annehmen. 
+Es seien dies für 2J die beiden Ausartungsbedingungen d und e, 
+für 2J' die beiden Bedingungen ^'"^ und v'^, welche bezeichnen, dass 
+ein Kegelschnitt in 2J' durch vier gegebene Punkte gehen resp. 
+vier gegebene Gerade berühren soll. Die definireude Bedingung 
+von S sei y, die von U' sei z; dann können wir schreiben: 
+
+wo wir «j und a^ zu bestimmen haben. Wir multipliciren deshalb 
+mit fi'* und i/^; dann bekommen wir rechts Ö^^, s^^, dv^, £v*. 
+Nun ist aber (§ 20, pag. 94) 
+
+
+
+
+
+dft^ 
+
+
+= 3, 
+
+
+£a* = 0, dv^ = 0, £1/^ = 3; 
+
+
+also kommt: 
+
+und 
+
+woraus folgt: 
+
+
+
+
+
+
+iu,*^ = 3 . «1 + . «y 
+
+v*0 = O.ai-f 3.ß^, 
+
+
+
+Die Charakteiistikentheorie. 279 
+
+Folglich ist die Zahl der den beideu Systemen gemeinsamen 
+Kegelschnitte gleich , ,a ^ , , ,4 
+
+Es geht aus unserem Hauptsatze auch hervor, dass, wenn bei 
+einem Gebilde F mit der Constantenzahl c m i- fache Bedingungen 
+erforderlich sind, um jede andere *- fache Bedingung auszudrücken, 
+daim auch m (c — ()- fache Bedingungen erforderlich sind, um 
+jede andere fc — i^- fache Bedingung auszudrücken. Die constante 
+Zahl m, welche angiebt, wieviel i- fache Bedingungen bei einem 
+Gebilde F nöthig sind, um jede andere ^-fache Bedingung auszu- 
+drücken, wollen wir die i-stiiflge Chardliteristikenmhl des Gebildes 
+F nennen. Danach können wir die eben ausgesprochene Behauptung 
+kurz so aussprechen: 
+
+Bei jedem Gebilde F mit der Constantenzahl c ist die i- stufige 
+CharaJcteristiJienmJd gleich der (c — i)- stufigen (Lit. 50). 
+
+Ein Gebilde mit der Constantenzahl c besitzt demnach ^c oder 
+4(c— 1) Charakteristikenzahlen, je nachdem c gerade oder ungerade 
+ist; beispielsweise führen wir hier die Charakteristikenzahlen beim 
+Kegelschnitt im Räume und bei der quadratischen Fläche an (cf 
+Math. Ann. Bd. 10, pag. 360 und 362). 
+
+Beim Kegelschnitt im Räume ist 
+
+1. die einfache und die siebenfache Charakteristikenzahl gleich 3, 
+
+2. die zweifache und die sechsfache gleich 6, 
+
+3. die dreifache und die fünffache gleich 9, 
+
+4. die vierfache gleich 10. 
+
+Bei der quadratischen Fläche ist 
+
+1. die einfache und die achtfache Charakteristikenzahl gleich 3, 
+
+2. die zweifache und die siebenfache gleich 6, 
+
+3. die dreifache und die sechsfache gleich 10, 
+
+4. die vierfache und die fünffache gleich 13. 
+
+Beim Kegelschnitt müssen also zwischen je (Je + 9) dreifachen 
+Bedingungen mindestens k von einander unabhängige Gleichungen 
+bestehen; bezeichnen z. B. w, w, r für den Kegelschnitt dieselben 
+Bedingungen, wie in § 16, so besteht zwischen den zehn Bedingungen 
+
+n^, n^r, nr^, r^, mn^, mnr, mr"^, m^n, m^r, m^ 
+eine einzige allgemeingiltige Gleichung. Diese haben wir schon in 
+§ 16 unter Nr. XIV (pag. 80) kennen gelernt; sie lautet: 
+
+5) 2n^ — 3n^r -f 'dnr^ — 2r^ — 6wm^ + Amnr + . tnr^ + 12m^w 
+-8wV-f0.w3-=0. 
+
+
+
+280 Soehster Abschnitt. 
+
+Diese Formel ist eine Verallgemeinerung der Formel 11 auf 
+pag. 406 des Lindemann'sclien Werkes über Clebscli's Vorlesmigen. 
+Ebenso haben wir in § 16 unter Nr. XI und XII die beiden Gleich- 
+ungen kennen gelernt, welche bei der Fläche zweiten Grades zwi- 
+schen den 15 vierfachen Bedingungen 
+
+fl*, fi^9, ^i^Q^, ^Q^, Q^, v^^, l'O^Q, V^Q^, VQ^, l^^fi^, 
+
+v'^^lQ, V^Q^, V^^, V^Q, V^ 
+
+bestehen, wo ft, v, q wieder dieselben Bedingungen bezeichnen, wie 
+in den §§16 und 22. Diese beiden Gleichungen lauteten: 
+
+6) 2i/V -^v^Q- 3i^V' + ?&gt;v^Q^ + 2v^^-2vQ^==(). 
+
+7) 2v^ - öv^u -bv^Q^ 6i^V' + 8vV(&gt; + 6^'P' -4.v^^ - Qv^i^q 
+
+- 6viu,p2 _ 4^p3 ^ 4^3^ _l_ 4,^^3 _ 0. 
+
+Die Gleichungen zwischen den mehr als vierfachen aus ft, v, 
+Q zusammengesetzten Bedingungen lassen sich leicht durch das 
+oben beim Kegelschnitt angewandte EUnimationsv erfahren ableiten. 
+Um z. B. für die quadratische Fläche die 42 Gleichmigen zu er- 
+halten, welche zwischen den 45 achtfachen aus ft, v, q zusammen- 
+gesetzten Bedingungen bestehen, multipliciren wir die Gleichung 
+
+2 = a(.i-{- ßv -j-yg 
+mit den 45 aus ^, v, q zusammengesetzten achtfachen Bedingungen, 
+substituiren rechts für die entstandenen neunfachen Symbole die in 
+§ 22 berechneten Anzahlen und eliminiren a, ß, y. Dann erhalten 
+wir 42 Gleichungen zwischen denjenigen 45 Symbolen, welche aus 
+z und einer achtfachen u, r», q enthaltenden Bedingung zusammen- 
+gesetzt sind. Lässt man das willkürliche Symbol z in diesen 42 
+Gleichungen fort , so erhält man die Gleichungen in der gewünschten 
+Form. Um ein zweites Beispiel zu haben, betrachten wir den Kegel- 
+schnitt in fester Ebene. Bei demselben ist die einstufige Charak- 
+teristikenzahl und deshalb auch die vierstufige gleich 2, die zwei- 
+stufige und deshalb auch die dreistufige gleich 3; also giebt es 
+eine einzige Gleichung zwischen 
+
+und drei Gleichungen zwischen 
+
+;«.*, ft^v, itt^''''^, l^v'^j v*, 
+
+wo ft und V wieder die im Anfang dieses Paragraphen angegebene 
+Bedeutung haben. Um die eine Gleichung zwischen [i^, fi^v, iiv^y 
+v^ abzuleiten, multipliciren wir mit diesen Bedingungen die Gleichung 
+
+z ^ a . ^^ -{■ ß . ^v -\- y .v^ 
+
+
+
+Die Charakteriwtikentheone. 281 
+
+imd setzen für ft^, ^'^v, ^^v^, ^^v^, ^ v\ v^ die bekannten (§ 20) 
+
+Werthe 1, 2, 4, 4, 2, 1 ein; dann kommt: 
+
+^c'^ = a + 2ß + 4y, 
+
+^^v2 = 2a-j-4ß-\-4y, 
+
+^iv^2 = 4a-\-4ß^2y, 
+
+v^j3 = 4a + 2ß + y. 
+
+Hieraus folgt durch Elimination von a, ß, y die gesuchte Gleichung: 
+
+8) = 2ii^ - 3^2^ + ?&gt;iiv^ - 2v^, 
+
+ein specieller Fall der oben mit 5) bezeichneten Gleichung, bei 
+welcher n, r die Bedingungen bedeuteten, die hier ft resp. v heissen. 
+Ebenso erhalten wir die drei Gleichungen zwischen ft^, ^^v, ;*^v'^, 
+ftv^, v^ durch Elimination von a und ß aus: 
+^^z = a + 2ß, 
+li^vz = 2a + 4ß, 
+
+
+
+
+
+ii^v^z=-4a + 4ß, 
+
+
+
+
+^v^0 = 4a-\-2ß, 
+
+
+dann kommt: 
+
+
+v*2 = 2a + /3; 
+
+
+9) 2^^-/^-V = 
+
+
+= 0, 4^'-\-4v'-3p,'v'- 
+
+
+
+0, 2v^-ftv=* = 0. 
+
+Zwei solche Gleichungen vierter Dimension hätte man auch 
+durch Multiplication der Gleichung 8 mit ^ und v erhalten können. 
+
+Allen den voranstehenden Erörterungen liegt die Voraussetzung 
+zu Grunde, dass es bei einem Gebilde F möglich ist, eine endliche 
+Anzahl von i-fachen Bedingungen zu finden, durch welche jede 
+andere ^'-fache Bedingung ausgedrückt werden kann. Dass dies bei 
+jedem Gebilde möglich ist, hat man noch nicht bewiesen; wohl 
+aber existiren Gebilde, für welche es bewiesen ist oder in den fol- 
+genden Paragraphen bewiesen werden soll. Es sind dies der Punkt, 
+die Ebene, der Strahl, der Kegelschnitt und gewisse aus einer end- 
+lichen Anzahl von Punkten, Ebenen und- Strahlen zusammengesetzte 
+Gebilde, z. B. die in den §§ 34 und 35 behandelten Gebilde, von 
+denen das eine aus einer Geraden mit n darauf liegenden Punkten, 
+das andere aus einem Strahlbüschel mit n darin liegenden Strahlen 
+besteht. Es ist für die Fortschritte der abzählenden Geometrie von 
+grosser Wichtigkeit, auch noch andere Gebilde in dieser Richtung 
+zu untersuchen. Wir definiren daher jetzt für jedes Gebilde F ein 
+Problem, welches wir unter dem Namen CharaMeristikenpröblem des 
+Gebildes F mit Rücksicht auf den oben bewiesenen Hauptsatz; 
+folgendermassen formuliren: 
+
+
+
+282 Sechster Abschnitt. 
+
+„Ein Gebilde P mit der Constantemahl c sei Element eines 
+heliebigen i- stufigen Systems H und auch Element eines ganz heliebigen 
+(c — i)- stufigen Systems Z"'. Beiden Systemen ist eine endliche Anzahl 
+X von Gebilden F gemeinsam. Es wird für alle möglichen Werthe 
+von i verlangt, die Anzahl x als Summe von m Prodiicten darzu- 
+stellen, deren jedes aus zivei Faktoren besteht, von denen der erste 
+Faldor immer angiebt, wieviel Gebilde aus 2^ eine i- fache Bedingung 
+erfüllen, der ztveite Faldor angiebt, wieviel Gebilde aus 2J' eine (c — i)- 
+fache Bedingung erfüllen. Das Broblem gilt als gelöst, gleichviel wie 
+gross die Zahl m wird und gleichviel, welche i-fachen und welche 
+(c — i) - fachen Bedingungen * ztir Bildung der Producte verwandt 
+werden mussten. Da man für alle möglichen Werthe von i und c — i 
+Fortnein aufzustellen hat, so besteht die Lösung des CharaUeristiken- 
+problems in der Aufstellung von |c oder ^(c — 1) Formeln, je nach- 
+dem c gerade oder ungerade ist}' 
+
+Die Formeln, welclie die gesuchte Zahl x ausdrücken, sollen 
+Charctlderistihenformeln und die in ihnen auftretenden Bedingungen 
+CharaMeristilcen heissen. Das Symbol x soll zugleich auch die 
+c- fache Bedingung bedeuten, welche das Gebilde F dadurch erfüllt, 
+dass es den beiden Systemen E und 2J' gemeinsam ist. Multiplicirt 
+man eine Charakteristikenformel mit einer /v- fachen auf F bezüg- 
+lichen Bedingung z, so darf man sowohl die auf 2J bezüglichen 
+«-fachen Symbole, wie auch die auf U' bezüglichen (c — i) -fachen 
+Symbole multipliciren. Je nachdem erhält man eine Formel, welche 
+sich auf ein (Ä; + i)- stufiges und ein (c — i) -stufiges oder auf ein 
+i- stufiges und ein (c + Z; — i) - stufiges System bezieht. In beiden 
+Fällen bezeichnet xz die Zahl derjenigen Gebilde F, welche den 
+beiden Systemen gemeinsam sind und ausserdem die Bedingung z 
+erfüllen. So kann man durch blosse symbolische Multiplication aus 
+jeder ursprünglichen Charakteristikenformel eine unbeschränkte An- 
+zahl neuer Formeln erhalten, welche abgeleitete CharaMeristilcen for- 
+mein heissen sollen. 
+
+Für den Punkt und die Ebene wird das Charakteristilienproblem 
+durch die Bezout'schen Sätze (§ 13, pag. 47) gelöst. Ist nämlich ein 
+einstufiges System 2J von Punkten, d. h. eine Curve, und ausserdem 
+ein zweistufiges System U' von Punkten, d. h. eine Fläche, gegeben, 
+so haben beide eine endliche Anzahl x von Punkten gemeinsam. 
+
+
+
+Namentlich können dies auch Ausartuugsbedingungen sein. 
+
+
+
+Die Cluirakterisfcikentlieorie. 283 
+
+welche man bekamitlich erhält, wenn man die Gradzahlen der Curve 
+und der Fläche mit einander multiplicirt, d. h, die Zahl der U an- 
+gehörigen und in einer gegebenen Ebene liegenden Punkte mit der 
+Zahl der U' angehörigen und in einer gegebenen Geraden liegenden 
+Punkte. Bezeichnen also p resp. j)' die Bedingungen, dass ein U 
+resp. U' angehöriger Punkt in einer gegebenen Ebene liegen soll, 
+2)^ resp. p'^, dass ein solcher Punkt auf einer gegebenen Geraden 
+liegen soll, so haben wir, gemäss den obigen Erörterungen, die 
+eine Charakteristikenformel des Punktes so zu schreiben: 
+
+10) . x=p.p'\ 
+
+Hieraus folgt durch symbolische Multiplication mit p die abgeleitete 
+Charakteristikenformel für zwei gegebene zweistufige Systeme: 
+
+11) xp^p^.iP, 
+
+eine Formel, welche nichts anderes ausspricht, als dass der Grad 
+der Schnittciirve ztveier Flächen gleich dem Froducte ihrer Grad- 
+zahlen ist 
+
+Für den Strahl wird das Charakteristikenproblem durch die in 
+§ 15 aus den Coincidenzformeln abgelesenen Halphen'schen Sätze 
+(pag. 62) gelöst. Wir bezeichnen wieder die beiden gegebenen 
+Systeme mit 2^ und 2'^ ferner die Grundbedingungen des Strahles 
+mit g, ge, gp, g^, G^ wenn sie auf 2J zu beziehen sind, und mit g', 
+g'e, g'p, g's, G', wenn sie auf Z' zu beziehen sind. Dann lauten 
+die Charakteristikenformeln des Strahles erstens, wenn Z einstufig, 
+Z'- dreistufig ist, 
+
+12) x=^g.g',, 
+zweitens, wenn beide Systeme zweistufig sind, 
+
+13) x = ge.g'e-\-gp^g'p. 
+
+Es ist also beim Strahl die einstufige und deshalb auch die drei- 
+stufige Charakteristikenzahl gleich 1, die zweistufige aber gleich 2, 
+was für die Liniengeometrie von fundamentaler Bedeutung ist. 
+
+Die Formel für xg bei einem zweistufigen und einem drei- 
+stufigen Systeme erhält man entweder durch Multiplication von 12 
+mit g oder von 13 mit g'-^ in beiden Fällen erhält man: 
+
+14) xg = ge.g's-\-gp.g's. 
+
+Die Formeln für xg^ und xg^, bei zwei dreistufigen Systemen 
+resultiren aus 12 durch Multiplication mit g^ und ^^/, nämlich: 
+
+15) xge = gs.g\ 
+und 
+
+16) xgp = g,.g\. 
+
+
+
+284 Sechster Abschnitt. 
+
+lu jeder dieser Formeln darf man nun immer von den beiden 
+Faktoren eines Productes den einen als Bedingung, den anderen als 
+Coefficienten auffassen; z. B. sagt Formel 13 aus, dass jede einem 
+Strahle auferlegte zweifache Bedingung 2 gleich der Summe der 
+beiden mit gewissen Coefficienten multiplicirten Bedingungen ge und 
+gp ist und zwar so, dass der Coefficient von ge angiebt, wieviel 
+Strahlen z erfüllen und dabei in einer gegebenen Ebene liegen, gp 
+angiebt, wieviel Strahlen z erfüllen und dabei durch einen gegebenen 
+Punkt gehen. Bemerk enswerth ist übrigens, dass man die Gestalt 
+der Formel immer ohne Weiteres bestimmen kann, sobald man nur 
+die Charakteristikenzahlen kennt. Weiss man z. B., dass der Strahl 
+die zweistufige Charakteristikenzahl 2 hat, so kann man ge und gp 
+als diejenigen zweifachen Bedingungen auswählen, durch welche man 
+alle übrigen Bedingungen ausdrücken kann, und deshalb schreiben: 
+
+z=-a.ge + ß.gp. 
+Multiplicirt man nun mit ge oder ^^, so kommt: 
+
+zge = a.l^-ß.O 
+
+zg.^a. O + ß.l; 
+also hat man g'e für a, g'p für ß zu setzen. 
+
+
+
+§ 38. 
+Das Cliarakteristikeuprobleni für den Kegelschnitt (Lit. 51). 
+
+In den §§ 13 und 15 haben wir die Formel für die Zahl der 
+gemeinsamen Elemente zweier Systeme von Punkten oder von Strah- 
+len aus den Coincidenzformeln für Punktepaare oder für Strahlen- 
+paare abgelesen. Dabei ergab sich z. B. die Zahl der gemeinsamen 
+Punkte einer Curve und einer Fläche als die Zahl derjenigen Punkte, 
+in denen ein Punkt der Curve und ein Punkt der Fläche eine volle 
+Coincidenz bilden, d. h. derartig unendlich nahe liegen, dass der 
+Verbindungsstrahl der Coincidenzstelle mit einem willkürlich an- 
+genommenen Punkte als Coincidenzstrahl aufgefasst werden darf. 
+Ueberträgt man diese Methode vom Punkte auf den Kegelschnitt in 
+fester Ebene, so hat man die Zahl x der Kegelschnitte, welche 
+zweien Systemen mit der Stufensumme 5 gemeinsam sind, als die 
+Zahl derjenigen Kegelschnitte Q zu hestimmen, in denen zwei Kegel- 
+schnitte der beiden Systeme derartig unendlich nahe liegen, dass diese 
+beiden unendlich nahen Kegelschnitte einem ganz willkürlich gewählten 
+durch Q gelegten KegelschnitthäscJiel angehören oder, was dasselbe ist, 
+
+
+
+Die Cliarakteristikontheovie. 285 
+
+dass ihre vier Sclinittpunlite auf einem heliehig f/ewählten Kegelschnitte 
+K liegen. Eine solche Bestimmung der Zahl x hat zugleich vor den 
+bekannten algebraischen Bestimmungen den wichtigen Vorzug, dass 
+sie am deutlichsten die Analogie mit den Bezout'schen Sätzen zeigt. 
+Gegeben ist in fester Ebene ein einstufiges System E und ein 
+vierstufiges System 2J' von Kegelschnitten, ferner ein beliebig ge- 
+wählter Kegelschnitt K. Für 2J bezeichnen wir mit ft die Beding- 
+ung, dass ein Kegelschnitt durch einen gegebenen Punkt gehen soll, 
+mit V die Bedingung, dass er eine gegebene Gerade berühren soll, 
+mit d die Bedingung, dass seine Punkte zwei Gerade bilden sollen, 
+mit £ die Bedingung, dass seine Tangenten zwei Strahlbüschel 
+bilden sollen (cf. § 20). Für S' bezeichnen wir diese Bedingungen 
+mit denselben Symbolen, aber gestrichelt] z. B. bedeutet (it'* die Be- 
+dingung, dass ein 2J' angehöriger Kegelschnitt durch vier gegebene 
+Pmikte gehen soll. Wir suchen nun vermöge des gewöhnlichen 
+Chasles' sehen Correspondemprincips auf einer beliebigen Geradm g die 
+Zahl derjenigen Punkte zu bestimmen, durch ivelche zugleich ein Kegel- 
+sdmitt aus 2J und ein Kegelschnitt aus U' derartig gelegt tverden 
+kann, dass die vier Schnittpunkte dieser beiden Kegelschnitte alle auf 
+K liegen. Durch einen beliebigen Punkt A auf g gehen ^ Kegel- 
+schnitte aus S, von denen jeder K in vier Punkten G, D, E, F 
+schneidet. Durch vier solche Schnittpunkte gehen ^i'^ Kegelschnitte 
+aus Zl\ von denen jeder g in zwei Punkten B schneidet; also ent- 
+sprechen dem Punkte A 
+
+Punkte B. Es fragt sich nun, wieviel Punkte A umgekehrt einem 
+Punkte B entsprechen. Um diese Zahl anzugeben, brauchen wir 
+die Zahl v derjenigen 2J' angehörigen Kegelschnitte, deren jeder 
+durch einen gegebenen Punkt geht und K so in vier Punkten schneidet, 
+dass durch diese vier Punkte ein 2J angehöriger Kegelschnitt mög- 
+lich wird. Man kann diese Zahl v durch Punktcorrespondenzen 
+auf K bestimmen, am schnellsten jedoch durch das Princip von der 
+Erhaltung der Anzahl, indem man den gegebenen Punkt auf K 
+selbst legt. Dann gehen durch diesen Punkt ^ Kegelschnitte aus 
+2J, von denen jeder K in noch drei anderen Punkten schneidet. 
+Durch die vier Schnittpunkte gehen dann ^'^ Kegelschnitte aus Z''; 
+also existiren in 2J' 
+
+V = fl.^'^ 
+
+Kegelschnitte, welche durch einen gegebenen Punkt gehen und K 
+in vier Punkten so schneiden, dass durch die vier Punkte ein U 
+
+
+
+286 Sechster Abschnitt. 
+
+angehöriger Kegelschnitt gehen kann. Jeder dieser v Kegelschnitte 
+aus U schneidet dann g in zwei Punkten A-, also entsprechen auf 
+g jedem Punkte B auch 
+
+Punkte A. Es giebt daher nach dem Correspondenzprincip (§ 13) 
+auf g 
+
+Punkte {AB)^ deren jeder zwei Punkte A und B vereinigt. Solche 
+Coincidenzstellen {AB) werden auf dreierlei Weise verursacht: 
+
+1. durch den Kegelschnitt K vermöge seiner beiden Schnitt- 
+punkte mit g, 
+
+2. durch jeden der x den beiden Systemen gemeinsamen 
+Kegelschnitte vermöge seiner beiden Schnittpunkte mit g, 
+
+3. durch jeden Kegelschnitt s in U, weil ein solcher seine 
+Punkte avif zwei zusammenfallenden Geraden hat. 
+
+Jeder der beiden Schnittjjunkte von g und K ist u . (i'^ mal 
+eine Coincidenz (AB), weil durch ihn ^ Kegelschnitte aus 2 gehen 
+und für jeden dieser ^ Kegelschnitte ji'^ Kegelschnitte aus U' so 
+entnommen werden können, dass sie mit ihm nicht bloss den Schnitt- 
+punkt von g und K, sondern noch drei andere Punkte auf K, im 
+Ganzen also vier Punkte auf K gemein haben. Femer ist jeder 
+Schnittpunkt von g mit einem der gesuchten a', den beiden Systemen 
+gemeinsamen Kegelschnitte einmal eine Coincidenz {AB)^ wie zu 
+Anfang des Paragraphen erörtert ist. Die eben erwähnten Coinci- 
+denzen sind die einzigen, welche durch nicht ausgeartete Kegel- 
+schnitte in 2J erzeugt werden können. Wohl aber erzeugt jeder 
+Kegelschnitt in U, welcher die Ausartungsbedingung s erfüllt, eine 
+gewisse Anzahl von Coincidenzen, Ein solcher Kegelschnitt schneide 
+g in den beiden zusammenfallenden Punkten P, und K in den vier 
+Punkten C, B, E, F, von denen zweimal zwei unendlich nahe 
+liegen, und zwar mögen C und B im Punkte (CB), E und F im 
+Punkte (EF) unendlich nahe liegen. Durch diese vier Punkte 
+0, Bj E, F gehen nun zwar u'* Kegelschnitte aus E\ aber nicht 
+jeder von ihnen geht auch durch P. Es thim dies nicht diejenigen 
+Kegelschnitte aus E', welche die Gerade CB im Punkte (CB) und 
+zugleich die Gerade EF im Punkte (EF) eigentlich berühren, d. h. 
+welche nicht bloss in (CB) und ia (EF) zweipunktig schneiden, 
+sondern auch die Geraden CB und EF als Tangenten besitzen. 
+Nun ist aber die Bedingimg, dass ein Kegelschnitt aus Z' eine ge- 
+
+
+
+Die Charakteristikentlieorie. 287 
+
+gebene Gerade in einem gegebenen Punkte berühre, gleicli \u'v', 
+wie in §§ 16 und 20 (pag. 74 und 96) gezeigt ist; also bleiben 
+
+Kegelscbnitte aus U' übrig, welche durch die vier Punkte O, D, E, F 
+gehen, ohne in (CD) oder (EF) zu berühren. Ein solcher Kegel- 
+schnitt muss aber seine sämmtlichen Punkte auf dem Verbindungs- 
+strahle von {CD) und (FF) haben, also die Äusartungshedingimg s' 
+erfüllen. Er coincidirt demnach im Ort der Punkte mit dem be- 
+trachteten Kegelschnitt s vollständig, schneidet also g auch in den 
+heiden zusammenfallenden Punkten P; deshalb giebt es auf g 
+
+Coincidenzen von der dritten der oben aufgezählten drei Sorten. 
+Wir erhalten also schliesslich die Gleichung: 
+
+Daraus ergiebt sich für die gesuchte Zahl x der den beiden 
+Systemen U und 2J' gemeinsamen Kegelschnitte: 
+
+2) x = ^.^i''-s.(ii'^--^^''v''). 
+
+Wenn man will, kann man statt der beiden Bedingungen ^ 
+und s die beiden Bedingungen [i und v einführen, indem man 
+
+3) 8 = 2. ^i-v (c£ §§ 20, 37) 
+setzt; daim kommt: 
+
+Damit ist das CharaMeristikeivproUem des Kegelschnittes für den 
+Fallj dass ein einst^ifges und ein vierstufiges System vorliegt ., gelöst 
+und zugleich der CJiasles'seJie Satz bewiesen (cf. § 37). Bemerkens- 
+werth ist bei der obigen Ableitung, dass sie nicht bloss erkennen 
+lässt, dass beim Kegelschnitt jede Bedingung durch ^ und v aus- 
+drückbar ist, sondern zugleich auch gewisse Werthe der Coefficien- 
+ten von f* und v ergiebt. Wie im vorigen Paragraphen ausführlich 
+erörtert ist, können diese Coefficienten a und ß auf mannichfacJie 
+Weise durch die fünf Bedingungen 
+
+(i'% ^'^v', ^i''v'% ii'v'\ v'^ 
+ausgedrückt werden, weil zwischen diesen fünf Bedingungen drei 
+von einander unabhängige Gleichungen bestehen. Fine solche 
+Gleichung erhält man schon dadurch, dass man die Formel 4 dual 
+umformt und sie dami mit der dual umgeformten vergleicht; dann 
+kommt nämlich: 
+
+3 . ^'^v'- = 4 . ^'^ + 4 . 1/'* (§ 37, Formel 9). 
+
+
+
+288 Sechster Abschnitt. 
+
+In ähnliclier Weise kann man die Zahl der gemeinsamen 
+Kegelschnitte eines zivdstufigen und eines dreiskifigen Systems finden. 
+Um diese Zahl auszudrücken, hat man jedem der beiden Systeme 
+drei Bedingungen 7a\ entnehmen. 
+
+Bei der Uebertragung der obigen Ableitung von Kegelschnitten 
+auf Flächen ziveiten Grades haben wir statt des Kegelschnitts K 
+eine Fläche zweiten Grades zu setzen und statt der Schuittpunkt- 
+quadrupel Eaumcurven vierter Ordnung zu setzen. Bezeichnet man 
+dann für ein einstufiges System ZI mit ^u, v, q, q), %, il' dieselben 
+Bedingungen wie in § 22, und mit fi', v', p', 9?', %', 7^' dieselben 
+Bedingungen für ein achtstufiges System U', so erhält man für die 
+Zahl X der den beiden Systemen gemeinsamen Flächen zuerst die 
+Gleichung: 
+
+4 . u . ^a" = 2.a. ,a''^ + 2 . a: + 2 . 9) . i ^'^v'^(p' -\-2.t. tV^"(&gt;&gt;'- 
+
+Ersetzt man nun cp durch 2^ — v und ip durch 2v — ^ — Qj so 
+kommt: 
+
+wo a, ß, y irgend welche Functionen der gestrichelten Symbole 
+sind. Die Kenntniss dieser Functionen ist unwesentlich, weil sie 
+sich auch vermittelst des in § 37 besprochenen Eliminations Ver- 
+fahrens auf mannichfache Weise durch die aus ^', v\ o' zusammen- 
+gesetzten achtfachen Symbole ausdrücken lassen. 
+
+Der Verfasser hofft, in ähnlicher Weise die Charakteristiken- 
+probleme auch noch für andere Curven und Flächen erledigen zu 
+können. Freilich werden die Charakteristikenzahlen dann viel 
+grösser als 2, wie man immer leicht ermitteln kann. Gesetzt z. B., 
+es seien bei der in fester Ebene gedachten Curve dritten Grades 
+mit Spitze die beiden Bedingungen v und q, dass sie durch einen 
+gegebenen Punkt gehe resp. eine gegebene Gerade berühre, aus- 
+reichend, um alle einfachen Bedingungen allgemeingiltig auszu- 
+drücken, so müsste auch zwischen je drei (7 — 1) -fachen Beding- 
+ungen eine allgemeingiltige Gleichung bestehen. Man kann aber 
+leicht aus den in § 23 berechneten Anzahlen entnehmen, dass eine 
+solche allgemeingiltige Gleichung zwischen je drei sechsfachen Be- 
+dingungen nicht besteht. Vielleicht reichen aber die beiden Beding- 
+ungen V und Q im Verein mit den zwölf Ausartungsbeding-imgen 
+öj, (Jg, £1, £2, fg, r^, To, Tg, d-i, -9-2, fji, rj2 (§ 23) aus, um bei der 
+cubischen Plancurve mit Spitze alle einfachen Bedingungen auszu- 
+drücken. Daim wäre bei dieser Curve die einstufige Charakteristiken- 
+zahl gleich 14. 
+
+
+
+Die Charakteristikentheorie. 239 
+
+§39. 
+
+Ableitung und Anwendung der Charakteristikenformeln für 
+
+das Gebilde, welches aus einem Strahle und einem d.arin 
+
+liegenden Punkte besteht (Lit, 52). 
+
+Die Constantenzahl dieses Gebildes ist 5. Wir betrachten da- 
+her zwei gegebene Systeme 2J und U' mit der Stufensumme 5. 
+Jeder Strahl in U heisse g, der darauf befindliche Punkt p^ jeder 
+Strahl in 2J' heisse f/ und der in ihm liegende Punkt j)'. Da der 
+Strahl die Constantenzahl 4 hat, so haben beide Systeme ein ein- 
+stufiges System von Strahlen, d. h. eine Linienfläche gemeinsam. 
+Auf jedem Strahle dieser Linienfläche liegt ein Punkt p und ein 
+Punkt y. Es giebt also nach der Coincidenzformel erster Dimen- 
+sion für Punktepaare (§ 13) auf der Linienfläche 
+
+s=^p-\-p' -g 
+oder, weim man will, 
+
+£-=p-{-p' -g' 
+
+Strahlen, bei denen die beiden Punkte j7 und j/ zusammenfallen. 
+Jeder Strahl der Linienfläche ist aber, wie bei der Ableitung der 
+Bezout-Halphen'schen Sätze aus den Coincidenzformeln (pag. 40 und 
+61) gezeigt ist, als eine volle Coincidens eines Strahles g mit einem 
+Strahle g' anzusehen. Folglich ist die vierfache Bedingung r], dass 
+ein Strahl sowohl Z als Z"', d. h. jener Linienfläche, angehört, nach 
+§ 15 Formel 34 gleich 
+
+Demnach ergiebt sich die Zahl x der den beiden Systemen gemein- 
+samen Gebilde F aus der Stammformel: 
+
+1) x = {p+p' -g){G + g,g^ ^g,g\,+g,g\ + gg\+&amp;) 
+oder, was dasselbe ist: 
+
+^ = 0+y -^') (&amp; + fA-r/ ^g„g'p-^geg'e + g9\-\-&amp;). 
+
+Diese Formel löst nun das Charakteristikenproblem in allen 
+Fällen, also sowohl wenn S einstufig, E^ vierstufig, als auch wenn 
+S zweistufig, E' dreistufig ist. Durch Vertauschung der gestrichel- 
+ten Symbole mit den nicht gestrichelten erhält man natürlich nichts 
+Neues. Ist eines der beiden Systeme i-stufig, so sind alle die- 
+jenigen auf dieses System bezüglichen Symbole gleich null zu setzen, 
+welche nicht y'-fach sind. Es ist daher bei der Ausführung der 
+Multiplication in 1) zweckmässig, die Symbole nach den Dimen- 
+sionen zu ordnen; dann kommt: 
+
+Schubert, Kalkül der abzMileudeu üeümutrie. 19 
+
+
+
+290 Sechster Abschnitt. 
+
+2) x=[pG] + [p' .G-hg'. {Pßs-Cr)] + [v'ff'.9s + 9'p.{pgj,-^fh) 
+
++ 9'e ■ {P9e - gs)] + [p'g'p . gp + p'g'e . (je + g's {pg - ^')] 
++ [p'9's.g+G'{p-g)]-h[p'G'l 
+
+Ist uun 2^ t-stufig, also Z' (5 — ?')- stufig, so ist von den seclis 
+eckigen Klammern in 2) immer die (6 — i)^^ allein von null ver- 
+schieden. Die Fälle i = b und i = ergeben nur Selbstverständ- 
+liches; der Fall ?=4 ergiebt den Satz: 
+
+„Em einstufiges System Z von Gebilden F hat mit einem vier- 
+stufigen Systeme E' von Gebilden F: 
+
+3) x=p'.G + g'.{pgs-G) 
+Gebilde gemein." 
+
+Der Fall i=l ergiebt ganz denselben Satz, nur dass die ge- 
+strichelten und die nicht gestrichelten Symbole mit einander ver- 
+tauscht sind. 
+
+Ebenso erhält man auf zweifache Weise, nämlich sowohl für 
+i = 2, wie für i = 3 den Satz: 
+
+„Ein ziveistufiges System, Z von Gebilden F hat mit einem drei- 
+stufigen Systeme Z' : 
+
+4) ^ = 2^' 9' -9^ + 9'v ■ iS9v - 9^) + 9'e • {pge - gs) 
+Gebilde F gemein." 
+
+Wegen der Incidenzformeln (§ 7) kann man auch schreiben 
+statt Formel 3: 
+
+5) x = p\G-\-g\p^ge, 
+und statt Formel 4: 
+
+6) X =p'^ . g, -f g'j, .p^ -f g\ . pg,. 
+
+Kürzer konnten wir zu diesen Formeln aus Formel 1 durch 
+das Eliminations verfahren des § 37 gelangen. Die Formel 1 zeigt 
+uns nämlich die Möglichheit, bei einem Gebilde F jede einfache Be- 
+dingung durch p)' und g', jede zweifache Bedingung durch j»/^', g'p^ 
+g'e auszudrücken. Dies genügt aber schon vollständig, um die genaue 
+Gestalt der CharaMeristikenformeln su bestimmen. Es muss sich näm- 
+lich nun jede einfache Bedingung (§ 37) durch irgend ivelche zwei 
+einfache Bedingungen und jede zweifache Bedingung durch irgend 
+ivelche drei zweifache Bedingungen ausdrücken lassen. Bezeichnet 
+also z irgend eine einfache Bedingung, y irgend eine zweifache Be- 
+dingung, so kann man z durch p' und g' , y nicht bloss durch p' (/, 
+g\,, g'e, sondern auch durch 2&gt;'^ g\j, g'o ausdrücken; also etwa: 
+
+7) z = a.p,'+ß.(J, 
+
+8) y=^y.p'-'-\-d.g', + t.g'e. 
+
+
+
+Die Charakteristikentheorie. 291 
+
+Durcli symbolisclie Multiplicationen und eventuelle Elimina- 
+tionen ergeben sich nun die Wertbe der Coefficienten a, ß, y, ö, ^ 
+auf mannichfaclie Weise. Am geschicktesten wird es immer sein, 
+mit einer solchen Bedingung zu multipliciren, dass alle Symbole 
+mit Ausnahme eines einzigen null werden. Wir multiplicirexi dem- 
+gemäss Gleichung 7 mit G' und mit 2''^^V, daim kommt: 
+
+2G' = a. 1 + ß.O 
+und 
+
+Dies heisst aber nichts anderes, als dass a angiebt, wieviel Ge- 
+bilde r z und (r' zugleich erfüllen, und /3 angiebt, wieviel .Gebilde 
+r z und l^'^g\ erfüllen. Bezeichnet man also das vierstufige System 
+der z erfüllenden Gebilde mit ^ und jeden Strahl in E mit g, so 
+ist der Coefficient a gleich G, ß gleich p^ge zu setzen. Um ebenso 
+y^ dj t, zu bestimmen, multipliciren wir Gleichung 8 mit g's, p'^^ P'g'e'-, 
+dann kommt: 
+
+yg\^y. 1^8.0-^1.0, 
+
+?/pV. = y.o-f-ö.o + e.i, 
+
+woraus folgt, dass der Coefficient y gleich g\, 8 gleich |}'^, ^ gleich 
+|&gt;'&lt;7^ zu setzen ist. 
+
+Aus den beiden ursprünglichen Charakteristikenformeln 5 und 
+6 leiten wir nun noch die Formeln ab, welche sich auf Systeme 
+beziehen, deren Stufensumme grösser als 5 ist. Dies geschieht, 
+indem wir die Formeln 5 und 6 mit den auf p' und g' bezüglichen 
+Grundbedingungen multipliciren (cf. § 37), Multipliciren wir zuerst 
+die Formel 5 mit p^ und g\ so erhalten wir zwei Formeln, welche 
+sich auf den Fall beziehen, wo E' ztvei stufig, Z vierstufig ist, nämlich: 
+
+xp=2)'^.G-\-p'g' .2)^ge 
+und 
+
+xg=p'g' .G + g'Kp^ge, 
+
+wofür wegen der Incidenzformeln auch geschrieben werden kami: 
+
+9) xp=p'KG+p".p'g,-\-g'e.p'ge, 
+
+10) xg==p".G^g'e.G-hg'e.p'ge-^g'p.p'ge. 
+Multipliciren wir zweitens G mit p' und mit ^', so resultiren zwei 
+Formeln, welche sich auf den Fall beziehen, wo 2J und 2J' leide 
+dreistufig sind; nämlich: 
+
+1 1) xp = p'^ . g, + g\ .p^ + 1^^ . p^ -hp'g'e . pge , 
+
+1 2) xg ^p'^.gs-\- g\ . P^ + g\. • pge + y g\ • gs ■ 
+
+19* 
+
+
+
+292 Sechster Abschnitt. 
+
+Multipliciren wir drittens 5 mit p^'^, mit (fp und mit g'e, so resul- 
+tiren drei Formeln, welclie sich auf den Fall beziehen, wo Z'' drei- 
+stufig, 2J vierstufig ist; nämlich: 
+
+13) xp'=p".G-\-p'g'e.p'ge^p".p'ge, 
+
+14) xgp=p'KG + g',.G-^g\.p'ge, 
+
+15) xg,=p'g'e.G-\-g's.p^ge. 
+
+Natürlich kami man Formel 13 auch aus Formel 6 erhalten, indem 
+man letztere mit pp' multij)licirt, ferner die Summe der Formeln 
+14 und 15, indem man Formel 6 mit gg' multiplicirt, endlich die 
+Summe der Formeln 13 und 15, indem man 6 mit p'g multiplicirt. 
+Die Formeln für zwei gegebene vierstuf ge Systeme kann man 
+wieder auf verschiedenen Wegen erhalten, z. B. indem man 5) mit 
+p''^, mit p'g'e und mit g's multiplicirt; dann kommt: 
+
+16) xp^=p'^g'e.p^ge (auch als Zahl der Schnittstrahlen zweier 
+
+Kegel mit gemeinsamem Scheitel), 
+
+17) xpg, = p'^'g',.G + G'.p'ge+p"g',.yge, 
+
+18) xg, = G'.G+p"g'e.G-hG'.fg,. 
+
+Die Formeln 15, 17, 18 erledigen zugleich das Charakteristiken- 
+problem für den Fall, dass die beiden Systeme von Gebilden F in 
+einer und derselben Ebene, nämlich in der Ebene der Bedingung 
+ge liegen. Lässt man diese Bedingung aus den Formeln ganz fort, 
+indem man sie mit in die Definition des Gebildes P aufuimmt, so 
+hat man in 15, 17, 18 statt G gege, statt G^ g\.g\, statt g\ g'g'e 
+zu schreiben und dann geg'e aus allen Symbolen fortzulassen; dann 
+kommt: 
+
+19) x==p\g, + g'.p\ 
+
+20) xp=^^Kg,-\-g\.p^-\-p'\p% 
+
+21) - ocg = g\.g.A-p'^-gc + g'e.p^. 
+Beispielsweise übersetzen wir Formel 19 in Worte:. 
+
+„Sind in einer festen Ebene ein einstufiges System E und ein 
+Zixeistufges System Z' von Gebilden F gegeben, deren jedes aus einem 
+Sirahle und einem darin befindlichen Ptinkte besteht, so erhält man 
+die Zollt der den beiden Systemen gemeinsamen Gebilde, indem man 
+die Ordnung der von den oo^ Punkten in U gebildeten Curve mit der 
+Zahl multiplicirt, welclie angicbt, ivieviel Gebilde F in Z' eine ge- 
+gebene Gerade haben, ferner den Grad des von den oo^ Strahlen in 2J 
+gebildeten Ortes mit der Zahl midtiplicirt , welche angiebt, wieviel Ge- 
+bdde F in Z' einen gegebenen Punkt haben und darauf endlich die 
+erhaltenen beiden Producte addirt (cf. § 14 am Schluss, pag. 57)." 
+
+
+
+Die Charaktcristikciitheorie. 293 
+
+Die Formeln 5 imd 6 ergeben auch ohne Weiteres die For- 
+meln für die gemeinsamen Gebilde F von mehr als zwei Systemen. 
+Sind drei Systeme gegeben, so haben sie eine endliche Anzahl von 
+Gebilden F gemein, wenn ihre definirenden Bedingungen die Dimen- 
+sionssumme 5 haben, d. h. ihre Systeme die Stufensumme 10 haben 
+und so fort. Ueberhaupt haben / Systeme mit der Stufensumme s 
+immer ein [.s — 5 (i— 1)J- stufiges System von gemeinsamen Gebilden 
+(§ 3). Beispielsweise bestimmen wir die Anzahl der Gebilde, welche 
+fünf gegehenen vierstufigen Systemen 
+
+^l; -^2? ^3? -^47 ^5 
+
+gemeinsam sind. Bezeichnet immer a, die Zahl derjenigen Gebilde 
+aus Z!i , welche ihren Strahl in einer gegebenen Geraden besitzen, 
+ßi die Zahl derjenigen Gebilde aus 2.';, welche ihren Strahl in einer 
+gegebeneu Ebene und zugleich ihren Punkt auf einer gegebenen 
+Geraden haben, so ist die einfache Bedingung ^',-, dass ein Gebilde 
+F dem Systeme 2^i angehört, nach Formel 5 gleich 
+
+p.tti + g.ßi, 
+wo p und g die einfachen Bedingungen bedeuten, dass ein Gebilde 
+F seinen Punkt auf einer gegebenen Ebene besitze, seinen Strahl 
+eine gegeliene Gerade schneiden lasse. Demnach erhält man für 
+die fünffache Bedingung ^i2.,z^2^2r^, dass ein Gebilde F allen fünf 
+Systemen angehöre, die Formel: 
+
+22) z,8,HZ^B^ = («1 .P + ßx -y) («2 -P + k-9) («3 -P -^ßz-U) 
+
+{(^^•p+ß^-y)(s'r,-p-\-k-9)- 
+
+Nach Ausführung der rechts angezeigten Multiplicationen erhält 
+man 32 Glieder, von denen nur diejenigen von null verschieden 
+sind, welche eines der drei Symbole 
+
+phf, Xy'g^ pg" 
+enthalten. Nun ist aber ^Y=l; p^(f==2, pg^==2 (§ 19); also 
+kommt für die gesuchte Zahl x der den fünf Systemen gemeinsamen 
+Gebilde, wie man leicht übersieht: 
+
+23) X' = 1 . («^ «, «3 /3,i /35 -f «1 ff 2 ff 4 ^3 ßr, + «1 «2 «5 ßi ßi + «1 «3 &lt;^4 ß^ ßr, 
+
++ «1 «3 «5 ß2 ßi + «1 CC,i ff., ß.^ ß.^ -f ff y ff y ff .i /3 j ßr, 
+-f ff 2 ffg «5 ßi ßi + ff2 0^1 «5 ßi ß-i 4- «3 ^i «5 ßl ß^) 
+
++ 2 . {a,a,ß,ß,ß, + ct,(^,ß,ß.A + ^,^,ß,ß,ß, + ^x^:Aß:A 
++ a,a,ß,ßj, + a,aj,ßj, + a,a,ßj,ß, 
+4- ci,aAß,ß:, + a,a,ßj,ß, -f- a,a,ß,ß,ß,) 
+
++ 2 . {a,ß,ß,ß,ß, + a,ß,ß,ß,ß, + a,ßj,ß,ß, -f aJJ,ß,ß, 
++ cc,ß,ß,ßM. 
+
+
+
+294 Sechster Abschnitt. 
+
+Durch duale Umformung der hier abgeleiteten Charakteristiken- 
+formeln erledigt man das Charakteristikenproblem für das Gebilde, 
+tvekhes aus einem Strahle imd einer dnrdi. Um gehenden Ebene besteht. 
+
+Das Charakteristikenproblem unseres Gebildes F lässt sich auf 
+eine zweite Art lösen, wenn wir von Anfang an nicht von dem 
+einstufigen Strahlsysteme ausgehen, welches die beiden Systeme 2J 
+und -T' mit der Stufensumme 5 gemein haben, sondern von dem 
+zweistufigen Punktsysteme, das sie beide gemein haben müssen. 
+Durch jeden Punkt dieses Punktsystemes gehen dann ein Strahl g 
+und ein Strahl g'. Fassen wir je zwei so zusammengehörige g und 
+g' als Strahlenpaar zusammen, so wissen wir nach der Formel 40 
+des § 15, dass es 
+
+gp+g'p + e^-ep 
+solcher Strahlenpaare giebt, bei denen die beiden Strahlen derartig 
+unendlich nahe liegen, dass jede durch sie gelegte Ebene als ihre 
+Schnittebene aufgefasst werden darf. Dabei bedeutet e die Beding- 
+ung, dass die Verbindungsebene der beiden Strahlen g und g' durch 
+einen gegebenen Punkt geht. Wir haben daher noch die Beding- 
+ungen e^ und ep durch die auf r/, g\ p, ^ bezüglichen Symbole 
+auszudrücken. Dies gelingt leicht durch die Formeln 39 und 49 
+des § 15, wenn Avir beachten, dass andere Coincidenzen als solche, 
+die die Bedingung c erfüllen, nicht Statt haben liönnen. Es ergiebt 
+sich demnach aus der Formel 39 des § 15: 
+
+ep=9e+g'e-\-l)^, 
+
+imd aus der Formel 49 des § 15: 
+
+Nun ist die dreifache Bedingung, dass ein Punkt p mit emem 
+Punkt p' identisch ist, d. h. dem betrachteten zweistufigen Punkt- 
+system angehört, nach Formel 15 in § 13 gleich: 
+
+p^ +p'^p' +pp'^ 4-y^. 
+
+Folglich ergiebt sich für die gesuchte Zahl x der den beiden Sy- 
+stemen 2,^ und 2-' gemeinsamen Gebilde F 
+
+X = Q,3 +p^p^ +plP +^3) [g^^ + ,J^^ 4. ^g,J _^,2) _ (^^ _^ g'.^p')] 
+
+oder 
+
+24) x=={f -j-p'p' -{-pp'-' + p") . (g, -ge-2.p^ + gg' -\- g\, - y,). 
+Führt man hier die Multiplication aus und wendet die Incidenz- 
+formeln an, so erhält man die Formel 2 noch einmal, wodurch eine 
+interessante Controle ermöglicht ist. Speciell ergiebt sich, wenn 
+
+
+
+Dio Charakteristikentheorie. 295 
+
+2^' einstufig und 2J vierstufig ist, die Formel 5 auf folgende 
+Weise : 
+
+-P'ue.g' + Gl.p'. 
+
+Die Formel 6 gewimit mau zum zweiten Male, indem man zuerst hat: 
+
+■^ = f-9'p-P^-9'e+p^g.p'g'+p{gp-(je-2p^.ir\ 
+und daraus durch die Incidenzformeln findet: 
+
+X = p^'-g'p - / .g'e-^p^ .g'e -hp^.p'^ + pge ■ g'e +pge . p" 
+-\- gs -p''^ + P^ .p''^ — pge -p''^ — '2p^ .1)'^ 
+= p^ ■ g'p +P9e- g'e + gs ■ f^. 
+
+Von den zahlreichen Anwendungen, welche die erhaltenen 
+Charakteristikenformeln bei Anzahlproblemen finden können, sollen 
+folgende hier angeführt werden, 
+
+I. Formel 19 spricht einen Satz aus, von welchem der bekaimte, 
+von mis schon in den §§ 4 u. 14 (p. 14 u.51) bewiesene Satz über die Zahl 
+X der Curven eines Systems, die eine gegebene Curve herühren, ein spe- 
+cieller Fall ist. Bezeichnet man nämlich bei der gegebenen Curve 
+jede Tangente mit g^ und ihren Berührungspunkt mit p', ferner bei 
+dem gegebenen Curvensystem jede Tangente mit g und ihren Be- 
+rührungspunkt mit p, so erhält man bei der Curve ein einstufiges 
+System von Gebilden F mit dem Strahle g' und dem Punkte p', 
+bei dem Curvensystem ein zweistufiges System von Gebilden F mit 
+dem Strahle g und dem Punkte p. Wendet man dann Formel 19 
+an, so ist p' die Ordnung m der Curve, g' der Rang n der Curve, 
+ge die Zahl v der eine gegebene Gerade berührenden Curven des 
+Systems, j)"' die Zahl fi der durch einen gegebenen Punkt gehenden 
+Curven des Systems; also ist: 
+
+x = m.v-\-n.^. 
+
+II. Gerade so kann man aber mit Hilfe der obigen Charakte- 
+ristikenformeln zu allen Anzahlen gelangen, welche sich auf das 
+Gemeinsamhaben von Tangente und Berührungspunkt beziehen. 
+Fasst man z. B. auf einer Fläche F von der Ordnung 'H imd dem 
+Range r jede Tangente g mit ihrem Berührungspunkte p zusammen 
+und ebenso auf einer zweiten Fläche F^ von der Ordnung n' und 
+dem Range / jede Tangente g' mit ihrem Berührungspunkte p', so 
+erhält man zwei dreistufige Systeme von Gebilden F. Wendet man 
+auf diese Systeme die Formeln 11 und 12 an, so hat mau alle 
+
+
+
+296 Sech.skr Abschnitt. 
+
+Symbole gleich null zu setzen, ausser ^j^,,, //.,, iVr/',. , //'s, welche be- 
+züglich gleich n, r, &gt;i', r' sind, Formel 11 giebt demnach nichts 
+anderes, als dass die Schnittcurve der beiden Flächen vom Grade 
+11. n' ist; Formel 12 aber giebt: 
+
+n .r' -\-'n! .r 
+
+als den Grad der Linien fläche, tvelche von den, Schnittlinien der Tan- 
+gentialebenen in gemeinsamen Punkten gebildet ivird. Ist zweitens 
+eine Raumcurve von der Ordnung n und dem Range r und ausser- 
+dem ein dreistufiges System von Raumcurven gegeben, aus welchem 
+immer (p eine gegebene Gerade berühren, % eine gegebene Ebene 
+in einem gegebenen Punkte berühren, so giebt Formel 5: 
+
+n.(p-{-r.x 
+
+als die Zahl derjenigen Raumcurven des Systems, welche die gegebene 
+Raumcurve berühren. Ebenso liefert drittens Formel 6 die Zahl 
+derjenigen Raumcurven eines gegebenen einstufigen Systems, ivelche 
+eine Raumcurve aus einem gegebenen ziveistufigen Systeme berühren. 
+Ferner ergeben sich leicht die Anzahlen für die Berührung von 
+Flächen mit Raumcurven. Ist nämlich viertens eine Raumcurve 
+j/ter Ordnung, r*''" Ranges und ausserdem ein einstufiges System von 
+Flächen gegeben, von welchem ^ durch jeden gegebenen Punkt 
+gehen, v jede gegebene Gerade berühren, so liefert Formel 5: 
+
+n.v -\-r .^i 
+
+als die Zahl derjenigen Flächen des Systems, ivelclie die Raumcurve 
+berühren. Ist fünftens eine Fläche von der Ordnung n und dem 
+Range r imd ausserdem ein einstufiges System von Raumcurven 
+gegeben, von welchem v eine gegebene Gerade schneiden, q eine 
+gegebene Ebene berühren, so liefert Formel 6: 
+
+V .r -\- Q.n 
+
+als die Zahl derjenigen Raumcurven des Systems, tvelche die gegebene 
+Fläche berühren. Es seien sechsteus zwei zweistufige Systeme von 
+Raumcurven gegeben, so dass das erste a Curven, das zweite a' 
+Curven durch einen gegebenen Punkt schickt, ferner das erste b 
+Curven, das zweite b' Curven einen Strahl eines gegebenen Strahl- 
+büschels berühren lässt, endlich das erste c Curven, das zweite c' 
+Curven eine gegebene Ebene in einem Punkte einer gegebenen Ge- 
+raden berühren lässt; dann ergiebt Formel 11: 
+
+a- .b -\-b' .a -\- a' .a -{- c' .c 
+
+
+
+Die Cliarakteristikentlnjorie. 297 
+
+als die Ordnung der Cnrvc der BerührtmgspiinJäe von allen mötjUclicn 
+mvci sich berührenden Ciirven der beiden Systeme, und Formel 12: 
+
+a' .h + y .a-{-V .c + c' .b 
+als den Grad der Linienfläche der zugehörigen Berührungstangenten. 
+Es seien siebentens fünf einstufige Systeme 2J^, 2J.,, Z^, 2.'^, 2'^, von 
+Flächen gegeben, so dass immer aus dem Systeme 27,; ^, Flächen 
+durch einen gegebenen Punkt gehen, v, eine gegebene Gerade be- 
+rühren. Setzt man dann in Formel 23 immer (li statt jedes ß,-, Vi 
+statt jedes a, , so erhält man die Zahl derjenigen Strahlen des Bau- 
+mes, welche von fünf den fünf Systemen angehörigen Flächen in einem 
+und demselben Punkte berührt werden. 
+
+in. Wir fassen auf einer Fläche F jede Tangente g mit ihrem 
+Berührungspunkte p, und auf einer zweiten Fläche F' jede Haupt- 
+tangente g^ mit ihrem Berührungspunkte p' zusammen. Dann er- 
+halten wir ein dreistufiges und ein zweistufiges System, deren ge- 
+meinsame Elemente wir nach Formel 6 bestimmen können. Bezeichnet 
+n die Ordnung, r den Rang von F, n' die Ordnung von F' und a' 
+die Zahl der in einem ebenen Schnitte von JP' liegenden Haupt- 
+tangenten, so ist nach Formel 6: 
+
+2.n\r^a!.n 
+die Zahl derjenigen PunJde auf der Schnittcurve der beiden Flächen 
+F und F', deren Tangenten Haupttangenten für F' sind. Sind beide 
+Flächen punktallgemein, so ist nach § 33: 
+
+r = n (n - 1) und a' = Sn' («' - 2) 
+zu setzen; dann wird aus der obigen Zahl: 
+
+2nn'{n-l)-j-'6nn'{n'^'2) 
+oder 
+
+nn'(2n-[-3n'~^8), 
+
+wie auch in Salmon-Fiedler's Raumgeometrie (Art. 438) gefunden 
+wird. 
+
+IV. Gegeben sind zwei strahlallgemeine Complexe C und C, 
+von denen C n^^'^ Grades, C i/'"" Grades sei. Jeder Strahl g in C 
+enthält nach § 36 (p. 271) vier PunJde, welche Spitzen von Complexcurven 
+■werden, die g herühren. Jeden dieser vier Punkte fassen wir als 
+Punkt 2^ i^it g zu einem Gebilde F zusammen und thun darauf 
+dasselbe für den Complex C. Dann erhalten wir zwei dreistufige 
+Systeme von Gebilden F, welche go^ gemeinsame Elemente haben. 
+Die Strahlen dieser gemeinsamen Elemente bilden eine Linienfläche, 
+deren Grad uns Formel 11 liefert. Die Punkte der gemeinsamen 
+
+
+
+298 Sechster Abschnitt. 
+
+Elemente bilden eine Curve, deren Grad sich aus Formel 12 be- 
+stimmt; wir haben nämlich nach § 36, pag. 271 zu setzen: 
+j/ = 3 . n (n —2), &lt;/, = 4 . n, pge = n (3 n — 2), 
+^/^ = 3.u'(;i'-2), i/'. = 4.&lt; ijV, = «'(3';i'--2). 
+Setzt man diese Werthe in die Formeln 12 und 11 ein, so erhält man: 
+
+xp = 2nn' ([}nn' - 6n - 6n' - 2). 
+Die erste Zahl ist der Grad des Ortes aller derjenigen oo^ StraJüen, 
+ivelche zu zwei den leiden gegebenen Complexen n*^" und w'"^" Grades 
+angehörigen Complexcurven RückJcehrtangenten mit gemeinsamer Spitze 
+sind. Biese Spitzen selbst bilden eine Curve, deren Grad die ztveite 
+der obigen Zahlen angiebt. 
+
+V. Um noch eine Anwendung auf ein Problem der metrischen 
+Geometrie zu zeigen, fassen Avir auf einer gegebenen Fläche F n^^"" 
+Ordnung, i*'" Ranges jede Tangente g mit ihrem Berührungspunkte 
+p) zu einem Gebilde F zusammen und auf einer zweiten Fläche F^ 
+»i'*"'" Grades, r''^^° Ranges, V^^'^ Klasse jeden Funkt p)' mit seiner 
+Normale g\ Dann erhalten wir ein dreistufiges System S und ein 
+zweistufiges System L\ Die Zahl der ihnen gemeinsamen Gebilde 
+finden wir durch Anwendung der Formel 6, indem wir gs = i^, 
+pg^ = n, p''^ = n' und g'e gleich der Zahl der in einem ebenen Schnitte 
+von F' liegenden Normalen setzen. Diese Zahl fanden wir in § 4 
+Beispiel 6 gleich dem Range r' der Fläche F'-^ also ist: 
+
+n' .r-\-n.r' 
+die Zahl derjenigen Ptinlte auf der Schnittcurve der beiden Flächen, 
+in denen die Normale zu der einen Fläche die andere Fläche berührt, 
+d. h. in denen die beiden Flächen sich rechttvinUig schneiden. Hat 
+man statt der Fläche F ein einstufiges System von Flächen, aus 
+welchem ^ durch einen gegebenen Punkt gehen, v eine gegebene 
+Gerade berühren, so bilden diejenigen Punkte auf der Fläche F', 
+in denen eine Fläche des Systems rechtwinklig schneidet, eine 
+Curve, deren Grad man aus Formel 9 gleich 
+
+ß.{n' -^r')-{-v.n' 
+erhält. Um daiui noch nach Formel 10 den Grad der von den 
+Normalen dieser Pimläe gebildeten Linienfläche zu erhalten, müssen 
+wir ausser den Werthen der Symbole p''^ und g'e den Werth von 
+g'p, d. h. die Zahl der von einem gegebenen Punkte ausgehenden 
+Normalen kennen. Hierfür erhielten wir in § 4, Beisp. 6, n'-{-r'-\-Ji:!-^ 
+also giebt Formel 10 den Grad der genannten Linienfläche gleich 
+.u.(w' + 2./ + 7^') + !/. («'-}-/). 
+
+
+
+Die ClianikteristikentheoriL". 299 
+
+§ 40. 
+
+Ableitung und Anwendung der Cluirakleristikenforniel 
+
+für den Strahlbüschel (Lit. 52). 
+
+Die Constanteuzahl des Strahlbüschels ist 5. Wir betrachteu 
+daher zwei gegebene Systeme von Strahlbttscheln 2^ und 2;', deren 
+Stufensumme 5 ist. Jede Ebene eines Strahlbüschels in 2J heisse 
+e, der auf ihr befindliche Scheitel p, jede Ebene eines Strahl- 
+büschels in 2J' heisse e, sein Scheitel y. Beide Systeme haben od^ 
+Ebenen gemeinsam. Die dreifache Bedingung, dass eine Ebene 
+sowohl 2J als Ebene e, wie auch 2J' als Ebene e' augehört, ist 
+nach der der Formel 15 in § 13 dual entsprechenden Formel gleich 
+
+Auf jeder der co^ gemeinsamen Ebenen liegt nun ein Punkt p 
+und ein Punkt p'. Die zweifache Bedingung eg, dass zwei solche 
+Punkte so zusammenfallen, dass ihr Verbindungsstrahl (j durch 
+einen auf der gemeinsamen Ebene beliebig angenommenen Punkt 
+geht, d. h. eine beliebig gegebene Gerade schneidet, ist nach § 13, 
+Formel 2, gleich 
+
+P^+f-i-ge-Op 
+
+oder 
+
+Die Symbole g,, und g kann man aber durch die auf |) und p' 
+bezüglichen Symbole ausdrücken, wemi man beachtet, dass alle Co- 
+incidenzen von p und p' nothwendig die Bedingung g erfüllen müssen, 
+dass also alle g nicht implicite enthaltenden Coincidenzsymbole 
+gleich null sind; demnach ist 
+
+0=pp'-ge, 
+0=p-^p'-g. 
+Demgemäss erhalten wir für sg: 
+
+p2 _|. jjf2 ^2)p' — ep — ep' 4- c^- 
+
+Also ist die fünffache Bedingung x, dass ein Strahlbüschel den 
+beiden Systemen U und 2.' angehören soll, ausgedrückt durch die 
+Stammformel: 
+
+1) x= (c^ + e^e' + ee'2 + e'') {f -\-f' -\-pp' -ep- ep' + e^). 
+
+Die fünffachen Symbole, welche man nach Ausführung der 
+Multiplication erhält, hat man nun wieder nach den Dimensionen 
+der auf E oder 21' bezüglichen Bedingungen zu ordnen; dann kommt: 
+
+
+
+300 Sechster Abschnitt. 
+
+X = [e' (// - cp + c-')] + [e' . e^ {p' - cp + e') +p' . e' (jj - e)] 
+
++ yKe (p^ - ep + e^) + e'jV . e^ {p - e) + j/ ^ e^] 
++ [^\(j}'-ep-{-e')-}-^'p'.e(p-e)-\-(/p'Ke'] 
++ [^¥ . (P - e) + e' V^ . e] + [e' V^J. 
+Wendet man jetzt die Incidenzformeln XIII und XIV des § 10 
+
+an, indem man die Symbole pe und pV einführt, so erhält man: 
+
+2) X = Q/e-) + ((/ . 6^)=^ + 2/ . e^j&gt;) + (e'- -i)^ + (^'p' .pe-\-2)'^ . e") 
+
++ (e'^ .j/ + jT? . j;e + jy3 . e^) + (g'sy , ^^ + e'i/^ . c) 
+
+Eine Controle dieser Stammformel ist dadurch gegeben, dass 
+dieselbe sowohl durch duale Umformung, wie auch durch Ver- 
+tauschung der gestrichelten und der nicht gestrichelten Symbole in 
+sich selbst übergeht. Ist nun Z,' einstufig, Z vierstufig, so ver- 
+schwinden alle Symbole mit Ausnahme derer in der zweiten 
+Klammer-, diese aber liefern den Satz: 
+
+I)ie Zahl x der gemeinsamen Strahlbüschel eines einstufigen Systems 
+Z' und eines vierstufigen Systems E ergiebt sich ans: 
+
+3) x= p^ .pe^-^(^ . p^ e. 
+
+Ebenso erhält mau, wenn Z' zweistufig, Z dreistufig ist, aus 
+der dritten Klammer den Satz: 
+
+Die Zahl x der gemeinsamen StraldVüschel eines zweistufigen 
+Systems Z' und eines dreistufigen Systems E ergiebt sich aus: 
+
+4) x=p'^.e^-^p'^ .pe-\-^^ .2)^. 
+
+Auf die Formel 2 hätten wir auch durch die dual entsprechende 
+Betrachtung gelangen können. Dann hätten wir von der Fläche 
+der gemeinsamen Punhte der beiden Systeme ausgehen müssen imd 
+wären zu der Formel 2 durch Vermittelung einer anderen Stamm- 
+formel gelangt, nämlich durch: 
+
+^ = (p^ +pV +iV^ +y^) (ß' + c'^ + c«^'' ^p^ —p^ -^p^)- 
+
+Die Gestalt der beiden Formeln 3 und 4 hätten wir auch durch 
+das in § 37 besprochene imd schon in § 39 augewandte Elimina- 
+tionsverfahren erkennen können, sobald wir einsahen, dass es beim 
+Strahlbüschel mit dem Scheitel p und der Ebene e möglich ist, jede 
+einfache Bedingung durch p uud c, jede zweifache durch j)^, pe, e^ 
+auszudi'ücken. 
+
+Wir gehen nun zu den abgeleiteten Charakteristik enformeln 
+des Strahlbüschels über. Dieselben beziehen sich auf Systeme, 
+deren Stufensurame grösser als 5 ist, und folgen aus 3 und 4 durch 
+symbolische Multiplication mit p', e' u. s. w. 
+
+
+
+Die Charakteristikentheorie. 301 
+
+Ist Z' zweistufig, Z vierstufig, so ist: 
+
+5) X2y =p'^ .pe^ +i?'e' .p^c, 
+
+6) xe =p' ^ .pe^ -\-^'^ .p^e. 
+
+Ist 2J' dreistufig und auch Z" dreistufig, so ist: 
+
+7) xp =y=' . e^ +p'^ .pe +y e' .pe +y e' . p^ + e'-'' . p^, 
+
+8) ice =y^ . e^ + e'^ .^je +y e' .^je + 2^'^' . e^ + e'^ .p^. 
+Ist Z' dreistufig und 2? vierstufig, so ist: 
+
+9) xp^ =p'^ .|)e^ +y^ .p^e + p'e' .p^e, 
+
+10) ^^ e = p'-' . p e^ + p^ e' . jj e^ + p' e' , ^'^ ^ + ^'^ • V^^j 
+
+11) " a;e^=ye'.pe^ + e'^.pe^4-e'^-i&gt;^e. 
+
+Ist 2!" '. vierstufig und auch E vierstufig, so ist: 
+
+12) xp^ =y^e' . p^e, 
+
+13) xpe=p^^^ .pe^-^p'^^ .p^e, 
+
+14) xe^=p'^^ .pe^ (auch als Zahl der Schnittpunkte 
+
+zweier Plancurven). 
+
+Eine naheliegende Anwendung der Strahlbüschelforniehi bezieht 
+sich auf die Bcrilhrung von Flüchen. Die Tangenten einer Fläclie 
+bilden nämlich ein zweistufiges System von Strahlbüscheln, und 
+man sagt von zwei Flächen, dass sie sich her Uhren., wenn die ihnen 
+angehörigen Strahlbüschelsysteme ein gemeinsames Element be- 
+sitzen. Folglich sind die theilweise schon in § 14 aus den Coin- 
+cidenzformeln abgeleiteten Anzahlen für die Berührung von Flächen 
+specielle Fälle der Formehi 3 bis 14. Eine Fläche F m*'''' Ordnung, 
+r**"' Ranges, Ix^^^ Klasse besitzt nämlich ein zweistufiges System von 
+Tangentenbüscheln, bei welchem zu setzen ist: 
+p)^ = n, pte^r, e^ = h 
+
+Ferner ist bei einem einstufigen Flächensystem pi'' gleich der 
+Zahl ft der durch einen Punkt gehenden Fläche, pc gleich der 
+Zahl V der eine Gerade berührenden Flächen, e^ gleich der Zahl q 
+der eine Ebene berührenden Flächen. Endlich ist bei einem zwei- 
+stufigen Flächensysteme j&gt;^e gleich der Zahl d- der eine gegebene 
+Gerade in einem gegebenen Punkte berührenden Flächen, pe^ gleich 
+der Zahl q) der eine gegebene Gerade in einer gegebenen Tangen- 
+tialebene berührenden Flächen. Folglich ist die Zahl derjenigen 
+Flächen eines einstufigen Systems (^i, v, q), welche eine Fläche (n, r, h) 
+he^ilhren., nach Formel 4 gleich 
+
+n . Q -\-r .V -\- /■ . fi. 
+
+
+
+302 Sechster Abschnitt. 
+
+Sind zwei einstufige Flächensysteme {^, v, q) und (jti', v', q') 
+gegeben, so liefern die Formeln 7 und 8 die Ordnung der Curve der 
+JB er Uhr Imgspunkte und den Grad des Orts der Tangentialebenen von 
+allen möglichen zivei sich heriihrenden Flächen der beiden Systeme^ 
+und zwar die erste Zahl gleich 
+
+^l .q' -\- Q .^i' -\- iL .v' -\- V .11 -\- V . v', 
+
+die zweite Zahl gleich 
+
+^ .q' -\- Q .[i! -\- Q .v' -\-v .q' -\- V .v'. 
+
+Ist eine Fläche {n, r, k) und ein zweistufiges Flächensystem 
+(ß', cp) gegeben, so findet oo^ mal eine Berührung statt. Die Ord- 
+nung der Curve der Berührungsinmkte ergiebt sich dann nach Formel 
+5 gleich 
+
+n.(p-\-r .%■, 
+
+und der Grad des Orts der zugehörigen Tangentialebenen gemäss 
+Formel 6 gleich 
+
+r .q)-}-k.'d: 
+
+Ist endlich ein einstufiges Flächensystem (^, v, q) und ein 
+zweistufiges Flächensystem (ß-, (p) gegeben, so bilden die Berüh- 
+rungspunkte eine Fläche, deren Grad nach Formel 9 gleich 
+^ .&amp; -\- ^i .&lt;p-\-v .0^ 
+
+ist, ferner die zugehörigen Tangentialebenen einen Ort, dessen Grad 
+nach Formel 11 gleich 
+
+ist, und endlich die Tangenten in den Berührungspunkten einen 
+Complex, dessen Grad die Formel 10 gleich 
+
+li.fp-\-v.(p-\-v.%'-\-Q.^ 
+liefert. 
+
+Um eine zweite Anwendung der Charakteristikentheorie des 
+Strahlbüschels zu haben, lösen wir das folgende Problem. Man 
+soll bestimmen, wie oft es vorkommt, dass bei fünf gegebenen 
+strahlallgemeinen Liniencomplexen 6\, C^, 6^, 64^ C5 von den Graden 
+
+Ml, n^, Wg, ^4, W5 
+
+die fünf in der nämlichen Ebene liegenden Complexcurrcn sich in einem 
+und demselben Punkte schneiden. Man bezeichne mit 2,- die einfache 
+Bedingung, dass ein Strahlbüschel dem Complexe C,- angehört. 
+Dami stellt sich die gesuchte Zahl als der Werth des Symbols 
+^i^-ih^'i^ü ^^^'- ^^^ wissen wir aus dem Vorhergehenden, dass jede 
+
+
+
+Die Charakteristikentheorie. 303 
+
+der fünf Bedingungen durch zwei anf den Strahlbüschel bezügliche 
+Bedingungen ausdrückbar ist, etwa durch p und e, wenn p bedeutet, 
+dass der Scheitel auf einer gegebenen Ebene liegen soll, und e be- 
+deutet, dass die Ebene des Strahlbüschels durch einen gegebenen 
+Punkt gehen soll; also ist 
+
+Z; = ai.p-\-ßi.e. 
+Multiplicirt man mit pe', so erhält man a, als die Zahl der- 
+jenigen Strahlbüschel, welche, dem Complexe C; angehörig, die Be- 
+dingung pe^ erfüllen, d. h. als die Ordnung einer Complexcurve 
+in d, also nach § 36 gleich 
+
+rii . (n, — 1). 
+Multiplicirt man mit p^c, so erhält man wegen des Dualitäts- 
+princip ganz dasselbe, also 
+
+tii . (fii — 1). 
+Demnach ist 
+
+gi = fii . (iii — 1) (jo 4- e). 
+
+Folglich ergiebt sich für die gesuchte Zahl: 
+
+'^1 ^2 hhh = ^\ 0^1 - 1) ^h ^'h - 1) *% (»^3 - 1) ^«4 K - 1) »*5 (^'5 - 1) (P + 6)' 
+
+= n^n.^n^yi^n,^ (w, - 1) (i^, - 1) (^3 - 1) (w^ - 1) (^*, - 1) 
+
+= 20 . n^n.^n^n^nr^ (w^ — 1) {ii.^ — 1) (% — 1) (w^ — 1) (t^r, — 1). 
+
+
+
+§ 41. 
+
+Ableitung und Anwendung der Charakteristikenformeln für 
+
+das Gebilde, welches aus einem Strahle, einem auf dem 
+
+Strahle liegenden Punkte und einer durch den Strahl 
+
+gehenden Ebene besteht (Lit. 52). 
+
+Die Constantenzahl dieses Gebildes F ist 6. Wir betrachten 
+demnach zwei Systeme Z und 2^' mit der Stufensumme 6 als ge- 
+geben. In 2; bezeichnen wir jeden Strahl mit ^, den darauf befind- 
+lichen Punkt mit p, die hindurchgehende Ebene mit e, in 2^' nennen 
+wir die analogen Hauptelemente g\ p', e'. Nach der Analogie der 
+Ableitung der Stammformeln in §§ 39 und 40 finden wir für unser 
+Gebilde V die sechsfache Bedingung x, dass ein T den beiden 
+Sytjtemen gemeinsam ist, ausgedrückt entweder durch: 
+
+1) ^ = {aJ^g^ijJ^g^,g\, J^ g^g\^ gg\j^ Q^) (?&gt; +!&gt;' - i/) (^ + c' ^ ()) 
+
+oder durch: 
+
+
+
+304 Sechster Abschnitt. 
+
+2) x= ip' +fp' +pp" +p") {Op-^ge- ^f^gg' +g'v-g'e) 
+
+(e + e'-i/) 
+oder durch: 
+
+3) x = {e' + eH' + e(i-^ + ^'){ge^g,-2e'+gg'+(Je~g\,){p-Vp^-g) 
+oder durch: 
+
+4) x = (/ + e'V + ee'2 + e'^) (j)^ + p'- +pp' - ep - ep' + e^) 
+
+ig-\-g'-p-e) 
+
+oder durch: 
+
+5) x = (jf -\-fp' +pp'-^ +p'') (e- + e'2 + ee' - ep -pd -\-f) 
+
+(g+g'-e-2i)- 
+In allen fünf Fällen erhält mau nach Ausführung der Multi- 
+plicationen rechts und nach Zusammenfassung der Symbole, welche 
+für 2J oder U' gleiche Dimension haben, mit Benutzung der In- 
+cidenzformeln ein und dasselbe, nämlich: 
+
+6) x==[peG]-\-[p' .eG-\-e' .pG-^g' .ph'^] 
+
+-]-[p"-e'g^-hp[d.G-^e''4ßg,-{-g',.p'e+g^,.pe'] 
+
++ b'^ egp +p'e' .gs + c'^ ■pge-\-p' g'e- e^ +g\ -P e+e' g' „ .f] 
+
++ 
+
+Ist Z' einstufig, 2^ fünfstufig, so giebt die zweite eckige 
+Klammer die Zahl der gemeinsamen Gebilde; also: 
+
+7) x^p' .eG-^S .pG+g\p'e\ 
+
+Ist E' zweistufig, H vierstufig, so erhält man aus der dritten 
+eckigen Klammer: 
+
+8) x^p". e^gj, +ij'e' • G + e'^' .p'^ge ^g^.p^c^ g\ .pe^. 
+
+Ist 2.' dreistufig, Z, auch dreistufig, so giebt die vierte eckige 
+Klammer die Charakteristikenformel: 
+
+9) x=p''Kegj,+p' e' .g,^(^^ .pge+p' g'e.e^ -\-g\.pe + e' g'p.piK 
+
+Die Formeln, welche auf Systeme Bezug nehmen, deren Stufen- 
+summe grösser als 6 ist, erhalten wir durch symbolische Multipli- 
+cation der Formeln 7 bis 9. Wir erwähnen von diesen Formeln 
+der Kürze wegen nur diejenigen, bei denen die Systeme E imd E' 
+heide als vierstufig vorausgesetzt sind. Für solche Systeme gelten 
+die Formeln: 
+
+10) xp^ =p^e . G' + G.fh/ + (p^c^pe'') .p"g', -\~p\/e . {p' d^ +i)' V), 
+
+11) xpe=p^e . iPd + e^p . e'V + G . {p''e' -\-p'e") + (p^e +p&amp;') . G' 
+
++p'e. d'g'p + e^gp . p' V + ^p .p"'(/e +P^ge • e'V, 
+
+12) xe'^^peKG'^-G .p' e'' + (/)^^ + pd") . dhi'p + e'g^ . {p' e'^ -f ?/ V), 
+
+
+
+Die Charakteristikentlieone. 305 
+
+13) xg,^p'e.G' + G4P^ + GJ'g\,^-e'g^.G'^lf'g,J-'g\ 
+
+J^e'g^,py,J^G.G', 
+
+14) xge=pe^ .G' + G ./ e'^ + G .p'^g'e -Vp^ge • G' + e^g^ .iPg\ 
+
++fg,Jhj\,-\-G.G\ 
+
+Von den vielen Anwendungen, die diese Formeln gestatten, 
+heben wir die folgenden hervor. 
+
+I. Maai fasse bei einem Complexe n^^"^ Grades jeden Complex- 
+strahl zusammen mit dem Berührungspunkte und der Ebene jeder 
+ihn berührenden Complexcurve. Dann erhält man ein vierstufiges 
+System E von Gebilden T; für dieses ist zu setzen: 
+
+G = 0, 11^ ge = e^gp = n, p^ e=pe^ = n{n~ 1). 
+Man erzeuge nun in derselben Weise aus einem zweiten Com- 
+plexe n'*''" Grades ein vierstufiges System S' von Gebilden F, und 
+wende dami auf Z und Z' die Formeln 10 bis 14 an. Dann erhält 
+man die bekannten (Voss, Math. Ann. Bd. IX, pag. 87) Charaktere 
+der Brennfläche der den beiden Complexen gemeinsamen Congrnenz. 
+
+II. Man fasse bei einem Complexe n^'^^ Grades jeden Complex- 
+strahl zusammen mit einer seiner vier Wendeebenen und der zuge- 
+hörigen Kegelspitze. Dann erhält man ein dreistufiges System Z 
+von Gebilden F, für welches zu setzen ist: 
+
+j)^ = e^ = 3. w(m — 2), pge^egj, = n.{^n — 2), g^-^A.n, 
+pe = 2 .n{n—\){n~2) gemäss § 36, pag. 271. 
+
+Man erzeuge ferner in derselben Weise aus einem zAveiten 
+Complexe w'*'''^ Grades ein zweites dreistufiges S' von Gebilden F 
+und wende dann auf Z und Z' die Formel 9 an; dann erhält mau 
+den folgenden Satz: 
+
+In der Congruenz, welche der Schnitt eines Complexes n^^^ Grades 
+mit einem Complexe n'^""" Grades ist, befinden sich: 
+
+4 .n .n' (2 .n^ + 2 .n'^ + 9 .nn' - 18 .n- IS .n' -i- 20) 
+Strahlen, welche zu zwei, den beiden Complexen angehörigen, in der- 
+selben Ebene befindlichen Complexcurven RiichJcehrtangenten mit gemein- 
+samer Spitze sind. 
+
+III. Formel 9 giebt die Zahl derjenigen Baumcurven eines zivei- 
+stufigen Systems, welche eine JRaurncurve eines andern zweistufigen 
+Systems so berühren, dass die dem BerührungspunJcte angehörigen 
+Schmiegungsebenen zusammenfallen. 
+
+IV. Formel 8 giebt die Zahl derjenigen Flächen eines zweistufigen 
+Flächensystems, welche mit einer gegebenen Fläche eine Normale so 
+
+Schubert, Kalkül der abzählenden Geometrie. 20 
+
+
+
+306 Sechster Abschnitt. 
+
+gemein haben, dass auch ein darauf gelegenes Xrümmimgscentrum und 
+die zugehörige Hauxitkrümmungsebene zusammenfallen. 
+
+Y. Formel 9 giebt die Zahl derjenigen Ehene^i, welche aus zwei 
+gegebenen zweistufigen Systemen von Complexen Convplexcurven aus- 
+schneiden, die einen vierfachen Punkt sammt einer seiner vier Tan- 
+genten gemein haben (cf. in § 36 Formel 35 iind 36). 
+
+YI. Formel 8 giebt die Zahl solcher Comiilexe eines zweistufigen 
+Systems von Comxilexen, deren singtdäre Fläche die singidäre Flüche 
+eines gegebenen Complexes det'artig berührt, dass die der Berührimgs- 
+stelle atigehörigen singidären Strahlen beider Complexe zusammenfallen. 
+
+YII. Um die Zahl derjenigon Ebenen zu bestimmen, ivelcJie von 
+drei gegebenen Complexen Complexcurven enthalten, die sich in einem 
+und demselben Punkte berühren, haben wir mit Hilfe von Formel 8 
+die zweifache Bedingung auszudrücken, dass die in einer Ebene c 
+befindliche, einem der Complexe angehörige Complexcurve den 
+Strahl g in j) berührt und darauf die so für die drei Complexe 
+resultirenden drei Formeln zweiter Dimension mit einander zu mul- 
+tipliciren. Dadurch erhalten wir, wenn die Gradzahlen der drei 
+Complexe «^, w^, % sind, für die gesuchte Zahl 
+4 . n^ . ^2 . M3 (n^ + n^ + 7i^ — 3). 
+
+Ebenso, wie das in den §§ 39, 40, 41 behandelte Gebilde, 
+lassen sich noch viele andere aus mehreren Hauptelementen zu- 
+sammengesetzte Gebilde behandeln. Beispielsweise erwähnen wir 
+noch das Gebilde F', welches aus eiuem in fester Ebene befindlichen 
+Punkte j) und Strahle g besteht, aber so, dass j? und g nicht inci- 
+dent sind. Auf die von einem solchen Gebilde erzeugten drei- 
+stufigen, d. h. durch eine einfache Bedingmig definirten Systeme 
+kam C leb seh in der Theorie der algebraischen Formen. Er 
+nannte solche Systeme Connexe (Lit. 52 a). Ist z irgend welche ein- 
+fache, dem Gebilde F' auferlegte Bedingung, so ist immer: 
+
+z = a.p-\-ß.g, 
+wo a angiebt, wieviel Gebilde z und die Bedingung 2^fje erfüllen, 
+ß angiebt, wieviel Gebilde z und i^^g erfüllen. Clebsch nannte a 
+die Ordnung, ß die Klasse des durch * bestimmten Coimexes. Sind 
+vier Connexe C^, Og, C^, C^ mit den Ordnungen k^, a.,, «3, a^ und 
+den Klassen ß^, ßo, ß^, ß^ gegeben, so kann man fragen nach der 
+Zahl X der ihnen gemeinsamen Gebilde F. Diese Zahl x ergiebt 
+sich sehr leicht aus: 
+
+
+
+Die Charakteristikentheorie. 307 
+
+X = (a^p -\- ß^(j) {a^p + ß^jf) (a^p + ß.^g) («^ -f ß^g) 
+= {a, a.ß^ß^ + a^a^ß.J^ + cc.ccj^ßs + cc^cc^ßj^. + «s^^/^i/^a 
+
+== «] «2 /^S ^4 + «1 C^3 /52 /^.l + «1 «. 1 /52 /^S + «2 «3 ^1 /54 + «2 «4 A /^3 + «8 «4 A /3„ 
+
+welchen Ausdruck auch Lindem ann (Clebsch's Vorles. pag. 940) 
+findet. 
+
+§ 42. 
+
+Charakteristikentheorie des Oebilcles, welches aus eiuem Strahle 
+
+und 11 darauf beflndlichen Punkten besteht (Lit. 53). 
+
+Dieses Gebilde F, welches wir „gerade PimMgruppe" nennen 
+wollen, hat die Constautenzahl 4 + n. Wir betrachten daher zwei 
+Systeme S und -^', deren Stufensumme 4 + m ist, und bezeichnen 
+für E jeden Strahl mit r/, die darauf befindlichen Punkte mit 
+
+ebenso für Z' jeden Strahl mit g' und die darauf befindlichen 
+Punkte mit 
+
+Verfahren wir nun analog wie in den §§ 39, 40 und 41, so 
+erhalten wir für die (4 + w)- fache Bedingung x, dass eine gerade 
+Punktgruppe den beiden Systemen gemeinsam ist, die folgende 
+Stommformel : 
+
+1) x = {G + CMj+g,g',-^g,g\ + ()(j\-\-(}'){p,-\-p\-g) 
+
+(P2 +P'%-9)-'- {Pn + P'n - g). 
+
+Durch Ausführung der Multiplication und Zusammenfassung der 
+Symbole, welche für 2&gt; oder Z' gleiche Dimension haben, kami man 
+aus dieser Stammformel die Charakteristikenformelu für alle Fälle 
+erhalten. Nach § 37 können wir jedoch dieses Verfahren durch 
+ein bequemeres ersetzen. Wir brauchen nämlich der Formel 1 
+nichts weiter zu entnehmen, als die Erkemitniss, dass, wemi 2' 
+ei«stufig ist, die betrefl:'ende Charakteristikenformel keine weiteren 
+Bedingungen aus Z' enthält als 
+
+g', P\, P'^z, P\,---P'n, 
+dass, wenn S^ ^■^w/stufig ist, die zugehörige Charakteristikenformel 
+keine weiteren Bedingungen aus 2^' enthält, als 
+
+g'n y'p, y'p\, g'p^y-g'p'n, p\p\, p'ii&gt;';,---p'n-ip'n, 
+
+und so fort. Hieraus ziehen wir den wichtigen Schluss, dass die 
+Zahl der gemeinsamen geraden Punktgruppen eines «"-stufigen 
+
+20='= 
+
+
+
+
+
+wenn i = 
+
+
+1 
+
+
+ist, 
+
+
+
+
+wenn i = 
+
+
+-2 
+
+
+ist, 
+
+
+
+
+wenn i = 
+
+
+= 3 
+
+
+ist, 
+
+
+
+
+wenn «" = 
+
+
+= 4 
+
+
+ist, 
+
+
+also 
+
+
+überhaupt 
+
+
+
+
+
+
+2) 
+
+
+m 
+
+
+= 
+
+
+wH- 
+
+
+
+308 Sechster Abschnitt. 
+
+Systems S' und eines (4 + m — i) - stufigen Systems -S sich immer 
+durch tn auf 2 und wi auf -S' bezügliche Bedingungen ausdrücken 
+lässt, wo, 
+
+m gleich 1 + w^ "wird, 
+
+m gleich 2 -\-n^-\- n^ ^vird, 
+
+m gleich i-[-2 .n.^^-\-n^-\- n^ wird, 
+
+m gleich 1 + w^ + 2 . Wg + W3 + w^ wird, 
+
+Wj-i + 2 . M/_2 + M,_3 + M,-4 
+
+wird. 
+
+Wir haben dann nach den allgemeinen Betrachtungen des § 37 
+freie Wahl darüber, welch-e m «*- fachen Bedingungen wir zur Auf- 
+stellung der Charakteristikenformeln verwenden wollen. Dabei stehen 
+uns auch die Coincidenzbedingungen zu Gebote, welche in § 34 durch 
+die auf g imd die n Punkte p bezüglichen Grundbedingimgen aus- 
+gedrückt sind. Da die Benutzung dieser Coincidenzbedingungen die 
+Charakteristikenformeln auf die möglichst einfache Gestalt bringt, so 
+führen wir dieselben hier ein, und zwar mit denselben Symbolen 
+wie in § 34. Es bezeichne nämlich e mit gewissen 7; neben ein- 
+ander gesetzten Indices, dass die h Punkte^:», welche ganz dieselben 
+Indices haben wie £, zusammenfallen, femer p, p~ oder p^ mit h 
+neben einander gesetzten Indices, dass die Ic Punkte p, welche die- 
+selben Indices haben, wie p, p^, p^ coincidiren und dabei ihre Co- 
+incidenzstelle bezüglich in einer gegel)enen Ebene, auf einer ge- 
+gebenen Geraden, in einem gegebenen Punkte haben. Wir schreiten 
+nun zur Aufstellung der Charakteristikenformeln selbst. 
+
+Ist das System £' einstufig, so wissen wir, dass jede einfache 
+auf 2J' bezügliche Bedingung s sich durch 
+
+ausdrücken lässt; wir können daher schreiben: 
+
+3) z = ^ .g' -f a^.p\ + a, .p\&gt; + a., .p\ + ...«„ .p\, 
+
+wo ß, Kj, Kgi-'-^n Coefficienten sind, die von der Natur der Be- 
+dingung 3 abhängen. Um dieselben auf die einfachste Weise durch 
+(4-|- w — l)-fache Bedingungen auszudrücken, die sich auf das durch 
+z definirte vierstufige System beziehen, multipliciren wir mit solchen 
+vierfachen Bedingungen, dass möglichst Avenig Symbole in Formel 
+3 von null verschieden werden. Wir erreichen dies durch Multi- 
+plication mit den Bedingungen: 
+
+gp\23...ni Crp2Zi...n, GpiZi ... n, ■ ■ . G^h^ . . . n-L 
+
+
+
+Die Charakteristikentheorie. 309 
+
+Dadurch erhält man: 
+
+^ G-P23 . . . n = «1 . 1 
+
+und so fort. Denkt man sich also 2 als die defiuirende Bedingung 
+des Systems Z, so kommt für die Zahl x der 2 und Z' gemein- 
+samen geraden Punktgruppen: 
+
+4) aj = g'. gp^uM ...n + v\. G-p2u ...n+p'2' Gpi3i ...» 
+
+-]-... -\- 2)' n.G-pi23...n-l- 
+
+Hieraus ergeben sich eine Reihe von abgeleiteten Charakteristiken- 
+formeln, z. B. durch Multiplication mit g'g-. 
+
+5) xg, = G'. gp\rii ...n+p\ g's . Gpiu ...n + ... 
+
+= G'. giA23^ ...n + G'. Gp23i ...n +p'\g'. Gp2u ...« + ... 
+
+Aus dieser Formel erhält man die Formel 18 des § 39 durch Spe- 
+cialisirung, indem man nämlich n =\ setzt. 
+
+Ist ziveitens 2' zweistufig, so dürfen wir für jede zweifache Be- 
+dingung s die Gleichung schreiben: 
+
+6) ^ = «12 •P'l2 + «13 'P'lS + ■ • • + «1 'P'\ + «2 'P'% + '" 
+
++ ß-g'p-hy.g'e. 
+
+Die n^ + iii + 2 Coefficienten bestimmen wir durch Multiplica- 
+tion mit 
+
+
+
+
+
+gpP%^...n, gpp\...n,..., 
+
+
+
+
+gP%3A...n, gp\3i...n,-..: 
+
+
+•ami kommt: 
+
+
+P\23...n und gePiP2...Pn. 
+
+
+^gpP%i. 
+
+
+..„ = «12.1, zgppS^.,.n = a^^.l 
+
+
+^gp^234. . 
+
+
+..„ = «1.1, ^5'A4...« = a2-lj 
+
+
+
+^p\23 . . . „ = /3 . 1 und sgePiP^ . . .i?™ = 7 . 1. 
+Man bemerke, dass jeder Coefficient durch ein einziges Symbol be- 
+stimmt ist. Hiernach erhält man für die Zahl x der einem zwei- 
+stufigen Systeme E^ und einem (2 + w)- stufigen Systeme 2; gemein- 
+samen geraden Punktgruppen: 
+
+7) X =p\^ . gppSi^ ...n +p'n ' gpP&gt;^^ii ...» + ••. 
+
++i&gt;' \ . gp\3i ...n +y ^2 • gp^^^^ ...«+••• 
+
++ g\ 'P\23 ...n-\-g'e- gePiP^ ■ • -Pn ■ 
+
+Beispielsweise erhält man hieraus für n = 2: 
+
+8) X =p\^ . G -\-p'\ . gp^' +p'\ . gp,' + g'p .ph^ + g\ • gePxPz- 
+
+Bei der Specialisirung von gpp^u...n für w = 2 verfährt man 
+am sichersten, wenn man für dieses Symbol zunächst schreibt 
+
+
+
+310 Seehster Abschnitt. 
+
+G2hi...n, woraus dann ersiclitlicli, dass es für w = 2 zu der Bedin- 
+gung G wird. Die abgeleiteten Cliarakteristikenformelu sclireibeu 
+wir der Kürze wegen nur für n = 2 specialisirt. Wir multipliciren 
+demuacli 8) mit g^ gg, gj,, g^ und erkalten zunächst für den Fall, 
+dass Z' dreistufig, 2 vierstufig ist: 
+
+9) xg = g'jj^'n • G + g'iP, . g2h^ 4- g'p'K • gih^ + g's -iAs + ü'.. ■ üel\l\- 
+
+Die erschienenen Symbole könnte man tlieilweise noch mit Hilfe 
+der Formeln des § 34 umgestalten, z. B. 
+
+9'p''\ = g'ep'i +p'\, g'p'% = g'ep'2 -^p'% ; 
+
+dann kommt: 
+
+^g = g'el^, . G + g'ep', .G-g',.G -^p'\, . G 
+
++ g'ep't . gp/ +p'\ ■ gp^^ + g'ep'^ • gpi' +/-\ • gpi^ 
++g's-p\2-^g's-gePiP2- 
+
+Weiter erhalten wir für den Fall, dass beide Systeme vierstufig 
+sind, aus Formel 8: 
+
+10) xge = g'ep\2 ■ G + g'ei&gt;'\ . gp2' + g'ep'\ • gih' + G'. gePiP2 
+
+= f/eP'n . G + g'p'\ . gp,' + g'p,' . gp,' + G'. g,p,, + G\ G, 
+
+1 1) xgp = g'j,p\^ . G + g'pp'\ . ^^9/ + g'^^p^^ . gp^^ + G'.p)\, 
+
+= g's a\, . G + p'\, . G + g'p'\ -m' + G'.gp,' 
++ g'p'%.gp,'-hG'.gp,'-\-G'.p\, 
+= (l/l^\ + ^'i5'^2 + G').G +p'\, . G^ + G'.p\, +gp/\ .gp^ 
+
++ g'p'\.gp^ + G'.gp,'-^G'.gp^ 
+= G'.G-\- G'.p\, +p'\, .G + G'. gp,' + g'p'\ .G^G'. gp,' 
++ g'p'% • G + (/y \ . gi)^^ + (jf'i^'^ . ^2^1^ 
+
+Die zuletzt geschriebenen Formen der rechten Seiten der Formeln 
+10 und 11 gehen durch Vertauschung der gestrichelten und der 
+nicht gestrichelten Symbole in sich selbst über und liefern insofern 
+eine Controle. Endlich erhalten wir für den Fall, das £' fünfstufig, 
+^ vierstufig und n = 2 ist: 
+
+12) xg, = g',p\^ . G + g\2j'\ . gp^^ + g\f\ . gp^^ 
+
+= g'l^\2 - G + b\, G\ G + G^V, . gpi + G^y, . gih' 
+
+= g'pJ\, . G -f &amp;p\ . G + G'p\ . G + G'p\ .gp,'^ G'p', .gp,\ 
+
+Ist drittens Z' dreistufig, so dürfen wir für jede dreifache Be- 
+dingung 5" die Gleichung ansetzen: 
+
+
+
+Die Charakteristikentheorie. 311 
+
+13) Z = «123 .p\p\,p\ + «124 -Vi P\p\ + . . . 
+
++ «12-y'l2 + «13-y\3 + --- 
+
+4-ai.y\ + a2-y\H---- 
+
++ ß.-P\9'e + ß,.p\(Je+... 
+
++ 7-9'^- 
+Um die ^^^ + r/y + 2. &gt;^i + 1 Coefficienten zu bestimmen, multiplicireii 
+wir mit den Bedingmigen 
+
+G-ptö...n, 6r|J35... „,..., 
+
+geP^i4....n, 9ep\A...n,---y 
+
+
+
+P%3 ...n, 
+
+
+Ä. ..„,..., 
+
+
+
+
+9eP-2thPi-- 
+
+
+•i&gt;«, (JePxP;-"Pn,---, 
+
+
+
+
+IA23...«. 
+
+üaim kommt: 
+
+
+
+
+
+
+^G^P45.... = «123-1, 
+
+
+S Gp-ib ...»== «124 •!,•.• 
+
+
+' j 
+
+
+^^«Ä...n = «i2.1, 
+^A...n = «i.l, 
+^9eP2P3Pi'--Pn = ßi 
+^9ePiP3Pi-'-Pn-ß.^ 
+
+
+^^.iA'4...«-«i3.1,.. 
+
+^Ä...«=«2.1,-.., 
+.14-«123-1 + «124-1 + - 
+.1+«213.14-«2U.1 + . 
+
+
+..«1, 
+..«2, 
+
+
+
+und so fort, endlich nocli: 
+
+123 ...n = y- Demnach ist: y = j3^ 
+
+
+
+ferner: 
+
+
+
+aber 
+
+
+
+«123 = ^i^45...«, «124 = ^i'sS . . . «, 
+
+ß^l2 == 9eP'^U ...n, «13 =9eP^2A. . . . n, ■ 
+«1=PV...«, «2=iA34...n,... 
+
+
+
+Pl = 9eP2P3Pi ... i)« - «123 - «124 - •• • 
+
+= 9eP2P3Pi ■■■- Gp^b ...n- Gp^b ...»-..., 
+^2 = öePiPiPi. • • • - 6^1^45 ...n— Gp^^ ...„—... 
+
+mid so fort, und zwar so, dass bei dem Ausdruck für den Coeffi- 
+cienten ß mit dem Index i alle diejenigen Symbole G2&gt; zu subtra- 
+hiren sind, welche alle möglichen n — 3 Indices enthalten, unter 
+denen i sich nicM befindet. Wir erhalten demnach für die Zahl x 
+der einem dreistufigen Systeme ^' und einem (1 4-^^- stufigen Sy- 
+steme E gemeinsamen geraden Punktgruppen: 
+
+14) Jö ==lhP^^2P''6 ■ Gjhn ...n +p'iP'2P'a ' Gpsb ...»+•.. 
+
++ i&gt;"l2 • 9eP\'i ...n +P'\z ' 9ep\i ...« + ... 
+
++ y\ •iJ^234 ...n +P'\ ■P\34. . . . ^ + . . . 
+
++ 9's-P\2S...n 
+
++ P\ 9'e . 9eP2P3Pi • • • +^2^« • 9ePxPiP^ . . . "f • . . 
+
+-p\(Je ■ {Gp^i ...« + ...) -p\9\ (Gpiö ...« + ...)-... 
+
+
+
+312 Sechster Absclinitt. 
+
+Der grösseren Deutlichkeit wegen specialisiren wir diese Formel 
+für w = 3; dann erhalten wir: 
+
+15) X =]i\p\p\ .G+]J\^. gep\ 4-y 'i3 . 9eP.^ +p% . gePi'' 
+
++f\ 'P\z +P'\ ■P\z +P"3 •/i2 + 9's .p\n 
+
+■^P'Je . 9eP2pZ +P'29'e ■ 9ePiP^ +^'3^'« • 9ePiP2 
+
+-p'J,.G-p',g'e.G-p'JeM. 
+Für « = 4 würden die negativen Glieder heissen: 
+
+-P\9'e . (Gp, 4- Gp, + Gp,) -p', g\ . {Gp, + Gp, + Gp,) 
+-p\g\.{Gp, + Gp, + Gp,). 
+Mit Hilfe der Formel 18 des § 34 kann man die Symbole p'ip'^p'^j 
+p'ip'.2P'i u. s. w. aus der Formel 14 fortschaffen und Coincidenz- 
+symbole einführen, indem man z. B. setzt: 
+
+p'lP'-2P'3 -P'12B ^P'l9'e ^P'29'e +p'3g'e - g\- 
+
+Dami kommt statt Formel 14: 
+
+16) X = p'i23 . Gp^ ...» +y 124 • &lt;^i^35 ...«+... 
+
++ 2^"i2 • 9eP\ ...n +y ^3 . g, p\^ ...„ + ... 
+
++ y\ .p^2Z ...n +P'\ ■ p\Bi ...n + ..- 
+
++ g's-p\2Z...n 
+
++ V\9'e . geP2Pz ...nPn +^2^'« • ^« lhP-6 ...npn + ..- 
+
+- 9's . (Gp^ö . . . n + Gp26 ...n + ...), 
+
+welche Formel man auch direct hätte finden können, wenn man 
+von Anfang an die Bedingungen p\.j.^ und so fort zur Darstellung 
+der Charakteristikenformel gewählt hätte. 
+
+Um ein Beispiel einer abgeleiteten Charakteristikenformel zu 
+haben, muitipliciren wir Formel 15 mit g'; dann kommt: 
+
+^9 ^ 9'P\P\P\ ' G + g'p''\.2 ■ 9ePB^ + 9'P''\3 • 9e Ih^ + 9'p''\b • 9ePi'' 
++ 9P'\ •P%3 + 9'P% ■ P\s + 9'P% . P\2 + (^'•P\2S 
+
++P'l9's • gePiPz +P\^s . gePiPs + P\ ö'. ■ 9ePiP2 
+
+-p\g's.G-~p',g\.G-p',^,.G. 
+Jetzt ersetzen wir die in dieser Formel entstandenen vierfachen Be- 
+dingungen sämmtlich durch Coincidenzbedingungen mit Benutzung 
+der Formeln 13 bis 18 des § 34; wir setzen also z. B. 
+
+9'P'1P'2P'Z =P'\2, + 9'e ip\2 +^13 + P' 2z) + 2.6^', 
+
+P'l9's=9'eP'\, 
+
+9eP2P3=9eP2S + &lt;^' 
+
+Femer schreiben wir statt g'^^'^ das damit identische g'eP&gt;'^i u. s. w., 
+sowie statt g' i)'\2 ^^i® Summe j^'^g + 9'eP'i2 ^- s- ^- Dann er- 
+halten wir: 
+
+
+
+Die Charakteristikentheorie. 313 
+
+17) xg^ir\,,.G^G\p\,, 
+
++ y'e (y 12 +yi3 +^23) -G + G'- 9e {p,2 +PiZ Hhs) + 2 . G'. (^ 
++ y'l2 'Ps^9e +y'l3 •i^2'5'. +y'-23 •ä'ö'. 
++y\5f', .^9^23 +y2^5f'e .p\, +p'\9e -p'i^ 
+
++ y«ij'l2 • 9eP3^ + ^'e/lS • 9eP2^ + ^'.^^'23 • ^^ä' 
+-\-p'\9'e . 5'.Ä2 +i&gt;"2i/'. • 9ePu +'P'\9e • ^c^a, 
+
+eine mehrfach vom Verfasser eontrolirte Formel, welche ganz all- 
+gemein den Grad der Linienfläche der Strahlen von allen denjenigen 
+geraden FunMgruppm mit drei Punkten angieht, die zwei gegebenen 
+vierstufigen Systemen gemeinsam sind. 
+
+Wenn viertens das System Z' vierstufig ist, so wählen wir als 
+charakterisirende Bedingungen der Gleichförmigkeit wegen lauter Co- 
+incidenzbedingungen und zwar reichen zur Darstellung der Charak- 
+teristikenformel die folgenden n^ -{■ % -f 2 . n^ -{-n^-\-l Bedingungen 
+aus: 
+
+P 1234J P 1235 }•■• . 
+
+
+
+P'\.s, 
+
+
+P'\u,- 
+
+
+P"n, 
+
+
+P'\z,- 
+
+
+ifep'n, 
+
+
+O'eP'u, 
+
+
+^./\, 
+
+
+ii,]l\, 
+
+
+
+und G\ 
+
+Demnach setzen wir für die beliebige vierfache Bedingmig z folgen- 
+dermassen an: 
+
+18) S, = «1234 «i* 1234 H~ ^1235 -19 1235 + • • • 
+
++ «123 • ^'^23 + «124 «y ^24 + • • • 
++ «12 •y\2 + «13-^^3 + ••• 
++ ßl2 • ^ Vl2 + ^13 • ö'^y 13 + • • • 
+
++«i.y.y\+«2-^V2+--. 
+
+Um die Coefficienten zu bestimmen, haben wir mit passend ge- 
+wählten Bedingungen zu multipliciren ; wir wählen dazu wieder 
+lauter Coincidenzbedingungen, und zwar 
+
+
+
+yrph% . 
+
+
+. . ny 
+
+
+^j"46. 
+
+
+. . 71) • 
+
+
+9eP\h 
+
+
+. ..71} 
+
+
+9eP%ö 
+P%4. . . . 
+
+
+. . . n, • 
+
+
+9ePii. 
+
+p\b... 
+
+
+. . n, 
+
+
+9eP2i. 
+
+yi3... 
+
+
+
+
+
+i&gt;1234... n- 
+
+Freilich kommen wir dabei auf Producte von Coincidenzsymbolen, 
+deren numerischer Werth nicht unmittelbar erkannt werden kann. 
+
+
+
+314 Seclister Abschnitt. 
+
+Doch entgehen wir jeder Schwierigkeit in der Deutung solcher Pro- 
+ducte, wenn wir uns den einen Faktor immer durch Nichtcomci- 
+denzsymbole ausgedrückt vorstellen, gemäss den in § 34 entwickel- 
+ten Formeln. Hat man so die n^-\-n^-\-2 .n^-i-n-^-j-l Gleichungen 
+zur Bestimmung der Coefficienten aufgestellt, letztere berechnet 
+und die erhaltenen Werthe in 18) eingesetzt, so erhält man schliess- 
+lich für die Zahl x derjenigen geraden Punktgruppen, welche dem 
+vierstufigen Systeme ^' und dem n -stufigen Systeme ^ gemeinsam 
+sind, die folgende Formel: 
+
+19) X =^1234 . G^i9567 . . . n + P'i235 • ^i^467 ...« + ••. 
+
++ P'\2S • 9elAö ...n +i)'^24 • ^«i^'sö ...» + .•• 
+
++y\2 'f^^ ...n +y\3 • V\^ ...» + ••• 
+
++ ^&gt;'l2 • 9eV^^ . . . n + ijelhi • 9elhi ...« + .•• 
+
++ yeP\2 • {G-Pö6 ...n+ Gpm ...« + •••) 
+
++ 9'eV\i • {Gpb&amp; ...n + G-P26 ...«+.••) + •••] 
+
++ 9'eP'\.lA3...n+g'eP'\.p\;...n-}-... 
+
+-[9'eP'\-(Gp,6...n + GlHe...n-\-...) 
+
++ 9'eP"2.{Gpöe...n + ...)-}-^..] 
+
++ G'.2h23 ...n 
+
+-^[G'.{9ePz^...n + ...)] 
+
+--[G'.{9ep\...n-^...)] 
+
+-{-2.{G'.G). 
+
+Der grösseren Deutlichkeit wegen specialisiren Avir diese Formel 
+noch für »i = 4 ; dann erhalten wir für die Zahl x derjenigen ge- 
+raden Funldgrupimi mit vier Piinldcn, ivelche zivei vierstufigen Systemen 
+gemeinsam sind, die folgende Formel: 
+
+20) x=^p\,,,.G 
+
++P'\2i -geP^ +P\i^-gelh^ +y\34 •5'«iJ'/ +l^\z^-gePi' 
+
++ y 'l2 ■P\i +P'\z -P\i +y 'u •i^'23 +P'% -P'u + P%i -iAs 
+
++P%^-P\2 
++ g''d&gt;'l2 'geP-U-\-g'eP\3-geP2i + g'eP'u-geP23 +g'eP'2-6-gePi4. 
+
++ g'eP'ii • gePn + g'eP's4. ' 9ePi2 
++ {g'eP'n + g'eP'i3 + g'eP\4. + ^'«^23 + ^'^^24 + ^'«^sJ • G 
++ i/eP'\ .P\,, + g\p'\ .iA34 + ^eP'\ .p\,, + &lt;/ e^ . -P'r^Z 
+
+- {g'eP\+g'eP'\+g'ep\+g'ep'\) . G 
+
++ G^'-iJl234 
+
++ G\ (gelh2 + gePiS + gePii + geP-iS -^gepu + gePsi) 
+
+- G'. {geP.'+geP,'+geP3'+geP,') 
+-\-2.G'.G. 
+
+
+
+Die Charakteristikentlieorie. 315 
+
+Man sieht, dass diese Formel durch Vertauschung der gestrichelten 
+und der nicht gestrichelten Symbole in sich selbst übergeht, wo- 
+durch eine Controle gegeben ist. 
+
+Es bietet nun gar keine sachliche Schwierigkeit, die Charak- 
+teristikenformel für ein ?'- stufiges und ein (4 -\-n — i)- stufiges System 
+hinzuschreiben ; doch würde es sehr viel Raum in Anspruch nehmen, 
+vollkommen deutlich zu schreiben, welche Producte dann auftreten 
+und welche nicht. Die Gestalt der allgemeinsten CharaMeristiJcenformel 
+wird jedoch schon deutlich erkennhar, wenn tvir dieselbe für ein nicht 
+m Meines i und n specialisirt schreiben. Wir wählen w = 9 und i = 6 ; 
+dann ergiebt sich für die Zahl x derjenigen geraden Punktgruppen, 
+welche einem sechsstufigen Systeme ^' und einem siebenstufigen 
+Systeme 2" gemeinsam sind, die folgende Formel, bei welcher jede 
+hinter eine eckige oder runde Klammer als Iudex gesetzte Zahl 
+angiebt, wieviel Producte von Symbolen diese Klammer enthält. 
+
+21) X=Yp 12345(5 • ^789 + • • •184 
+
+-f- [Cr J) 12 •^3456789 "T • • 'Jae 
+
++ iP 12345 • QeP 6789 + • • •]l26 
+
+~^l9eP 123 -P 456789 + • • -Jsi 
+
+~i~ IP 1234 'P 56789 "1" • ' •Jl26 
+
++ [ö'Vl234-^^Ä67S9 + --']l26 
+
++ [^«^1234 • (^^567 + GP56S + ^i&gt;569 + • • OlO 
+
++ 9'eP'm6 ■ ißp^^r^ + 0^9^68 + ^i&gt;4(59 + ■ • Olü + • • J9.,, 63 = 1260 
++ [^y 12 • (^«1^34567 + i/«i'34568 + 5'«i&gt;34569 + • • 021 + • • -Jg, . 7^ = 756 
+
+- I^'^y 123 • (^i&gt;456+ ^1^457+ (^PtöS+ ^Pm +• • •)20+- • -^^,=16^0 
+
+- [G^y 12 • i9eP\ir,, + geP\ir,^ + ^4)'3458 + 9eP\m + • • Osö 
++ . . .jo, . 7^ = 1260 
+
++ 2 . [G'p'i^ ■ (ßP:,%l + GrPim + ^P560 + • • Osö + • • 'lo, . h = 1260. 
+
+Durch symbolische Multiplication der Formeln 20 und 21 erhält 
+man leicht die abgeleiteten Charakteristikenformeln für die Fälle, 
+wo die Stufensumme der gegebenen Systeme die Constantenzahl 
+4 + w der geraden Punktgruppe übertrifft. 
+
+Sind n und die Stufen der beiden Systeme kleiner als in 21), 
+so kami man die betreffende Charakteristikenformel auch aus der 
+Formel 21 ablesen; man hat jedoch dabei Folgendes zu beachten. 
+Soll das Symbol G-pr^^^ vierter Dimension werden, so wird daraus 
+(7, soll es aber noch niederer Dimension werden, so ist es gleich 
+null zu setzen. Was aus i/el)^,;7,s.) wird, wenn es dritter Dimension 
+werden soll, erkennt man, sobald man den Incidenzformeln gemäss 
+
+
+
+316 .Sechster Abschnitt. 
+
+dafür &lt;7«i&gt;6789~" ^^6789 setzt. Dann sieht man, dass dafür g^ und, 
+wenn es von noch niederer als der dritten Dimension werden muss, 
+mdl zu setzen ist. Ebenso lassen sich die übrigen Symbole mit 
+Benutzung der Incidenzformeln leicht deuten. Beispielsweise ent- 
+nehmen wir der Formel 21 die Charakteristikenformel für den Fall, 
+wo 11 = 2, E dreistufig und E' auch dreistufig ist. Dabei werden 
+die Summen, welche in der Formel 21 von der ersten, zweiten, 
+siebenten, achten, neunten, zehnten, elften eckigen Klammer ein- 
+geschlossen werden, zu null. Aus der dritten eckigen Klammer 
+wird ^j'^j2 • ^^- ; ^^^ cler vierten (/'s .J9^j2, aus der fünften y\.^y2^+i'''^2-i^\; 
+aus der sechsten ^eiA -^«Pa +^«2^ -^«Ä 5 ^-Iso kommt: 
+22) X =p'\, .gs+g's .p\, +p'\ .p^ -hp'% .p^ + g'eP\ -geP, 
+
+-^(JeP'^-gePi. 
+
+Eine naheliegende Anwendung der auf zwei vierstufige Systeme 
+bezüglichen Charakteristikenformeln der geraden Punktgruppe folgt 
+in § 43; hier sollen nur noch einige auf den Fall n = 2 bezüg- 
+liche Formeln in anderer Form ausgesprochen werden. 
+
+I. Die Gleichung 22 löst das folgende Problem: Gegeben ist 
+eine a-ß -deutige Beziehung ziveier Piinkträume und ausserdem eine 
+a'-ß'- deutige Beziehung zweier Punkträume. Gesucht wird die Zahl, 
+ivelche angiebt, ivie oft ein durch die erste Beziehung zusammengehöriges 
+Punhtepaar sich deckt mit einem PunJctepaare der ziveiten Beziehung, 
+so dass auch die VerhindungsstraJden zusammenfallen. Bewegt sich 
+der erste resp. zweite Punkt der ersten Correspondenz auf einer 
+Geraden, so beschreibt der zweite resp. erste Punkt eine Raum- 
+cui-ve, deren Grad Ä resp. B sein möge. Eine durch die eben an- 
+genommene Gerade gelegte Ebene enthält also Ä resp. B Punkte 
+der Raumcurve. Nun ist es nicht nothwendig, dass die Ä resp. B 
+Verbindungsstrahlen dieser Punkte mit den durch die Correspon- 
+denz zugehörigen Punkten der Geraden sämmtlich in der angenom- 
+menen Ebene liegen. Es mögen dies nur a resp. b unter jenen Ä 
+resp. B Verbindungsstrahlen thun. Die übrigen d = Ä — a = B — h 
+Verbindungsstrahlen verbinden also Punkte, welche auf der an- 
+genommenen Geraden coincidiren. Femer sei c der Grad des Linien- 
+complexes, welcher von den sämmtlichen Verbindungsstrahlen zu- 
+sammengehöriger Punkte der ersten Correspondenz gebildet wird. 
+Endlich mögen die analogen Zahlen für die zweite Correspondenz 
+mit denselben Buchstaben, aber gestrichelt, bezeichnet Averden. 
+
+
+
+Die Charakteristikentlieorie. 317 
+
+Dann ist nach Formel 22 die gesuchte Zahl x der den beiden Corre- 
+spondenzen (jemeinsame^i FimMepaare immer ausgedrücM durch: 
+
+23) x==a.ß' +ß.a! -^a.V + l).a' + c.d' + d.c\ 
+
+II. Ist specieller in fester Ebene eine a-/3- deutige Beziehung der 
+beiden Punktfelder dieser Ebene und ausserdem eine a'-/3'- deutige 
+Beziehung gegeben, so hat man Formel 10 anzuwenden, indem man 
+die Bedingungen g« und g'e aus den Symbolen fortlässt^ iveil dieselben 
+in die Definition der beiden Correspondenzen eingefügt sind-, dann kommt: 
+
+^ =^12 • 9e +P\^ -V^ +y^2 -Ä^ + 9\ .i&gt;i2 + 9\ • 9e' 
+
+Nun ist p^ gleich a, p.^ gleich /3, p'^ gleich «', jj'^g gleich /3' 
+zu setzen. Bewegen sich der erste und der zweite Punkt je auf 
+einer Geraden, so beschreiben der zweite und der erste Punkt zwei 
+Curven, deren Grade gleich sein müssen. Sind diese Grade gleich 
+Aj so ist es nicht nothwendig, dass die Verbindungsstrahlen der 
+durch die Correspondenz zusammengehörigen, und auf der ange- 
+nommenen Geraden liegenden Punkte sämmtlich mit der angenom- 
+menen Geraden zusammenfallen. Es mögen dies nur a unter jenen 
+-4 Verbindungsstrahlen thun 5 die übrigen d=A — a Verbindungs- 
+strahlen müssen dann nothwendig Punkte verbinden, die auf der 
+angenommenen Geraden coincidiren. Endlich mögen die analogen 
+Zahlen für die zweite Correspondenz mit denselben Buchstaben, 
+aber gestrichelt, bezeichnet werden; demgemäss ist p^,^ gleich &lt;/, 
+ge gleich «, p\^ gleich d\ g\ gleich a' zu setzen. Also ist die ge- 
+suchte Zahl X der den^ beiden Correspondenze^i gemeinsamen PttnJcte- 
+paare immer ausgedrüclä durch die Formel: 
+
+24) x^ a .-ß' -\- ß .a' -\- d .a' -]- a .d' -\- a . a'. 
+
+Ist specieller die zweite Correspondenz dadurch verursacht, 
+dass man jeden Punkt einer in der festen Ebene gegebenen Plan- 
+curve n*''^ Grades mit jedem anderen auf ihr liegenden Punkte zu- 
+sammenfasst, so ist «'==0, /3' = 0, d' = n, a' = w(w— 1) zu setzen 
+und wir erhalten: 
+
+25) x = d . n {n — \) -\- a .n -\- a .n{n — 1) 
+
+= d .n{n — 1) -\- a .n^ 
+für die Zahl x derjenigen Punktepaare der ersten Correspondcms , deren 
+beide Funlde auf eine Plancurve n"''' Ordnung fallen. Dieses Resul- 
+tat konnten wir auch direct durch folgende Ueberlegung erhalten. 
+Da es in der ersten Correspondenz Ä Punktepaare giebt, deren 
+beide Punkte auf zwei gegebenen Geraden liegen, so liegen nach 
+den Bezout'schen Sätzen oder, was dasselbe ist, nach der Charak- 
+
+
+
+318 Sechster Abschnitt. 
+
+teristikentheorie des Punktes (§ 37), n-^ . Ä Punktepaare der Corre- 
+spondenz auf der Plancurve n^^^ Grades. Unter diesen befinden sicli 
+erstens die gesuchten x, zweitens aucli diejenigen n . d Punktepaare, 
+bei welchen Coincidenz auf der Plancurve stattfindet; also ist 
+x = n^ . A — n.d= n^ (d + a) — n .d = u {n — 1) . f? + n^ . a. 
+
+III. Um in fester Ebene die Zahlen für die oo^ gemeinsamen 
+PunTdeiMare ziveier dreistufige}- Systeme aus den allgemeinen Formeln 
+abzulesen, specialisiren wir die Formel 4 für n = 2 und erhalten 
+
+Diese Formel multipliciren wir mit y\g\ und mit g'ep'i^] dann kommt: 
+
+^(Jege =p\&lt;Je&lt;Je • G^i&gt;2 + (Je(JeP'-2 ■ GPi 
+
+und 
+
+XgePi.2 = g'sP'n • 9eP\2 + 9\P'\2 ' GPh + 9'eP'\2 • GpV 
+
+Fügt man jetzt wieder die Bedingungen g^ und g\ in die De- 
+finition der vorausgesetzten Systeme, indem man sich die Systeme 
+in fester Ebene denkt, so hat man g\ und //« rechts fortzulassen, 
+und mau erhält: 
+
+2G) OCge -P\g\ .P-iOe ^P\(/e 4h9e, 
+
+und 
+
+^Pl2 = f/p'vi -P\2 +P'\2 •9eP2 +i'"l2 • 9ePi 
+
+oder: 
+
+^i&gt;12 -9'e (p'i +P'.2 - g') .p\2 +P'\2 ■ Mh +P%2 -M\ +i&gt;"l2 -^12; 
+
+woraus sich dann bei fester Ebene ergiebt: 
+
+27) Xp^.2 = 9'eP\ -P^x^ +9'eP\ .P^V2 +^12 -^«Ä +i&gt;'^2 -üePi +p'\2 •i&gt;'l2- 
+
+IV. Verbindet man die in 26 und 27 gefundenen Formeln mit 
+der in 25 gefundenen Formel, indem man für a und d die für 
+xge und xp^^^ erhaltenen Werthe einsetzt, so gevnunt man das 
+folgende Resultat. We!nn in fester Ebene zwei dreistufige Systeme von 
+PunJitepaaren und ausserdem eine pimldallgemeine Plancurve w''"'" Ord- 
+nung gegeheti sind, so ist die Zahl x der jetzigen Pmilctepaare, welche 
+den beiden Systemen gemeinsam sind und zugleich auf die Oiirve fallen, 
+ausgedrückt durch die Formel: 
+
+28) x = n.{n-\). y^lU •P\t + g'ep'^z .p\^ +p\^ . 9ePi +i&gt;"i2 • 94h 
+
++ y\2 •i^'12] + »*' • yeP\ . 9eP2 + g'ep'^ ■ 9ePi\. 
+
+Die in dieser Formel auftretenden Symbole lassen sich nun 
+leicht durch die schon in § 18 definirten Brill'schen Zahlen a, ß, 
+y, «', ß', y' ausdrücken, wo « bezeichnet, wieviel Punkte jk auf 
+der Curve einem Punkte Pi durch eine Correspondenz C entsprechen, 
+
+
+
+Die Charakteristikentheorie. 319 
+
+und ß bezeichnet, wieviel Punkte 2h ^^^^ tler Curve umgekehrt einem 
+Punkte 2h entspeclien, aber so, dass im allgemeinen 2h i^nd 2h nicht 
+zusammenfallen, wo ferner y bezeichnet, wie oft in jedem Punkte 
+der Curve zwei Punkte 2h und 2h coiiicidiren und wo endlich j/j, 
+j/g, a', /3', y' die analogen Zahlen für eine zweite Correspondenz C 
+bezeichnen. Demnach ist, wie schon in § 18 besprochen ist, 
+
+*^ • (ih^lh) = « + r, ^* • (P'\P'2) =■ «' + /; 
+
+n.(2hih') = ß-\-r, n-(^\.p'\) = ß' + y'&gt; 
+p\2 = r, p'\2 = ?'■ 
+
+Nun ist nach der Coincidenzformel 8 des § 13: 
+also: 
+
+
+
+ebenso : 
+
+
+
+cc , y P , 7 
+
+
+
+Setzt man diese Werthe in 28 ein, so ergiebt sich nach einiger 
+Umformung die Formel: 
+
+29) x = a.ß' + ß.a'-{n-l){n-2).y.y\ 
+
+welche mit der BrilV sehen Formel (cf. Clebsch- Lindemann, pag. 446, 
+Formel 13) [Lit. 54] 
+
+x = a.ß^ + ß.a! -2.2-).y.y^ 
+völlig übereinstimmt, da für Curven ohne Doppel- und Rückkehr- 
+punkte (w — 1) . (w — 2) gleich dem doppelten Geschlechte 2 . j) ist. 
+
+§ 43. 
+
+Bestimminig" der Anzahlen für vielfache Secanten der 
+
+Schuittcurve zweier Fläche«. 
+
+Eine Fläche F ?h^''" Grades hat mit jeder Geraden g des Raumes 
+m Schnittpunkte 
+
+2hilh,---P&gt;n 
+gemein. Je i dieser Punkte bilden mit ihrem Träger g ein Gebilde, 
+welches die Definition des in § 42 behandelten Gebildes F für den 
+Fall n = i erfüllt und zwar erzeugt jede Fläche F ein vierstufiges 
+System solcher Gebilde, weil es im Räume oo* Gerade giebt; folg- 
+lich lösen die Formeln des § 42, specialisirt für w=l, n = 2, 
+M = 3, w = 4, und so eingerichtet, dass die Systeme S und £' beide 
+vierstufig sind, alle Probleme, in denen gefragt wird: 
+
+
+
+320 Sechster Abschnitt. 
+
+I. nach der Zahl der Geraden, welche eine dreifache Bedingung 
+erfüllen und ausserdem eine Fläche F m*®" Grades und eine 
+zweite Fläche F' m'^"'^ Grades so schneiden, dass ein Schnitt- 
+punkt auf F mit einem Schnittpunkte auf F' identisch ist; 
+IL nach der Zahl der Geraden, welche eine zweifache Beding- 
+ung erfüllen und zwei Flächen so schneiden, dass zwei 
+Schnittpunkte . auf der einen Fläche zugleich Schnittpunkte 
+auf der anderen Fläche sind; 
+IIT. nach der Zahl der Geraden, welche eine einfache Beding- 
+ung erfüllen und zwei Flächen so schneiden, dass drei 
+Schnittpunkte beiden Flächen angehören; 
+IV. nach der Zahl der Geraden, welche die eine von zwei 
+Flächen in vier Punkten schneiden, die zugleich Punkte der 
+anderen Fläche sind. 
+Bezeichnet also X; die i- fache Bedingung, dass eine Gerade 
+mit zwei gegebenen Flächen F und F' m*^*" und m'*^"" Grades die- 
+selben i Punkte gemein hat, so sind nach der Charakteristiken- 
+theorie des Strahls (§ 37) die unter I. genannten Probleme gelöst 
+durch die numerische Bestimmung der vierfachen Bedingung x^g,, 
+die unter IL genannten Probleme reducirt auf die Bestimmung der 
+beiden Zahlen x^ge und iCg^j;, die unter III. genannten Probleme 
+abhängig von der Zahl x^g und das unter IV. genannte Problem 
+gelöst durch die Ausrechnung des Symbols x^. Diese fünf Zahlen 
+
+^i9s) ^29«, ^h9pj ^39} ^4 
+sind aber in § 42 ausgedrückt durch gCAvisse vierfache Symbole, 
+welche sich auf g resp. g' und die m Schnittpunkte von g mit F 
+
+resp. die m' Schnittpunkte von g' mit F' 
+
+beziehen. Von diesen vierfachen Symbolen zählen wir hier nur 
+diejenigen auf, welche sich auf F beziehen, weil aus ihnen die auf 
+F' bezüglichen durch Stricheln hervorgehen; die auf F bezüg- 
+lichen Symbole sind: 
+
+G^, Pl^9&lt;; P\i, 9ePn, P\23, lh2U, 
+
+und alle diejenigen, welche aus diesen sechs Symbolen durch Ver- 
+änderung der Indices hervorgehen. Alle diese Symbole aber sind 
+aus der Definition der Fläche leicht zu bestimmen resp. in § 33 
+berechnet. Es ist nämlich, wenn von / Schnittpunkten die Rede ist: 
+
+
+
+Die Charakteristikentheorie. 321 
+
+G = m.{m—l)...(m — i-\-l), 
+
+gePi^ = m.{m-2)...(m-i-{-l), [cf. Nr. 2 in § 33], 
+
+i;\23 = 2.w.(m-3)...(w-i+l), [cf. Nr. 5 in § 33], 
+
+i'i234 = w . (11 m - 24) (m - 4) . . . (w - «■ + 1) [cf. Nr. 11 in § 33], 
+
+■welche Werthe natürlicli dieselben bleiben, wenn auch die Indices 
+sich ändern. 
+
+Wir erhalten daher nach Formel 5 in § 42 für n=l oder, 
+was dasselbe ist, nach Formel 18 in § 39: 
+
+I) x^gs = G .G' = m. m', 
+
+was auch unmittelbar ersichtlich ist, da die beiden F und F' eine 
+Raumcurve vom Grade m.m' gemein haben. 
+
+Die Werthe von a^g^/« und x^gp werden immittelbar durch die 
+Formeln 10 und 11 des § 42 geliefert; nämlich: 
+
+x^ge -=G.G' + ge2h2 -G-' + G .p\^ 
+
+= m.(ni — 1) .m' (m! — l)-\-m. m' (m' — 1) + m . {m — 1) . m 
+oder 
+
+IIa) x^ge = m.m' {m . m' — 1) , 
+
+was auch leicht aus der Zahl m.m' der in einer Ebene liegenden 
+und den beiden Flächen gemeinsamen Punkte geschlossen werden 
+5t: 
+
+x^gp = G.G' ==^m.{m—l).m' {m' — 1) 
+oder 
+
+IIb) x^gp^^mm' .{m~l){m' — 1). 
+
+Den Werth von x^g ergiebt ohne Weiteres die Formel 17 des 
+§ 42, pag. 313; nämlich: 
+
+^s9 = G .p'\,, +i)^23 &gt;G' + G. {p\, +p\, +p\,)g\ 
+
++ {p,2-\-Pn+P2z)9e.G'^2.G.G' 
+■= m . (m - 1 ) (m - 2) . 2 m' + 2 . m . m' (w' - 1 ) (m' - 2) 
+
++ w (m - 1) (m - 2) . 3 . w' {m! - 2) 
+
++ 3 . m {m - 2) . w' (m' - 1) (m! - 2) 
+
++ 2 . w (m- 1) (m - 2) .m' (w' - 1) (w' - 2) 
+= w.m'(m-l)(m-2)[2 4-3m'-6 + m'2-3m' + 2] 
+
++ m.OT'(w'-l)(m'-2).[2 + 3w-6 + m2-3m + 2] 
+= m' .m{m — 1) (w — 2) . [m'^ — 2] 
+
++ m . m' {m' - 1) {m' - 2) [m^ - 2] 
+= m . m' . [2 tn^m''^ — 3 m^m' — dmm'^ + 6 wi + 6m' — 8] 
+oder 
+
+Schubert, Kalkül der abzäblenUen Geometrie. 21 
+
+
+
+322 Sechster Abschnitt. 
+
+III) iC3^ = w.m'.(ww'-2)(2wm'-3w.-3m' + 4) [Lit. 55]. 
+
+Endlich haben wir noch x^ zu bestimmen. Dies geschieht mit 
+Hilfe der Formel 20 des § 42, pag. 314; danach ist: 
+
+X^=G .^1234 + Ä234 • (^' + (9elh2 ' fj'eP'si + gdhä ■ g'el^i 
+
++ gePu ■ g'eP'iZ + g4hs ■ g'eih^ +9eV 24 • ^'ei^'lS + 9elh4. • d' elh^) 
+
++ {Oelh^ + Qelhz + gePu + ^«i^23 + ^.i^24 + ^^^84) • ^' 
+
++ G^ • (^'«i&gt;'l2+^'ey 13+^'«yi4 +^'«i&gt;'23 + ^'«i^'24 + if eP^^) + 2.G.G' 
+
+^m. {m - 1) . (m - 2) (m - 3) . 7ii' . (1 1 m' - 24) 
+
++ w.(llm-24).m'(m'-l)(m'-2)(m'-3) 
+
++ 6 . j&gt;i (w^ - 2) (?)^ - 3) . &gt;»' («i' - 2) (■«/ - 3) 
+
++ 6 . m Im - 2) (w^ - 3) . w' («/ - 1) 0'^' - 2) («^' - 3) 
+
++ 6 . ?;^ (&gt;;i - 1) {m - 2) {m - 3) . m' {m' - 2) (»i' - 3) 
+
++ 2 . w (wz - 1) (w - 2) {m - 3) . wi' {m' - 1) (wz' - 2) (w»' - 3) 
+
+= m (m - 1) (m - 2) (m - 3) . m' (lim' - 24) 
+
++ m .{lim- 24) . w' (m' - 1) (m' - 2) (m' - 3) 
+
++ 2 . wi (in - 2) (wi - 3) . m' (m! - 2) (?w' - 3) . [m . m' + 2 m + 2 ^».'- 2] 
+
+= mm' [(wi^ - 6»i2 _|_ 11 ;;^ _ 6) (lim' - 24) 
++ (1 1 ?» - 24) (m'^ - 6 w'2 + 1 1 m' - 6) 
++ 2 . {m^ - 5m + 6) (?w'2 - 5 )n' + 6) (w^ m' -\-2m-\-2 m' - 2)] , 
+also: 
+
+IV) x^ = mm' [2 . mhn''^ - QmhrP {m + »0 + ^mm' {m + m'f 
+
++ IS m m' {m-{-m') -26 mm' - 66 {m-\-m') + 14A] (Lit. 55). 
+
+Bei jedem der erhaltenen fünf Resultate für x^^ffs, x^ge, ^^gp} 
+x^g, Xj^ ist jede Gerade g so oft zu rechnen, als die den beiden 
+Flächen angehörigen Schnittpunkte Permutationen zulassen. Will 
+man also jede Gerade nur einfach rechnen, so hat man den Aus- 
+druck für jedes x-, enthaltende Symbol durch i! zu dividiren. Da 
+eine Gerade, welche von zwei Flächen F und F' dieselben i Schnitt- 
+punkte enthält, i- fache Secante der Schnittcurve beider Flächen ist, 
+so können wir die erhaltenen fünf Resultate in Worten auch so 
+aussprechen: 
+
+I. Die OD^ einfachen Secanten der Schnittcurve zweier Flächen 
+
+^^ten ^jjj(j ^'teii Grrades bilden einen Complex vom Grade m . m'. 
+
+IL Die oo^ zweifachen Secanten der Schnittcurve zweier Flächen 
+
+m^'''^ und m'*^^ Grades bilden eine Congruenz, deren Feldgrad 
+
+^7nm' (jnm' — 1) 
+beträgt, und deren Bündelgrad gleich 
+
+lm7n' (m — 1) (»i' — 1) 
+ist. 
+
+
+
+Die Charakteristikentheorie. 323 
+
+III. Bie 00^ dreifachen Secanten der ScJmittcurve zweier Flächen 
+m^^" und m'''*" Grades bilden eine Linimfläche vom Grade 
+
+^mm' (mm' — 2){2 mm' — Sm — 3m' + 4) [Lit. 55]. 
+
+IV. I)ie Schnittcurve ztveier Flächen m^"" und m''^"" Grades enthält 
+
+■^\mm' [2m^m'^ — Qm^m'^ (m + m') + 3mm' (m + m'y 
+
++ IS mm' (m + m') ~ 2&amp;mm' - 66 {m + m') + 144] 
+
+viermal schneidende Secanten (Lit. 55). 
+
+
+
+§ 44. 
+Charakteristikentheorie des Gebildes, welches aus einem 
+Strahlbüschel und n darin befindlichen Strahlen besteht. 
+Anwendung auf die zweien Complexen gemein- 
+same Congrueuz. 
+
+Das Gebilde F bestehe aus einem Strablbüscbel mit dem 
+Seb eitel p^ der Ebene e und aus n in diesem Strablbüscbel befind- 
+licben Strablen 
+
+9i, (/2, 9z, ■■■9n. 
+Dieses Gebilde F sei Element eines Systemes U. Für ein zweites 
+von demselben Gebilde erzeugtes System £' beisse der Scbeitel j/, 
+die Ebene e', die n Strablen 
+
+9'l, 9\,--9'n- 
+
+Die beiden Systeme S. und E' haben dann eine endliche Anzahl 
+von Gebilden F gemein, wenn ihre Stufensumme gleich der Con- 
+stantenzahl 5 + w von F ist. Verfahren wir nun analog wie in 
+den §§ 39, 40, 41 und 42, so erhalten wir mit Benutzung der 
+Gleichung 1 des § 40 für die (5 -fw)- fache Bedingung x^ dass ein 
+Gebilde F den beiden Systemen gemeinsam ist, die folgende Stamm- 
+formel: 
+
+1) x = {(? -f e^e' 4. ee'2 ^ ^is-j (^^2 _ep-\-e^ +pp' - ep' +p") 
+{9i + 9'i -p-e) {92 + 9' 2 -i&gt; - e) . . . (f/„ + g'n -p - e). 
+Die Ausführung der Multiplication behufs der Darstellung der all- 
+gemeinen CharaTiteristikenformel könnte sehr umständlich erscheinen. 
+Wir wenden daher wieder das in § 37 erörterte Elimiuatiousver- 
+fahren an und entnehmen der Gleichung 1 nur, dass es bei dem 
+Gebilde F möglich ist, jede einfache Bedingung durch 
+
+21* 
+
+
+
+324 Sechster Abschnitt. 
+
+e, P, 9u 92, '■•9n, 
+jede zweifache Bedingung durcli 
+
+e"", ep, /, eg^, eg^,...egn, pg^ P92,-'-P9n, 9i92, 9i9zy-9n~i9n 
+und so fort auszudrücken. Dann muss es nämlicli auch möglich 
+sein, jede einfache Bedingung durch irgend welche n-{-2, jede zwei- 
+fache Bedingung durch irgend welche Wg -f 2 . w^ + 3 von einander un- 
+abhängige Bedingungen auszudrücken. Ueberhaupt sind, wenn das 
+eine der beiden Systeme i- stufig, also das andere (5 -f w — »)- stufig 
+ist, aus jedem der beiden Systeme 
+
+ni -\- 2 . ni-i 4- 3 . W;_2 + 3 . w,-_3 + 2 . ni-i -f w^-s 
+Bedingungen erforderlich, um die Zahl x der den beiden Systemen ge- 
+meinsamen Gebilde ausrndrüchen. Auf kürzeste Weise ist dies mög- 
+lich, wenn wir, analog wie in § 44, gewisse Oomcirfm^f-Bedingungen 
+zu Charakteristiken wählen. Es sind dies die schon in § 35 de- 
+finirten und dort in den Formeln 13 bis 28 ausgedrückten Beding- 
+ungen 
+
+gi23...i, gel23. .{■, gpl2i...i') 9sl23...i, 6^123 ... «, 
+
+und die Producte dieser Bedingungen mit 
+
+P&gt; ^, P^i P^} ^, i^^ P^, ^^ P^^, P^^y P^^^' 
+Beispielsweise drücken wir fünffache Bedingungen aus durch 
+
+ö'läSiS; ö'i'1234, Ö'el234, 5'«123, eö'i'123, P9em, 
+
+G-i2&gt; e^9pi2, P^9e 12, e^gex, P^9pi, P^e^ 
+und diejenigen neuen Symbole, welche aus den genannten durch 
+Veränderung der Indices hervorgehen. 
+
+Die Methode zur Auffindung der Gestalt der Charakteristiken- 
+formeln ist wieder ganz dieselbe wie in § 42. Man lässt zunächst 
+die Coefficienten der i- fachen Symbole unbestimmt und bestimmt 
+sie dann durch symbolische Multiplication mit (ö + n — i)- fachen 
+Bedingungen. Um dann die Werthe der erhaltenen (5 -fw)- fachen 
+Symbole genau erkennen zu können, wendet man die Formeln 13 
+bis 28 des § 35 an. Schliesslich ergeben sich eben so viele Gleich- 
+ungen, wie Coefficienten zu bestimmen sind, nämlich 
+
+Mj -|- 2 . nt-i -\- 3 . ni-2 + 3 . w,-3 + 2 . W/_4 + Wj-5. 
+Sollte es leichter erscheinen, statt mit Coincidenzbedingungen mit 
+anderen Bedingungen zu multipliciren, so kann dies auch geschehen. 
+Man hat dann nur nachträglich die eingeführten Nichtcoincidenz- 
+bedingungen vermöge der Formeln des § 35 schliesslich durch Co- 
+incidenzbedingungen auszudrücken, z. B. 
+
+
+
+Die Charakteristikentheorie. 325 
+
+9l92939i9t969l = 6'l234567 -^P {9el2U6 + 9el2Uß + . . .) 
+
++ e (gp 12345 + • • ■)-\-P^ (9e 1234 +...) + 6^ i9p 1234 +• • •) 
+
+- 2. {G,,,, + ...)-\-20pe{G,, + ...). 
+
+Durcli diese Mittel ist der Verfasser auf melireren Wegen zu einer 
+und derselben allgemeinen Charakteristikenformel für das Gebilde 
+r gelaugt. Da die Gestalt dieser Formel deutlicher erkennbar ist, 
+wenn für die Stufe des einen Systems eine hestimmte Zahl ange- 
+nommen wird, so setzen wir das eine System -S' als siebenstufig, 
+also das andere System S als (5 + w — 7) -stufig, d. h. (w — 2) -stufig 
+voraus. Dann ist die Zahl x der solchen Systemen gemeinsamen 
+Gebilde ausgedrückt durch die folgende Formel, bei welcher jeder 
+Klammer die Zahl der in derselben stehenden Producte wie ein 
+Index angefügt ist. 
+
+2) x = [iPe!-'g\, .g,,...r. +y^e' Via • i/24 ...„ + . . .]«, 
+
++ [f'^g'pvii .gpib...n +p'^g'pi2i.gp35 . . . n + . • .j«, 
++ [e'V«i23.5'e45...«4-...]«, 
+
++ [^'l234-5'^5...n + ...]n, 
+-\-[e'^^g'pl23i.p9e5. .«+•..]«, 
+
++ bV'ei2345 . e^gpei . . . n + • . •]«, 
+
++ [e'g'pl23tö .P^gee . . . ™ + • • -]n, 
+
++ [g S12345 • G^6 . . . ?i + • • -Ira^ 
+
++ [g'e 123456 • C^^e 7 . . . n + • • .]n, 
+
++ |&gt;'i&gt; 123456 . P^gpl . . . n + . . .]«e 
+
++ li''l234567-i^^eV8...n + ...]n, 
+
++ [(P"e"g\, +lPd'g\, + . . .)6 . ei'^ö . . . n + . . .]6 . n, 
+
++ [(p'^e'Vl2 + -..)6-i^^«5.... + ..-]6.n. 
+
++ [{e'g'enz + • • .)io • ^^^^67 ...« + .. .]io . n, 
++ [(P'^e'2^'i2 -f . . .)io . e^^e . . . n + . . .]io . n, 
+
++ [O^'^^'i.123 + . . .)lO -P^ge^ . . . n + . . .]lO . n, 
++ [(p'VVl2 + --)lO-ÄG....+ -..]l0.n, 
+-2.[(jyVVi2 + --.)lO.Ö^6...n + ...]l0.n3 
++ [(e'^^'i&gt;1234 + . . .)l5 • ^^9e^ ...n-\-.- .]l5 . n, 
+
+— 2 . [(e' Vel23 + • . •)20 • ^^9e1 . . . r. + • • .]20 . n, 
++ [(i^' Ve 1234 + . . .)l5 -P^gp-J .. n + . . .]l5 . n, 
+
+- 2 . [(i/^^^f'^ias + . . .)20 -P^9p1...n+.. .]20 . n, 
++ [(i&gt;'y.l2345 + . . .)21 -i^'e^S . . . n + . . .]21 . n. 
++ [(eVi. 12345 + • . .)21 • P^eVs . . . n + . . .]21 . n, 
+4- [(y V« 1234 + . . .)35 ■P'e'^g, . . . n + . . .]35 . n, 
+
+
+
+326 Sechster Abschnitt 
+
++ [(e' Vi. 1234 + . . .)35 'ly'e^O^ ...»+.. .]35 . n, 
+- 2 . [((^'i234 + • • 035 -i^'eVs ...« + .. -Jsö . n, 
+
++ 20 . [{f'^'g\, ■^iP(^'g\, + . . .).! .i^^e^^s ...» + .. .]2i . ., 
+
+Will man aus dieser Formel ersehen, welche Gestalt die Cha- 
+rakteristikenformeln für Ideinere n und für Systeme von niederer 
+Stufe haben, so muss man bei der Uebersetzung der Symbole die 
+Incidenzformeln anwenden. Soll z. B, statt e^^s... ein Symbol 
+mveiter Dimension eintreten, so hat man e^ zu nehmen, weil 
+egp = e^g — (? ist u. s. w. Beispielsweise specialisiren wir die For- 
+mel 2 für den Fall, dass n = ?)^ U' fünfstufig, also 2J dreistufig ist; 
+dann kommt: 
+
+3) x = [p'''e'Kg,,,] 
+
++ [p'^g'pi •ö'i&gt;23 +p'^g'p2.gpi3 -\-iPg'p3.gpi2] 
+
++ [e'^g'el .ge23-\- e'^g'e2.gel3 + €^^ge3.gel2] 
++ [G^'l2 -9^3+ ^'i3 •5'«2 + (}'23-9sl] 
+
++ [p'^g'ei2 . egp3 -\rf^g\x3 ■ egp2 +1^' V«23 . egpi] 
+
++ [e'^9'pl2 ■Pge3 + e' Vi&gt;13 -Pge^ + ^^g'p23 .p^«l] 
+
++ [eV^i23 .p^] + [^.123 -i^e] 
++ y^e'^ . (e(7^i + e&lt;7p2 + e5'p3)] 
+
+-f \f'e'^ . (j)gei -f pge2 -\-pge3)] 
+
++ [(e'V.i + e'V«2 + e'V.3).c^] 
+
++ [(y V..1 4-y Vi.2 +/ Vi.3) . p=^j 
+
+-2.[iy3e'2_j;-|^ 
+
+
+
+Mit Hilfe der Charakteristikenformelu unseres Gebildes F be- 
+stimmen sich naturgemäss die linieng eometrisclien Analoga der in 
+§ 43 berechneten Anzahlen, d. h. die Anzahlen, ivelche sich auf die 
+Strahlhüschel beziehen, in denen zivei gegebene Complexe dieselben Strah- 
+len besitzen. Diese Anzahlen hängen vermöge der Charakteristiken- 
+formeln des Strahlbüschels schliesslich von den folgenden, auf den 
+Strahlbüschel bezüglichen Anzahlen ab: 
+
+x^e^p, x^ep^, x^e^, X2^P, %P^ ^s^^? ^s'^P, ^sP^ ^4^? ^dh ^5? 
+
+wo immer x,- die fünffache Bedingung bedeutet, dass ein Strahl- 
+büschel i Strahlen enthält, deren jeder sowohl einem Complexe C 
+
+
+
+Die Charakteristikentheorie. 327 
+
+vom Grade »t, wie auch einem Complexe C vom Grade m' ange- 
+hört, und wo p den Scheitel, e die Ebene des Strahlbüschels be- 
+zeichnet. Wegen des Princips der Dualität ist: 
+
+Wir haben also bloss die folgenden sieben Symbole zu bestimmen: 
+
+I) x^e^p, IIa) rTgC^, IIb) x^pe, III a) x^e\ 
+Illb) x.^pe, IV) x^e, V) x^. 
+
+Wir finden die Werthe dieser Symbole als Functionen von m 
+und m\ wenn wir die obigen Charakteristikenformeln mit den auf 
+p und c bezüglichen Grundbedingungen multipliciren. Dadurch er- 
+halten wir jede der gesuchten Zahlen als Function von Producten 
+mit je zwei Faktoren, so dass immer der eine Faktor eine auf den 
+Complex 0, der andere eine auf den Complex C" bezügliche fünf- 
+fache Bedingung ist. Die Werthe dieser fünffachen Bedingungen 
+sind zum Theil null, weil es in einem Complexe keinen Strahl 
+giebt, der mit einem beliebig gegebenen identisch ist. Die Werthe 
+der übrigen fünffachen Bedingungen sind in § 36 berechnet. Um 
+nach der symbolischen Multiplication symmetrische Formeln zu er- 
+zielen, hat man die Formeln des § 35 anzuwenden. Mit Rücksicht 
+darauf definiren wir noch das mit gewissen i Indices versehene 
+Symbol £ als die (/ — l)-fache Bedingung, dass diejenigen i Strahlen 
+g zusammenfallen, welche dieselben Indices haben. Bei der Ver- 
+einfachung der Formeln benutzen wir erstens, dass zwei sich dual 
+entsprechende Symbole gleichen Werth haben, und zweitens, dass 
+auch Symbole, die sich nur durch die Werthe der Indices unter- 
+scheiden, gleich sind. 
+
+I. Um e^i^X-^ zu bestimmen, setzen wir in der allgememen 
+Charakteristikenformel w = 1 , die Stufe von S gleich I , die von 
+S' gleich 5 und multipliciren dann mit e^jp; dann kommt: 
+
+e^px^ = e^pg^ . p"^ e'^ -f- e^p^ . e' Ve 
+
+= e^p^ .p'^e'^ -f e^ge .p'^e'"^ -f e^p^ . d^g\ 
+= m . m' -f . m' -f m . 
+= m, . m\ 
+
+IIa. Um e^x.2 zu bestimmen, setzen wir n = 2, die Stufe von S 
+gleich 2, die von Z' gleich 5 und multipliciren mit c'^; dann kommt: 
+
+6% = e'g,, .p''^' + e'gu . e'^g'^. + e'p' . f^'^g',, 
+-f e^p^ .!)'•' e'2 -I- e^g2e . e'^g'u 
+
+
+
+328 Sechster Abschnitt. 
+
+= m . m' (in'— 1) + m . (wi — 1) , m' + m (jn — 1) . m' (m' — 1) 
+= m.m' [mm'— 1]. 
+
+IIb. Femer erhalten wir dureli Multiplication mit 2)e: 
+pex^ =peg^ .jV V^ +peg^.p'^g'p2 +peg^,2 .p'^g'pi 
+
++pegei . e'^g'e2 + pe&lt;7e2 . ^^g'ei + P'e^ . G'i2 
+= (3^12 •y'e" +i&gt;'ePi -i^'^e'^ -{-p'eg, . f'e'' - 2 .p'e' .p)"e''' 
+
+■i-pe^gi -P'^g'p^ +pe'g2 .p''^9'pi -Vp^eg^ . ^^g'e2 
+
++ l)^eg^J^g'ei+p'e'.G'^^ 
+= G,, .p' V^ +p^e' {p"g'p2 +P"ifp.) + e'gu . p"g\ 2 + 6^2« -l^'g^i 
+
++ {P'g^p +f9^p) .y^e'^ ^fe' {^hje2 + ^'g'ei) 
+
+= 2 .7)1 {m — 1) . »&gt;i' [m' — 1). 
+
+nia. Um e^x^ zu bestimmen, setzen wir n = 3, die vStufe von 
+2^ gleicb 3, die von U' gleich 5 und multipliciren mit c^. Dabei lassen 
+wir der Kürze wegen von vornherein diejenigen Producte aus, deren 
+einer Faktor bei der Anwendung auf die beiden Complexe null wird. 
+
+x^e^ = e^g^ä • P'^e'^ + 3 . e-pgie. e'^g'p23 + p^e^ e'g'pi23 
+
++ 3 . e'pgu-p"^' -hp'e' .p'^' 
+
+= 6^^123 .p"e" + eh,,, .y V^ + 3 . eY - ^'g\z -hp'e' . dg'p,2z 
++ 3.eV-y'e'2+j/e2.y3e'2 
+
+= eÄ'i23.yV2+i)^eley,.x23+4.ey.y3e'2+(3.e3^,r7,-3ije^(7,)-P"e'' 
+
++ 3.ey.e'V23 
+
+= e5'^i23.yV2+i)3ele'(7'^i23+4.ey.e'y2+3e3^,,.i9'V2+3.ey.e'V23 
+= m. (3w— 2) . m' (m'— 1) (w/-2) + m.(m— 1)(w-2).&gt;m'(3)h'-2) 
+
++ 4 . wi {m .— 1) (^&gt;i — 2) . ni (m' — 1) (m' - 2) 
+
++ 3.m(w-2).m'(w'-l)(w'-2)+3.m(m-l)('W-2).m'(&gt;M'-2) 
+= m . {6m - 8) . m' {m'— 1) (m'-2)+m{m - 1) {m-2).m' (ßm'-^) 
+
++ 4»J (wi - 1) {m -r- 2) . w^' {m' — 1) (m'—2) 
+= 2wm' (m2-2) . (m'-l) (m'- 2) + 2mm' (ni- l){m-2).(itP-2) 
+= 2mm'. [(m2m'2 - Sm^m' + 2m2 - 2m'2 + Qm' - 4) 
+
++ (wi2&gt;»'2 - 3 mm'^ + 2 wi'^ - 2m2 + 6m - 4)] 
+= 2mm' [2m^m'^ - 3m«^' (v)i + ^j*') + 6 {m + ^«') - 8] 
+= 2mm'[mm'-2][2mm'-3(m + m') + 4] (cf. § 43, Nr. III). 
+
+nib. Um pex.^ zu bestimmen, können wir Formel 3 mit pe 
+multipliciren; dann kommt bei Weglassung der Symbole, die null 
+sind, und bei Zusammenfassung solcher Symbole, die sich dual ent- 
+sprechen oder sich nur durch die Indices unterscheiden: 
+
+
+
+Die Chai-akteristikentheorie. 329 
+
++ 4 .^',123 .i)'e2 + 6 .y3e'2 _^,g2^^^ _ g .^3^.2 ^^3g2 
+
+=iy V^ .peg,,, + 6 .y^r/',, .i/e^ + 4 . i/',i23 -i^c^ 
+
++ 4.y'e".i&gt;'e' 
+== w' (m/- 1 ) {m'- 2) . 2 m {m^ - 2) + 6 &gt;&gt;/ ()&gt;i'- 2) . m {m - 1) {m - 2) 
+
++ Am', m {m - 1) (m - 2) + 4 m' (m'- 1) (ni'-2) m (m - 1) (m -- 2) 
+= 2wm' [(w^m'^ - 3 w^m' + 2«i2 _ 2i)P + 6w*' - 4) 
+
++ (dm^m! - 9mm' + 6m'- 6m^ + 18m - 12) + (2w'^-6 w+4) 
+
++ (2m%'2-6m2w*'-6r/*w/2+4w^24-4^M'2+18w*w/-12w-12'w'+8)] 
+= 2 wim'(3 mhu''^— 6 &gt;w%i'- 6 ?n;«'2+ 2 ^^2+ 2 ^«'^+9 mm'~4) [Lit.Sß]. 
+
+Da hier iinser Verfaliren rücksichtlicL. der beiden Complexe 
+unsymmetrisch war, so liefert der Umstand, dass diese Formel in 
+m und m' symmetrisch ist, eine Bestätigung. 
+
+IV. Um x^e zu bestimmen, verfahren wir wieder unsymmetrisch, 
+indem wir Formel 2 mit e multipliciren imd dann ohne Weiteres 
+die aus § 36 bekannten Werthe der fünffachen Bedingungen sub- 
+stituiren; dadurch kommt: 
+
+x^e =y V2 . e&lt;7^234 + 6 -P'^g'n ■ ^^9pu + 6 . e'ViJi2 .pegeu 
++ 9'pi23i.p^e^ + 6 .p'^e'^ . eViU2 + 6 .p'^e'^ .pegen 
++ 4 .p'^e'^ .p^ege, + 4 . dg'^y,, .p^eg^, + 6 .p'\J,,^ .p'e' 
+
+= m' (m' - 1) (m! - 2) (m' - 3) . 2m (ßm^ _ 11 m - 6) 
++ 6 w' (m' - 2) {m' - 3) . m (m - 2) (m - 3) 
++ 6 m' {m' - 2) {m' - 3) . m^ (w - 2) (m - 3) 
++ 4m' (3m' - 2) (m' - 3) . m (m - 1) (m - 2) (m - 3) 
++ 2m' (lim' - 18) .m{m- 1) (m -2){m- 3) 
++ 6 m' (m' - 1) (m' - 2) {m' _ 3) . m (m - 2) (m - 3) 
++ 6 m' (m' - 1) (m' - 2) (m' - 3) . m^ (?&gt;* - 2) (m - 3) 
++ 4.m' {m' — 1) (m' - 2) (m' - 3) . m {m - 1) (m - 2) (m - 3) 
++ 6 m' (m' - 2) (iw' - 3) . m (m - 1) (m - 2) {m - 3) 
+
+= 2 m' {m' - 1) (m' - 2) (m' - 3) m . [9m2 - 26 m + 12] 
++ 2 m' (9 f»'2 - 26 m' + 12) . »w (m - 1) (m - 2) (w^ - 3) 
++ 2m' (m' - 2) (wi' - 3) . m {m - 2) (m - 3) . [3 + ^mm' 
+
++ 2mm' - 2m - 2m' + 2] 
+
+== 2 m (wi -2)(m -3) . m'(m'-2) (m'-3).(5 m m'-2 m -2 m'+5) 
++ 2wi (w^ - 1) (m - 2) (m - 3) . m' (9m'2 - 26 m' + 12) 
++ 2m(9m2-26m+12).m'(m'-l)(m'-2)(m'-3) [Lit. 561. 
+
+V. Für Ä^g erhalten wir aus der Formel 2 nach Weglassung 
+derjenigen Symbole, die null sind, und nach Zusammenfassung der 
+gleichwerthigen Symbole : 
+
+
+
+330 Sechster Abschnitt. 
+
+^5 = 5'l2345 -/'C" + 10 . eCJp 123 .^ Ve45 + 10 .^«123 • c' Vi&gt;45 
+
++ 10 . e^gpi2 .p'g'esiö + 10 .p^gev2 . eVi^siö -hp^eKg\,^s^ 
+
++ 10 . 6^^123 . P'V^ + 10 .pgenz .y V^ + 10 . 62^^12 .^^6'^ 
+
++ 10 ygei2 .y V^ + 10 .p'e' .p'g'ei2, + 10 -i^^e^ . (^g'^ns 
++ 10 .j/e'^ .p"g'en + 10 -iJ^e^ . e' Vp12 + 20 .^^^e^ _y3gr2 
+= 20 . m (7 ni' - 30 »? + 24) . »m' (7m' - 1) {m' - 2) (;&gt;i' - 3) (m' - 4) 
++ 20 m {m - 1) (m - 2) («i - 3) {m - 4) . m' (7 «^'^ - 30 m' + 24) 
++ 20m (3 «i - 2) (m - 3) (^i^ - 4) . m' {m' - 2) ()«' - 3) (w/ - 4) 
++ 20 »i {m - 2) (*)^ - 3) {m - 4) . *;i' (3 wj' - 2) (wi' - 3) (m' - 4) 
+. + 20 m (3 m -2) (v« -3) {m -4). w/'(«/- 1) (wi'-2) («»'-3) (^»'-4) 
++ 20 ;;« \m-\) (;«-2) (&gt;^/.-3) (»^ - 4) . w^'(3 *»'-2) (wi'-3) {^))^- 4) 
++ 20 »» \m-2) \m -3) (j)i -4) . im'(&gt;h'-1) («i'-2) (wi'-3) (wi'-4) 
+4- 20 m \m-V) (&gt;» -2) {^m -3) (&gt;n -4) . ?»'(Mi'-2) (Hi'-3) (wi'-4) 
++ \0m \m - 1) (»i - 2) (&gt;« - 3) {m - 4) . ^)^' («/ - 1) (&gt;;*' - 2) 
+
+(m'-3)(m'-4) 
+= 10 ;&gt;^ ()M - 2) {)n - 3) {)n - 4) . [2w^' (3 ni- 2) (&gt;«'- 3) («i'- 4) 
++ (w - 1) (wi' - 2) (&gt;;^'3 - 15»^' + 12)] 
++ 10 . ^m (3 wi - 2) (;&gt;i - 3) [)n - 4) 
++ ii^)^ - 1) (in- 2) (»^3 _ 15 m + 12)] . m' {m' - 2) (;«' - 3) 
+Im' -4) [Lit. 56]. 
+
+Das Resultat für jedes X; enthaltende Symbol ist durch if zu 
+dividiren, wenn jeder Strahlbüschel, der von den beiden Complexen 
+m^^'^ und »^"«° Grades dieselben i Strahlen enthält, nicht if mal, 
+sondern m&lt;r einmal gerechnet werden soll. Demgemäss sprechen 
+wir die obigen Resultate aus wie folgt: 
+
+I. und IIa. Die Congruenz, welche zwei Complexen ni^^^ und 
+m'**"^ Grades gemeinsam ist, enthält in jeder Ebene m.m' Strahlen, 
+ferner in jeder Ebene ^ ))n)i' {»im' — 1) Schnittpunkte von zwei 
+Strahlen. 
+
+IIb. Dieselbe Congruenz enthält in jeder Geraden 
+
+m [m — 1) m' {m' — 1) 
+
+Schnittpunkte von zwei Strahlen, deren Schnittebene durch eben 
+dieselbe Gerade geht. Mit Hilfe dieses Resultats kann man leicht 
+die Ordnung der Brennfläche der Congruenz berechnen. Von einem 
+Punkte A einer Geraden s gehen mm' Strahlen aus, die der Con- 
+gruenz angehören. In der Verbindungsebene jedes dieser mm' Strahlen 
+mit s liegen m))i' — \ sonstige Congruenzstrahlen, deren jeder s in 
+einem Punkte B schneidet. So entsprechen auf s einem Punkte A 
+
+
+
+Die Chai-aktenstikentheorie. 331 
+
+mm' {lum' — 1) 
+
+Punkte B, und ebensoviel Punkte A entsprechen einem Punkte B. 
+Es giebt also auf s 
+
+2 .mm' {mm' — 1) 
+
+Punkte, deren jeder sowohl A als B ist. Zu diesen Punkten ge- 
+hören erstens zweimal jeder von den eben abgezählten mm'(^m—V) («*'—!) 
+Schnittpunkten von Strahlen, deren Schnittebene durch s geht, 
+zweitens auch diejenigen Punkte von s, in denen sich imendlich 
+nahe Strahlen der Congruenz schneiden, d. h. die der Brennfläche 
+angelwrigen Punkte. Also ist die Ordnung der Brennfläche der zwei 
+Complexen m^'^^ und »i'**^" Grades gemeinsamen Congruenz gleich 
+
+2mm' (nini' — 1) — 2mm' (7)1 m' — m — m' -f 1) = 2mm' {}u -f m' — 2) 
+(cf. Voss in den Math. Ann. Bd. 9, pag, 88). 
+
+III a und III b. Bie Congruenz, tcelche zwei Complexen m*^'^ und 
+W*" Grades gemeinsam ist, enthält oo^ mal drei Strahlen, welche in 
+gemeinsamer Verhindungsehene liegen und zugleich einen gemeinsamen 
+Schnittpunkt haben. Bie von solchen Schnittpunkten gebildete Fläche 
+oder der von solchen Verbindungsebenen gebildete Ebenenort haben den 
+Grad 
+
+-lmm'(mm' — 2){2mm' — 3m — 3m'-\-4:) [Lit. 56]; 
+
+ferner bilden diejenigen von diesen Schnittpunkten, deren zugehörige 
+Ebe)ien durch einen gegebenen Punkt gehen, eine Curve vom Grade: 
+
+ynm' (ßm'^m'^ — 6m^m' — QmnP + 2m'^ + 2m'^ -f ^mm' — 4) [Lit. 56]. 
+
+IV. Es giebt oo^ mal vier Strahlen, ivelche zivei gegebenen Com- 
+plexen m^"" und m"'"' Grades zugleich angehören und dabei sotvohl 
+durch einen und denselben Punkt gehen, ivie auch in einer und der- 
+selben Ebene liegen. Bie dadurch bestimmten Punkte bilden eine Curve, 
+die dadurch bestimmten Ebenen eine Torse, beide vom Grade: 
+
+-^\m (in - 2) {m - 3) m' {m' - 2) {m' - 3) (pmm' -2m - 2m' -f 5) 
++ j\m {m - 1) {m - 2) {m - 3) . m' (9m'2 - 2Qm' + 12) 
++ -^m (9&gt;«2 _ 2Qm + 12) . m (m —l){m- 2) {m - 3j [Lit. 56]. 
+
+V. Unter den sämmtlichen Strahlen, ivelche zivei Complexen m'"" 
+tmd «i"*" Grades zugleich angehören, befinden sich 
+
+tV m {m - 2) {m - 3) {m - 4) [2 m' (3 w' - 2) {tn' - 3) {in' - 4) 
++ ("i - 1) K - 2) (m'3 _ 15m' + 12)] 
++ ^ [2 m (3 m - 2) (m - 3) {m - 4) 
++ (&gt;m'- 1) {m - 2) [m^- 15 m -\- 12)J m' {m'-2) (;m'- 3) (;«'- 4) 
+
+
+
+332 Sechster Abschnitt. Die Charakteristikentheorie. 
+
+Gruppen von je fünf Strahlen , so dass immer die eitler solchen Gruppe 
+angehörigen Strahlen sich in eitlem und demselben PunJde schneiden 
+und dabei in einer und derselben Ebene liegen oder, ivas dasselbe ist, 
+jene Function von m und ni! ist die Zahl der Ebenen, tvelche aus den 
+beiden Complexen zwei Complexcurven ausschneiden, von deren gemein- 
+samen , Tangenten fünf einen gemeinsamen Schnittpunlit besitzen (Lit. 56). 
+
+
+
