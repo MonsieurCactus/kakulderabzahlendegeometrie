@@ -1,0 +1,1345 @@
+Erster Abschnitt. 
+Die Symbolik der .Bedingungen. 
+
+
+
+§1. 
+Die Coustanteiizalil eines Gebildes. 
+
+Das äusserliche Ziel der abzählenden Geometrie ist die Be- 
+antwortung aller Fragen von folgender Form: 
+
+„Wieviel geometrische Gebilde von hestimmter Definition erfüllen 
+gewisse gegebene Betliugiingeu?" 
+
+Die Zahlen, welche diese Fragen beantworten, hängen also 
+einerseits von der Natur der aufgestellten Definition, andererseits 
+von der Natur der gegebenen Bedingungen ab. Wenn nun die De- 
+finition für ein F genanntes Gebilde derartige Bestimmungen ent- 
+hält, dass der Raum oo'' Individuen besitzt, welche diese Definition 
+erfiülen, oder, was ganz dasselbe ist, dass die analytisch -geome- 
+trische Darstellung dieses Gebildes F c wesentliche Constanten ent- 
+hält , so soll c die ConstantenmM des Gebildes F oder seiner De- 
+finition heissen. 
+
+Hiernach bedeutet der Ausspruch, dass der (als Träger sei- 
+ner Punkte aufgefasste) Raum drei Dimensionen hat, nichts anderes, 
+als dass der Punkt die Constantenzahl 3 hat. Die Constantenzahl 
+der Ebene ist auch gleich 3, die des Strahles aber gleich 4. Aus 
+diesen Constantenzahlen ergeben sich durch Addition die Constanten- 
+zahlen aller aus einer endlichen ÄnmJd von Punkten, Ebenen und 
+Strahlen zusammengesetzten Gebilde. Beispielsweise ist die Con- 
+stantenzahl 
+
+1. eines Punktepaares gleich 2.3, also einer Strecke von be- 
+stimmter Länge gleich 2.3—1; 
+
+2. eines Dreiecks im Räume gleich 9, eines Dreiecks in fester 
+Ebene gleich 6; 
+
+3. eines räumlichen w-Ecks, d. h. eines Polyeders, welches n 
+Ecken und nur Dreiecke zu Grenzflächen hat, gleich 3.«; 
+
+4. eines ebenen w-Ecks im Räume gleich 2.W + 3-, 
+
+Schubert, Kalkül der abzählenden Q-eometrie. 1 
+
+
+
+2 Erster Absc-hnitt. 
+
+5. einer geraden Punktgruppe, d. h. eines Gebildes, welches 
+aus einem Strahle und n darauf liegenden Punkten besteht, gleich 4 + m; 
+
+6. eines Strahlbüschels gleich 5; 
+
+7. eines Gebildes, welches aus n in einem Strahlbüschel liegenden 
+Strahlen besteht, gleich 5 -f- n. 
+
+8. Aus der in 3. für ein Dreieckspolyeder angegebenen Con- 
+stantenzahl gelangt man sehr leicht zu der Constantenzahl c eines 
+beliebigen Polyeders. Ein solches habe e Ecken, /Flächen, /^Kanten. 
+Man zerlege jedes, eine Fläche bildende w-Eck durch Ziehen von 
+M — 3 Diagonalen in w— 2 Dreiecke. Dann mögen auf den /'Flächen 
+im Ganzen &lt;? Diagonalen zur Zerlegung erforderlich sein, und d Drei- 
+ecke entstehen. Dann ist 8 um f grösser als d, weil auf jeder 
+Fläche ein Dreieck mehr entsteht, als Diagonalen zur Zerlegung 
+nothwendig sind. Also ist: 
+
+ö^d-hf. 
+Ferner sind die 3 . d Seiten der d Dreiecke zum Theil die 
+fZ Diagonalen, zum andern Theil die /.'Kanten, jedoch so, dass jede' 
+der d Diagonalen, und auch jede der A.' Kanten zweinml als Drei- 
+ecksseite auftritt. Daher ist auch: 
+
+?&gt;8 = 2d-\-2'k. 
+Aus beiden Gleichungen folgt: 
+
+d=2h-3f. 
+Nun kann man ein Polyeder, welches zur Zerlegimg der Flächen 
+in Dreiecke rZ Diagonalen erfordert, immer als ein Dreieckspolyeder 
+ansehen, welches dahin specialisirt ist, dass an d Kanten der 
+Neigungswinkel der zusammenstossenden Flächen den speciellen 
+Werth von 180" bekommt. Also ist die Constantenzahl c eines be- 
+liebigen Polyeders um d kleiner als die eines Dreieckspolyeders von 
+gleicher Eckenzahl e. Es ergiebt sich also: 
+
+= 3. e^d, 
+oder nach Substitution des oben abgeleiteten Werthes für d, 
+
+c = S.e-\'^.f-2k (Lit. 1), 
+und nach Benutzung der Euler'schen Gleichung: 
+
+f-\-e=^k + 2, 
+das einfache Resultat 
+
+c = k-\-6. 
+
+Da es immer go''' einander congruente Gebilde giebt, so ist 
+
+nach dieser Formel ein Polyeder, abgeselien von seiner Lage, durch 
+
+genau so viele einfacJie Bedingungen bestimmt, wie die Zahl seiner 
+
+Kanten beträgt. Treten noch weitere beschränkende Bestimmungen 
+
+
+
+Die Symbolik der Bedingungen. 3 
+
+in die Definition des Polyeders, so wird die Constantenzahl ent- 
+sprechend vermindert. Z. B. ist die Constantenzahl eines Prisnia- 
+toids nm 2 kleiner als seine Kantenzahl, weil zwei seiner Ebenen 
+die specielle Lage von parallelen Ebenen haben. 
+
+Den oben angegebenen Constantenzahlen fügen wir noch einige 
+hinzu, die aus der analytischen Geometrie bekamit sind. Es ist 
+nämlich die Constantenzahl: 
+
+9. einer in beliebiger Ebene gedachten Plancurve w*""" Ordnung, 
+j^'ter Klasse, mit ö Doppelpunkten, x Spitzen, ö' Doppeltangenten, 
+x' Wendetangenten, 
+
+c = 3-f |n(w + 3)-^-2x 
+= 34-i&gt;*'(w' + 3)-d'-2&gt;£'; 
+
+10. einer punktallgemeinen Fläche w*®" Grades 
+
+c = |(w-fl)(»^ + 2)0^4-3)^l; 
+
+11. eines strahlenallgemeinen Liniencomplcxes w*®" Grades 
+
+c=^'^(w + l)(w + 2)2(n-f 3)-l (Lit. 2). 
+
+
+
+§2. 
+Die Bezeicliiiuug: der Bedingungen. 
+
+Die verschiedenen, einem Gebilde von bekannter Definition 
+auferlegten Bedingungen unterscheiden wir von einander durch 
+Symbole (Buchstaben mit oder ohne Indices). Ist die Bedingung 
+msanimengesetzt ^ d. h. sagt sie nichts weiter aus, als dass mehrere 
+Bedingungen mgleich erfüllt werden sollen, so ertheilen wir ihr als 
+Symbol das Produlft* der Symbole der zusammensetzenden Be- 
+dingungen, und nennen die letzteren ihre Faktoren. Zwei Beding- 
+ungen y und z mit einander mtdtiplicireny heisst demnach, diejenige 
+zusammengesetzte Bedingung yz bilden, welche ausspricht, dass y 
+und z migleicli erfüllt werden sollen. Hieraus ergiebt sich dann 
+weiter, dass man unter der w*^° Potenz einer Bedingung y diejenige 
+zusammengesetzte Bedingung zu verstehen hat, welche ausspricht, 
+dass die Bedingung y «-mal erfüllt werden soll. Auch der Summe* 
+zweier Bedingungen legen wir einen Sinn bei. Zwei Bedingungen 
+y und s addiren, heisst nämlich, diejenige Bedingung y-\-z bilden, 
+welche ausspricht, dass entweder y oder s erfüllt werden soll (Lit. 3). 
+
+
+
+* Man vergleiche die Anwendung der Summe und des Produktes im Logik- 
+kalkül, z. B. in E. Schröder'« „Uperationskreis des Logikkalküls", Teubner 1877. 
+
+1* 
+
+
+
+4 Erster Abschnitt. 
+
+Li der moderneu Auffassung der Geometrie betrachtet man als 
+elementarste Bausteine der Gebilde den Punkt, die Ebene und den 
+Strahl, indem man den beiden letzteren gewissermassen dasselbe 
+Anrecht auf Ursprünglichkeit wie dem Punkte eim*äumt. Wir 
+nennen deshalb diese drei Gebilde die drei Hanptelemente des Baumes. 
+Die einfachsten Gebilde, welche der PtcnJä erzeugt, sind die Ge- 
+sammtheit: 
+
+1. aller Punkte eines Strahles — Pnnhtaxe, gerade PunMreihe^ 
+Gerade; 
+
+2. aller Punkte einer Ebene — PunMfeld, Ehe^ie; 
+
+3. aller Punkte des Raumes — PunUraum, Raum. 
+
+Die einfachsten von der Ebene erzeugten Gebilde sind die Ge- 
+sammtheit: 
+
+1. aller durch einen Strahl gehenden Ebenen — Ehe^ienaxe^ 
+Ehenenhüscliel , Gerade ; 
+
+2. aller durch einenPunkt gehenden Ebenen — Ehenenhündel, Punlct; 
+
+3. aller Ebenen des Raumes — Ebenenrawn, Piaum. 
+
+Die einfachsten, von dem Strahle erzeugten Gebilde sind die 
+Gesammtheit: 
+
+1. aller durch einen Punkt in einer Ebene gehenden Strahlen — 
+Stralähüschel ; 
+
+2 a. aller in einer Ebene liegenden Strahlen — Straläenfeld, Ebene; 
+
+2 b. aller durch einen Punkt gehenden Strahlen — StraMcn- 
+hiindel, Punkt; 
+
+3. aller Strahlen, die einen Strahl schneiden — Sfrahlenaxe, 
+sjiecieller linearer Complex, Gerade; 
+
+4. aller Strahlen des Raumes — Straldenramn , Raum. 
+
+Die eben genannten Gebilde neimen wir mit den Hauptelementen 
+zusammen, die 14 Grundgcbilde des Raumes, im Anschluss an die 
+in der Geometrie der Lage übliche Terminologie. 
+
+Unter den einem Gebilde F auferlegbaren Bedingimgen spielen 
+die fundamentalste Rolle die Grundbedingungen; das sind Bedingungen, 
+welche verlangen, dass irgend ein dem Gebilde F augehöriges 
+Ilauptelement in einem gegebenen Grundgebilde liegen soll. Bei- 
+spielsweise ist für eine Raumcurve die Bedingung, eine gegebene 
+Gerade zu schneiden, eine Grundbedingung, weil sie verlangt, dass 
+irgend ein der Raumcurve angehöriger Punkt auf einer gegebenen 
+geraden Punktreihe liegen soll. Jedes der oben angeführten 14 
+Grundgebilde giebt Veranlassung zu einer Grundbedingung. Von 
+diesen werden drei immer erfüllt, nämlich diejenigen, welche nur 
+
+
+
+Die Symbolik der Bedingungen. 5 
+
+aussprechen, class eins der drei Hauptelemente dem Räume angehören 
+soll. Für die übrigen 11 Grundbedingungen führen wir feste Symbole 
+ein, die in den folgenden Abschnitten fortwährend heuntzt 
+werden. 
+
+I. Ist ein Pimkt mit p bezeichnet, so bedeutet: 
+
+1. dasselbe Symbol ^9 auch die Bedingimg, dass dieser Punkt 
+j) auf einer gegebenen Ebene liegen soll; 
+
+2. das Symbol Pg die Bedingung, dass der Punkt p auf 
+einer gegebenen Geraden liegen soll; 
+
+3. das Symbol P die Bedingung, dass der Punkt p gegeben 
+sein soll. 
+
+IL Ist eine Ebene e genannt, so bezeichnet: 
+
+1. dasselbe Symbol e auch die Bedingung, dass die Ebene 
+e durch einen gegebenen Pimkt gehen soll; 
+
+2. das Symbol Cg die Bedingung, dass die Ebene e durch 
+eine gegebene Gerade gehen soll; 
+
+3. das Symbol E die Bedingung, dass die Ebene e gegeben 
+sein soll. 
+
+III. Ist ein Strahl g genaimt, so bedeutet: 
+
+1. dasselbe Symbol g auch die Bedingung, dass der Strahl 
+g eine gegebene Gerade schneiden soll; 
+2 a. das Symbol ge die Bedingung, dass der Strahl g in einer 
+
+gegebenen Ebene liegen soll; 
+2b. das Symbol gp die Bedingung, dass der Strahl g durch 
+einen gegebenen Punkt gehen soll; 
+
+3. das Symbol gg die Bedingung, dass der Strahl g einem 
+gegebenen Strahlenbüschel augehören soll; 
+
+4. das Symbol G die Bedingung, dass der Strahl g gegeben 
+sein soll. 
+
+Hiernach bedeuten z. B. g'^, dass der Strahl g jede von zwei 
+gegebenen Geraden sclineiden soll, hhp, dass ein h genannter Strahl 
+sowohl irgend eine gegebene Gerade schneiden, wie auch durch 
+irgend einen gegebenen Punkt gehen soll. 
+
+Die Grmidbedingungen gehören zu den räumlichen Bedingungen, 
+d. h. solchen, die nothwendig eine Bestimmung enthalten, welche 
+die Lage des untersuchten Gebildes F zu einem als gegeben be- 
+trachteten Gebilde F' angiebt. Diejenigen Bedingimgen, welche 
+frei von einer solchen Bestimmung sind, wollen wir invariante 
+neimen. Eine invariante Bedingung spricht man z. B. aus, wenn 
+man von einem Puuktepaar verlangt, dass seine beiden Punkte un- 
+
+
+
+6 Erster Abschnitt. 
+
+endlich nahe liegen, oder, wenn man von einer punktallgemein 
+defiiprten Plancurve verlangt, dass sie einen Doppelpunkt besitze, 
+oder dass zwei ihrer Wendepunkte zusammenfallen. Zu den in- 
+varianten Bedingungen gehören namentlich die im vierten Abschnitt 
+behandelten Bedingungen, welche aussprechen, dass ein Gebilde in 
+gewisser Weise zerfallen oder überhaupt ausarten soll. Zu den 
+räumlichen Bedingungen gehören auch die imtrischen Bedingungen, 
+d. h. diejenigen, welche über die Grösse etwas festsetzen, insofern, 
+als sie eine besondere Lage zu einem festen Gebilde, nämlich dem 
+unendlich fernen, imaginären Kugelkreise aussprechen. Metrische 
+Bedingungen sind z. B. in § 4, Beispiel 5 und 6, § 39, Anwen- 
+dung V, § 33, Nr. 28 behandelt. Ferner hat Chasles in vielen Ab- 
+handlungen der „Comptes rendus" (Lit. 3 a) Anzahlbestimmungen 
+für metrische Bedingungen gemacht, z.B. für die Bedingung der 
+Gleichheit zweier auf einem Strahle durch Plancurven ausgeschnitte- 
+nen Strecken, 
+
+Bei der Anwendung der eingeführten Bedingungssymbolik be- 
+achte man namentlich Folgendes: 
+
+1. Die Bedingung, welche ausspricht, dass zwei von einander 
+ahhüngige Bedingungen erfüllt werden sollen, ist nicht etwa als aus 
+diesen zusammengesetzt aufzufassen und wird demgemäss auch im All- 
+gemeinen nicht wie ein Prodnkt bezeichnet, sondern erhält als einzelne 
+Bedingung ein besonderes Symbol. Eine solche Bedingung erfüllt 
+z. B. ein Kegelschnitt, welcher einen gegebenen Kegelschnitt an 
+einer Stelle zweipunktig, au einer anderen dreipunktig berührt. 
+Nur weim kein Missverständniss möglich ist, bezeichnen wir wohl 
+auch die Bedingung, welche ausspricht, dass zwei von einander ab- 
+hängige Bedingungen erfüllt werden sollen, wie das Produkt dieser 
+beiden, namentlich weim die eine Bedingmig eine Ausartungsbe- 
+dingung ist, z. B. in den §§ 16, 23, 24 und 25, 
+
+2. Wenn eine räumliche Bedmgung ausspricht, dass das Ge- 
+Inlde r zu dem gegebenen Gebilde F' eine gewisse Lage eimiehmen 
+soll, so betrachten wir F' und jeden seiner Theile als der räum- 
+lichen Bedingung angehörig. Beispielsweise ist der Punkt der Be- 
+dingung hp, weim von einem Strahle h die Rede ist, derjenige 
+Punkt, durch welchen, zufolge der Bedingung h^, der Strahl h 
+gehen soll. 
+
+3. Die Gebilde, welche nach der Bemerkung 2. mehreren ge- 
+gebenen Bedingungen angehören, hat man sich zunächst immer in 
+beliebiger Lage zu einander vorzustellen. Bezeichnet man z. B. für 
+
+
+
+L)io Symbolik der Bedingungen. 7 
+
+eine Curve mit z die Bedingung, dass sie durch einen gegebenen 
+Punkt gehen soll, so bedeutet z^ die Bedingung, dass die Curve 
+zivci gegebene, aber beliebig zu. einander liegende Punkte enthalte, 
+nicht aber etwa^ dass die Curve nothwendig durch einen und denselben 
+PimJd zzveimal gehen soll. 
+
+4. Bei jedem vorliegenden Gebilde kami man auf mamiichfache 
+Weise Gebilde F' angeben, welche in gewisser Weise durch das- 
+selbe erzeugt sind. Ein Punkt z. B. erzeugt zugleich das Strahlen- 
+bündel, welches ihn zum Scheitel hat. Eine Fläche besitzt als ein 
+von ihr erzeugtes Gebilde etwa ihre Krümmungsmittelpunktsfläche 
+oder ihre Doppelcurve, oder die Linienfläche der sie vierpunktig 
+berührenden Tangenten. Wenn nun in dieser Weise ein Gebilde 
+r' einem Gebilde F angehört, und dem Gebilde F' eine gewisse 
+Bedingvmg z auferlegt ist, so ist diese Bedingung indirect auch F 
+zugeschrieben. Wenn wir dami die Bedingung z als eine Beding- 
+ung für F auffassen, nemien wir sie auf F übertragen, und bezeich- 
+nen sie, wenn kein Missverständniss möglich ist, ebenso, als wenn 
+sie F' angehörte, also auch mit z. Bezeichnet man z. B. jeden 
+Punkt einer gewissen Raumcurve mit p, so bedeutet j)g für die 
+Raumcurve die Bedingung, dass sie eine gegebene Gerade schneide. 
+Bezeichnet man ferner jede Wendetangente einer Plancurve mit f, 
+so spricht das Symbol fe für die Plancurve die Bedingung aus, eine 
+gegebene Ebene zu osculiren. Besteht ein Gebilde aus einem Strahle 
+g, und n auf ihm liegenden Punkten pj, P2y Ihy-Pn, so bedeutet 
+das Symbol 
+
+91hlh-"Vn 
+
+die Bedingung, dass dieses Gebilde seinen Strahl g eine gegebene 
+Gerade schneiden lasse, und zugleich jeden seiner Punkte auf eine 
+gewisse von n gegebenen Ebenen werfe. 
+
+§ 3. 
+Die Dimension einer Bedingung und die Stufe eines Systems. 
+
+Wemi ein Gebilde F, dessen Constantenzahl (§ 1) c ist, einer 
+Bedingung unterworfen ist, welche « Bedingungsgleichungen zwischen 
+den c Constanten seiner analytisch - geometrischen Darstellung ver- 
+anlasst, oder, was dasselbe ist, wemi es oo'^—" Gebilde giebt, welche 
+die gegebene Bedingung erfüllen, so heisst die Bedingung a-fach 
+oder von der a*^° Dimension. Die Gesammtheit der oC^"" Gebilde, 
+welche eine gewisse «-fache Bedingung erfüllen, bezeichnen wir als 
+
+
+
+g Erster Abschnitt. 
+
+ein von dem Gebilde F erzeugtes, durch jene a- fache Bedingung 
+definirtes, {c— cc)- stufiges System. Speciell bestimmt jede F auf- 
+erlegte, c-fache Bedingung ein nuUßtufiges System, das ist eine end- 
+liche Anzahl von Individuen, ivelche die Definition von F erfüllen. 
+
+Die Dimensionen der in § 2 mit ihren Symbolen eingeführten 
+Grundbedingungen sind für den Fall, dass diese den Hauptelementen 
+p, e, g selbst zugeschrieben werden, folgende. Es sind: 
+
+1. einfach die Bedingimgen j9, e, g-^ 
+
+2. zweifach die Bedingungen pg, Cg, ge und gp] 
+
+3. dreifach die Bedingungen P, E^ g,\ 
+
+4. vierfach die Bedingung G. 
+
+Die durch diese 1 1 Bedingungen definirten Systeme von Haupt- 
+elementen hatten wir in § 2 Grundgebilde genailnt. Da Punkt und 
+Ebene die Constantenzahl 3 haben, der Strahl aber die Constanten- 
+zahl 4 hat, so sind von den 14 Grundgebilden: 
+
+1. nullstufig jedes der drei Hauptelemente selbst; 
+
+2. einstufig die Punktaxe, die Ebenenaxe, der Strahlbüschel; 
+
+3. ziveistufig das Punktfeld, der Ebenenbündel, das Strahlen- 
+feld und der Strahlenbündel; 
+
+4. dreistufig der Punktraum, der Ebenenraum, die Strahlenaxe; 
+
+5. vierstufig der Strahlenraum. 
+
+Die durch beliebige Bedingungen definirten Systeme von Haupt - 
+dementen nennen wir auch Oerter, im Anschluss an den bei der 
+Analysis euclidischer Constructionsaufgaben üblichen Ausdruck 
+„geometrischer Ort". Für verschieden - stufige Oerter haben sich auch 
+verschiedene Namen eingebürgert. Man nemit nämlich: 
+
+1. einstufige Punktsysteme Curven-, 
+
+2. zweistufige Punktsysteme Flächen-^ 
+
+3. einstufige Strahlsysteme Linienflächen oder Regelfläehcn'^ 
+
+4. zweistufige Strahlsysteme Congruenzen oder bloss Strahl- 
+systeme (Kummer); 
+
+5. dreistufige Strahlsysteme Liniencomplexe oder bloss Complexe\ 
+
+6. einstufige Systeme von Ebenen Torsen oder auch Curven; 
+
+7. zweistufige Systeme von Ebenen (Ebenen-) Flächen. 
+
+Auch für specielle Systeme anderer Gebilde sind besondere 
+Namen gebräuchlich geworden. Man nemit z. B.: 
+
+1. gewisse einstufige Systeme von Curven und von Flächen 
+Büschel-, 
+
+2. gewisse zweistufige Systeme von Kegelschnitten Netze; 
+
+3. gewisse zweistufige Systeme von Flächen Bündel; 
+
+
+
+Die Symbolik der Bedingungen. 9 
+
+4. gewisse einstufige Systeme von Punktepaaren, Ebenenpaaren 
+oder Strahlenpaaren projediv (§§ 28 bis 30); 
+
+5. gewisse zweistufige Systeme von Paaren zweier Hauptelemente 
+collinear, andere solche Systeme reciproh oder correlativ (cf. z. B. 
+Reye, die Geometrie der Lage, 11. Theil, pag, 2 und 3); 
+
+6. gewisse dreistufige Systeme von Punktepaaren collinear ver- 
+wandte räumliche Systeme-, 
+
+7. gewisse dreistufige Systeme von Gebilden, deren jedes aus 
+einem Punkte und einer Ebene besteht, reciprok verwandte räum- 
+liche Systeme oder räumliche Correlationen; 
+
+8. dreistufige Systeme von Gebilden, deren jedes aus einem 
+Punkte mid einem Strahle besteht, die in fester Ebene liegen, Cowwcicc* 
+
+Denjenigen Theil der geometrischen Forschung, welcher sich 
+mit den Systemen von Strahlen beschäftigt, oder, um mit Plücker 
+zu reden, welcher den Strahl als Raumelement auffasst, hat man 
+Liniengeometrie genannt. Gerade so kann man von einer Strahl- 
+büschelgeotnetrie, von einer Kegelsclinittgeometrie u. s. w., überhaupt 
+von einer T- Geometrie sprechen, wo F ein irgend wie definirtes 
+Gebilde ist. Der Abschnitt IV enthält z. B. Untersuchungen über 
+die Singularitäten (Ausartungen) von Gebilden, bei welchen der 
+Kegelschnitt, die Flächen zweiten Grades, die cubische Plancurve 
+mit Spitze, die cubische Plancurve mit Doppelpunkt, die cubische 
+Raumcurve und gemsse Paare von projectiven Grundgebilden als 
+Haumelemcnte auftreten. Der Abschnitt VI giebt die den Bezout- 
+schen Sätzen entsprechenden Sätze in einigen Geometrien, welche 
+gewisse aus einzelnen Hauptelementen zusammengesetzte Gebilde 
+als Haumelemente auffassen. 
+
+Aus dem oben erläuterten Begriff der Dimension einer Beding- 
+ung folgt unmittelbar, dass die Dimension einer zusammengesetzten 
+Bedingung gleich der Summe der Dimensionen der zusammensetzen- 
+den Bedingungen ist, und dass ein a- stufiges System von Gebilden 
+F, deren jedes ein «'-stufiges System von Gebilden F' besitzt, ein 
+(a-\-a')- stufiges System von Gebilden F' darstellt. Hieraus folgt 
+aber der Satz: 
+
+
+
+* Auf dieses Gebilde kam Clebsch in der Theorie der algebraischen 
+Formen (cf. Lindemann's „Vorlesungen von Clebsch", pag. 936). Der Connex 
+ist ein Gebilde derjenigen Geometrie, welche das aus Punkt und Strahl be- 
+stehende Gebilde als Baumelement betrachtet. 
+
+
+
+10 Erster Abschnitt. 
+
+Besitzt ein Gebilde F ein k'- stufiges System von Gebilden F', 
+so schreibt man dadurch, dass maA F' einer d- fachen Be- 
+dingung untcrivirft, dem Gebilde F eine nur (d— a')- fache 
+Bedingung zu. 
+Nach diesem Sätze sind die Dimensionen der oben angegebenen Grund- 
+bedingungen um i zu erniedrigen, wom dieselben nicht den Haupt- 
+elementen selbst, sondern i- stufigen Oertern auferlegt sind. Z. B. erfüllt 
+
+1. eine Curve eine (2 — iVfaclie Bedingung, wenn sie die 
+Bedingiuig pg befriedigt, d. h. eine gegebene Gerade schneidet; 
+
+2. eine Fläche eine (3 — 2) -fache Bedingiuig, weiui sie dnrcli 
+einen gegebenen Punkt ■ geht ; 
+
+3. eine Congnienz eine (4 — 2) -fache Bedmgung, weim sie 
+einen gegebenen Strahl enthält; 
+
+4. ein Complex eine (3 — 3) -fache Bedingung, wenn er einen 
+Strahl enthält, der in einem gegebenen Strahlbüschel liegt. 
+
+Um ein weiteres Beispiel zu dem eben angegebenen Satze zu 
+haben, berechnen wir die Dimension dex Bedingung, dass eine 
+Fläche zweiten Grades durch einen gegebenen Kegelschnitt gehen 
+soll, in folgender Weise. Da der Raum oo^ Ebenen besitzt und 
+jede Ebene eine Fläche zweiten Grades in einem Kegelschnitt 
+schneidet, so besitzt eine solche Fläche ein dreistufiges System von 
+Kegelschnitten. Nun ist es aber für den Kegelschnitt eine 8 -fache 
+Bedingung, gegeben zu sein, weil seine Constantenzahl 8 ist. Also 
+ist es für eine Fläche zweiten Grades eine (8 — 3) - fache Beding- 
+img, einen gegebenen Kegelschnitt zu enthalten. 
+
+Zu einem zweiten Satze gelangt man durch folgende Ueber- 
+legimg. Wemi ein Gebilde F mit der Constantenzahl c ein «'-stu- 
+figes System von Gebilden F' mit der Constantenzahl c' enthält, so 
+ist es für F nach dem ersten Satze eine (c'—«')- fache Bedingimg, 
+ein gegebenes Individuum F' zu enthalten. Folglich ist das System 
+derjenigen Gebilde F, welche ein gegebenes F' enthalten, (c — d-\- u')- 
+stufig. Man kami also umgekehrt sagen, dass ein F' Träger 
+eines {c — c'-\- a') - stufigen Systems von Gebilden F ist. Deshalb 
+ist für F' die Bedingung, ein gegebenes Individuum F zu enthalten, 
+von der Dimension: 
+
+c — (c — c' -f a') oder c' — «'. 
+Setzt man also d für c' — «', so kann man folgenden Satz aussprechen : 
+Wenn es für F eine d-facheB edingung ist, ein gegebenes F' 
+zu enthalten, so ist es auch für F' eine d-fache Bedingmig, 
+ein gegebenes F zu enthalten. 
+
+
+
+Die Symbolik der Bedingungen. 11 
+
+Z. B, ist es hiernach für einen Kegelschnitt eine fünffache Beding- 
+ung, auf einer gegebenen Fläche zweiten Grades zu liegen, weil, 
+wie wir oben gesehen haben, eine Fläche zweiten Grades eine 
+fünffache Bedingung erfüllt, Avenn sie durch einen gegebenen Kegel- 
+schnitt geht. 
+
+Man kami natürlich auch von Systemen sprechen, deren Stufe 
+um i grösser ist, als die Constantenzahl des erzeugenden Gebildes 
+r. Dann besteht das System aus den sämmtlichen Gebilden F 
+des Raumes, jedes oo*-fach gerechnet. Z. B. bilden die sämmtlichen 
+Pmikte, welche auf den sämmtlichen Strahlen eines Liniencomplexes 
+liegen, ein 4 -stufiges vSystem, indem jeder Punkt des Raumes 
+oo^-fach zu rechnen ist. So gelangt man dazu, einer negativen 
+Dimension einer Bedingung Siim beizulegen. Man schreibt z. B. 
+dem eben erwähnten vierstufigen Systeme von Punkten eine (— l)-fache 
+Bedingung zu, wenn man verlangt, dass es einen gegebenen Pmikt 
+enthalten soll. Dies heisst also; das System erfüllt diese Beding- 
+ung immer von selber imd sogar derartig, dass der gegebene Punkt 
+oo ^ mal als Punkt des Systems auftritt. Einem Liniencomplexe 
+wird ferner eine (—2) -fache Bedingung auferlegt, wenn man ver- 
+langt, dass einer seiner oo^ Strahlen eine gegebene Gerade schneidet. 
+
+Da ein System von Gebilden selbst wieder als Gebilde aufge- 
+fasst werden kann, so hat es auch Sinn, von der Constantenzahl 
+eines Systems imd von der Dimension von Bedingmigen zu sprechen, 
+die einem Systeme auferlegt sind. Die Constantenzahl eines Kegel- 
+schnittbüschels in fester Ebene ist z. B. gleich 8 mid die Beding- 
+mig, dass der Büschel einen Kreis enthalte, ist nur von der ersten 
+Dimension, während es für einen Kegelschnitt eine zweifacJie Be- 
+dingung ist, ein Kreis zu sein. 
+
+Jede r auferlegte Bedingung kann man auch als eine die 
+Definition von F heschränkende Bestimmung auffassen. Insofern hat 
+es Sinn, von der Dimension einer Beschränkmig der Definition zu 
+sprechen. Verlangt man z. B. von einer Plancurve, dass sie in 
+einer gegebenen Ebene liege, so kann man dies entweder als eine 
+der Plancurve zugeschriebene dreifache Bedingung auffassen, oder 
+aber, mau kann dies schon in die Definition der Plancurve ein- 
+fügen mid dadurch die Definition dreifach heschränJcen. Sieht man, 
+um ein zweites Beispiel anzuführen j bei der Definition eines Ge- 
+bildes von seiner Lage insofern ab, als man alle einander con- 
+gruenten Gebilde als nur ein Gebilde auffasst, so beschränkt man 
+die Definition sechsfach, weil alle einander congruenten Gebilde 
+
+
+
+12 Erster Abschnitt. 
+
+immer ein seclisdvftges System bilden, oder, was scliliesslicli dasselbe 
+ist, weil das räumliche Carfcesiscbe Coordinatenkreuz die Constanten- 
+zahl 6 hat. 
+
+§ 4. 
+Das Princip von der Erhaltimg der Anzahl. 
+
+Ist ein algebraisches Gebilde F mit der Constantenzahl c einer 
+einzelnen oder zusammengesetzten c- fachen Bedingung s unter- 
+worfen, so giebt es im Allgemeinen eine endliche Anzahl N (§ 3) 
+räumlicher Lidividuen, welche sowohl der Definition des Gebildes 
+r, als auch der c- fachen Bedingung s genügen. Ist nun z eine 
+räumliche Bedingung, werden also durch s gewisse andere Gebilde 
+r' als gegeben (cf. § 2, Bemerkung 2) vorausgesetzt, so bleibt die 
+Zahl N, wemi sie nicht unendlich wird, immer gleich gross, gleich- 
+viel, ob man die Gebilde r" ihre Lage zu einander ändern lässt 
+oder sie vielleicht unter Aufrechthaltung ihrer Definition specialisirt. 
+Dieses Princip, schon lauge ein wichtiges Forschungsinstrument bei 
+der Bestimmung geometrischer Anzahlen, ist demioch vor dem Ver- 
+fasser noch nie soweit ausgebeutet, dass man die gemeinsamen 
+Grundlagen festgestellt hätte, auf welche alle einzelnen Anwend- 
+ungen des Princips sich wegen der Grundeigenschaften des Raumes 
+naturgemäss stützen müssen. Der Verfasser hat dieses Princip 
+„Frincip von der Erhaltung der ÄnmhV genannt (Lit. 4). Es sagt 
+in algebraischer Interpretation nichts anderes aus, als dass Ver- 
+änderungen der Constanten einer Gleichung die Zahl ihrer Wurzeln 
+entweder unberührt lassen oder aber unendlich viele Wurzeln ver- 
+ursachen, indem sie die Gleichung zu einer identischen machen. 
+Das Princip von der Erhaltung der Anzahl nimmt für die Anwend- 
+ungen in der Geometrie vier Formen an, welche man kurz etwa 
+so aussprechen kann: 
+
+I. Eine Anzahl wird unendlich oder bleibt erhalten, wenn die 
+gegebenen Gebilde speciellere Lagen im Baume eiimehmen, also etwa 
+miendlich fem werden. 
+
+II. Eine Anzahl wird unendlich oder bleibt erhalten, wemi die 
+gegebenen Gebilde speciellere Lagen zu einander eimiehmen, also 
+z. B. gegebene Punkte auf gegebene Gerade fallen. 
+
+in. Eine Anzahl wird unendlich oder bleibt erhalten, wemi an 
+die Stelle der zunächst allgemein gedachten gegebenen Gebilde F' 
+speciellere Gebilde treten, welche die Definition der F' erfüllen, also 
+z. B. an die Stelle eines gegebenen allgemeinen Kegelschnitts ein 
+
+
+
+Die Symbolik der Bedingungen. 13 
+
+Kegelschnitt tritt, dessen Punkte zwei Gerade und dessen Tangen- 
+ten zwei StraWbüscliel bilden, deren Scheitel in den Schnitt dieser 
+beiden Geraden fällt (ef, die Ausartungen der Gebilde in Abschnitt IV). 
+
+IV. Eine Anzahl wird bei einer gewissen Lage der gegebenen 
+Gebilde nothwendig unendlich, wenn für sie ein Werth grösser als 
+N constatirt ist, während bei einer anderen Lage sich ein Werth 
+ergiebt, der genau gleich iV" ist. 
+
+Um den Inhalt des Princips von der Erhaltung der Anzahl 
+klarzulegen, führe ich die folgenden, sehr einfachen Beispiele und 
+Anwendungen an. 
+
+Beispiele. 
+
+1. Dem Strahle g sei die vierfache Bedingung g^ auferlegt, 
+dass er 4 gegebene Gerade schneiden soll. Es fragt sich, wieviel 
+Strahlen die gestellte Bedingung erfüllen. Mit Rücksicht auf den 
+Satz II specialisiren wir die Lage der 4 gegebenen Geraden so, 
+dass die erste und die zweite, sowie die dritte und die vierte Ge- 
+rade sich schneiden. Dann erfüllen die gestellte Bedingung 2 Strahlen, 
+nämlich: 
+
+a) der Verbindungsstrahl der beiden Schnittpunkte, 
+
+b) der Strahl, in welchem sich die beiden Schnittebenen 
+schneiden. 
+
+Folglich giebt es nach unserem Princip immer 2 Strahlen, welche 
+4 gegebene Gerade schneiden, oder aber unendlich viele, wozu eine 
+noch speciellere Lage der 4 gegebenen Geraden erforderlich wäre, 
+etwa die, bei welcher 3 von den Geraden einen gemeinsamen Schnitt- 
+punkt hätten. 
+
+2. Weiss man, dass es in einem Büschel von Flächen zweiten 
+Grades 3 Paraboloide, d. h. 3 Flächen giebt, welche die unendlich 
+ferne Ebene berühren, so weiss man, wegen der Form I des Prin- 
+cips, auch, dass es in dem Büschel 3 Flächen giebt, welche eine he- 
+lichig gegebene Ebene berühren. 
+
+3. Weiss man, dass eine gewisse Gerade mit einer Fläche nicht 
+mehr und nicht weniger als «Punkte gemein hat und dass eine 
+zweite Gerade mindestens n-\-\ Punkte mit der Fläche gemein hat, 
+so muss sie nach Satz IV unendlich viele Punkte mit der Fläche 
+gemein haben. 
+
+4. Um die Fruchtlmrkeit des Princips auch in der unter Nr. IIT 
+genannten Richtung zu zeigen, bestimmen wir vermöge des Prin- 
+cips die Zahl x derjenigen Curven eines in fester Ebene liegenden 
+Systems 2J von Plaucurven, welche eine gegebene, in derselben 
+
+
+
+14 Erster Abschnitt. 
+
+Ebene liegende Curve C w^**^' Ordnung w*'^'^ Ranges berühren, indem 
+wir statt der allgemeinen Curve C eine speciellere Curve setzen, 
+welche die Definition von C erfüllt. Bekamltlich kann die Curve 
+C dahin ausarten, dass ihre Punkte m Gerade bilden, die in eine 
+einzige Gerade g zusammenfallen, und dass ihre Tangenten n Strahl- 
+büschel bilden, deren n Scheitel S auf g liegen (cf. die Erzeugung , 
+der Ausartungen durch homographische Abbildung in §§ 20 und 23). 
+Nach der Form III des Prineips von der Erhaltung der Anzahl 
+kann die Zahl x also gefunden werden, indem man untersucht, wieviel 
+Curven aus 27 die eben genannte, speciellere Curve C berühren. 
+Dies ist sehr leicht, sobald man sich klar gemacht hat, was „Be- 
+rührung zweier Curven" bedeutet. Am gebräuchlichsten ist es, 
+2 Curven „sich berührend" zu nennen, nicht etwa, wemi sie über- 
+haupt 2 unendlich nahe Punkte gemein haben, sondern wemi ihnen 
+beiden Punkt und zugehörige Tangente gemeinsam ist. Hiernach wird 
+die speciellere Curve C berührt, 
+
+erstens, einmal durch jede Curve des Systems, welche durch 
+einen der w Punkte S geht, 
+
+zweitens, m-mal durch jede Curve des Systems Z, welche die 
+Gerade g berührt, und zwar durch jede Curve w-mal, weil bei 
+jeder Berührung ein auf einer solchen Curve liegendes, aus Tan- 
+gente und Berührungspimkt bestehendes Gebilde mit m eben- 
+solchen, aber c angehörigen Gebilden identisch ist, da ja die 
+Gerade g m-mal eine Tangente von C ist. 
+
+Bezeichnet also ft, wieviel Curven des Systems durch einen 
+gegebenen Punkt gehen, v wieviel eine gegebene Gerade berühren, 
+so ergiebt sich hiernach für x die bekannte Formel: 
+x = n.ii-\- m . V. 
+Zur Ableitung dieser Formel reichte das Princip von der Er- 
+haltung der Anzahl aus. Bisher hat man dazu immer Hilfsmittel 
+von weniger fundamentalem Charakter herangezogen, z. B. das 
+Correspondenzprincip oder die Polarentheorie. Auch uns wird diese 
+Formel noch zweimal wieder erscheinen, erstens als Beispiel für 
+eine Anwendung der Coincidenzformeln in § 14, zweitens im sechsten 
+Abschnitt, § 32, als sehr specieller Fall der Formel für die ge- 
+meinsamen Elemente zweier Systeme von Gebilden, d^*en jedes aus 
+einem Strahle mid einem darauf liegenden Pmikte besteht. Natür- 
+lich kami man in ähnlicher Weise, wie die obige Formel, noch 
+mehrere andere Formeln ableiten, welche sich auf die Berührung 
+von Flächen und von Raumcurven beziehen. 
+
+
+
+Pie Symbolik der Bedingungen. 15 
+
+5. Gegeben seien in fester Ebene eine Plancurve C w*^' Ord- 
+nung, w*®° Ranges und ein Kegelschnitt K. Zu jeder Tangente in 
+C ist der Pol in Bezug auf K bestimmt, mid mit dem Berührungs- 
+punkt der Tangente verbmiden. Gesucht wird die Zahl x, welche 
+angiebt, wieviel von den eben gezogenen cc^ Verbindungsstrahlen 
+durch einen beliebig in der Ebene gegebenen Punkt P gehen. Wir 
+dürfen nach der Form III unseres Princips statt des allgemeinen 
+Kegelschnittes K einen specielleren setzen, und wählen dazu einen 
+Kegelschnitt, dessen Punkte zwei in eine Gerade g zusammen- 
+fallende Gerade bilden, und dessen Tangenten zwei Strahlbüschel 
+bilden, deren Scheitel A und B auf g Hegen (cf. § 20). Wir dürfen 
+ferner wegen der Form II unseres Princips die Lage des Punktes 
+P specialisiren, und legen ihn in den einen von den beiden Scheiteln 
+und zwar in A. Jetzt erfüllen die gestellte Bedingung: 
+
+erstens^ mmal die Gerade^, weil die Tangente in jedem der 
+m Schnittpunkte von g und C ihren Pol auf g hat, und also die 
+Verbindungslinie von A mit jedem der so erhaltenen m Pole zu 
+den gesuchten x Verbindungsstrahlen gehört; 
+
+zweitens^ jede der n von A an die Curve C gehenden Tan- 
+genten, weil diese ihren Pol in A haben. Daher ist 
+x = m-{- n. 
+Denken wir uns g unendlich fem, sowie A und B als die 
+imaginären Kreispunkte, so spricht diese Formel aus, dass von 
+jedem PunJite in der Ebene einer Plancurve n-\-m Normalen auf die- 
+selbe gefällt iverden können. 
+
+6. Gegeben sei eine Fläche F o^" Ordnung, r*^" Ranges, Jc*^'' 
+Klasse, und ausserdem ein in einer Ebene E liegender Kegel- 
+schnitt K. Zu jeder Tangentialebene von F ist der Pol in Bezug 
+auf K bestimmt, mid mit dem Berührungspunkte der Tangential- 
+ebene verbunden. Gesucht werden die Zahlen x und y, welche be- 
+züglich angeben, wie viel von den eben gezogenen oo^ Verbindungs- 
+strahlen durch einen beliebig gegebenen Punkt P gehen, resp. in 
+einer beliebig gegebenen Ebene e liegen. Wir denken uns den 
+Kegelschnitt K wieder, wie in der vorigen Nummer, als eine 
+Doppelgerade g mit den Scheiteln A und B zweier Tangenten- 
+büschel, und legen dami den Punkt P in ^, die Ebene e durch A. 
+Dann setzt sich x aus drei Zahlen zusammen, erstens aus o, weil 
+die Verbindungslinie jedes der o Schnittpunkte von g und F mit 
+dem Pole seiner Tangentialebene einen durch P gehenden Strahl 
+liefert, zweitens aus r, weil in der JEbene E r durch P gehende 
+
+
+
+\Q Erster Abschnitt. 
+
+Tangenteil liegen, drittens aus h, weil durch g a,n F Je Tangential- 
+ebenen gehen, deren Pole als in P liegend gedacht werden dürfen. 
+Die Zahl y ist gleich r, weil, wemi e durch Ä geht, jede durch 
+Ä gehende in e liegende Tangente zu den gesuchten Verbindungs- 
+strahlen gehört, und sonst kein Strahl in e existirt, der einen 
+Flächenpunkt mit dem Pole seiner Tangentialebene verbindet. 
+Also ist 
+
+y = **• 
+
+Denken wir uns daim die Ebene E unendlich fern, den darauf 
+befindlichen Kegelschnitt K als den Poncelet'schen imaginären Kugel- 
+kreis, so geben diese beiden Formeln die (Lit. 5) bekannten Resul- 
+tate, dass es in jedem ebenen Schnitt einer Fläche F o*^'' Ordnung, 
+r'"" Ranges, ¥"'' Klasse r Normalen der Fläche gieht, .und dass auf 
+eine solche Fläche von jedem Punkte des Raumes aus o -f r -f /v Nor- 
+malen gefällt werden können. Eine weitere Anwendung, welche auf 
+Specialisirung des Kegelschnittes beruht und ein metrisches Anzahl- 
+problem löst, findet sich in § 33 unter Nr. 28, wo die Zahl der 
+Kreispunkte einer Fläche bestimmt ist. 
+
+Die wichtigste Anwendung findet das Princip von der Erhal- 
+tung der Anzahl im zweiten Abschnitt, wo die allgemeinsten Anzahl- 
+Beziehungen aufgestellt sind, welche sich für die Hauptelemente 
+des Raumes ergeben, wenn man der Algebra nichts weiter entlehnt, 
+als das Princip von der Erhaltung der Anzahl. Diese Beziehungen, 
+sowie das im dritten Abschnitt ausgebeutete Correspondenzprincij) 
+sind die Mittel, vermöge deren der Verfasser schliesslich alle geome- 
+trischen Anzahlen als Functionen von einigen wenigen Anzahlen dar- 
+stellt, die durcli die Erfahrung erkamit werden, und deshalb axio- 
+matische heissen sollen. Es sind dies die Zahlen, welche angeben, 
+wie viel Hauptelemeute durch gegebene Grundbedingungen bestimmt 
+sind, also namentlich: 
+
+1. die Zahl 1 der gemeinsamen Punkte einer Geraden und 
+einer Ebene; 
+
+2. die Zahl 1 der gemeinsamen Ebenen eines Ebenenbüschels 
+und eines Ebeiien)&gt;üiidels; 
+
+3. die Zahl 1 der gemeinsamen Strahlen zweier Strahlenbündel 
+(zwischen zwei Punkten ist nur eine einzige Gerade mJ'jglich); 
+
+4. die Zahl 1 der gemeinsamen Strahlen zweier als Strahleu- 
+felder aufgefassten Ebenen; . 
+
+
+
+Die Symbolik der Bedingungen. 17 
+
+5. die Zahl der gemeinsamen Strahlen eines Strahlenbilndels 
+und eines Strahlenfeldes. 
+
+Man beachte wohl, dass alle in diesem Buche aus den axio- 
+matischen Anzahlen des Raumes abgeleiteten Anzahlen nicht etwa 
+die reellen Gebilde allein zählen, sondern die Summe der reellen 
+und der sogenannten imaginären Gebilde. Es beruht dies darauf, 
+dass die beiden, allen Anzahlbestimmungen zu Grunde liegenden, 
+algebraischen Principien, das Princip von der Erhaltung der Anzahl 
+und das Correspondenzprmcip (§ 13), nur richtig sind, wemi immer 
+alle imaginären Werthe mitgezählt werden. Man kenut überhaupt 
+noch sehr wenige Beziehungen zwischen Anzahlen reeller und ima- 
+ginärer geometrischer Gebilde. Doch haben Zeuthen und Klein in 
+letzter Zeit derartige Beziehungen gefunden. Klein beweist z. B., 
+dass bei jeder Plancurve die den Plücker'schen Formeln analoge 
+Formel gilt 
+
+w + «&lt;;'+ 2 . ^".= h + r' -\-2. d" (Lit. 6), 
+
+wo n die Ordnung, k den Rang der Plancurve bezeichnet, ferner 
+w' die Zahl der reellen Wendungen, t-" die Zahl der reellen isolirten 
+Doppeltangenten, r' die Zahl der reellen Spitzen, d" die Zahl der 
+reellen, isolirten Doppelpunkte ist. 
+
+Nach dem Principe von der Erhaltung der Anzahl giebt es in 
+einem ^- stufigen Orte (d. h. Systeme von Hauptelementen, § 3) 
+immer eine unveränderliche Anzahl von Hauptelementen, welche 
+eine hinzutretende /-fache Grundbedingung erfüllen. Solche für die 
+Oerter charakteristischen Anzahlen heissen Gradzahlen, weil sie die 
+Grade der Gleichungen angeben, durch welche man die Oerter in 
+der analytischen Geometrie darstellt, und zwar versteht man unter 
+
+1. Grad einer Ciirve die Zahl der Punkte, welche sie auf jeder 
+Ebene (d. h. jedem Punktfelde) besitzt; 
+
+2. Grad einer Fläche die Zahl der Punkte, welche sie auf jeder 
+Geraden besitzt; 
+
+3. Grad einer Torse (d. h. eines einstufigen Ortes von Ebenen) 
+die Zahl der Ebenen, welche sie mit jedem Ebenenbündel gemein 
+hat, d. h. welche sie durch jeden Punkt schickt; 
+
+4. Grad eines zweistufigen Ortes von Ebenen (Ebenenfläche) die 
+Zahl der Ebenen, welche er mit jedem Ebenenbüschel gemein hat, 
+d. h. welche er durch jede Gerade schickt; 
+
+5. Grad einer Linienfläche die Zahl der Strahlen, welche sie 
+einen gegebenen Strahl schneiden lässt; 
+
+Schubert, Kalkül der abzählenden Geometrie. 2 
+
+
+
+13 • Erster Abschnitt. 
+
+6 a. Feldgrad einer Congruenz die Zahl der Strahlen, welche 
+sie in einer gegebenen Ebene (Straldenfeld) besitzt; 
+
+.6b. Bündelgrad einer Congruenz die Zahl der Strahlen, welche 
+sie durch einen gegebenen Punkt schickt, d. h. mit einem gegebenen 
+StraJdenhündel gemein hat; 
+
+7. Grad eines Complexes die Zahl der Strahlen, welche er in 
+einem gegebenen Strahlbüschel besitzt. 
+
+Da man häufig die Curve sowohl als Ort ihrer Punkte, wie 
+auch als Ort ihrer Tangenten, wie auch als Ort ihrer Schmiegungs- 
+ebenen, und ebenso die Fläche sowohl als Punktfläche, wie auch 
+als Linienfläche, wie auch als Ebenenfläche auffasst, so ist es 
+zweckmässig, noch besondere Namen für die Grade der Pünktörter, 
+der Strahlenörter und der Ebenenörter einzuführen. Da sich für 
+diese besonderen ^amen noch keine feste oder consequente Termi- 
+nologie ausgebildet hat, so entscheiden wir mis dahin, die Gradzahl 
+
+1. eines Punktortes auch Ordnimg, 
+
+2. eines Strahlenortes auch Hang, 
+
+3. eines Ebenenortes auch Klasse (Lit. 7) 
+
+zu nennen. Die Congruenz hat zwei gleichberechtigte Gradzahlen, 
+für welche die Namen Ordnung und Klasse üblich geworden sind, 
+nur dass die Einen Ordnung nennen, was die Anderen Klasse 
+nennen, und umgekehrt. Jedes Missverständniss wird aber ver- 
+mieden, wenn wir die beiden Gradzahlen der Congruenz durch 
+die bezeichnenden Namen Feldgrad und Bündelgrad oder auch 
+Feldrang und Bündelrang von einander unterscheiden. 
+
+Die Giltigkeit des Princips von der Erhaltung der Anzahl ist 
+die Vorbedingung für die Anwendbarkeit der in den folgenden Ab- 
+schnitten abgeleiteten Resultate und Methoden. Transcendente Curven 
+und Flächen kömien daher nur dann als gegeben vorausgesetzt 
+werden, wemi sie algebraische Systeme bilden, d. h. solche Systeme, 
+aus denen immer eine constante, endliche Anzahl von Gebilden eine 
+gegebene Bedingung erfüllt. Z. B. hat die oben in Nr. 4 ent- 
+wickelte Formel 
+
+x^n.}i-\-m.v 
+
+Jceinen Sinn, wenn die gegebene Curve transcendent ist, was auch 
+schon daraus hervorgeht, dass dann die Begrifi'e Ordnung und 
+Klasse illusorisch würden. Die Formel kann aber vollkommen 
+giltig bleiben, wenn man von dem gegebenen einstufigen Systeme 
+voraussetzt, dass es von transcendenten Curven gebildet ist (Lit. 5a). 
+
+
+
+Die Symbolik der Bedingungen. 19 
+
+§5. 
+Die Darstellung der den Bedlugimgen zugehörigen An- 
+zahlen durch die Bedingungssymhole und das Rechnen 
+mit diesen Symbolen. 
+
+lu § 4 ist besprochen, dass jede einem Gebilde P mit der 
+Constantenzabl c auferlegte, c- fache Bedingung s immer durch eine 
+unveränderliche, endliche Zahl von Gebilden F erfüllt wird. Es liegt 
+daher nahe, diese von der c- fachen Bedingung allein abhängige 
+Anzalil mit ganz demselben Symbole s zu bezeichnen, tvie die Beding- 
+ung selbst (Lit. 8). Indem wir dann, der Kürze wegen, immer blos 
+„Bedingung" sagen, statt „durch die Bedingung bestimmte Anzahl", 
+können wir von Functionen der Bedingungen und von Gleichungen 
+zwischen Bedingungen sprechen. Hiernach hat bei einem Gebilde 
+mit der Constantenzabl c eine Gleichung zwischen Bedingungen 
+natürlich nur dami Sinn, wemi jede dieser Bedingmigen c'*'' Dimen- 
+sion ist. Wir ertheilen jedoch auch- einer Gleichung zivischen Be- 
+dingungen von niederer als der c'*^ Dimension einen Sinn. Eine Gleich - 
+img zwischen a-fachen Bedingungssymbolen soll nämlich den Sinn haben, 
+dass aus ihr jedesmal eine Identität zwischen Anzahlen erhalten wird^ 
+sobald man nur allen a-fachen Symbolen ein und dasselbe, sonst ganz 
+beliebige, (c — a)- fache Bedingungssymbol als symbolischen FaJctor hin- 
+zusetzt, und dann statt jedes der entstandenen (a -\- c — a) - fachen Be- 
+dingungssymbole die zugehörige Anzahl einsetzt. Demnach spricht eine 
+Gleichung a^'^'' Dimension, d. h. zivischen a-fachen Bedingungen, soviel 
+Anzahlidentitäteu aus, als überhaupt (c — a)- fache Bedingungen 
+denkbar sind. 
+
+Zur Verdeutlichung diene folgendes Beispiel. Für eine Plau- 
+curve n*" Ordnung mit der Constantenzabl c bezeichne P die zwei- 
+fache Bedingung, dass sie durch einen gegebenen Punkt gehe, ft 
+die einfache Bedingung, dass sie ihre Ebene durch einen gegebenen 
+Punkt schicke, v die einfache Bedingung, dass sie eine gegebene 
+Gerade schneide. Dann bedeuten die Symbole P, ^v, ^^ drei zwei- 
+fache Bedingungen, zwischen denen die in § 12 Nr. 9 zu beweisende 
+Gleichung 
+
+1) P=iiv — n.yi} 
+
+besteht. Diese Gleichimg sagt nun aus, dass, weim y irgendivelche 
+(c— 2)-fache Bedingimg ist, die drei Anzahlen Py, ^vy, 
+durch die Relation 
+
+2) Py = ^vy — n.fi^fj 
+
+2* 
+
+
+
+20 Erster Abschnitt. 
+
+mit einander verbunden sind, gleichviel, was für eine (c — 2) -fache 
+Bedingung man unter y versteht. Da die Curven, welche die will- 
+kürliche Bedingung ij erfüllen, ein zweistufiges System bilden, so 
+kann man die obige Gleichung auch so interpretiren. In jedem 
+ztveistufiyen Systeme von Plancurven n'*"' Ordnung ist die Zahl der 
+die Bedingung P erfüllenden Curven gleich der Zahl der ^ v erfüllen- 
+den Curven vermindert um das n- fache der fx- erfüllenden Curven. 
+Es liegt in der Definition einer Gleichung zwischen «-fachen 
+Bedingungssymbolen, dass aus einer solchen Gleichung immer wieder 
+eine richtige Gleichung hervorgeht, tvenn man jedem a- fachen Symbol 
+ein und dasselbe beliebige, etiva ß-fache Symbol v als Faktor hinzu- 
+setzt. Denn die Identitäten, welche man aus der neu entstandenen 
+Gleichung ziehen kann, befinden sich ja dann sämmtlich unter den 
+Identitäten, welche die ursprüngliche Gleichung ausspricht. Die 
+neue Gleichung spricht nämlich diejenigen Identitäten aus, welche 
+man erhält, wemi man die hinzuzudenkende vollkommen willkür- 
+liche Bedingmig y so auffasst, als wäre sie aus v und einer be- 
+liebigen anderen Bedingung zusammengesetzt. Dieses Hinzusetzen 
+eines und desselben Bedingungssymbols zu den sämmtlichen Sym- 
+bolen einer Gleichung zwischen Bedingimgen, ist vom Verfasser 
+„symbolische MuUiplication jener Glächung" genannt (Lit. 8). Das 
+Verfahren der symbolischen Multijjlication involvirt also keine sach- 
+liche Aenderung; es führt aber zu einer specielleren Interpretation 
+der Gleichungen, indem es die Dimension der Formel erhöht, und 
+die Dimension der hinzuzudenkenden Bedinguntren um ebensoviel 
+erniedrigt. Beispielsweise multipliciren wir die oben angeführte 
+Gleichung 
+
+
+
+erhalten 
+
+
+
+wo bei 5. rechts der Subtrahend 
+Plancurve existirt, deren Ebene durch 4 beliebig gegebene Punkte 
+gehen könnte. Aus 3., 4., 5. folgt nun durch Substitution: 
+6) P^ = ^^v^-2.n.^t,^v. 
+
+Wir konnten die Gleichung 6 auch direct aus Gleichung 1 
+ableiten, indem wir auf beiden Seiten quadrirteu. Ueberhaupt 
+
+
+
+1) 
+
+
+
+
+
+
+
+
+P = 
+
+
+= ILV 
+
+
+— w.fi^ 
+
+
+mit P. 
+
+
+Dann 
+
+
+kommt 
+
+
+
+
+
+
+
+
+3) 
+
+
+
+
+
+
+
+
+P2 = 
+
+
+livP 
+
+
+- n . ^i^P. 
+
+
+Multipliciren 
+
+
+wir 
+
+
+ferner 
+
+
+mit 
+
+
+^v und mit ,u^. 
+
+
+4) 
+
+
+
+
+
+
+
+
+iivP 
+
+
+=.^^. 
+
+
+^ — n .}i^v 
+
+
+und 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^) 
+
+
+
+
+
+
+
+
+^'P-= 
+
+
+fl^V, 
+
+
+
+Die Symbolik der Bedingungen. 21 
+
+gelten in unserem Bedingungskalkül alle arithmetischen Regeln, ivelche 
+aus Addition, Suhtraction und Mtdtiplication allein sich ergehen. 
+Da die auftretenden Gleichungen meist lineare ganze Functionen 
+von Bedingungen gleicher Dimension einander gleicli setzen, so ist 
+eine Verwechselung einer symbolischen Multiplication mit einer 
+wirklichen Multiplication kaum zu befürchten. Trotzdem unter- 
+scheiden wir, der grösseren Deutlichkeit wegen, die beiden Multi- 
+plicationen häufig dadurch, dass wir bei wirklichen Multiplicationen 
+einen Punkt als Multiplicationszeichen setzen, bei symbolischen 
+Multiplicationen dagegen nicht. Erst im sechsten Abschnitt kommen 
+Formeln vor, in denen Bedingungssymbole theils durch symbolische, 
+tlieils durch Avirkliche Multiplication verbunden werden. 
+
+Der Kürze wegen schreiben wir Bedingungen, die allen Gliedern 
+ehier Summe gemeinsam sind, auch wie abgesonderte Faktoren, be- 
+achten jedoch dabei, dass eine Gleichung zwischen Bedingungen 
+erst dami interpretirt werden kaim, wemi jede angedeutete Midtipli- 
+cation entweder eines Symbols mit einer Summe, oder zweier 
+Summen Avirklich ausgeführt ist. Wir schreiben also z, B. 
+
+p2 = {^yiv — n . (11^) {}i V — n . (i^) = {^v — n . fi^Y, 
+köimen aber darunter nichts anderes verstehen, als: 
+
+Eine symhoUsche Division, d. h. ein Wegla.ssen eines und des- 
+selben symbolischen Faktors aus allen Bedingungssymbolen einer 
+Gleichung führt nicht nothwendig zu einer richtigen Gleichung, ist 
+also im Allgemeinen nicht gestattet. Es ist z. B. richtig die Formel 5: 
+
+jedoch wäre es falsch, wenn man daraus schliessen wollte: 
+F^'^^^v oder P=ftv. 
+Häufig schreiben wir , auch bei einem Gebilde mit der Con- 
+stantenzahl c solche Gleichungen a^" Dimension, welche nur richtig 
+werden, wemi allen «-fachen Bedingungen eine gewisse Sorte von 
+(c — «)- fachen Bedingimgen zugesetzt wird, oder, was dasselbe ist, 
+welche nicht für alle «-stufigen Systeme, sondern nur für gewisse 
+unter ihnen giltig sind. Dann muss natürlich immer der Giltig- 
+keitsbereich der Gleichungen genau angegeben und es muss 
+namentlich bei jeder symbolischen Multiplication mit einer Beding- 
+ung z beachtet werden, ob sie auch mit zu den definirenden Be- 
+dingungen der im Giltigkeitsbereiche liegenden Systeme gehört. 
+Gilt eine Formel «*''' Dimension für alle «-stufigen Systeme, so 
+
+
+
+22 Erster Abschnitt. 
+
+Hernien wir sie all(jemän(jUti(j. Nicht allgemeiugiltig, sondern nur 
+giltig für gewisse Systeme sind z. B. in § 13 Nr. 14 bis 17, 
+ferner die Formeln der" §§ 25 und 26. Wenn über den Giltig- 
+keitsbereich einer Formel niclits festgesetzt ist, so ist nie allfjemem- 
+
+
+
+§6. 
+
+Die Gleichungen zwischen den Grundhediuguugeu jedes 
+der drei Hauptelemente. 
+
+Bis vor einigen Jaliren studirte man von den Systemen der 
+geometriscben Gebilde fast nur die Punktsysteme, d. b. Curven -und 
+Flächen, und wegen des Princips der Dualität auch wohl die 
+Systeme von Ebenen. Erst seit Kurzem erkannte man den Strahl- 
+systemen gleiches Anrecht zu imd bildete die Liniengeometrie aus. 
+lieber Systeme von anderen Gebilden aber, als von diesen 3 Haupt- 
+elementen, existiren bis jetzt nur sehr wenig üntersuchmigen (Lit. 9). 
+Deshalb ist es zunächst wichtig, bei den 3 Hauptelementen die 
+Beziehungen zmschen ihren Grundbedingmigen festzustellen. 
+
+Für den Punkt p sind in § 2 die Bedingungen j), p,j, P de- 
+finirt. Dazu gesellen sich die zusammengesetzten Bedingungen p^, 
+PPff} P^- Besitzt ein Gebilde F nur einen einzigen Punkt 2h so be- 
+deutet nach den Festsetzungen des § 2 erstens p)^ die Zahl derjenigen 
+Gebilde eines zweistufigen Systems , welche ihren Pmikt }) auf zwei 
+gegebenen Ebenen, also nothwendig auf deren Schnittgeraden haben, 
+ZAveitens pg die Zahl derjenigen Gebilde, welche p auf einer ge- 
+gebenen Geraden haben. Nach dem Princip von der Erhaltimg der 
+Anzahl sind also die Zahlen p^ und pg einander gleich. Da das 
+zweistufige System ganz beliebig war, so ist also immer richtig 
+die Gleichung: 
+
+1) P^-Pg, 
+
+aus welcher durch symbolische Multiplication mit p folgt: 
+
+2) p3 =pj)g. 
+
+Da ferner ein Punkt, welcher sowohl auf einer gegebenen 
+Ebene, wie auch auf einer gegebenen Geraden liegen soll, noth- 
+wendig der Schnittpunkt beider sein muss, so ist: 
+
+3) PPo-P- 
+Also ist auch wegen 2: 
+
+4) p^ = P. 
+
+
+
+Die Symbolik der Bedingungen. 23 
+
+Hat aber das Gebilde F melirere mit p bezeichnete Punkte, 
+und bedeutet jj für F die Bedingung, dass F irgend welchen Punkt 
+p auf einer gegebenen Ebene habe, so darf pr' nicht gleich p,j ge- 
+setzt werden, weil ja die Bedingung p^ daim nicht blos erfüllt 
+wird, wenn ein Punkt p auf der Schnittgeraden der beiden Ebenen 
+liegt, die durch die Bedingung jf als gegeben hingestellt werden, 
+sondern auch, wenn ein Punkt p auf der einen, und ein anderer 
+Punkt auf der anderen der beiden gegebenen Ebenen liegt. 
+
+Analog den Gleichungen 1 bis 4 erhält man für ein Gebilde, 
+welches eine einzige Ebene e enthält, 
+
+5) e^ = e^, 6) e^ = eeg^ 
+
+7) eeg = E, 8) e^==E. 
+
+Wegen der Gleichungen 1 bis 8 werden wir immer p^ statt 
+Pg, p^ statt P, e^ statt e'g, e^ statt E schreiben, weiui mit p resp. 
+e nur ein einziger Punkt des vorliegenden Gebildes bezeichnet ist 
+oder wenn ein Missverständniss bei der Uebertragung der Beding- 
+ungen unmöglich ist. 
+
+Für den Strahl g haben wir in § 2 die Grundbedingungen 
+9} 9e, 9p, 9s, Gr 
+kemien gelernt. Dazu gesellen sich noch die aus ihnen zusammen- 
+gesetzten Bedingungen. Zwischen den 3 zweifachen Bedingungen 
+9ei 9p, 9^ besteht eine Gleichimg, welche wir jetzt ableiten wollen. 
+Besitzt em Gebilde F einen Strahl g, so bedeutet g'^ die Zahl der- 
+jenigen Gebilde eines zweistufigen Systems, welche ihren Strahl g 
+zwei gegebene Gerade schneiden lassen. Diese Zahl bleibt aber 
+(§ 4) unverändert, wenn man die beiden gegebenen Geraden sich 
+schneiden lässt. Dann aber erfüllt die Bedingimg g"^ erstens jedes 
+Gebilde, dessen g durch den Schnittpunkt geht, zweitens jedes Ge- 
+bilde, dessen g in der Schnittebene liegt, ausserdem aber kein Ge- 
+bilde. Man hat also: 
+
+9) 9' = 9p + 9e- 
+
+Ebenso erhält man leicht: 
+
+10) 9 9p = 9s, 11) 99e = 9s, 
+
+12) gg.^G, 13) g,ge = 0, 
+
+Multiplicirt man dann noch 9. mit &lt;/, so kommt: 
+
+14) 9^-99p + 99e, 
+oder wegen 10 und 11 
+
+15) . 9'-^'9s. 
+
+
+
+24 Erster Abschnitt. Die Sj-mbolik der Bedingungen. 
+
+Endlich erliält man durch symbolische Multiplicationen mit 
+Benutzung von 12 vmd 13: 
+
+16) G=^g^ = g,f = &lt;fg, = (f(je-g&lt;j.-'^.if. 
+
+Natürlich kann man die in den Bedingungssymbolen steckenden 
+Anzahlen auch als Gradmhlcn der von Punkten, Ebenen und Strahlen 
+erzeugten Systeme auffassen. Beispielsweise kann man die Gleich- 
+ung 9 auf folgende Weise in Worte fassen. Der Grad der Linien- 
+fläche aller derjenigen Strahlen, ivelche einer Congruenz und zugleich 
+einem speciellcn linearen Complexe angehören, ist gleich der Summe 
+von Bündelgrad und Feldgrad der Congruenz , d. h. gleich der Summe 
+der durch einen gegebenen Punkt gehenden und der in einer ge- 
+gebenen Ebene liegenden Strahlen. 
+
+
+
