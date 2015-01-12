@@ -1,0 +1,356 @@
+§ 4. 
+Das Princip von der Erhaltimg der Anzahl. 
+
+Ist ein algebraisches Gebilde F mit der Constantenzahl c einer 
+einzelnen oder zusammengesetzten c- fachen Bedingung s unter- 
+worfen, so giebt es im Allgemeinen eine endliche Anzahl N (§ 3) 
+räumlicher Lidividuen, welche sowohl der Definition des Gebildes 
+r, als auch der c- fachen Bedingung s genügen. Ist nun z eine 
+räumliche Bedingung, werden also durch s gewisse andere Gebilde 
+r' als gegeben (cf. § 2, Bemerkung 2) vorausgesetzt, so bleibt die 
+Zahl N, wemi sie nicht unendlich wird, immer gleich gross, gleich- 
+viel, ob man die Gebilde r" ihre Lage zu einander ändern lässt 
+oder sie vielleicht unter Aufrechthaltung ihrer Definition specialisirt. 
+Dieses Princip, schon lauge ein wichtiges Forschungsinstrument bei 
+der Bestimmung geometrischer Anzahlen, ist demioch vor dem Ver- 
+fasser noch nie soweit ausgebeutet, dass man die gemeinsamen 
+Grundlagen festgestellt hätte, auf welche alle einzelnen Anwend- 
+ungen des Princips sich wegen der Grundeigenschaften des Raumes 
+naturgemäss stützen müssen. Der Verfasser hat dieses Princip 
+„Frincip von der Erhaltung der ÄnmhV genannt (Lit. 4). Es sagt 
+in algebraischer Interpretation nichts anderes aus, als dass Ver- 
+änderungen der Constanten einer Gleichung die Zahl ihrer Wurzeln 
+entweder unberührt lassen oder aber unendlich viele Wurzeln ver- 
+ursachen, indem sie die Gleichung zu einer identischen machen. 
+Das Princip von der Erhaltung der Anzahl nimmt für die Anwend- 
+ungen in der Geometrie vier Formen an, welche man kurz etwa 
+so aussprechen kann: 
+
+I. Eine Anzahl wird unendlich oder bleibt erhalten, wenn die 
+gegebenen Gebilde speciellere Lagen im Baume eiimehmen, also etwa 
+miendlich fem werden. 
+
+II. Eine Anzahl wird unendlich oder bleibt erhalten, wemi die 
+gegebenen Gebilde speciellere Lagen zu einander eimiehmen, also 
+z. B. gegebene Punkte auf gegebene Gerade fallen. 
+
+in. Eine Anzahl wird unendlich oder bleibt erhalten, wemi an 
+die Stelle der zunächst allgemein gedachten gegebenen Gebilde F' 
+speciellere Gebilde treten, welche die Definition der F' erfüllen, also 
+z. B. an die Stelle eines gegebenen allgemeinen Kegelschnitts ein 
+
+
+
+Die Symbolik der Bedingungen. 13 
+
+Kegelschnitt tritt, dessen Punkte zwei Gerade und dessen Tangen- 
+ten zwei StraWbüscliel bilden, deren Scheitel in den Schnitt dieser 
+beiden Geraden fällt (ef, die Ausartungen der Gebilde in Abschnitt IV). 
+
+IV. Eine Anzahl wird bei einer gewissen Lage der gegebenen 
+Gebilde nothwendig unendlich, wenn für sie ein Werth grösser als 
+N constatirt ist, während bei einer anderen Lage sich ein Werth 
+ergiebt, der genau gleich iV" ist. 
+
+Um den Inhalt des Princips von der Erhaltung der Anzahl 
+klarzulegen, führe ich die folgenden, sehr einfachen Beispiele und 
+Anwendungen an. 
+
+Beispiele. 
+
+1. Dem Strahle g sei die vierfache Bedingung g^ auferlegt, 
+dass er 4 gegebene Gerade schneiden soll. Es fragt sich, wieviel 
+Strahlen die gestellte Bedingung erfüllen. Mit Rücksicht auf den 
+Satz II specialisiren wir die Lage der 4 gegebenen Geraden so, 
+dass die erste und die zweite, sowie die dritte und die vierte Ge- 
+rade sich schneiden. Dann erfüllen die gestellte Bedingung 2 Strahlen, 
+nämlich: 
+
+a) der Verbindungsstrahl der beiden Schnittpunkte, 
+
+b) der Strahl, in welchem sich die beiden Schnittebenen 
+schneiden. 
+
+Folglich giebt es nach unserem Princip immer 2 Strahlen, welche 
+4 gegebene Gerade schneiden, oder aber unendlich viele, wozu eine 
+noch speciellere Lage der 4 gegebenen Geraden erforderlich wäre, 
+etwa die, bei welcher 3 von den Geraden einen gemeinsamen Schnitt- 
+punkt hätten. 
+
+2. Weiss man, dass es in einem Büschel von Flächen zweiten 
+Grades 3 Paraboloide, d. h. 3 Flächen giebt, welche die unendlich 
+ferne Ebene berühren, so weiss man, wegen der Form I des Prin- 
+cips, auch, dass es in dem Büschel 3 Flächen giebt, welche eine he- 
+lichig gegebene Ebene berühren. 
+
+3. Weiss man, dass eine gewisse Gerade mit einer Fläche nicht 
+mehr und nicht weniger als «Punkte gemein hat und dass eine 
+zweite Gerade mindestens n-\-\ Punkte mit der Fläche gemein hat, 
+so muss sie nach Satz IV unendlich viele Punkte mit der Fläche 
+gemein haben. 
+
+4. Um die Fruchtlmrkeit des Princips auch in der unter Nr. IIT 
+genannten Richtung zu zeigen, bestimmen wir vermöge des Prin- 
+cips die Zahl x derjenigen Curven eines in fester Ebene liegenden 
+Systems 2J von Plaucurven, welche eine gegebene, in derselben 
+
+
+
+14 Erster Abschnitt. 
+
+Ebene liegende Curve C w^**^' Ordnung w*'^'^ Ranges berühren, indem 
+wir statt der allgemeinen Curve C eine speciellere Curve setzen, 
+welche die Definition von C erfüllt. Bekamltlich kann die Curve 
+C dahin ausarten, dass ihre Punkte m Gerade bilden, die in eine 
+einzige Gerade g zusammenfallen, und dass ihre Tangenten n Strahl- 
+büschel bilden, deren n Scheitel S auf g liegen (cf. die Erzeugung , 
+der Ausartungen durch homographische Abbildung in §§ 20 und 23). 
+Nach der Form III des Prineips von der Erhaltung der Anzahl 
+kann die Zahl x also gefunden werden, indem man untersucht, wieviel 
+Curven aus 27 die eben genannte, speciellere Curve C berühren. 
+Dies ist sehr leicht, sobald man sich klar gemacht hat, was „Be- 
+rührung zweier Curven" bedeutet. Am gebräuchlichsten ist es, 
+2 Curven „sich berührend" zu nennen, nicht etwa, wemi sie über- 
+haupt 2 unendlich nahe Punkte gemein haben, sondern wemi ihnen 
+beiden Punkt und zugehörige Tangente gemeinsam ist. Hiernach wird 
+die speciellere Curve C berührt, 
+
+erstens, einmal durch jede Curve des Systems, welche durch 
+einen der w Punkte S geht, 
+
+zweitens, m-mal durch jede Curve des Systems Z, welche die 
+Gerade g berührt, und zwar durch jede Curve w-mal, weil bei 
+jeder Berührung ein auf einer solchen Curve liegendes, aus Tan- 
+gente und Berührungspimkt bestehendes Gebilde mit m eben- 
+solchen, aber c angehörigen Gebilden identisch ist, da ja die 
+Gerade g m-mal eine Tangente von C ist. 
+
+Bezeichnet also ft, wieviel Curven des Systems durch einen 
+gegebenen Punkt gehen, v wieviel eine gegebene Gerade berühren, 
+so ergiebt sich hiernach für x die bekannte Formel: 
+x = n.ii-\- m . V. 
+Zur Ableitung dieser Formel reichte das Princip von der Er- 
+haltung der Anzahl aus. Bisher hat man dazu immer Hilfsmittel 
+von weniger fundamentalem Charakter herangezogen, z. B. das 
+Correspondenzprincip oder die Polarentheorie. Auch uns wird diese 
+Formel noch zweimal wieder erscheinen, erstens als Beispiel für 
+eine Anwendung der Coincidenzformeln in § 14, zweitens im sechsten 
+Abschnitt, § 32, als sehr specieller Fall der Formel für die ge- 
+meinsamen Elemente zweier Systeme von Gebilden, d^*en jedes aus 
+einem Strahle mid einem darauf liegenden Pmikte besteht. Natür- 
+lich kami man in ähnlicher Weise, wie die obige Formel, noch 
+mehrere andere Formeln ableiten, welche sich auf die Berührung 
+von Flächen und von Raumcurven beziehen. 
+
+
+
+Pie Symbolik der Bedingungen. 15 
+
+5. Gegeben seien in fester Ebene eine Plancurve C w*^' Ord- 
+nung, w*®° Ranges und ein Kegelschnitt K. Zu jeder Tangente in 
+C ist der Pol in Bezug auf K bestimmt, mid mit dem Berührungs- 
+punkt der Tangente verbmiden. Gesucht wird die Zahl x, welche 
+angiebt, wieviel von den eben gezogenen cc^ Verbindungsstrahlen 
+durch einen beliebig in der Ebene gegebenen Punkt P gehen. Wir 
+dürfen nach der Form III unseres Princips statt des allgemeinen 
+Kegelschnittes K einen specielleren setzen, und wählen dazu einen 
+Kegelschnitt, dessen Punkte zwei in eine Gerade g zusammen- 
+fallende Gerade bilden, und dessen Tangenten zwei Strahlbüschel 
+bilden, deren Scheitel A und B auf g Hegen (cf. § 20). Wir dürfen 
+ferner wegen der Form II unseres Princips die Lage des Punktes 
+P specialisiren, und legen ihn in den einen von den beiden Scheiteln 
+und zwar in A. Jetzt erfüllen die gestellte Bedingung: 
+
+erstens^ mmal die Gerade^, weil die Tangente in jedem der 
+m Schnittpunkte von g und C ihren Pol auf g hat, und also die 
+Verbindungslinie von A mit jedem der so erhaltenen m Pole zu 
+den gesuchten x Verbindungsstrahlen gehört; 
+
+zweitens^ jede der n von A an die Curve C gehenden Tan- 
+genten, weil diese ihren Pol in A haben. Daher ist 
+x = m-{- n. 
+Denken wir uns g unendlich fem, sowie A und B als die 
+imaginären Kreispunkte, so spricht diese Formel aus, dass von 
+jedem PunJite in der Ebene einer Plancurve n-\-m Normalen auf die- 
+selbe gefällt iverden können. 
+
+6. Gegeben sei eine Fläche F o^" Ordnung, r*^" Ranges, Jc*^'' 
+Klasse, und ausserdem ein in einer Ebene E liegender Kegel- 
+schnitt K. Zu jeder Tangentialebene von F ist der Pol in Bezug 
+auf K bestimmt, mid mit dem Berührungspunkte der Tangential- 
+ebene verbunden. Gesucht werden die Zahlen x und y, welche be- 
+züglich angeben, wie viel von den eben gezogenen oo^ Verbindungs- 
+strahlen durch einen beliebig gegebenen Punkt P gehen, resp. in 
+einer beliebig gegebenen Ebene e liegen. Wir denken uns den 
+Kegelschnitt K wieder, wie in der vorigen Nummer, als eine 
+Doppelgerade g mit den Scheiteln A und B zweier Tangenten- 
+büschel, und legen dami den Punkt P in ^, die Ebene e durch A. 
+Dann setzt sich x aus drei Zahlen zusammen, erstens aus o, weil 
+die Verbindungslinie jedes der o Schnittpunkte von g und F mit 
+dem Pole seiner Tangentialebene einen durch P gehenden Strahl 
+liefert, zweitens aus r, weil in der JEbene E r durch P gehende 
+
+
+
+\Q Erster Abschnitt. 
+
+Tangenteil liegen, drittens aus h, weil durch g a,n F Je Tangential- 
+ebenen gehen, deren Pole als in P liegend gedacht werden dürfen. 
+Die Zahl y ist gleich r, weil, wemi e durch Ä geht, jede durch 
+Ä gehende in e liegende Tangente zu den gesuchten Verbindungs- 
+strahlen gehört, und sonst kein Strahl in e existirt, der einen 
+Flächenpunkt mit dem Pole seiner Tangentialebene verbindet. 
+Also ist 
+
+y = **• 
+
+Denken wir uns daim die Ebene E unendlich fern, den darauf 
+befindlichen Kegelschnitt K als den Poncelet'schen imaginären Kugel- 
+kreis, so geben diese beiden Formeln die (Lit. 5) bekannten Resul- 
+tate, dass es in jedem ebenen Schnitt einer Fläche F o*^'' Ordnung, 
+r'"" Ranges, ¥"'' Klasse r Normalen der Fläche gieht, .und dass auf 
+eine solche Fläche von jedem Punkte des Raumes aus o -f r -f /v Nor- 
+malen gefällt werden können. Eine weitere Anwendung, welche auf 
+Specialisirung des Kegelschnittes beruht und ein metrisches Anzahl- 
+problem löst, findet sich in § 33 unter Nr. 28, wo die Zahl der 
+Kreispunkte einer Fläche bestimmt ist. 
+
+Die wichtigste Anwendung findet das Princip von der Erhal- 
+tung der Anzahl im zweiten Abschnitt, wo die allgemeinsten Anzahl- 
+Beziehungen aufgestellt sind, welche sich für die Hauptelemente 
+des Raumes ergeben, wenn man der Algebra nichts weiter entlehnt, 
+als das Princip von der Erhaltung der Anzahl. Diese Beziehungen, 
+sowie das im dritten Abschnitt ausgebeutete Correspondenzprincij) 
+sind die Mittel, vermöge deren der Verfasser schliesslich alle geome- 
+trischen Anzahlen als Functionen von einigen wenigen Anzahlen dar- 
+stellt, die durcli die Erfahrung erkamit werden, und deshalb axio- 
+matische heissen sollen. Es sind dies die Zahlen, welche angeben, 
+wie viel Hauptelemeute durch gegebene Grundbedingungen bestimmt 
+sind, also namentlich: 
+
+1. die Zahl 1 der gemeinsamen Punkte einer Geraden und 
+einer Ebene; 
+
+2. die Zahl 1 der gemeinsamen Ebenen eines Ebenenbüschels 
+und eines Ebeiien)&gt;üiidels; 
+
+3. die Zahl 1 der gemeinsamen Strahlen zweier Strahlenbündel 
+(zwischen zwei Punkten ist nur eine einzige Gerade mJ'jglich); 
+
+4. die Zahl 1 der gemeinsamen Strahlen zweier als Strahleu- 
+felder aufgefassten Ebenen; . 
+
+
+
+Die Symbolik der Bedingungen. 17 
+
+5. die Zahl der gemeinsamen Strahlen eines Strahlenbilndels 
+und eines Strahlenfeldes. 
+
+Man beachte wohl, dass alle in diesem Buche aus den axio- 
+matischen Anzahlen des Raumes abgeleiteten Anzahlen nicht etwa 
+die reellen Gebilde allein zählen, sondern die Summe der reellen 
+und der sogenannten imaginären Gebilde. Es beruht dies darauf, 
+dass die beiden, allen Anzahlbestimmungen zu Grunde liegenden, 
+algebraischen Principien, das Princip von der Erhaltung der Anzahl 
+und das Correspondenzprmcip (§ 13), nur richtig sind, wemi immer 
+alle imaginären Werthe mitgezählt werden. Man kenut überhaupt 
+noch sehr wenige Beziehungen zwischen Anzahlen reeller und ima- 
+ginärer geometrischer Gebilde. Doch haben Zeuthen und Klein in 
+letzter Zeit derartige Beziehungen gefunden. Klein beweist z. B., 
+dass bei jeder Plancurve die den Plücker'schen Formeln analoge 
+Formel gilt 
+
+w + «&lt;;'+ 2 . ^".= h + r' -\-2. d" (Lit. 6), 
+
+wo n die Ordnung, k den Rang der Plancurve bezeichnet, ferner 
+w' die Zahl der reellen Wendungen, t-" die Zahl der reellen isolirten 
+Doppeltangenten, r' die Zahl der reellen Spitzen, d" die Zahl der 
+reellen, isolirten Doppelpunkte ist. 
+
+Nach dem Principe von der Erhaltung der Anzahl giebt es in 
+einem ^- stufigen Orte (d. h. Systeme von Hauptelementen, § 3) 
+immer eine unveränderliche Anzahl von Hauptelementen, welche 
+eine hinzutretende /-fache Grundbedingung erfüllen. Solche für die 
+Oerter charakteristischen Anzahlen heissen Gradzahlen, weil sie die 
+Grade der Gleichungen angeben, durch welche man die Oerter in 
+der analytischen Geometrie darstellt, und zwar versteht man unter 
+
+1. Grad einer Ciirve die Zahl der Punkte, welche sie auf jeder 
+Ebene (d. h. jedem Punktfelde) besitzt; 
+
+2. Grad einer Fläche die Zahl der Punkte, welche sie auf jeder 
+Geraden besitzt; 
+
+3. Grad einer Torse (d. h. eines einstufigen Ortes von Ebenen) 
+die Zahl der Ebenen, welche sie mit jedem Ebenenbündel gemein 
+hat, d. h. welche sie durch jeden Punkt schickt; 
+
+4. Grad eines zweistufigen Ortes von Ebenen (Ebenenfläche) die 
+Zahl der Ebenen, welche er mit jedem Ebenenbüschel gemein hat, 
+d. h. welche er durch jede Gerade schickt; 
+
+5. Grad einer Linienfläche die Zahl der Strahlen, welche sie 
+einen gegebenen Strahl schneiden lässt; 
+
+Schubert, Kalkül der abzählenden Geometrie. 2 
+
+
+
+13 • Erster Abschnitt. 
+
+6 a. Feldgrad einer Congruenz die Zahl der Strahlen, welche 
+sie in einer gegebenen Ebene (Straldenfeld) besitzt; 
+
+.6b. Bündelgrad einer Congruenz die Zahl der Strahlen, welche 
+sie durch einen gegebenen Punkt schickt, d. h. mit einem gegebenen 
+StraJdenhündel gemein hat; 
+
+7. Grad eines Complexes die Zahl der Strahlen, welche er in 
+einem gegebenen Strahlbüschel besitzt. 
+
+Da man häufig die Curve sowohl als Ort ihrer Punkte, wie 
+auch als Ort ihrer Tangenten, wie auch als Ort ihrer Schmiegungs- 
+ebenen, und ebenso die Fläche sowohl als Punktfläche, wie auch 
+als Linienfläche, wie auch als Ebenenfläche auffasst, so ist es 
+zweckmässig, noch besondere Namen für die Grade der Pünktörter, 
+der Strahlenörter und der Ebenenörter einzuführen. Da sich für 
+diese besonderen ^amen noch keine feste oder consequente Termi- 
+nologie ausgebildet hat, so entscheiden wir mis dahin, die Gradzahl 
+
+1. eines Punktortes auch Ordnimg, 
+
+2. eines Strahlenortes auch Hang, 
+
+3. eines Ebenenortes auch Klasse (Lit. 7) 
+
+zu nennen. Die Congruenz hat zwei gleichberechtigte Gradzahlen, 
+für welche die Namen Ordnung und Klasse üblich geworden sind, 
+nur dass die Einen Ordnung nennen, was die Anderen Klasse 
+nennen, und umgekehrt. Jedes Missverständniss wird aber ver- 
+mieden, wenn wir die beiden Gradzahlen der Congruenz durch 
+die bezeichnenden Namen Feldgrad und Bündelgrad oder auch 
+Feldrang und Bündelrang von einander unterscheiden. 
+
+Die Giltigkeit des Princips von der Erhaltung der Anzahl ist 
+die Vorbedingung für die Anwendbarkeit der in den folgenden Ab- 
+schnitten abgeleiteten Resultate und Methoden. Transcendente Curven 
+und Flächen kömien daher nur dann als gegeben vorausgesetzt 
+werden, wemi sie algebraische Systeme bilden, d. h. solche Systeme, 
+aus denen immer eine constante, endliche Anzahl von Gebilden eine 
+gegebene Bedingung erfüllt. Z. B. hat die oben in Nr. 4 ent- 
+wickelte Formel 
+
+x^n.}i-\-m.v 
+
+Jceinen Sinn, wenn die gegebene Curve transcendent ist, was auch 
+schon daraus hervorgeht, dass dann die Begrifi'e Ordnung und 
+Klasse illusorisch würden. Die Formel kann aber vollkommen 
+giltig bleiben, wenn man von dem gegebenen einstufigen Systeme 
+voraussetzt, dass es von transcendenten Curven gebildet ist (Lit. 5a). 
+
+
+
+Die Symbolik der Bedingungen. 19 
+
+
