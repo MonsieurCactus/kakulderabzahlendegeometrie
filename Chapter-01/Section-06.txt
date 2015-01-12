@@ -1,0 +1,117 @@
+§6. 
+
+Die Gleichungen zwischen den Grundhediuguugeu jedes 
+der drei Hauptelemente. 
+
+Bis vor einigen Jaliren studirte man von den Systemen der 
+geometriscben Gebilde fast nur die Punktsysteme, d. b. Curven -und 
+Flächen, und wegen des Princips der Dualität auch wohl die 
+Systeme von Ebenen. Erst seit Kurzem erkannte man den Strahl- 
+systemen gleiches Anrecht zu imd bildete die Liniengeometrie aus. 
+lieber Systeme von anderen Gebilden aber, als von diesen 3 Haupt- 
+elementen, existiren bis jetzt nur sehr wenig üntersuchmigen (Lit. 9). 
+Deshalb ist es zunächst wichtig, bei den 3 Hauptelementen die 
+Beziehungen zmschen ihren Grundbedingmigen festzustellen. 
+
+Für den Punkt p sind in § 2 die Bedingungen j), p,j, P de- 
+finirt. Dazu gesellen sich die zusammengesetzten Bedingungen p^, 
+PPff} P^- Besitzt ein Gebilde F nur einen einzigen Punkt 2h so be- 
+deutet nach den Festsetzungen des § 2 erstens p)^ die Zahl derjenigen 
+Gebilde eines zweistufigen Systems , welche ihren Pmikt }) auf zwei 
+gegebenen Ebenen, also nothwendig auf deren Schnittgeraden haben, 
+ZAveitens pg die Zahl derjenigen Gebilde, welche p auf einer ge- 
+gebenen Geraden haben. Nach dem Princip von der Erhaltimg der 
+Anzahl sind also die Zahlen p^ und pg einander gleich. Da das 
+zweistufige System ganz beliebig war, so ist also immer richtig 
+die Gleichung: 
+
+1) P^-Pg, 
+
+aus welcher durch symbolische Multiplication mit p folgt: 
+
+2) p3 =pj)g. 
+
+Da ferner ein Punkt, welcher sowohl auf einer gegebenen 
+Ebene, wie auch auf einer gegebenen Geraden liegen soll, noth- 
+wendig der Schnittpunkt beider sein muss, so ist: 
+
+3) PPo-P- 
+Also ist auch wegen 2: 
+
+4) p^ = P. 
+
+
+
+Die Symbolik der Bedingungen. 23 
+
+Hat aber das Gebilde F melirere mit p bezeichnete Punkte, 
+und bedeutet jj für F die Bedingung, dass F irgend welchen Punkt 
+p auf einer gegebenen Ebene habe, so darf pr' nicht gleich p,j ge- 
+setzt werden, weil ja die Bedingung p^ daim nicht blos erfüllt 
+wird, wenn ein Punkt p auf der Schnittgeraden der beiden Ebenen 
+liegt, die durch die Bedingung jf als gegeben hingestellt werden, 
+sondern auch, wenn ein Punkt p auf der einen, und ein anderer 
+Punkt auf der anderen der beiden gegebenen Ebenen liegt. 
+
+Analog den Gleichungen 1 bis 4 erhält man für ein Gebilde, 
+welches eine einzige Ebene e enthält, 
+
+5) e^ = e^, 6) e^ = eeg^ 
+
+7) eeg = E, 8) e^==E. 
+
+Wegen der Gleichungen 1 bis 8 werden wir immer p^ statt 
+Pg, p^ statt P, e^ statt e'g, e^ statt E schreiben, weiui mit p resp. 
+e nur ein einziger Punkt des vorliegenden Gebildes bezeichnet ist 
+oder wenn ein Missverständniss bei der Uebertragung der Beding- 
+ungen unmöglich ist. 
+
+Für den Strahl g haben wir in § 2 die Grundbedingungen 
+9} 9e, 9p, 9s, Gr 
+kemien gelernt. Dazu gesellen sich noch die aus ihnen zusammen- 
+gesetzten Bedingungen. Zwischen den 3 zweifachen Bedingungen 
+9ei 9p, 9^ besteht eine Gleichimg, welche wir jetzt ableiten wollen. 
+Besitzt em Gebilde F einen Strahl g, so bedeutet g'^ die Zahl der- 
+jenigen Gebilde eines zweistufigen Systems, welche ihren Strahl g 
+zwei gegebene Gerade schneiden lassen. Diese Zahl bleibt aber 
+(§ 4) unverändert, wenn man die beiden gegebenen Geraden sich 
+schneiden lässt. Dann aber erfüllt die Bedingimg g"^ erstens jedes 
+Gebilde, dessen g durch den Schnittpunkt geht, zweitens jedes Ge- 
+bilde, dessen g in der Schnittebene liegt, ausserdem aber kein Ge- 
+bilde. Man hat also: 
+
+9) 9' = 9p + 9e- 
+
+Ebenso erhält man leicht: 
+
+10) 9 9p = 9s, 11) 99e = 9s, 
+
+12) gg.^G, 13) g,ge = 0, 
+
+Multiplicirt man dann noch 9. mit &lt;/, so kommt: 
+
+14) 9^-99p + 99e, 
+oder wegen 10 und 11 
+
+15) . 9'-^'9s. 
+
+
+
+24 Erster Abschnitt. Die Sj-mbolik der Bedingungen. 
+
+Endlich erliält man durch symbolische Multiplicationen mit 
+Benutzung von 12 vmd 13: 
+
+16) G=^g^ = g,f = &lt;fg, = (f(je-g&lt;j.-'^.if. 
+
+Natürlich kann man die in den Bedingungssymbolen steckenden 
+Anzahlen auch als Gradmhlcn der von Punkten, Ebenen und Strahlen 
+erzeugten Systeme auffassen. Beispielsweise kann man die Gleich- 
+ung 9 auf folgende Weise in Worte fassen. Der Grad der Linien- 
+fläche aller derjenigen Strahlen, ivelche einer Congruenz und zugleich 
+einem speciellcn linearen Complexe angehören, ist gleich der Summe 
+von Bündelgrad und Feldgrad der Congruenz , d. h. gleich der Summe 
+der durch einen gegebenen Punkt gehenden und der in einer ge- 
+gebenen Ebene liegenden Strahlen. 
+
+
