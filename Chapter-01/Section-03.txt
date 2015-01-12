@@ -1,0 +1,238 @@
+§ 3. 
+Die Dimension einer Bedingung und die Stufe eines Systems. 
+
+Wemi ein Gebilde F, dessen Constantenzahl (§ 1) c ist, einer 
+Bedingung unterworfen ist, welche « Bedingungsgleichungen zwischen 
+den c Constanten seiner analytisch - geometrischen Darstellung ver- 
+anlasst, oder, was dasselbe ist, wemi es oo'^—" Gebilde giebt, welche 
+die gegebene Bedingung erfüllen, so heisst die Bedingung a-fach 
+oder von der a*^° Dimension. Die Gesammtheit der oC^"" Gebilde, 
+welche eine gewisse «-fache Bedingung erfüllen, bezeichnen wir als 
+
+
+
+g Erster Abschnitt. 
+
+ein von dem Gebilde F erzeugtes, durch jene a- fache Bedingung 
+definirtes, {c— cc)- stufiges System. Speciell bestimmt jede F auf- 
+erlegte, c-fache Bedingung ein nuUßtufiges System, das ist eine end- 
+liche Anzahl von Individuen, ivelche die Definition von F erfüllen. 
+
+Die Dimensionen der in § 2 mit ihren Symbolen eingeführten 
+Grundbedingungen sind für den Fall, dass diese den Hauptelementen 
+p, e, g selbst zugeschrieben werden, folgende. Es sind: 
+
+1. einfach die Bedingimgen j9, e, g-^ 
+
+2. zweifach die Bedingungen pg, Cg, ge und gp] 
+
+3. dreifach die Bedingungen P, E^ g,\ 
+
+4. vierfach die Bedingung G. 
+
+Die durch diese 1 1 Bedingungen definirten Systeme von Haupt- 
+elementen hatten wir in § 2 Grundgebilde genailnt. Da Punkt und 
+Ebene die Constantenzahl 3 haben, der Strahl aber die Constanten- 
+zahl 4 hat, so sind von den 14 Grundgebilden: 
+
+1. nullstufig jedes der drei Hauptelemente selbst; 
+
+2. einstufig die Punktaxe, die Ebenenaxe, der Strahlbüschel; 
+
+3. ziveistufig das Punktfeld, der Ebenenbündel, das Strahlen- 
+feld und der Strahlenbündel; 
+
+4. dreistufig der Punktraum, der Ebenenraum, die Strahlenaxe; 
+
+5. vierstufig der Strahlenraum. 
+
+Die durch beliebige Bedingungen definirten Systeme von Haupt - 
+dementen nennen wir auch Oerter, im Anschluss an den bei der 
+Analysis euclidischer Constructionsaufgaben üblichen Ausdruck 
+„geometrischer Ort". Für verschieden - stufige Oerter haben sich auch 
+verschiedene Namen eingebürgert. Man nemit nämlich: 
+
+1. einstufige Punktsysteme Curven-, 
+
+2. zweistufige Punktsysteme Flächen-^ 
+
+3. einstufige Strahlsysteme Linienflächen oder Regelfläehcn'^ 
+
+4. zweistufige Strahlsysteme Congruenzen oder bloss Strahl- 
+systeme (Kummer); 
+
+5. dreistufige Strahlsysteme Liniencomplexe oder bloss Complexe\ 
+
+6. einstufige Systeme von Ebenen Torsen oder auch Curven; 
+
+7. zweistufige Systeme von Ebenen (Ebenen-) Flächen. 
+
+Auch für specielle Systeme anderer Gebilde sind besondere 
+Namen gebräuchlich geworden. Man nemit z. B.: 
+
+1. gewisse einstufige Systeme von Curven und von Flächen 
+Büschel-, 
+
+2. gewisse zweistufige Systeme von Kegelschnitten Netze; 
+
+3. gewisse zweistufige Systeme von Flächen Bündel; 
+
+
+
+Die Symbolik der Bedingungen. 9 
+
+4. gewisse einstufige Systeme von Punktepaaren, Ebenenpaaren 
+oder Strahlenpaaren projediv (§§ 28 bis 30); 
+
+5. gewisse zweistufige Systeme von Paaren zweier Hauptelemente 
+collinear, andere solche Systeme reciproh oder correlativ (cf. z. B. 
+Reye, die Geometrie der Lage, 11. Theil, pag, 2 und 3); 
+
+6. gewisse dreistufige Systeme von Punktepaaren collinear ver- 
+wandte räumliche Systeme-, 
+
+7. gewisse dreistufige Systeme von Gebilden, deren jedes aus 
+einem Punkte und einer Ebene besteht, reciprok verwandte räum- 
+liche Systeme oder räumliche Correlationen; 
+
+8. dreistufige Systeme von Gebilden, deren jedes aus einem 
+Punkte mid einem Strahle besteht, die in fester Ebene liegen, Cowwcicc* 
+
+Denjenigen Theil der geometrischen Forschung, welcher sich 
+mit den Systemen von Strahlen beschäftigt, oder, um mit Plücker 
+zu reden, welcher den Strahl als Raumelement auffasst, hat man 
+Liniengeometrie genannt. Gerade so kann man von einer Strahl- 
+büschelgeotnetrie, von einer Kegelsclinittgeometrie u. s. w., überhaupt 
+von einer T- Geometrie sprechen, wo F ein irgend wie definirtes 
+Gebilde ist. Der Abschnitt IV enthält z. B. Untersuchungen über 
+die Singularitäten (Ausartungen) von Gebilden, bei welchen der 
+Kegelschnitt, die Flächen zweiten Grades, die cubische Plancurve 
+mit Spitze, die cubische Plancurve mit Doppelpunkt, die cubische 
+Raumcurve und gemsse Paare von projectiven Grundgebilden als 
+Haumelemcnte auftreten. Der Abschnitt VI giebt die den Bezout- 
+schen Sätzen entsprechenden Sätze in einigen Geometrien, welche 
+gewisse aus einzelnen Hauptelementen zusammengesetzte Gebilde 
+als Haumelemente auffassen. 
+
+Aus dem oben erläuterten Begriff der Dimension einer Beding- 
+ung folgt unmittelbar, dass die Dimension einer zusammengesetzten 
+Bedingung gleich der Summe der Dimensionen der zusammensetzen- 
+den Bedingungen ist, und dass ein a- stufiges System von Gebilden 
+F, deren jedes ein «'-stufiges System von Gebilden F' besitzt, ein 
+(a-\-a')- stufiges System von Gebilden F' darstellt. Hieraus folgt 
+aber der Satz: 
+
+
+
+* Auf dieses Gebilde kam Clebsch in der Theorie der algebraischen 
+Formen (cf. Lindemann's „Vorlesungen von Clebsch", pag. 936). Der Connex 
+ist ein Gebilde derjenigen Geometrie, welche das aus Punkt und Strahl be- 
+stehende Gebilde als Baumelement betrachtet. 
+
+
+
+10 Erster Abschnitt. 
+
+Besitzt ein Gebilde F ein k'- stufiges System von Gebilden F', 
+so schreibt man dadurch, dass maA F' einer d- fachen Be- 
+dingung untcrivirft, dem Gebilde F eine nur (d— a')- fache 
+Bedingung zu. 
+Nach diesem Sätze sind die Dimensionen der oben angegebenen Grund- 
+bedingungen um i zu erniedrigen, wom dieselben nicht den Haupt- 
+elementen selbst, sondern i- stufigen Oertern auferlegt sind. Z. B. erfüllt 
+
+1. eine Curve eine (2 — iVfaclie Bedingung, wenn sie die 
+Bedingiuig pg befriedigt, d. h. eine gegebene Gerade schneidet; 
+
+2. eine Fläche eine (3 — 2) -fache Bedingiuig, weiui sie dnrcli 
+einen gegebenen Punkt ■ geht ; 
+
+3. eine Congnienz eine (4 — 2) -fache Bedmgung, weim sie 
+einen gegebenen Strahl enthält; 
+
+4. ein Complex eine (3 — 3) -fache Bedingung, wenn er einen 
+Strahl enthält, der in einem gegebenen Strahlbüschel liegt. 
+
+Um ein weiteres Beispiel zu dem eben angegebenen Satze zu 
+haben, berechnen wir die Dimension dex Bedingung, dass eine 
+Fläche zweiten Grades durch einen gegebenen Kegelschnitt gehen 
+soll, in folgender Weise. Da der Raum oo^ Ebenen besitzt und 
+jede Ebene eine Fläche zweiten Grades in einem Kegelschnitt 
+schneidet, so besitzt eine solche Fläche ein dreistufiges System von 
+Kegelschnitten. Nun ist es aber für den Kegelschnitt eine 8 -fache 
+Bedingung, gegeben zu sein, weil seine Constantenzahl 8 ist. Also 
+ist es für eine Fläche zweiten Grades eine (8 — 3) - fache Beding- 
+img, einen gegebenen Kegelschnitt zu enthalten. 
+
+Zu einem zweiten Satze gelangt man durch folgende Ueber- 
+legimg. Wemi ein Gebilde F mit der Constantenzahl c ein «'-stu- 
+figes System von Gebilden F' mit der Constantenzahl c' enthält, so 
+ist es für F nach dem ersten Satze eine (c'—«')- fache Bedingimg, 
+ein gegebenes Individuum F' zu enthalten. Folglich ist das System 
+derjenigen Gebilde F, welche ein gegebenes F' enthalten, (c — d-\- u')- 
+stufig. Man kami also umgekehrt sagen, dass ein F' Träger 
+eines {c — c'-\- a') - stufigen Systems von Gebilden F ist. Deshalb 
+ist für F' die Bedingung, ein gegebenes Individuum F zu enthalten, 
+von der Dimension: 
+
+c — (c — c' -f a') oder c' — «'. 
+Setzt man also d für c' — «', so kann man folgenden Satz aussprechen : 
+Wenn es für F eine d-facheB edingung ist, ein gegebenes F' 
+zu enthalten, so ist es auch für F' eine d-fache Bedingmig, 
+ein gegebenes F zu enthalten. 
+
+
+
+Die Symbolik der Bedingungen. 11 
+
+Z. B, ist es hiernach für einen Kegelschnitt eine fünffache Beding- 
+ung, auf einer gegebenen Fläche zweiten Grades zu liegen, weil, 
+wie wir oben gesehen haben, eine Fläche zweiten Grades eine 
+fünffache Bedingung erfüllt, Avenn sie durch einen gegebenen Kegel- 
+schnitt geht. 
+
+Man kami natürlich auch von Systemen sprechen, deren Stufe 
+um i grösser ist, als die Constantenzahl des erzeugenden Gebildes 
+r. Dann besteht das System aus den sämmtlichen Gebilden F 
+des Raumes, jedes oo*-fach gerechnet. Z. B. bilden die sämmtlichen 
+Pmikte, welche auf den sämmtlichen Strahlen eines Liniencomplexes 
+liegen, ein 4 -stufiges vSystem, indem jeder Punkt des Raumes 
+oo^-fach zu rechnen ist. So gelangt man dazu, einer negativen 
+Dimension einer Bedingung Siim beizulegen. Man schreibt z. B. 
+dem eben erwähnten vierstufigen Systeme von Punkten eine (— l)-fache 
+Bedingung zu, wenn man verlangt, dass es einen gegebenen Pmikt 
+enthalten soll. Dies heisst also; das System erfüllt diese Beding- 
+ung immer von selber imd sogar derartig, dass der gegebene Punkt 
+oo ^ mal als Punkt des Systems auftritt. Einem Liniencomplexe 
+wird ferner eine (—2) -fache Bedingung auferlegt, wenn man ver- 
+langt, dass einer seiner oo^ Strahlen eine gegebene Gerade schneidet. 
+
+Da ein System von Gebilden selbst wieder als Gebilde aufge- 
+fasst werden kann, so hat es auch Sinn, von der Constantenzahl 
+eines Systems imd von der Dimension von Bedingmigen zu sprechen, 
+die einem Systeme auferlegt sind. Die Constantenzahl eines Kegel- 
+schnittbüschels in fester Ebene ist z. B. gleich 8 mid die Beding- 
+mig, dass der Büschel einen Kreis enthalte, ist nur von der ersten 
+Dimension, während es für einen Kegelschnitt eine zweifacJie Be- 
+dingung ist, ein Kreis zu sein. 
+
+Jede r auferlegte Bedingung kann man auch als eine die 
+Definition von F heschränkende Bestimmung auffassen. Insofern hat 
+es Sinn, von der Dimension einer Beschränkmig der Definition zu 
+sprechen. Verlangt man z. B. von einer Plancurve, dass sie in 
+einer gegebenen Ebene liege, so kann man dies entweder als eine 
+der Plancurve zugeschriebene dreifache Bedingung auffassen, oder 
+aber, mau kann dies schon in die Definition der Plancurve ein- 
+fügen mid dadurch die Definition dreifach heschränJcen. Sieht man, 
+um ein zweites Beispiel anzuführen j bei der Definition eines Ge- 
+bildes von seiner Lage insofern ab, als man alle einander con- 
+gruenten Gebilde als nur ein Gebilde auffasst, so beschränkt man 
+die Definition sechsfach, weil alle einander congruenten Gebilde 
+
+
+
+12 Erster Abschnitt. 
+
+immer ein seclisdvftges System bilden, oder, was scliliesslicli dasselbe 
+ist, weil das räumliche Carfcesiscbe Coordinatenkreuz die Constanten- 
+zahl 6 hat.
