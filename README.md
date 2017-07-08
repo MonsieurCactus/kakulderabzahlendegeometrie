@@ -14,3 +14,22 @@ an exercise in *mathematics* and not just translation, I will keep my personal n
 
 With [Google translate](www.google.com/translate) it may be possible to translate large sections of the book with relative ease,
 checking the results make sense.
+
+---
+
+**07/08** There were two books I was interested in reading:
+
+* [[A](https://archive.org/details/kalklderabzh00schuuoft)] Hermann Schuberts **Kalkül der Abzahlende Geometrie** 
+* [[B](https://archive.org/details/geometriederzahl00minkrich)] Hermann Minkowski's **Geometrie der Zahlen** 
+
+Reading these texts would require attaining fluency in a new language (German) with limited payout since a lot of these books have been replaced by modern texts and modern theorems.  Three years ago, I would have argued that math has not gotten harder that there are simply more bells and whistles.  As far as the amount of *content* we are producing the quality may even have gone slightly down.  These days I very politely say we are forgetting as much as we are learning.
+
+I had been hoping for a different perspective than the textbooks have been giving me.  Spending time in a library and seeing the old books, explicit computations had been purged.  Without good judgement we drown in pages of algebra and no clear outcome. This just makes the successes of the 19th century all the more mysterious. 
+
+In English or French I have no difficulty translating. We get to heard it straight from the horses's mouth: 
+
+* [[C](https://archive.org/details/collectedmathema01cayluoft)] works of Sir Arthur Cayley
+* [[D](https://archive.org/details/CollectedPapersOfG.H.Hardy-Volume1)] works of GH Hardy
+* [[E](https://archive.org/details/leconegrarecher00leberich)] Leçons sur l'intégration et la recherche des fonctions primitives (Henri Lebesgue)
+
+Lastly, if I had read so much as a paragraph each day and posted a translation on here, I would have been midway through both texts.
