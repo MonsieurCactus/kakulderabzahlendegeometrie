@@ -31,5 +31,10 @@ In English or French I have no difficulty translating. We get to heard it straig
 * [[C](https://archive.org/details/collectedmathema01cayluoft)] works of Sir Arthur Cayley
 * [[D](https://archive.org/details/CollectedPapersOfG.H.Hardy-Volume1)] works of GH Hardy
 * [[E](https://archive.org/details/leconegrarecher00leberich)] Leçons sur l'intégration et la recherche des fonctions primitives (Henri Lebesgue)
+* [[F](https://archive.org/details/lezionidigeomet00unkngoog)] Lezioni di Geometria Differenziale (Luigi Bianchi)
 
-Lastly, if I had read so much as a paragraph each day and posted a translation on here, I would have been midway through both texts.
+These books are old and slightly incorrect, but they were innovative in their day and we can read them and still learn a lot.  And I argue their modern counterparts have *not* replaced them.  I imagne if we have stopped reading Shakespeare because now we have JK Rowling?  I havent even read any of the Harry Potters except for chunks of the first one (and that was a Spanish translation).
+
+I don't want to be a mindless translator.  For sum of money, I could go find a good German-to-English technical translator and in a few weeks she or he will be done and I will have my book.  Thats not what I'm after. A nice role-model could be the Heath translation of [Euclid's Elements](https://archive.org/details/euclid_heath_2nd_ed) which has lots of commentary. Why lots of commentary? because I have something to say.  Stuff that may not be in the original text at all.
+
+Lastly, if I had read so much as a paragraph each day and posted a translation on here, I would have been midway through both texts.  
